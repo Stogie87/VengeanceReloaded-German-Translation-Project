@@ -1,0 +1,12 @@
+058 - carlos to sandman
+059 - ira to sparky (uses different voiceset than 1.13 sparky at 224, 224 removed)
+060 - dimitri to frazzler
+061 - devin to TNT
+063 - hamous to cobra
+065 - eskimo (unused) to eagle (and eskimo added as a new merc at 218)
+068 - iggy to ilya (and iggy moved to 140)
+069 - vince to fish
+071 - combat jeep to joey (jeep moved to 162)
+072 - mad dog to gordon (as RPC, vanilla gordon from 103 replaced with bullet)
+073 - darrel to babyface (darrel moved to 084)
+080 - steven to doc (1.13 doc removed from 228)
