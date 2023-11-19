@@ -38,47 +38,47 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>8</uiIndex>
-    <szName>Press [CTRL]+[Z] to lock/release mouse cursor in windowed mode. Useful when exiting sector in tactical screen.</szName>
+    <szName>Drücke [CTRL]+[Z], um den Mauszeiger im Fenstermodus zu sperren/freizugeben. Nützlich beim Verlassen des Sektors im taktischen Bildschirm.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>9</uiIndex>
-    <szName>Doorway blocked? Press [X] when beside someone to swap places.</szName>
+    <szName>Türöffnung blockiert? Drücken Sie [X], wenn Sie neben jemandem stehen, um den Platz zu tauschen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>10</uiIndex>
-    <szName>Need help? Help yourself by pressing [H] in strategic screen. And visit the helping bears at www.bears-pit.com</szName>
+    <szName>Du brauchst Hilfe? Hilf dir selbst, indem du auf dem strategischen Bildschirm [H] drückst. Und besuche die helfenden Bären auf www.bears-pit.com.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>11</uiIndex>
-    <szName>Turn the wheel to your fortune. Increase Chance To Hit (CtH) in all fire modes with the [MOUSE-WHEEL]. [ALT]+[MOUSE-WHEEL] sets size of auto-fire volley.</szName>
+    <szName>Dreh das Rad zum Glück. Erhöhe die Trefferchance (CtH) in allen Feuermodi mit dem [MOUSE-RAD]. Mit [ALT]+[MAUSRAD] kannst du die Größe der automatischen Feuersalve einstellen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>12</uiIndex>
-    <szName>Some sectors offer facilities like bars or mines that you can assign mercs to in strategic screen. Tool tips hinting at facility's function appear when assigning a merc.</szName>
+    <szName>Einige Sektoren bieten Einrichtungen wie Bars oder Minen, denen du Söldner im strategischen Bildschirm zuweisen können. Beim Zuweisen eines Söldners erscheinen Tooltipps, die auf die Funktion der Einrichtung hinweisen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>13</uiIndex>
-    <szName>Guild of thieves. Steal opponent's gun with the hand-cursor [CTRL]+[LEFT-MOUSE-BUTTON]. If enemy is kissing the dust in a non-dying state you may strip off everything.</szName>
+    <szName>Gilde der Diebe. Stiehl die Waffe des Gegners mit dem Hand-Cursor [CTRL]+[LINKS-MOUSE-BUTTON]. Wenn der Gegner in einem nicht sterbenden Zustand den Staub küsst, kannst du ihm alles abnehmen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>14</uiIndex>
-    <szName>EOD flag signals. Mind you, the blue flag you may put in a tile on ground to mark a mine or trap you've spotted is also seen and reacted to by the enemy.</szName>
+    <szName>EOD-Flaggen-Signale. Die blaue Flagge, die du im Feld in den Boden steckst, um eine Mine oder Falle zu markieren, wird auch vom Feind gesehen und er reagiert entsprechend darauf.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>15</uiIndex>
-    <szName>Holding [END] in tactical screen shows currently selected merc's detailed field of vision, ranging from red (cannot spot anyone) to green (spot even somebody lying in the grass).</szName>
+    <szName>Wenn du [END] im taktischen Bildschirm gedrückt hältst, wird das detaillierte Sichtfeld des aktuell ausgewählten Söldners angezeigt, das von rot (kann niemanden sehen) bis grün (kann sogar jemanden sehen, der im Gras liegt) reicht.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>16</uiIndex>
-    <szName>Red Alert! Holding [DEL] in tactical screen shows enemies you know of may see currently selected merc, ranging from red (will be seen even on prone) to green (perfect concealment).</szName>
+    <szName>Alarmstufe Rot! Wenn du im taktischen Bildschirm die Taste [ENTF] gedrückt hältst, werden die Feinde, von denen du weißt, dass sie den aktuell ausgewählten Söldner sehen können, von rot (sie werden sogar in Bauchlage gesehen) bis grün (perfekte Tarnung) angezeigt.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>17</uiIndex>
-    <szName>Jagged windowing. Shoot the glass (where necessary), face the open window and climb through it with [SHIFT]+[J].</szName>
+    <szName>Zerstörte Fenster. Zerschieße Fenster und klettere mit [SHIFT]+[J] hindurch.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>18</uiIndex>
-    <szName>While in sector inventory, click merc's empty inventory slots for a list of items to be put there.</szName>
+    <szName>Klicken Sie im Sektorinventar auf die leeren Inventarplätze der Söldner, um eine Liste der Gegenstände anzuzeigen, die dort abgelegt werden können.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>19</uiIndex>
