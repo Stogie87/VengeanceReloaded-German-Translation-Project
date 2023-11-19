@@ -2,1277 +2,1791 @@
 <CIV_GROUP_NAMES>
   <NAME>
 	<uiIndex>0</uiIndex>
-	
-    <szGroup>Keiner</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>None</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>1</uiIndex>
-	
+	<Enabled>1</Enabled>
     <szGroup>Rebellen</szGroup>
+	<AddToBattle>1</AddToBattle>
+	<Loyalty>1</Loyalty>
   </NAME>
  <NAME>
 	<uiIndex>2</uiIndex>
-	
+	<Enabled>1</Enabled>
     <szGroup>KingPin</szGroup>
+	<AddToBattle>1</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>3</uiIndex>
-	
+	<Enabled>1</Enabled>
     <szGroup>Sanmona Gang</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>4</uiIndex>
-	
+	<Enabled>0</Enabled>
     <szGroup>Angels Gang</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>5</uiIndex>
-	
+	<Enabled>0</Enabled>
     <szGroup>Bettler</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>6</uiIndex>
-	
+	<Enabled>0</Enabled>
     <szGroup>Touristen</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>7</uiIndex>
-	
+	<Enabled>1</Enabled>
     <szGroup>Alma Milizen</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>8</uiIndex>
-	
+	<Enabled>0</Enabled>
     <szGroup>Doktoren</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>9</uiIndex>
-	
+	<Enabled>0</Enabled>
     <szGroup>Ehepaar</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>10</uiIndex>
-	
-    <szGroup>Hicks Clan</szGroup>
+	<Enabled>1</Enabled>
+    <szGroup>Hale und Burton</szGroup>
+	<AddToBattle>1</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>11</uiIndex>
-	
+	<Enabled>0</Enabled>
     <szGroup>Wachen</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>12</uiIndex>
-	
+	<Enabled>0</Enabled>
     <szGroup>Schrottplatz Trupp</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>13</uiIndex>
-	
+	<Enabled>1</Enabled>
     <szGroup>Fabrikskinder</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>14</uiIndex>
-	
+	<Enabled>0</Enabled>
     <szGroup>Königin</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>15</uiIndex>
-	
-    <szGroup>Leerer Platz15</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Joey, Martha</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>16</uiIndex>
-	
-    <szGroup>Leerer Platz16</szGroup>
+	<Enabled>1</Enabled>
+    <szGroup>Trakonische Armee</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>17</uiIndex>
-	
-    <szGroup>Leerer Platz17</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Hamous</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>18</uiIndex>
-	
-    <szGroup>Leerer Platz18</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Terry</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>19</uiIndex>
-	
-    <szGroup>Leerer Platz19</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Dynamo, Shank</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>1</Loyalty>
   </NAME>
-  <NAME>
-	<uiIndex>20</uiIndex>
-	
-    <szGroup>Leerer Platz20</szGroup>
-  </NAME>
-  <NAME>
-	<uiIndex>21</uiIndex>
-	
-    <szGroup>Leerer Platz21</szGroup>
-  </NAME>
+	<NAME>
+	 <!-- This is the group assassins use, thus the name -->
+		<uiIndex>20</uiIndex>
+		<Enabled>0</Enabled>
+		<szGroup>Miliz</szGroup>
+		<AddToBattle>0</AddToBattle>
+		<Loyalty>0</Loyalty>
+	</NAME>
+	<NAME>
+    <!-- Prisoners of war the player keeps in his prison -->
+		<uiIndex>21</uiIndex>
+		<Enabled>1</Enabled>
+		<szGroup>Gefangener</szGroup>
+		<AddToBattle>0</AddToBattle>
+		<Loyalty>0</Loyalty>
+	</NAME>
   <NAME>
 	<uiIndex>22</uiIndex>
-	
-    <szGroup>Leerer Platz22</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot22</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>23</uiIndex>
-	
-    <szGroup>Leerer Platz23</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot23</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>24</uiIndex>
-	
-    <szGroup>Leerer Platz24</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot24</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>25</uiIndex>
-	
-    <szGroup>Leerer Platz25</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot25</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>26</uiIndex>
-	
-    <szGroup>Leerer Platz26</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot26</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>27</uiIndex>
-	
-    <szGroup>Leerer Platz27</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot27</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>28</uiIndex>
-	
-    <szGroup>Leerer Platz28</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot28</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>29</uiIndex>
-	
-    <szGroup>Leerer Platz29</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot29</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>30</uiIndex>
-	
-    <szGroup>Leerer Platz30</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot30</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>31</uiIndex>
-	
-    <szGroup>Leerer Platz31</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>CIA Operatives</szGroup>
+	<AddToBattle>1</AddToBattle>
+	<Loyalty>0</Loyalty>
+	<Side>10</Side>
   </NAME>
   <NAME>
 	<uiIndex>32</uiIndex>
-	
-    <szGroup>Leerer Platz32</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Tracona Operatives</szGroup>
+	<AddToBattle>1</AddToBattle>
+	<Loyalty>0</Loyalty>
+	<Side>11</Side>
   </NAME>
   <NAME>
 	<uiIndex>33</uiIndex>
-	
-    <szGroup>Leerer Platz33</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Cockeye Thugs</szGroup>
+	<AddToBattle>1</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>34</uiIndex>
-	
-    <szGroup>Leerer Platz34</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>CIA Stanley</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>35</uiIndex>
-	
-    <szGroup>Leerer Platz35</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>TracOps Dragon</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>36</uiIndex>
-	
-    <szGroup>Leerer Platz36</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Howard Filmore</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>37</uiIndex>
-	
-    <szGroup>Leerer Platz37</szGroup>
+	<Enabled>1</Enabled>
+    <szGroup>KingPin</szGroup>
+	<AddToBattle>1</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>38</uiIndex>
-	
-    <szGroup>Leerer Platz38</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>RESERVED</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>39</uiIndex>
-	
-    <szGroup>Leerer Platz39</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot39</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>40</uiIndex>
-	
-    <szGroup>Leerer Platz40</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot40</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>41</uiIndex>
-	
-    <szGroup>Leerer Platz41</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot41</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>42</uiIndex>
-	
-    <szGroup>Leerer Platz42</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot42</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>43</uiIndex>
-	
-    <szGroup>Leerer Platz43</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot43</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>44</uiIndex>
-	
-    <szGroup>Leerer Platz44</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot44</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>45</uiIndex>
-	
-    <szGroup>Leerer Platz45</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot45</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>46</uiIndex>
-	
-    <szGroup>Leerer Platz46</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot46</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>47</uiIndex>
-	
-    <szGroup>Leerer Platz47</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot47</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>48</uiIndex>
-	
-    <szGroup>Leerer Platz48</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot48</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>49</uiIndex>
-	
-    <szGroup>Leerer Platz49</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot49</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>50</uiIndex>
-	
-    <szGroup>Leerer Platz50</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot50</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>51</uiIndex>
-	
-    <szGroup>Leerer Platz51</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot51</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>52</uiIndex>
-	
-    <szGroup>Leerer Platz52</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot52</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>53</uiIndex>
-	
-    <szGroup>Leerer Platz53</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot53</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>54</uiIndex>
-	
-    <szGroup>Leerer Platz54</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot54</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>55</uiIndex>
-	
-    <szGroup>Leerer Platz55</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot55</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>56</uiIndex>
-	
-    <szGroup>Leerer Platz56</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot56</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>57</uiIndex>
-	
-    <szGroup>Leerer Platz57</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot57</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>58</uiIndex>
-	
-    <szGroup>Leerer Platz58</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot58</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>59</uiIndex>
-	
-    <szGroup>Leerer Platz59</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot59</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>60</uiIndex>
-	
-    <szGroup>Leerer Platz60</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot60</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>61</uiIndex>
-	
-    <szGroup>Leerer Platz61</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot61</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>62</uiIndex>
-	
-    <szGroup>Leerer Platz62</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot62</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>63</uiIndex>
-	
-    <szGroup>Leerer Platz63</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot63</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>64</uiIndex>
-	
-    <szGroup>Leerer Platz64</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot64</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>65</uiIndex>
-	
-    <szGroup>Leerer Platz65</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot65</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>66</uiIndex>
-	
-    <szGroup>Leerer Platz66</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot66</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>67</uiIndex>
-	
-    <szGroup>Leerer Platz67</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot67</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>68</uiIndex>
-	
-    <szGroup>Leerer Platz68</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot68</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>69</uiIndex>
-	
-    <szGroup>Leerer Platz69</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot69</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>70</uiIndex>
-	
-    <szGroup>Leerer Platz70</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot70</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>71</uiIndex>
-	
-    <szGroup>Leerer Platz71</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot71</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>72</uiIndex>
-	
-    <szGroup>Leerer Platz72</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot72</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>73</uiIndex>
-	
-    <szGroup>Leerer Platz73</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot73</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>74</uiIndex>
-	
-    <szGroup>Leerer Platz74</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot74</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>75</uiIndex>
-	
-    <szGroup>Leerer Platz75</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot75</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>76</uiIndex>
-	
-    <szGroup>Leerer Platz76</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot76</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>77</uiIndex>
-	
-    <szGroup>Leerer Platz77</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot77</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>78</uiIndex>
-	
-    <szGroup>Leerer Platz78</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot78</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>79</uiIndex>
-	
-    <szGroup>Leerer Platz79</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot79</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>80</uiIndex>
-	
-    <szGroup>Leerer Platz80</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot80</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>81</uiIndex>
-	
-    <szGroup>Leerer Platz81</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot81</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>82</uiIndex>
-	
-    <szGroup>Leerer Platz82</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot82</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>83</uiIndex>
-	
-    <szGroup>Leerer Platz83</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot83</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>84</uiIndex>
-	
-    <szGroup>Leerer Platz84</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot84</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>85</uiIndex>
-	
-    <szGroup>Leerer Platz85</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot85</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>86</uiIndex>
-	
-    <szGroup>Leerer Platz86</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot86</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>87</uiIndex>
-	
-    <szGroup>Leerer Platz87</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot87</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>88</uiIndex>
-	
-    <szGroup>Leerer Platz88</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot88</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>89</uiIndex>
-	
-    <szGroup>Leerer Platz89</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot89</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>90</uiIndex>
-	
-    <szGroup>Leerer Platz90</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot90</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>91</uiIndex>
-	
-    <szGroup>Leerer Platz91</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot91</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>92</uiIndex>
-	
-    <szGroup>Leerer Platz92</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot92</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>93</uiIndex>
-	
-    <szGroup>Leerer Platz93</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot93</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>94</uiIndex>
-	
-    <szGroup>Leerer Platz94</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot94</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>95</uiIndex>
-	
-    <szGroup>Leerer Platz95</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot95</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>96</uiIndex>
-	
-    <szGroup>Leerer Platz96</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot96</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>97</uiIndex>
-	
-    <szGroup>Leerer Platz97</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot97</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>98</uiIndex>
-	
-    <szGroup>Leerer Platz98</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot98</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>99</uiIndex>
-	
-    <szGroup>Leerer Platz99</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot99</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>100</uiIndex>
-	
-    <szGroup>Leerer Platz100</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot100</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>101</uiIndex>
-	
-    <szGroup>Leerer Platz101</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot101</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>102</uiIndex>
-	
-    <szGroup>Leerer Platz102</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot102</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>103</uiIndex>
-	
-    <szGroup>Leerer Platz103</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot103</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>104</uiIndex>
-	
-    <szGroup>Leerer Platz104</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot104</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>105</uiIndex>
-	
-    <szGroup>Leerer Platz105</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot105</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>106</uiIndex>
-	
-    <szGroup>Leerer Platz106</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot106</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>107</uiIndex>
-	
-    <szGroup>Leerer Platz107</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot107</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>108</uiIndex>
-	
-    <szGroup>Leerer Platz108</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot108</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>109</uiIndex>
-	
-    <szGroup>Leerer Platz109</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot109</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>110</uiIndex>
-	
-    <szGroup>Leerer Platz110</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot110</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>111</uiIndex>
-	
-    <szGroup>Leerer Platz111</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot111</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>112</uiIndex>
-	
-    <szGroup>Leerer Platz112</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot112</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>113</uiIndex>
-	
-    <szGroup>Leerer Platz113</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot113</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>114</uiIndex>
-	
-    <szGroup>Leerer Platz114</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot114</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>115</uiIndex>
-	
-    <szGroup>Leerer Platz115</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot115</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>116</uiIndex>
-	
-    <szGroup>Leerer Platz116</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot116</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>117</uiIndex>
-	
-    <szGroup>Leerer Platz117</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot117</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>118</uiIndex>
-	
-    <szGroup>Leerer Platz118</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot118</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>119</uiIndex>
-	
-    <szGroup>Leerer Platz119</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot119</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>120</uiIndex>
-	
-    <szGroup>Leerer Platz120</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot120</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>121</uiIndex>
-	
-    <szGroup>Leerer Platz121</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot121</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>122</uiIndex>
-	
-    <szGroup>Leerer Platz122</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot122</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>123</uiIndex>
-	
-    <szGroup>Leerer Platz123</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot123</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>124</uiIndex>
-	
-    <szGroup>Leerer Platz124</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot124</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>125</uiIndex>
-	
-    <szGroup>Leerer Platz125</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot125</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>126</uiIndex>
-	
-    <szGroup>Leerer Platz126</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot126</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>127</uiIndex>
-	
-    <szGroup>Leerer Platz127</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot127</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>128</uiIndex>
-	
-    <szGroup>Leerer Platz128</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot128</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>129</uiIndex>
-	
-    <szGroup>Leerer Platz129</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot129</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>130</uiIndex>
-	
-    <szGroup>Leerer Platz130</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot130</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>131</uiIndex>
-	
-    <szGroup>Leerer Platz131</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot131</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>132</uiIndex>
-	
-    <szGroup>Leerer Platz132</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot132</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>133</uiIndex>
-	
-    <szGroup>Leerer Platz133</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot133</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>134</uiIndex>
-	
-    <szGroup>Leerer Platz134</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot134</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>135</uiIndex>
-	
-    <szGroup>Leerer Platz135</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot135</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>136</uiIndex>
-	
-    <szGroup>Leerer Platz136</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot136</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>137</uiIndex>
-	
-    <szGroup>Leerer Platz137</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot137</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>138</uiIndex>
-	
-    <szGroup>Leerer Platz138</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot138</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>139</uiIndex>
-	
-    <szGroup>Leerer Platz139</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot139</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>140</uiIndex>
-	
-    <szGroup>Leerer Platz140</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot140</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
  <NAME>
 	<uiIndex>141</uiIndex>
-	
-    <szGroup>Leerer Platz141</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot141</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>142</uiIndex>
-	
-    <szGroup>Leerer Platz142</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot142</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>143</uiIndex>
-	
-    <szGroup>Leerer Platz143</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot143</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>144</uiIndex>
-	
-    <szGroup>Leerer Platz144</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot144</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>145</uiIndex>
-	
-    <szGroup>Leerer Platz145</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot145</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>146</uiIndex>
-	
-    <szGroup>Leerer Platz146</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot146</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>147</uiIndex>
-	
-    <szGroup>Leerer Platz147</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot147</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>148</uiIndex>
-	
-    <szGroup>Leerer Platz148</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot148</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>149</uiIndex>
-	
-    <szGroup>Leerer Platz149</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot149</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>150</uiIndex>
-	
-    <szGroup>Leerer Platz150</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot150</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
  <NAME>
 	<uiIndex>151</uiIndex>
-	
-    <szGroup>Leerer Platz151</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot151</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>152</uiIndex>
-	
-    <szGroup>Leerer Platz152</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot152</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>153</uiIndex>
-	
-    <szGroup>Leerer Platz153</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot153</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>154</uiIndex>
-	
-    <szGroup>Leerer Platz154</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot154</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>155</uiIndex>
-	
-    <szGroup>Leerer Platz155</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot155</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>156</uiIndex>
-	
-    <szGroup>Leerer Platz156</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot156</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>157</uiIndex>
-	
-    <szGroup>Leerer Platz157</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot157</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>158</uiIndex>
-	
-    <szGroup>Leerer Platz158</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot158</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>159</uiIndex>
-	
-    <szGroup>Leerer Platz159</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot159</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>160</uiIndex>
-	
-    <szGroup>Leerer Platz160</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot160</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
  <NAME>
 	<uiIndex>161</uiIndex>
-	
-    <szGroup>Leerer Platz161</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot161</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>162</uiIndex>
-	
-    <szGroup>Leerer Platz162</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot162</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>163</uiIndex>
-	
-    <szGroup>Leerer Platz163</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot163</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>164</uiIndex>
-	
-    <szGroup>Leerer Platz164</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot164</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>165</uiIndex>
-	
-    <szGroup>Leerer Platz165</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot165</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>166</uiIndex>
-	
-    <szGroup>Leerer Platz166</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot166</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>167</uiIndex>
-	
-    <szGroup>Leerer Platz167</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot167</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>168</uiIndex>
-	
-    <szGroup>Leerer Platz168</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot168</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>169</uiIndex>
-	
-    <szGroup>Leerer Platz169</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot169</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
  <NAME>
 	<uiIndex>170</uiIndex>
-	
-    <szGroup>Leerer Platz170</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot170</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
  <NAME>
 	<uiIndex>171</uiIndex>
-	
-    <szGroup>Leerer Platz171</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot171</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>172</uiIndex>
-	
-    <szGroup>Leerer Platz172</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot172</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>173</uiIndex>
-	
-    <szGroup>Leerer Platz173</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot173</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>174</uiIndex>
-	
-    <szGroup>Leerer Platz174</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot174</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>175</uiIndex>
-	
-    <szGroup>Leerer Platz175</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot175</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>176</uiIndex>
-	
-    <szGroup>Leerer Platz176</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot176</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>177</uiIndex>
-	
-    <szGroup>Leerer Platz177</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot177</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>178</uiIndex>
-	
-    <szGroup>Leerer Platz178</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot178</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>179</uiIndex>
-	
-    <szGroup>Leerer Platz179</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot179</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>180</uiIndex>
-	
-    <szGroup>Leerer Platz180</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot180</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
  <NAME>
 	<uiIndex>181</uiIndex>
-	
-    <szGroup>Leerer Platz181</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot181</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>182</uiIndex>
-	
-    <szGroup>Leerer Platz182</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot182</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>183</uiIndex>
-	
-    <szGroup>Leerer Platz183</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot183</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>184</uiIndex>
-	
-    <szGroup>Leerer Platz184</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot184</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>185</uiIndex>
-	
-    <szGroup>Leerer Platz185</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot185</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>186</uiIndex>
-	
-    <szGroup>Leerer Platz186</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot186</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>187</uiIndex>
-	
-    <szGroup>Leerer Platz187</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot187</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>188</uiIndex>
-	
-    <szGroup>Leerer Platz188</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot188</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>189</uiIndex>
-	
-    <szGroup>Leerer Platz189</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot189</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>190</uiIndex>
-	
-    <szGroup>Leerer Platz190</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot190</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
  <NAME>
 	<uiIndex>191</uiIndex>
-	
-    <szGroup>Leerer Platz191</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot191</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>192</uiIndex>
-	
-    <szGroup>Leerer Platz192</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot192</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>193</uiIndex>
-	
-    <szGroup>Leerer Platz193</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot193</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>194</uiIndex>
-	
-    <szGroup>Leerer Platz194</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot194</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>195</uiIndex>
-	
-    <szGroup>Leerer Platz195</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot195</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>196</uiIndex>
-	
-    <szGroup>Leerer Platz196</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot196</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>197</uiIndex>
-	
-    <szGroup>Leerer Platz197</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot197</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>198</uiIndex>
-	
-    <szGroup>Leerer Platz198</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot198</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>199</uiIndex>
-	
-    <szGroup>Leerer Platz199</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot199</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>200</uiIndex>
-	
-    <szGroup>Leerer Platz200</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot200</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
  <NAME>
 	<uiIndex>201</uiIndex>
-	
-    <szGroup>Leerer Platz201</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot201</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>202</uiIndex>
-	
-    <szGroup>Leerer Platz202</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot202</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>203</uiIndex>
-	
-    <szGroup>Leerer Platz203</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot203</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>204</uiIndex>
-	
-    <szGroup>Leerer Platz204</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot204</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>205</uiIndex>
-	
-    <szGroup>Leerer Platz205</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot205</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>206</uiIndex>
-	
-    <szGroup>Leerer Platz206</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot206</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>207</uiIndex>
-	
-    <szGroup>Leerer Platz207</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot207</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>208</uiIndex>
-	
-    <szGroup>Leerer Platz208</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot208</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>209</uiIndex>
-	
-    <szGroup>Leerer Platz209</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot209</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>210</uiIndex>
-	
-    <szGroup>Leerer Platz210</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot210</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>211</uiIndex>
-	
-    <szGroup>Leerer Platz211</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot211</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>212</uiIndex>
-	
-    <szGroup>Leerer Platz212</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot212</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>213</uiIndex>
-	
-    <szGroup>Leerer Platz213</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot213</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>214</uiIndex>
-	
-    <szGroup>Leerer Platz214</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot214</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>215</uiIndex>
-	
-    <szGroup>Leerer Platz215</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot215</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>216</uiIndex>
-	
-    <szGroup>Leerer Platz216</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot216</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>217</uiIndex>
-	
-    <szGroup>Leerer Platz217</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot217</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>218</uiIndex>
-	
-    <szGroup>Leerer Platz218</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot218</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>219</uiIndex>
-	
-    <szGroup>Leerer Platz219</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot219</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>220</uiIndex>
-	
-    <szGroup>Leerer Platz220</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot220</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>221</uiIndex>
-	
-    <szGroup>Leerer Platz221</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot221</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>222</uiIndex>
-	
-    <szGroup>Leerer Platz222</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot222</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>223</uiIndex>
-	
-    <szGroup>Leerer Platz223</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot223</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>224</uiIndex>
-	
-    <szGroup>Leerer Platz224</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot224</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>225</uiIndex>
-	
-    <szGroup>Leerer Platz225</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot225</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>226</uiIndex>
-	
-    <szGroup>Leerer Platz226</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot226</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>227</uiIndex>
-	
-    <szGroup>Leerer Platz227</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot227</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>228</uiIndex>
-	
-    <szGroup>Leerer Platz228</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot228</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>229</uiIndex>
-	
-    <szGroup>Leerer Platz229</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot229</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>230</uiIndex>
-	
-    <szGroup>Leerer Platz230</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot230</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>231</uiIndex>
-	
-    <szGroup>Leerer Platz231</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot231</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>232</uiIndex>
-	
-    <szGroup>Leerer Platz232</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot232</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>233</uiIndex>
-	
-    <szGroup>Leerer Platz233</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot233</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>234</uiIndex>
-	
-    <szGroup>Leerer Platz234</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot234</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>235</uiIndex>
-	
-    <szGroup>Leerer Platz235</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot235</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>236</uiIndex>
-	
-    <szGroup>Leerer Platz236</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot236</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>237</uiIndex>
-	
-    <szGroup>Leerer Platz237</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot237</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>238</uiIndex>
-	
-    <szGroup>Leerer Platz238</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot238</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>239</uiIndex>
-	
-    <szGroup>Leerer Platz239</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot239</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>240</uiIndex>
-	
-    <szGroup>Leerer Platz240</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot240</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>241</uiIndex>
-	
-    <szGroup>Leerer Platz241</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot241</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>242</uiIndex>
-	
-    <szGroup>Leerer Platz242</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot242</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>243</uiIndex>
-	
-    <szGroup>Leerer Platz243</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot243</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>244</uiIndex>
-	
-    <szGroup>Leerer Platz244</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot244</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>245</uiIndex>
-	
-    <szGroup>Leerer Platz245</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot245</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>246</uiIndex>
-	
-    <szGroup>Leerer Platz246</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot246</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>247</uiIndex>
-	
-    <szGroup>Leerer Platz247</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot247</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>248</uiIndex>
-	
-    <szGroup>Leerer Platz248</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot248</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>249</uiIndex>
-	
-    <szGroup>Leerer Platz249</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot249</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>250</uiIndex>
-	
-    <szGroup>Leerer Platz250</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot250</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>251</uiIndex>
-	
-    <szGroup>Leerer Platz251</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot251</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>252</uiIndex>
-	
-    <szGroup>Leerer Platz252</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot252</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>253</uiIndex>
-	
-    <szGroup>Leerer Platz253</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot253</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>254</uiIndex>
-	
-    <szGroup>Leerer Platz254</szGroup>
+	<Enabled>0</Enabled>
+    <szGroup>Empty Slot254</szGroup>
+	<AddToBattle>0</AddToBattle>
+	<Loyalty>0</Loyalty>
   </NAME>
 </CIV_GROUP_NAMES>
