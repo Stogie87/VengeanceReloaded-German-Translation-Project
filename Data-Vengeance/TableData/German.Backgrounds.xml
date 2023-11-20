@@ -7304,8 +7304,8 @@
 	<!-- Disco -->
 	<BACKGROUND>
 		<uiIndex>338</uiIndex>
-		<szName>Disco King/Stuntman/Instruktor</szName>
-		<szShortName>Disco King/Stuntman/Instruktor</szShortName>
+		<szName>Stuntman</szName>
+		<szShortName>Disco King</szShortName>
 		<szDescription>Disco ist nicht tot! Jedenfalls noch nicht.</szDescription>
 		<ap_urban>8</ap_urban>
 		<travel_car>20</travel_car>
@@ -7330,7 +7330,7 @@
 	<!-- Exec Sober -->
 	<BACKGROUND>
 		<uiIndex>339</uiIndex>
-		<szShortName>Firmenschwadron/Drogenbaron</szShortName>
+		<szShortName>Firmenschwadron</szShortName>
 		<szDescription>Die Phrase "Zeig mir das Geld" mag zwar von Hollywood geprägt worden sein, aber sie verwendet sie schon viel länger.</szDescription>
 		<approach_direct>20</approach_direct>
 		<approach_threaten>5</approach_threaten>
@@ -7347,7 +7347,7 @@
 	<!-- Exec -->
 	<BACKGROUND>
 		<uiIndex>340</uiIndex>
-		<szShortName>Drogenabhängiger Rächer</szShortName>
+		<szShortName>Junky</szShortName>
 		<szDescription>Eine Dosis des richtigen Stoffes kann jeden sanftmütigen Menschen in einen bösartigen Mörder verwandeln. Hier ist der lebende Beweis dafür.</szDescription>
 		<hearing_day>2</hearing_day>
 		<hearing_night>2</hearing_night>
@@ -7373,7 +7373,7 @@
 	<!-- VV -->
 	<BACKGROUND>
 		<uiIndex>341</uiIndex>
-		<szShortName>Exotischer Tänzer/Künstler</szShortName>
+		<szShortName>Künstler</szShortName>
 		<szDescription>Hat das ganze Leben auf der Jagd verbracht und dann gemerkt, dass das Leben ein einziges großes Wettrennen ist.</szDescription>
 		<ap_assault>-5</ap_assault>
 		<interrogation>250</interrogation>
@@ -7437,8 +7437,8 @@
 	<!-- Cowboy -->
 	<BACKGROUND>
 		<uiIndex>343</uiIndex>
-		<szName>Medizinischer Querdenker</szName>
-		<szShortName>Medizinischer Querdenker</szShortName>
+		<szName>Querdenker</szName>
+		<szShortName>Querdenker</szShortName>
 		<szDescription>Cowboys Grenzgänger-Ansatz in der Medizin brachte ihm schneller einen nicht gespornten Stiefel von der Medizinschule ein, als er ziehen kann.</szDescription>
 		<medical>-5</medical>
 		<cth_blades>5</cth_blades>
