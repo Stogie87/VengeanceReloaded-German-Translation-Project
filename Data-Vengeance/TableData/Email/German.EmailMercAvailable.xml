@@ -1,4 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<!--
+
+This file contains the email text for each merc (that is available on the A.I.M website), 
+when the merc contacts us back (now the merc is available to work with us).
+
+uiIndex:		This represents the merc index from MercProfiles.xml (Prof.dat)
+Subject:		The email subject
+Message:		The email message boy
+
+-->
 
 <EMAIL_MERC_AVAILABLE>
   <EMAIL>
@@ -979,18 +988,18 @@
     <Subject>Subject : None</Subject>
     <Message>Message : None</Message>
   </EMAIL>
-  <EMAIL>
-    <!-- Mitch -->
-    <uiIndex>186</uiIndex>
-    <Subject>Weitergeleitet von AIM-Server: Nachricht von Dr. Mitch Shudlem</Subject>
-    <Message>Message : TODO!</Message>
-  </EMAIL>
-  <EMAIL>
-    <!-- Carp -->
-    <uiIndex>187</uiIndex>
-    <Subject>Weitergeleitet von AIM-Server: Nachricht von Howard Melfield</Subject>
-    <Message>Message : TODO!</Message>
-  </EMAIL>
+	<EMAIL>
+		<!-- Mitch -->
+		<uiIndex>186</uiIndex>
+		<Subject>Weitergeleitet von AIM-Server: Nachricht von Dr. Mitch Shudlem</Subject>
+		<Message>Ich bin gerade von meinem letzten Auftrag zurückgekehrt und bin jetzt bereit, mit Ihnen über eine Beschäftigung zu verhandeln. Ein Rat: Wenn Sie auf der Suche nach einem Schnäppchen sind, verschwenden Sie Ihre Zeit.  ± ± Forget the rest, go with the best! ± Dr. Mitch Shudlem ±</Message>
+	</EMAIL>
+	<EMAIL>
+		<!-- Carp -->
+		<uiIndex>187</uiIndex>
+		<Subject>Weitergeleitet von AIM-Server: Nachricht von Howard Melfield</Subject>
+		<Message>Hallo, mein Junge! Ich habe gerade deine Nachricht erhalten. Wenn du immer noch interessiert bist, kontaktiere mich über unsere Website. ± ± Howard Melfield ± Director of A.I.M. Health and Safety department ± Head of A.I.M Christmas Party Commitee ±</Message>
+	</EMAIL>
   <EMAIL>
     <uiIndex>188</uiIndex>
     <Subject>Subject : None</Subject>
@@ -1086,11 +1095,11 @@
     <Subject>Subject : None</Subject>
     <Message>Message : None</Message>
   </EMAIL>
-  <EMAIL>
-    <uiIndex>207</uiIndex>
-    <Subject>Subject : None</Subject>
-    <Message>Message : None</Message>
-  </EMAIL>
+	<EMAIL>
+		<uiIndex>207</uiIndex>
+		<Subject>Weitergeleitet von AIM-Server: Nachricht von Simon Grandee</Subject>
+		<Message>Ich habe Ihre Nachricht erhalten. Kontaktieren Sie mich über AIM, wenn Sie immer noch daran interessiert sind, einen Profi zu engagieren.</Message>
+	</EMAIL>
   <EMAIL>
     <uiIndex>208</uiIndex>
     <Subject>Subject : None</Subject>
@@ -1100,12 +1109,11 @@
     <uiIndex>209</uiIndex>
     <Subject>Subject : None</Subject>
     <Message>Message : None</Message>
-  </EMAIL>
-  <EMAIL>
-    <uiIndex>210</uiIndex>
-    <Subject>Subject : None</Subject>
-    <Message>Message : None</Message>
-  </EMAIL>
+	<EMAIL>
+		<uiIndex>210</uiIndex>
+		<Subject>Weitergeleitet von AIM-Server: Nachricht von Patricia Sanger-Norton</Subject>
+		<Message>Vielen Dank für Ihre Nachricht. Ich möchte Ihnen mitteilen, dass ich meinen aktuellen Auftrag abgeschlossen habe und nun für eine Einstellung zur Verfügung stehe.  Mit freundlichen Grüßen, Patricia</Message>
+	</EMAIL>
   <EMAIL>
     <uiIndex>211</uiIndex>
     <Subject>Subject : None</Subject>
@@ -1116,21 +1124,21 @@
     <Subject>Subject : None</Subject>
     <Message>Message : None</Message>
   </EMAIL>
-  <EMAIL>
-    <uiIndex>213</uiIndex>
-    <Subject>Subject : None</Subject>
-    <Message>Message : None</Message>
-  </EMAIL>
+	<EMAIL>
+		<uiIndex>213</uiIndex>
+		<Subject>Weitergeleitet von AIM-Server: Nachricht von Jack Cygan</Subject>
+		<Message>Yeah, ich habe deine Nachricht erhalten. Ich hoffe, du kannst mir eine größere Herausforderung bieten als mein letzter Auftrag.  Ich werde auf dich warten. ± ± Jack ±</Message>
+	</EMAIL>
   <EMAIL>
     <uiIndex>214</uiIndex>
     <Subject>Subject : None</Subject>
     <Message>Message : None</Message>
   </EMAIL>
-  <EMAIL>
-    <uiIndex>215</uiIndex>
-    <Subject>Subject : None</Subject>
-    <Message>Message : None</Message>
-  </EMAIL>
+	<EMAIL>
+		<uiIndex>215</uiIndex>
+		<Subject>Weitergeleitet von AIM-Server: Nachricht von Jose Aguilar</Subject>
+		<Message>Ich habe Ihre Nachricht erhalten und kann bestätigen, dass ich für eine Anstellung verfügbar bin. Kontaktieren Sie mich via AIM.</Message>
+	</EMAIL>
   <EMAIL>
     <uiIndex>216</uiIndex>
     <Subject>Subject : None</Subject>
@@ -1170,7 +1178,7 @@
     <!-- Gary -->
     <uiIndex>223</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Gary Roachburn</Subject>
-    <Message>Hi, I'm free at the moment. ± ± Contact me. ±</Message>
+    <Message>Hi, ich bin im Moment frei. ± ± Kontaktieren Sie mich. ±</Message>
   </EMAIL>
   <EMAIL>
     <uiIndex>224</uiIndex>
@@ -1196,7 +1204,7 @@
     <!-- Doc -->
     <uiIndex>228</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Dr. Ahmad Koolhan</Subject>
-    <Message>Dr. Koolhan here. I just returned from a mission in Libya. ± ± You can contact me on AIM. ±</Message>
+    <Message>Dr. Koolhan hier. Ich bin gerade von einem Einsatz in Libyen zurückgekehrt. ± ± Sie können mich über AIM kontaktieren. ±</Message>
   </EMAIL>
   <EMAIL>
     <uiIndex>229</uiIndex>
@@ -1207,85 +1215,85 @@
     <!-- Boss -->
     <uiIndex>230</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Glen Hatchet</Subject>
-    <Message>Here, the King of DIY. You need me? ± ± Hell, you know where to find me. ± Boss ±</Message>
+    <Message>Hier, der König des Heimwerkens. Sie brauchen mich? ± ± Du weißt ja, wo du mich findest. ± Boss ±</Message>
   </EMAIL>
   <EMAIL>
     <!-- Snake -->
     <uiIndex>231</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Johnny Edwards</Subject>
-    <Message>Hi, I finished my internship in Guyana. ± ± Call me. ±</Message>
+    <Message>Hi, ich habe mein Praktikum in Guyana beendet.  ± ± Rufen Sie mich an. ±</Message>
   </EMAIL>
   <EMAIL>
     <!-- Spam -->
     <uiIndex>232</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Alan Webster</Subject>
-    <Message>Hello, I just listened to your message. ± ± If you still want me... I'm up for it! ±</Message>
+    <Message>Hallo, ich habe mir gerade Ihre Nachricht abgehört. ± ± Wenn du mich noch willst... Ich bin dabei! ±</Message>
   </EMAIL>
   <EMAIL>
     <!-- Spike -->
     <uiIndex>233</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Maj. Spike Scallion</Subject>
-    <Message>Major Scallion, I await your call, boy! ±</Message>
+    <Message>Major Scallion, ich erwarte deinen Anruf, Junge! ±</Message>
   </EMAIL>
   <EMAIL>
     <!-- Jimmy -->
     <uiIndex>234</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Jimmy Upton</Subject>
-    <Message>OK, I am willing to work for you. ± ± But I have to know my destination... Because I cannot go in certain countries. ± Good day. ±</Message>
+    <Message>OK, ich bin bereit, für Sie zu arbeiten. ± ± Aber ich muss mein Ziel kennen... Weil ich in bestimmte Länder nicht reisen darf. ± Auf Wiedersehen. ±</Message>
   </EMAIL>
   <EMAIL>
     <!-- Leech -->
     <uiIndex>235</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Timothy Jenkins</Subject>
-    <Message>Hi, if you need a good marksman. ± ± Feel free to contact me. ± Greets. ±</Message>
+    <Message>Hallo, wenn Sie noch einen guten Schützen brauchen, ± ± können sie mich gerne kontaktieren. ± Greets. ±</Message>
   </EMAIL>
   <EMAIL>
     <!-- Bob -->
     <uiIndex>236</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Capt. Bob Adams</Subject>
-    <Message>Hello, you have a mission for me? ± ± Contact me to give me more details. ± Cpt. Adams ±</Message>
+    <Message>Hallo, haben Sie einen Auftrag für mich? ± ± Kontaktieren Sie mich, um weitere Details zu besprechen. ± Cpt. Adams ±</Message>
   </EMAIL>
   <EMAIL>
     <!-- Kelly -->
     <uiIndex>237</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Col. Leo Kelly</Subject>
-    <Message>Colonel Kelly here, I'd be happy to help you in your mission. My gear is for work. ± Col. Kelly ±</Message>
+    <Message>Colonel Kelly hier, ich würde Ihnen gerne bei Ihrer Mission helfen. Meine Ausrüstung liegt schon bereit. ± Col. Kelly ±</Message>
   </EMAIL>
   <EMAIL>
     <!-- Vince -->
     <uiIndex>238</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Vincenzo Massimo</Subject>
-    <Message>Ciao, I have received your message. ± ± If you have a contract for me... I's free now. ± Arrivederci. ±</Message>
+    <Message>Ciao, ich habe Ihre Nachricht erhalten. ± ± Wenn du einen Vertrag für mich hast... Ich bin jetzt frei. ± Arrivederci. ±</Message>
   </EMAIL>
   <EMAIL>
     <!-- Kaboom -->
     <uiIndex>239</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Marty Moffat</Subject>
-    <Message>Hi boss, I'm back on AIM. ± ± Badaboum. ±</Message>
+    <Message>Hallo Boss, ich bin wieder bei AIM. ± ± Badaboum. ±</Message>
   </EMAIL>
   <EMAIL>
     <!-- Bud -->
     <uiIndex>240</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Lt. Bud Hellar</Subject>
-    <Message>Hello sir, I would be delighted to work for you. ± ± You can contact me at any time. ± Respectfully yours, ± Lt. Hellar ±</Message>
+    <Message>Hallo Sir, ich würde mich freuen, für Sie zu arbeiten. ± ± Sie können mich jederzeit kontaktieren. ± Mit freundlichen Grüßen, ± Lt. Hellar ±</Message>
   </EMAIL>
   <EMAIL>
     <!-- Rusty -->
     <uiIndex>241</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Russel Hunter</Subject>
-    <Message>I received your message. I am an explosives expert and a pro at night operations. ± ± See you soon on the net. ± Russel Hunter. ±</Message>
+    <Message>Ich habe Ihre Nachricht erhalten. Ich bin Sprengstoffexperte und ein Profi bei Nachteinsätzen. ± ± Bis bald im Netz. ± Russel Hunter. ±</Message>
   </EMAIL>
   <EMAIL>
     <!-- Needle -->
     <uiIndex>242</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Dr. Mark Kranhuim</Subject>
-    <Message>Sir, it is a pleasure for me receiving your message. ± ± My handicap is compensated with my knowledge in medicine. ± ± You know my address and phone number. ± ± Best regards, ± Dr. Kranhium ±</Message>
+    <Message>Sir, es freut mich, dass Sie mich kontaktiert haben. ± ± Mein Handicap wird durch mein medizinisches Wissen kompensiert. ± ± Sie haben ja meine Adresse und Telefonnummer. ± ± Mit freundlichen Grüßen, ± Dr. Kranhium ±</Message>
   </EMAIL>
   <EMAIL>
     <!-- Screw -->
     <uiIndex>243</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Patrick Phillips</Subject>
-    <Message>Hi, I'm on the AIM site. ± ± I'm waiting... But do not delay, because patience is not one of my virtues. ± ± Regards, ± Artiste ±</Message>
+    <Message>Hallo, ich bin auf der AIM-Seite. ± ± Ich warte... Aber zögern Sie nicht zu lange, denn Geduld ist keine meiner Tugenden. ± ± Grüße, ± Artiste ±</Message>
   </EMAIL>
   <EMAIL>
     <uiIndex>244</uiIndex>
@@ -1296,13 +1304,13 @@
     <!-- Mouse -->
     <uiIndex>245</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Anita Backman</Subject>
-    <Message>Hello! *silence* I am ready to join you... ± ± **long silence** ± ± Yours Faithfully, ± Anita *** very long silence *** ±</Message>
+    <Message>Hallo! *Schweigen* Ich bin bereit, mich euch anzuschließen... ± ± **langes Schweigen**  ± ± Mit freundlichen Grüßen, ± Anita *** sehr langes Schweigen *** ±</Message>
   </EMAIL>
   <EMAIL>
     <!-- Hector -->
     <uiIndex>246</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Hector Alvarez</Subject>
-    <Message>Hello, thank you for giving me a chance to prove what I'm worth. I am very impatient... ± ± Call me when you want. ± ± Respectfully, ± Hector ±</Message>
+    <Message>Hallo, danke, dass Sie mir die Chance geben, zu beweisen, was ich wert bin. Ich kann es kaum erwarten... ± ± Rufen Sie mich an, wenn Sie möchten. ± ± Hochachtungsvoll, ± Hector ±</Message>
   </EMAIL>
   <EMAIL>
     <uiIndex>247</uiIndex>
@@ -1313,7 +1321,7 @@
     <!-- Stella -->
     <uiIndex>248</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Dr. Margaret Trammel</Subject>
-    <Message>Hello, I received your message. ± ± I like action, but not the sweet talkers. If you seek an adventure with me... Forget me! ± Dr. Trammel ±</Message>
+    <Message>Hallo, ich habe Ihre Nachricht erhalten. ± ± Ich mag Action, aber keine Süßholzraspler. Wenn du nur ein Abenteuer mit mir suchst... Vergiss mich! ± Dr. Trammel ±</Message>
   </EMAIL>
   <EMAIL>
     <uiIndex>249</uiIndex>
@@ -1324,13 +1332,13 @@
     <!-- Moses -->
     <uiIndex>250</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Murray Ebstern</Subject>
-    <Message>What is this regarding? ± ± Oh yes, don't listen to those rumors on my memory and my state health. ± ± I'm in shape and ready to conquer the world... I joke, junior. ± ± In any case, you will not be disappointed if you hire me. ± ± Best regard, ± Moses ±</Message>
+    <Message>Worum geht es hier? ± ± Ach ja, hören Sie nicht auf diese Gerüchte über mein Gedächtnis- und Gesundheitszustand. ± ± Ich bin in Form und bereit, die Welt zu erobern... Ich scherze, Junior. ± ± Auf jeden Fall werden Sie nicht enttäuscht werden, wenn Sie mich beauftragen. ± ± Mit freundlichen Grüßen, ± Moses ±</Message>
   </EMAIL>
   <EMAIL>
     <!-- Smoke -->
     <uiIndex>251</uiIndex>
     <Subject>Weiterleitung vom AIM Server: Nachricht von Lesley Petersen</Subject>
-    <Message>I saw that you tried to contact me, eh. ± ± If you look for an expert on explosives, I am connected to the AIM, eh. ± Smoke ±</Message>
+    <Message>Ich habe gesehen, dass Sie versucht haben, mich zu kontaktieren, eh. ± ± Wenn Sie einen Sprengstoffexperten suchen, dann kontaktieren Sie mich über AIM, eh. ± Smoke ±</Message>
   </EMAIL>
   <EMAIL>
     <uiIndex>252</uiIndex>
