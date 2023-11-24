@@ -564,9 +564,9 @@
     <uiIndex>70</uiIndex>
     <szItemName>Nada</szItemName>
     <szLongItemName>Das Benutzen dieses Slots führt zum Absturz des Spiels.</szLongItemName>
-    <szItemDesc>Using this slot will cause the game to crash.</szItemDesc>
+    <szItemDesc>Das Benutzen dieses Slots führt zum Absturz des Spiels.</szItemDesc>
     <szBRName>Das Benutzen dieses Slots führt zum Absturz des Spiels.</szBRName>
-    <szBRDesc>Using this slot will cause the game to crash.</szBRDesc>
+    <szBRDesc>Das Benutzen dieses Slots führt zum Absturz des Spiels.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>71</uiIndex>
@@ -1741,7 +1741,7 @@
     <uiIndex>217</uiIndex>
     <szItemName>Gelee Royale</szItemName>
     <szLongItemName>Gelee Royale</szLongItemName>
-    <szItemDesc>This is a blob of Gelee Royal from the queen Crepitus.</szItemDesc>
+    <szItemDesc>Dies ist ein Klumpen  Gelee Royal von der Königin Crepitus.</szItemDesc>
     <szBRName>Gelee Royale</szBRName>
     <szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
   </ITEM>
@@ -9092,7 +9092,7 @@
     <uiIndex>1135</uiIndex>
     <szItemName>C. SO Helm</szItemName>
     <szLongItemName>Beschichteter Stealth Ops Helm</szLongItemName>
-    <szItemDesc>This Helm will protect you from small caliber rounds effectively, providing maximal stealth. For those really quiet operatives only. Beschichtete with Gelee Royal for added protection.</szItemDesc>
+    <szItemDesc>Dieser Helm schützt Sie effektiv vor kleinkalibrigen Geschossen und bietet maximale Tarnung. Nur für die wirklich leisen Agenten. Beschichtet mit Gelee Royal für zusätzlichen Schutz.</szItemDesc>
     <szBRName>Beschichteter Stealth Ops Helm</szBRName>
     <szBRDesc>None</szBRDesc>
   </ITEM>
@@ -12398,251 +12398,251 @@
   </ITEM>
   <ITEM>
     <uiIndex>1548</uiIndex>
-    <szItemName>Peak EPA</szItemName>
-    <szLongItemName>Peak EPA</szLongItemName>
-    <szItemDesc>A small bottle of vitamins and steroids.</szItemDesc>
-    <szBRName>Peak EPA</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Hochwertiges EPA</szItemName>
+    <szLongItemName>Hochwertiges EPA</szLongItemName>
+    <szItemDesc>Eine kleine Flasche mit Vitaminen und Steroiden.</szItemDesc>
+    <szBRName>Hochwertiges EPA</szBRName>
+    <szBRDesc>Eine kleine Flasche mit Vitaminen und Steroiden.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1549</uiIndex>
     <szItemName>Hotdog</szItemName>
     <szLongItemName>Hotdog</szLongItemName>
-    <szItemDesc>Butchery leftovers with old bread. Enjoy.</szItemDesc>
+    <szItemDesc>Schlachtabfälle mit altem Brot. Genieß es.</szItemDesc>
     <szBRName>Hotdog</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szBRDesc>Schlachtabfälle mit altem Brot. Genieß es.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1550</uiIndex>
     <szItemName>Hamburger</szItemName>
     <szLongItemName>Hamburger</szLongItemName>
-    <szItemDesc>For some obscure reason, this is also sold outside Hamburg.</szItemDesc>
+    <szItemDesc>Aus irgendeinem unerfindlichen Grund wird dies auch außerhalb Hamburgs verkauft.</szItemDesc>
     <szBRName>Hamburger</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szBRDesc>Aus irgendeinem unerfindlichen Grund wird dies auch außerhalb Hamburgs verkauft.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1551</uiIndex>
-    <szItemName>Fries</szItemName>
-    <szLongItemName>French Fries</szLongItemName>
-    <szItemDesc>Or 'Freedom Fries', as some people like to call them.</szItemDesc>
-    <szBRName>Fries</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Fritten</szItemName>
+    <szLongItemName>Fritten</szLongItemName>
+    <szItemDesc>Oder Pommes, wie manche Leute sie gerne nennen.</szItemDesc>
+    <szBRName>Fritten</szBRName>
+    <szBRDesc>Oder Pommes, wie manche Leute sie gerne nennen.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1552</uiIndex>
     <szItemName>Pizza</szItemName>
     <szLongItemName>Pizza</szLongItemName>
-    <szItemDesc>Favourite food of couch potatoes and sewer-based squads of tortoise ninjas everywhere.</szItemDesc>
+    <szItemDesc>Die Lieblingsspeise von Couch-Potatoes und Schildkröten-Ninjas aus der Kanalisation.</szItemDesc>
     <szBRName>Pizza</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szBRDesc>Die Lieblingsspeise von Couch-Potatoes und Schildkröten-Ninjas aus der Kanalisation.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1553</uiIndex>
     <szItemName>Spam</szItemName>
     <szLongItemName>Spam</szLongItemName>
-    <szItemDesc>Spam, spam, spam, spam, spam, spam, baked beans, spam, spam, spam and spam.</szItemDesc>
+    <szItemDesc>Spam, spam, spam, spam, spam, spam, gebackene Bohnen, spam, spam, spam and spam.</szItemDesc>
     <szBRName>Spam</szBRName>
-    <szBRDesc>A viking's favourite food.</szBRDesc>
+    <szBRDesc>Das Lieblingsessen der Vikings.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1554</uiIndex>
     <szItemName>Spam 2</szItemName>
     <szLongItemName>Spam in a can</szLongItemName>
-    <szItemDesc>Spam, spam, spam, spam, spam, spam, spam, spam, lovely spam, wonderful spam!</szItemDesc>
+    <szItemDesc>Spam, spam, spam, spam, spam, spam, spam, spam,  schöner Spam, wunderbarer Spam!</szItemDesc>
     <szBRName>Spam 2</szBRName>
-    <szBRDesc>Hey, at least it doesn't fill up your mailbox...</szBRDesc>
+    <szBRDesc>Hey, wenigstens füllt es nicht deinen Posteingang...</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1555</uiIndex>
-    <szItemName>C. vegetables</szItemName>
-    <szLongItemName>Canned vegetables</szLongItemName>
-    <szItemDesc>These vegetables will stay edible forever, much to children's dismay.</szItemDesc>
-    <szBRName>C. vegetables</szBRName>
-    <szBRDesc>Nutritious, long-lasting, and animal-friendly.</szBRDesc>
+    <szItemName>Dosengemüse</szItemName>
+    <szLongItemName>Dosengemüse</szLongItemName>
+    <szItemDesc>Dieses Gemüse bleibt für immer essbar, sehr zum Leidwesen der Kinder.</szItemDesc>
+    <szBRName>Dosengemüse</szBRName>
+    <szBRDesc>Nährstoffreich, langlebig und tierfreundlich.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1556</uiIndex>
-    <szItemName>C. scorpions</szItemName>
-    <szLongItemName>Canned scorpions</szLongItemName>
-    <szItemDesc>How about something exotic? Like poisonous insects?</szItemDesc>
-    <szBRName>C. scorpions</szBRName>
-    <szBRDesc>We were assured this is actually eaten in some place we forgot.</szBRDesc>
+    <szItemName>Dosen Skorpione</szItemName>
+    <szLongItemName>Dosen Skorpione</szLongItemName>
+    <szItemDesc>Wie wäre es mit etwas Exotischem? Zum Beispiel giftige Insekten?</szItemDesc>
+    <szBRName>Dosen Skorpione</szBRName>
+    <szBRDesc>Man versicherte uns, dass dies tatsächlich irgendwo gegessen wird, aber wir haben vergessen wo.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1557</uiIndex>
-    <szItemName>Cat food</szItemName>
-    <szLongItemName>Canned cat food</szLongItemName>
-    <szItemDesc>Seriously? You really think about eating this? You should rethink this assignment...</szItemDesc>
-    <szBRName>Cat food</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Katzenfutter</szItemName>
+    <szLongItemName>Katzenfutter</szLongItemName>
+    <szItemDesc>Ist das dein Ernst? Du denkst wirklich darüber nach, das zu essen? Du solltest diesen Auftrag noch einmal überdenken...</szItemDesc>
+    <szBRName>Katzenfutter</szBRName>
+    <szBRDesc>Ist das dein Ernst? Du denkst wirklich darüber nach, das zu essen? Du solltest diesen Auftrag noch einmal überdenken...</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1558</uiIndex>
-    <szItemName>Baked beans</szItemName>
-    <szLongItemName>Canned baked beans</szLongItemName>
-    <szItemDesc>Tip: Best served with spam.</szItemDesc>
-    <szBRName>Baked beans</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Gebackene Bohnen</szItemName>
+    <szLongItemName>Gebackene Bohnen</szLongItemName>
+    <szItemDesc>Tipp: Am besten mit Fleisch servieren.</szItemDesc>
+    <szBRName>Gebackene Bohnen</szBRName>
+    <szBRDesc>Tipp: Am besten mit Fleisch servieren.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1559</uiIndex>
     <szItemName>Steak</szItemName>
     <szLongItemName>Steak</szLongItemName>
-    <szItemDesc>The best arulcan steak you'll find in .. Arulco.</szItemDesc>
+    <szItemDesc>Das beste arulkanische Steak, das Sie in... Arulco finden können.</szItemDesc>
     <szBRName>Steak</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szBRDesc>Das beste arulkanische Steak, das Sie in... Arulco finden können.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1560</uiIndex>
-    <szItemName>Bean stew</szItemName>
-    <szLongItemName>Bean stew</szLongItemName>
-    <szItemDesc>A mexican-style bean stew. Really hot!</szItemDesc>
-    <szBRName>Bean stew</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Bohneneintopf</szItemName>
+    <szLongItemName>Bohneneintopf</szLongItemName>
+    <szItemDesc>Ein Bohneneintopf nach mexikanischer Art. Richtig scharf!</szItemDesc>
+    <szBRName>Bohneneintopf</szBRName>
+    <szBRDesc>Ein Bohneneintopf nach mexikanischer Art. Richtig scharf!</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1561</uiIndex>
-    <szItemName>French toast</szItemName>
-    <szLongItemName>French toast</szLongItemName>
-    <szItemDesc>Mhmm, breakfast!</szItemDesc>
-    <szBRName>French toast</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>French Toast</szItemName>
+    <szLongItemName>French Toast</szLongItemName>
+    <szItemDesc>Mhmm, Frühstück!</szItemDesc>
+    <szBRName>French Toast</szBRName>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1562</uiIndex>
     <szItemName>Crepes</szItemName>
     <szLongItemName>Crepes</szLongItemName>
-    <szItemDesc>A spinach and mushroom crepe.</szItemDesc>
+    <szItemDesc>Ein Crêpe mit Spinat und Pilzen.</szItemDesc>
     <szBRName>Crepes</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1563</uiIndex>
     <szItemName>Pasta</szItemName>
     <szLongItemName>Pasta</szLongItemName>
-    <szItemDesc>Italian pasta.</szItemDesc>
+    <szItemDesc>Italienische Nudeln</szItemDesc>
     <szBRName>Pasta</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1564</uiIndex>
-    <szItemName>Omelet</szItemName>
-    <szLongItemName>Omelet</szLongItemName>
-    <szItemDesc>Omelet du fromage. Or not?</szItemDesc>
-    <szBRName>Omelet</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Omelett</szItemName>
+    <szLongItemName>Omelett</szLongItemName>
+    <szItemDesc>Omelett du Fromage. Oder nicht?</szItemDesc>
+    <szBRName>Omelett</szBRName>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1565</uiIndex>
-    <szItemName>Cow meat</szItemName>
-    <szLongItemName>Cow meat</szLongItemName>
-    <szItemDesc>Sure, you can eat it right now. Cooking is for wussies, eh?</szItemDesc>
-    <szBRName>Cow meat</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Kuhfleisch</szItemName>
+    <szLongItemName>Kuhfleisch</szLongItemName>
+    <szItemDesc>Klar, du kannst es sofort essen. Kochen ist was für Weicheier, oder?</szItemDesc>
+    <szBRName>Kuhfleisch</szBRName>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1566</uiIndex>
-    <szItemName>Bloodcat meat</szItemName>
-    <szLongItemName>Bloodcat meat</szLongItemName>
-    <szItemDesc>You have to be a tough guy to kill them, but an even tougher guy to eat them!</szItemDesc>
-    <szBRName>Bloodcat meat</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Wildkatzen-Fleisch</szItemName>
+    <szLongItemName>Wildkatzen-Fleisch</szLongItemName>
+    <szItemDesc>Man muss schon ein harter Kerl sein, um sie zu töten, aber ein noch härterer Kerl, um sie zu essen!</szItemDesc>
+    <szBRName>Wildkatzen-Fleisch</szBRName>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1567</uiIndex>
-    <szItemName>Bread</szItemName>
-    <szLongItemName>Bread loaf</szLongItemName>
-    <szItemDesc>A loaf of bread, made from grain of local farms.</szItemDesc>
-    <szBRName>Bread</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Brot</szItemName>
+    <szLongItemName>Brot</szLongItemName>
+    <szItemDesc>Eine Scheibe Brot, hergestellt aus Getreide von lokalen Bauernhöfen.</szItemDesc>
+    <szBRName>Brot</szBRName>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1568</uiIndex>
-    <szItemName>Applepie</szItemName>
-    <szLongItemName>Applepie</szLongItemName>
-    <szItemDesc>A delicious PBplepie made from tasty arulcan PBples. Don't you do anything naughty with it!</szItemDesc>
-    <szBRName>Applepie</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Apfelkuchen</szItemName>
+    <szLongItemName>Apfelkuchen</szLongItemName>
+    <szItemDesc>Ein köstlicher Kuchen aus leckeren Äpfeln aus Arulco. Machen Sie nichts Unanständiges damit!</szItemDesc>
+    <szBRName>Apfelkuchen</szBRName>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1569</uiIndex>
-    <szItemName>Water drum</szItemName>
-    <szLongItemName>Water drum</szLongItemName>
-    <szItemDesc>A rusty old water Trommel.</szItemDesc>
-    <szBRName>Water drum</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Wassertrommel.</szItemName>
+    <szLongItemName>Wassertrommel.</szLongItemName>
+    <szItemDesc>Eine rostige alte Wassertrommel.</szItemDesc>
+    <szBRName>Wassertrommel.</szBRName>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1570</uiIndex>
-    <szItemName>PET bottle</szItemName>
-    <szLongItemName>PET bottle</szLongItemName>
-    <szItemDesc>A bottle with 1 liter of still mineral water.</szItemDesc>
-    <szBRName>PET bottle</szBRName>
-    <szBRDesc>1 liter of healthy mineral water, in a one-use bottle.</szBRDesc>
+    <szItemName>PET Flasche</szItemName>
+    <szLongItemName>PET Flasche</szLongItemName>
+    <szItemDesc>Eine Flasche mit 1 Liter stillem Mineralwasser.</szItemDesc>
+    <szBRName>PET Flasche</szBRName>
+    <szBRDesc>1 Liter gesundes Mineralwasser, in einer Einwegflasche.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1571</uiIndex>
-    <szItemName>Vegetable juice</szItemName>
-    <szLongItemName>Vegetable juice</szLongItemName>
-    <szItemDesc>A drink that is so nutritious, it also stills your hunger (a bit).</szItemDesc>
-    <szBRName>Vegetable juice</szBRName>
-    <szBRDesc>For those without teeth who want to eat vegetables.</szBRDesc>
+    <szItemName>Gemüsesaft</szItemName>
+    <szLongItemName>Gemüsesaft</szLongItemName>
+    <szItemDesc>Ein Getränk, das so nahrhaft ist, dass es auch den Hunger (ein bisschen) stillt.</szItemDesc>
+    <szBRName>Gemüsesaft</szBRName>
+    <szBRDesc>Für Menschen ohne Zähne, die Gemüse essen wollen.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1572</uiIndex>
-    <szItemName>Milk</szItemName>
-    <szLongItemName>Milk</szLongItemName>
-    <szItemDesc>Cow milk, 1 liter.</szItemDesc>
-    <szBRName>Milk</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Milch</szItemName>
+    <szLongItemName>Milch</szLongItemName>
+    <szItemDesc>1 Liter Kuhmilch.</szItemDesc>
+    <szBRName>Milch</szBRName>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1573</uiIndex>
-    <szItemName>Energy drink</szItemName>
-    <szLongItemName>Energy drink</szLongItemName>
-    <szItemDesc>You can almost taste the yummy chemicals that went into this.</szItemDesc>
-    <szBRName>Energy drink</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Energy Drink</szItemName>
+    <szLongItemName>Energy Drink</szLongItemName>
+    <szItemDesc>Man schmeckt förmlich die leckeren Chemikalien, die in diesem Produkt stecken.</szItemDesc>
+    <szBRName>Energy Drink</szBRName>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1574</uiIndex>
-    <szItemName>Energy drink 2</szItemName>
-    <szLongItemName>Energy drink 2</szLongItemName>
-    <szItemDesc>Both tastes and refreshes like a kick in the belly.</szItemDesc>
-    <szBRName>Energy drink 2</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Energy Drink 2</szItemName>
+    <szLongItemName>Energy Drink 2</szLongItemName>
+    <szItemDesc>Beides schmeckt und erfrischt wie ein Tritt in den Bauch.</szItemDesc>
+    <szBRName>Energy Drink 2</szBRName>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1575</uiIndex>
-    <szItemName>Coffee</szItemName>
-    <szLongItemName>Coffee</szLongItemName>
-    <szItemDesc>Apparently some people can get hooked to this stuff.</szItemDesc>
-    <szBRName>Coffee</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Kaffee</szItemName>
+    <szLongItemName>Kaffee</szLongItemName>
+    <szItemDesc>Offenbar können manche Menschen von diesem Zeug süchtig werden.</szItemDesc>
+    <szBRName>Kaffee</szBRName>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1576</uiIndex>
-    <szItemName>Cleaning Kit</szItemName>
-    <szLongItemName>Gun Cleaning Kit</szLongItemName>
-    <szItemDesc>Contains everything necessary to clean your gun in the field.</szItemDesc>
-    <szBRName>Cleaning Kit</szBRName>
-    <szBRDesc>Even the most deadly tools of destruction need to be looked after from time to time..</szBRDesc>
+    <szItemName>Waffen Reinigungsset</szItemName>
+    <szLongItemName>Waffen Reinigungsset</szLongItemName>
+    <szItemDesc>Enthält alles, was Sie für die Reinigung Ihrer Waffe während des Einsatzes benötigen.</szItemDesc>
+    <szBRName>Waffen Reinigungsset</szBRName>
+    <szBRDesc>Selbst die tödlichsten Vernichtungswerkzeuge müssen von Zeit zu Zeit gepflegt werden.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1577</uiIndex>
-    <szItemName>Clothes</szItemName>
-    <szLongItemName>Civilian Clothes</szLongItemName>
-    <szItemDesc>Normal Arulcan clothes. Absolutely nothing to see here.</szItemDesc>
-    <szBRName>Civilian Clothes</szBRName>
-    <szBRDesc>Since when does this shop sell cheap clothes?</szBRDesc>
+    <szItemName>Zivilkleidung</szItemName>
+    <szLongItemName>Zivilkleidung</szLongItemName>
+    <szItemDesc>Normale arulkanische Kleidung. Hier gibt es absolut nichts zu sehen.</szItemDesc>
+    <szBRName>Zivilkleidung</szBRName>
+    <szBRDesc>Seit wann verkauft dieser Laden billige Kleidung?</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1578</uiIndex>
-    <szItemName>Dart</szItemName>
-    <szLongItemName>Neurotoxin Dart</szLongItemName>
-    <szItemDesc>A true Assassin's choice. The slightest skin contact will kill the target in under a minute. No salvation possible.</szItemDesc>
-    <szBRName>Neurotoxin Dart</szBRName>
-    <szBRDesc>Yo man, we jsut got these ultracool poison darts. This'll kill an elephant! Just be careful not to touch this by accident, like poor Jimmy from the export department.</szBRDesc>
+    <szItemName>Neurotoxin-Pfeil</szItemName>
+    <szLongItemName>Neurotoxin-Pfeil</szLongItemName>
+    <szItemDesc>Die Wahl eines echten Assassinen. Der geringste Hautkontakt wird das Ziel in weniger als einer Minute töten. Keine Rettung möglich.</szItemDesc>
+    <szBRName>Neurotoxin-Pfeil</szBRName>
+    <szBRDesc>Yo man, wir haben gerade diese ultracoolen Giftpfeile bekommen. Damit kann man einen Elefanten töten! Pass nur auf, dass du sie nicht aus Versehen berührst, wie der arme Jimmy von der Exportabteilung.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1579</uiIndex>
@@ -12658,23 +12658,23 @@
     <szLongItemName>Leiche</szLongItemName>
     <szItemDesc>Eine frische Leiche.</szItemDesc>
     <szBRName>Leiche</szBRName>
-    <szBRDesc>NO DESCRIPTION NEEDED!!!</szBRDesc>
+    <szBRDesc>KEINE BESCHREIBUNG ERFORDERLICH!!!</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1581</uiIndex>
-    <szItemName>Granatgerät</szItemName>
-    <szLongItemName>Granatgerät</szLongItemName>
-    <szItemDesc>Durch ein Granatgerät lassen sich 40-mm-Granaten mit Gewehren älterer Bauart (d.h. aus dem 2. Weltkrieg) verschießen. Es wird trotz allem eine geladene Waffe vorausgesetzt. Während eine Granate auf dem Aufsatz steckt, kann aus offensichtlichen Gründen nicht normal mit der entsprechenden Waffe geschossen werden.</szItemDesc>
-    <szBRName>Granatgerät</szBRName>
-    <szBRDesc>Mit diesem Granatgerät lassen sich ältere Gewehre aus dem 2. Weltkrieg zu einem behelfsmäßigen Granatwerfer umrüsten. Erwarten sie aber keine Wunder.</szBRDesc>
+    <szItemName>Granataufsatz</szItemName>
+    <szLongItemName>Granataufsatz</szLongItemName>
+    <szItemDesc>Durch ein Granataufsatz lassen sich 40mm Granaten mit Gewehren älterer Bauart (d.h. aus dem 2. Weltkrieg) verschießen. Es wird trotz allem eine geladene Waffe vorausgesetzt. Während eine Granate auf dem Aufsatz steckt, kann aus offensichtlichen Gründen nicht normal mit der entsprechenden Waffe geschossen werden.</szItemDesc>
+    <szBRName>Granataufsatz</szBRName>
+    <szBRDesc>Mit diesem Granataufsatz lassen sich ältere Gewehre aus dem 2. Weltkrieg zu einem behelfsmäßigen Granatwerfer umrüsten. Erwarten sie aber keine Wunder.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1582</uiIndex>
-    <szItemName>Oatmeal</szItemName>
-    <szLongItemName>Oatmeal</szLongItemName>
-    <szItemDesc>Favourite food of horses, but not children, everywhere.</szItemDesc>
-    <szBRName>Oatmeal</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Haferflocken</szItemName>
+    <szLongItemName>Haferflocken</szLongItemName>
+    <szItemDesc>Das Lieblingsessen von Pferden, aber nicht von Kindern, überall.</szItemDesc>
+    <szBRName>Haferflocken</szBRName>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1583</uiIndex>
@@ -12682,73 +12682,73 @@
     <szLongItemName>Reissack</szLongItemName>
     <szItemDesc>Eines der wichtigsten Grundnahrungsmittel auf der Welt.</szItemDesc>
     <szBRName>Reissack</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
-  <!-- Copies of the claymore item. These are purely meant for the map editor and should not be used otherwise-->
+  <!-- Kopien des Claymore-Gegenstands. Diese sind nur für den Karteneditor gedacht und sollten nicht anderweitig verwendet werden-->
   <ITEM>
     <uiIndex>1584</uiIndex>
     <!-->NORTHEAST DIRECTION (map editor only)-->
     <szItemName>M18 Claymore</szItemName>
     <szLongItemName>M18 Claymore</szLongItemName>
-    <szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a Stolperdraht or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
+    <szItemDesc>Die M18 Claymore Richtmine kann durch einen Fernzünder, durch einen Stolperdraht oder einfach als Mine ausgelöst werden. 700 Stahlkugeln werden in einem 60-Grad-Bogen verschossen, maximale Höhe 2 m. Spitze: Nach vorne zum Feind.</szItemDesc>
     <szBRName>M18 Claymore</szBRName>
-    <szBRDesc>Lay ambushes with networks of Stolperdraht and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
+    <szBRDesc>Lege Hinterhalte mit Netzen von Stolperdraht und diesen Babys. Kann auch aus der Ferne aktiviert werden. Wir übernehmen keine Verantwortung für Schäden, die durch eine falsche Einstellung entstehen.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1585</uiIndex>
     <!-->EAST DIRECTION (map editor only)-->
     <szItemName>M18 Claymore</szItemName>
     <szLongItemName>M18 Claymore</szLongItemName>
-    <szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a Stolperdraht or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
+    <szItemDesc>Die M18 Claymore Richtmine kann durch einen Fernzünder, durch einen Stolperdraht oder einfach als Mine ausgelöst werden. 700 Stahlkugeln werden in einem 60-Grad-Bogen verschossen, maximale Höhe 2 m. Spitze: Nach vorne zum Feind.</szItemDesc>
     <szBRName>M18 Claymore</szBRName>
-    <szBRDesc>Lay ambushes with networks of Stolperdraht and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
+    <szBRDesc>Lege Hinterhalte mit Netzen von Stolperdraht und diesen Babys. Kann auch aus der Ferne aktiviert werden. Wir übernehmen keine Verantwortung für Schäden, die durch eine falsche Einstellung entstehen.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1586</uiIndex>
     <!-->SOUTHEAST DIRECTION (map editor only)-->
     <szItemName>M18 Claymore</szItemName>
     <szLongItemName>M18 Claymore</szLongItemName>
-    <szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a Stolperdraht or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
+    <szItemDesc>Die M18 Claymore Richtmine kann durch einen Fernzünder, durch einen Stolperdraht oder einfach als Mine ausgelöst werden. 700 Stahlkugeln werden in einem 60-Grad-Bogen verschossen, maximale Höhe 2 m. Spitze: Nach vorne zum Feind.</szItemDesc>
     <szBRName>M18 Claymore</szBRName>
-    <szBRDesc>Lay ambushes with networks of Stolperdraht and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
+    <szBRDesc>Lege Hinterhalte mit Netzen von Stolperdraht und diesen Babys. Kann auch aus der Ferne aktiviert werden. Wir übernehmen keine Verantwortung für Schäden, die durch eine falsche Einstellung entstehen.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1587</uiIndex>
     <!-->SOUTH DIRECTION (map editor only)-->
     <szItemName>M18 Claymore</szItemName>
     <szLongItemName>M18 Claymore</szLongItemName>
-    <szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a Stolperdraht or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
+    <szItemDesc>Die M18 Claymore Richtmine kann durch einen Fernzünder, durch einen Stolperdraht oder einfach als Mine ausgelöst werden. 700 Stahlkugeln werden in einem 60-Grad-Bogen verschossen, maximale Höhe 2 m. Spitze: Nach vorne zum Feind.</szItemDesc>
     <szBRName>M18 Claymore</szBRName>
-    <szBRDesc>Lay ambushes with networks of Stolperdraht and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
+    <szBRDesc>Lege Hinterhalte mit Netzen von Stolperdraht und diesen Babys. Kann auch aus der Ferne aktiviert werden. Wir übernehmen keine Verantwortung für Schäden, die durch eine falsche Einstellung entstehen.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1588</uiIndex>
     <!-->SOUTHWEST DIRECTION (map editor only)-->
     <szItemName>M18 Claymore</szItemName>
     <szLongItemName>M18 Claymore</szLongItemName>
-    <szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a Stolperdraht or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
+    <szItemDesc>Die M18 Claymore Richtmine kann durch einen Fernzünder, durch einen Stolperdraht oder einfach als Mine ausgelöst werden. 700 Stahlkugeln werden in einem 60-Grad-Bogen verschossen, maximale Höhe 2 m. Spitze: Nach vorne zum Feind.</szItemDesc>
     <szBRName>M18 Claymore</szBRName>
-    <szBRDesc>Lay ambushes with networks of Stolperdraht and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
+    <szBRDesc>Lege Hinterhalte mit Netzen von Stolperdraht und diesen Babys. Kann auch aus der Ferne aktiviert werden. Wir übernehmen keine Verantwortung für Schäden, die durch eine falsche Einstellung entstehen.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1589</uiIndex>
     <!-->WEST DIRECTION (map editor only)-->
     <szItemName>M18 Claymore</szItemName>
     <szLongItemName>M18 Claymore</szLongItemName>
-    <szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a Stolperdraht or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
+    <szItemDesc>Die M18 Claymore Richtmine kann durch einen Fernzünder, durch einen Stolperdraht oder einfach als Mine ausgelöst werden. 700 Stahlkugeln werden in einem 60-Grad-Bogen verschossen, maximale Höhe 2 m. Spitze: Nach vorne zum Feind.</szItemDesc>
     <szBRName>M18 Claymore</szBRName>
-    <szBRDesc>Lay ambushes with networks of Stolperdraht and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
+    <szBRDesc>Lege Hinterhalte mit Netzen von Stolperdraht und diesen Babys. Kann auch aus der Ferne aktiviert werden. Wir übernehmen keine Verantwortung für Schäden, die durch eine falsche Einstellung entstehen.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1590</uiIndex>
     <!-->NORTHWEST DIRECTION (map editor only)-->
     <szItemName>M18 Claymore</szItemName>
     <szLongItemName>M18 Claymore</szLongItemName>
-    <szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a Stolperdraht or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
+    <szItemDesc>Die M18 Claymore Richtmine kann durch einen Fernzünder, durch einen Stolperdraht oder einfach als Mine ausgelöst werden. 700 Stahlkugeln werden in einem 60-Grad-Bogen verschossen, maximale Höhe 2 m. Spitze: Nach vorne zum Feind.</szItemDesc>
     <szBRName>M18 Claymore</szBRName>
-    <szBRDesc>Lay ambushes with networks of Stolperdraht and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
+    <szBRDesc>Lege Hinterhalte mit Netzen von Stolperdraht und diesen Babys. Kann auch aus der Ferne aktiviert werden. Wir übernehmen keine Verantwortung für Schäden, die durch eine falsche Einstellung entstehen.</szBRDesc>
   </ITEM>
-  <!-- Copies of the Stolperdraht item. These are purely meant for the map editor and should not be used otherwise-->
+  <!-- Kopien des Stolperdrahts. Diese sind nur für den Karteneditor gedacht und sollten nicht anderweitig verwendet werden-->
   <ITEM>
     <uiIndex>1591</uiIndex>
     <szItemName>Stolperdraht</szItemName>
@@ -12875,7 +12875,7 @@
     <szLongItemName>Schwarzes Hemd</szLongItemName>
     <szItemDesc>Ein schwarzes Feldhemd für Spezialkräfte der arulcanischen Streitkräfe. Das Tragen eines solchen Hemdes führt meistens zum Tod.</szItemDesc>
     <szBRName>Schwarzes Hemd</szBRName>
-    <szBRDesc>Not for sale through BR</szBRDesc>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1607</uiIndex>
@@ -12915,7 +12915,7 @@
     <szLongItemName>Gelbes Hemd</szLongItemName>
     <szItemDesc>Dieses Hemd gehört zur Uniform der paramilitärischen Kräfte Arulcos.</szItemDesc>
     <szBRName>Gelbes Hemd</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1612</uiIndex>
@@ -12939,7 +12939,7 @@
     <szLongItemName>Rotes Hemd</szLongItemName>
     <szItemDesc>Das Hemd gehört zur Uniform der regulären Streitkräfte Arulcos. Achtung: Das Tragen eines solchen Hemdes erhöht das Todesrisiko drastisch.</szItemDesc>
     <szBRName>Rotes Hemd</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1615</uiIndex>
@@ -12971,7 +12971,7 @@
     <szLongItemName>Schwarze Hose</szLongItemName>
     <szItemDesc>Eine schwarze Feldhose für Spezialkräfte der arulcanischen Streitkräfte.</szItemDesc>
     <szBRName>Schwarze Hose</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1619</uiIndex>
@@ -12987,7 +12987,7 @@
     <szLongItemName>Feldhose</szLongItemName>
     <szItemDesc>Eine Feldhose für reguläre Kräfte der Armee.</szItemDesc>
     <szBRName>Army trousers</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1621</uiIndex>
@@ -13009,17 +13009,17 @@
     <uiIndex>1623</uiIndex>
     <szItemName>random NATO AR number 1</szItemName>
     <szLongItemName>random NATO AR 1</szLongItemName>
-    <szItemDesc>If you can read this, Flugente propably didn't catch a certain way to create items. Go blame him!</szItemDesc>
+    <szItemDesc>Wenn du das hier lesen kannst, hat Flugente wahrscheinlich eine bestimmte Art, Gegenstände zu erstellen, nicht mitbekommen. Gebt ihm die Schuld!</szItemDesc>
     <szBRName>random NATO AR 1</szBRName>
-    <szBRDesc>NO DESCRIPTION NECESSARY.</szBRDesc>
+    <szBRDesc>KEINE BESCHREIBUNG ERFORDERLICH.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1624</uiIndex>
     <szItemName>random WP AR number 1</szItemName>
     <szLongItemName>random WP AR 1</szLongItemName>
-    <szItemDesc>If you can read this, Flugente propably didn't catch a certain way to create items. Go blame him!</szItemDesc>
+    <szItemDesc>Wenn du das hier lesen kannst, hat Flugente wahrscheinlich eine bestimmte Art, Gegenstände zu erstellen, nicht mitbekommen. Gebt ihm die Schuld!</szItemDesc>
     <szBRName>random WP AR 1</szBRName>
-    <szBRDesc>NO DESCRIPTION NECESSARY.</szBRDesc>
+    <szBRDesc>KEINE BESCHREIBUNG ERFORDERLICH.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1625</uiIndex>
@@ -13123,7 +13123,7 @@
     <szLongItemName>Taschenlampe</szLongItemName>
     <szItemDesc>Eine Taschenlampe spendet Licht in dunkler Nacht. – Die Taschenlampe ist AN.</szItemDesc>
     <szBRName>Taschenlampe</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1638</uiIndex>
@@ -13131,7 +13131,7 @@
     <szLongItemName>Brieföffner</szLongItemName>
     <szItemDesc>Ein echter US-Postdienst-Brieföffner. Der Hinweis "Eigentum des Postdienstes" ist in großen Lettern in den Griff eingraviert.</szItemDesc>
     <szBRName>Brieföffner</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1639</uiIndex>
@@ -13139,7 +13139,7 @@
     <szLongItemName>Heckenschere</szLongItemName>
     <szItemDesc>Ein effektives Werkzeug zum Beschneiden (der Gartenhecke).</szItemDesc>
     <szBRName>Heckenschere</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1640</uiIndex>
@@ -13695,264 +13695,264 @@
   </ITEM>
   <ITEM>
     <uiIndex>1709</uiIndex>
-    <szItemName>Sleeping bag</szItemName>
-    <szLongItemName>Sleeping bag</szLongItemName>
-    <szItemDesc>A basic sleeeping bag. Beats the bare floor.</szItemDesc>
-    <szBRName>Sleeping bag</szBRName>
-    <szBRDesc>No more sleeping on the dirty floor! Sweet dreams, sugar.</szBRDesc>
+    <szItemName>Schlafsack</szItemName>
+    <szLongItemName>Schlafsack</szLongItemName>
+    <szItemDesc>Ein einfacher Schlafsack. Besser als der nackte Boden.</szItemDesc>
+    <szBRName>Schlafsack</szBRName>
+    <szBRDesc>Nie mehr auf dem schmutzigen Boden schlafen! Träum süß.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1710</uiIndex>
-    <szItemName>Surgical mask</szItemName>
-    <szLongItemName>Surgical mask</szLongItemName>
-    <szItemDesc>This simple mask protects you somewhat from infection by airborne diseases.</szItemDesc>
-    <szBRName>Surgical mask</szBRName>
-    <szBRDesc>If you are doctor or live in an asian megacity, you will need these.</szBRDesc>
+    <szItemName>Chirurgische Maske</szItemName>
+    <szLongItemName>Chirurgische Maske</szLongItemName>
+    <szItemDesc>Diese einfache Maske schützt Sie ein wenig vor einer Ansteckung mit durch die Luft übertragenen Krankheiten.</szItemDesc>
+    <szBRName>Chirurgische Maske</szBRName>
+    <szBRDesc>Wenn Sie Arzt sind oder in einer asiatischen Millionenstadt leben, benötigen Sie diese.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1711</uiIndex>
-    <szItemName>Surgical gloves</szItemName>
-    <szLongItemName>Surgical gloves</szLongItemName>
-    <szItemDesc>These simple gloves protect you from infection by contact with infected persons.</szItemDesc>
-    <szBRName>Surgical gloves</szBRName>
-    <szBRDesc>Useful for doctors. Not useful in snow.</szBRDesc>
+    <szItemName>Chirurgische Handschuhe</szItemName>
+    <szLongItemName>Chirurgische Handschuhe</szLongItemName>
+    <szItemDesc>Diese einfachen Handschuhe schützen Sie vor Ansteckung durch Kontakt mit infizierten Personen.</szItemDesc>
+    <szBRName>Chirurgische Handschuhe</szBRName>
+    <szBRDesc>Nützlich für Ärzte. Nicht nützlich bei Schnee.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1712</uiIndex>
-    <szItemName>Plague medicine</szItemName>
-    <szLongItemName>Plague medicine</szLongItemName>
-    <szItemDesc>It may look unimportant, but this little pill can cure the plague. Who would've thought that possible?</szItemDesc>
-    <szBRName>Plague medicine</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Medizin gegen die Pest</szItemName>
+    <szLongItemName>Medizin gegen die Pest</szLongItemName>
+    <szItemDesc>Sie mag unbedeutend aussehen, aber diese kleine Pille kann die Pest heilen. Wer hätte das für möglich gehalten?</szItemDesc>
+    <szBRName>Medizin gegen die Pest</szBRName>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1713</uiIndex>
-    <szItemName>Tetanus medicine</szItemName>
-    <szLongItemName>Tetanus medicine</szLongItemName>
-    <szItemDesc>This injection cures tetanus. Might sting a bit.</szItemDesc>
-    <szBRName>Tetanus medicine</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Tetanus-Medikamente</szItemName>
+    <szLongItemName>Tetanus-Medikamente</szLongItemName>
+    <szItemDesc>Diese Injektion heilt Wundstarrkrampf. Könnte ein bisschen brennen.</szItemDesc>
+    <szBRName>Tetanus-Medikamente</szBRName>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1714</uiIndex>
-    <szItemName>Cholera medicine</szItemName>
-    <szLongItemName>Cholera medicine</szLongItemName>
-    <szItemDesc>A cure for cholera.</szItemDesc>
-    <szBRName>Cholera medicine</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szItemName>Cholera-Medizin</szItemName>
+    <szLongItemName>Cholera-Medizin</szLongItemName>
+    <szItemDesc>Ein Mittel gegen Cholera.</szItemDesc>
+    <szBRName>Cholera-Medizin</szBRName>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1715</uiIndex>
-    <szItemName>Bladder</szItemName>
-    <szLongItemName>Hydration Bladder</szLongItemName>
-    <szItemDesc>An individual hydration system for use with the ILBE US rucksack or ArmorBAk hydration carriers.</szItemDesc>
-    <szBRName>Bladder</szBRName>
-    <szBRDesc>An individual hydration system for use with the ILBE US rucksack or ArmorBAk hydration carriers.The ideal solution for long expeditions.</szBRDesc>
+    <szItemName>Trinksystem</szItemName>
+    <szLongItemName>Trinksystem</szLongItemName>
+    <szItemDesc>Ein individuelles Trinksystem zur Verwendung mit dem ILBE US-Rucksack oder ArmorBAk Trinksystemen.</szItemDesc>
+    <szBRName>Trinksystem</szBRName>
+    <szBRDesc>Individuelles Trinksystem zur Verwendung mit dem ILBE US-Rucksack oder dem ArmorBAk-Trinkrucksack - die ideale Lösung für lange Expeditionen.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1716</uiIndex>
-    <szItemName>ArmorBak</szItemName>
-    <szLongItemName>ArmorBak Carrier</szLongItemName>
-    <szItemDesc>Lightweight and simple to use hydration system.</szItemDesc>
-    <szBRName>ArmorBak Hydration Carrier</szBRName>
-    <szBRDesc>Lightweight and simple to use hydration system.</szBRDesc>
+    <szItemName>Trinktasche</szItemName>
+    <szLongItemName>Trinktasche</szLongItemName>
+    <szItemDesc>Leichtes und einfach zu bedienendes Trinksystem.</szItemDesc>
+    <szBRName>Trinktasche</szBRName>
+    <szBRDesc>Leichtes und einfach zu bedienendes Trinksystem.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1717</uiIndex>
-    <szItemName>Sp. Loader</szItemName>
-    <szLongItemName>Speed Loader</szLongItemName>
-    <szItemDesc>Heavy duty pockets for the safe storage of Speed Loaders.</szItemDesc>
-    <szBRName>Speed Loader Pouch</szBRName>
-    <szBRDesc>Heavy duty pockets for the safe storage of Speed Loaders.</szBRDesc>
+    <szItemName>Schnelllader-Tasche</szItemName>
+    <szLongItemName>Schnelllader-Tasche</szLongItemName>
+    <szItemDesc>Robuste Taschen für die sichere Aufbewahrung von Schnellladern.</szItemDesc>
+    <szBRName>Schnelllader-Tasche</szBRName>
+    <szBRDesc>Robuste Taschen für die sichere Aufbewahrung von Schnellladern.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1718</uiIndex>
-    <szItemName>Single Rifle Pouch</szItemName>
-    <szLongItemName>Single Rifle Pouch</szLongItemName>
-    <szItemDesc>Our Munitions-Pouches attach to any MOLLE compatible system or standard belt to hold vital ammunition.</szItemDesc>
-    <szBRName>Single Rifle Pouch</szBRName>
-    <szBRDesc>Our Munitions-Pouches attaches to any MOLLE compatible system or standard belt to hold vital ammunition.</szBRDesc>
+    <szItemName>Einzelne Gewehrtasche</szItemName>
+    <szLongItemName>Einzelne Gewehrtasche</szLongItemName>
+    <szItemDesc>Unsere Munitionstaschen können an jedem MOLLE-kompatiblen System oder Standardgürtel befestigt werden, um lebenswichtige Munition aufzunehmen.</szItemDesc>
+    <szBRName>Einzelne Gewehrtasche</szBRName>
+    <szBRDesc>Unsere Munitionstaschen können an jedem MOLLE-kompatiblen System oder Standardgürtel befestigt werden, um lebenswichtige Munition aufzunehmen.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1719</uiIndex>
-    <szItemName>Drum Pouch</szItemName>
-    <szLongItemName>Drum Munitions-Pouch</szLongItemName>
-    <szItemDesc>Perfect for carrying Drum shaped ammo.</szItemDesc>
-    <szBRName>Drum Munitions-Pouch</szBRName>
-    <szBRDesc>Perfect for carrying Drum shaped ammo.</szBRDesc>
+    <szItemName>Trommeltasche</szItemName>
+    <szLongItemName>Trommel-Munitionstasche</szLongItemName>
+    <szItemDesc>Perfekt für den Transport von Trommel-Munition.</szItemDesc>
+    <szBRName>Trommel-Munitionstasche</szBRName>
+    <szBRDesc>Perfekt für den Transport von Trommel-Munition.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1720</uiIndex>
-    <szItemName>Tactical Sling</szItemName>
-    <szLongItemName>Tactical Sling</szLongItemName>
-    <szItemDesc>This single point sling allows weapons to be carried in a secure but flexible fashion.</szItemDesc>
-    <szBRName>Rifle Sling</szBRName>
-    <szBRDesc>This single point sling allows weapons to be carried in a secure but flexible fashion. Adjustable length to accommodate all sizes.</szBRDesc>
+    <szItemName>Taktische Schlinge</szItemName>
+    <szLongItemName>Taktische Schlinge</szLongItemName>
+    <szItemDesc>Mit diesem Einpunktriemen können Waffen sicher und flexibel getragen werden.</szItemDesc>
+    <szBRName>Taktische Schlinge</szBRName>
+    <szBRDesc>Mit diesem Einpunktriemen können Waffen sicher und flexibel getragen werden. Die Länge ist verstellbar und passt sich allen Größen an.</szBRDesc>
   </ITEM>
   <ITEM>
 		<uiIndex>1721</uiIndex>
-		<szItemName>Wooden Planks, small</szItemName>
-		<szLongItemName>Wooden Planks, small</szLongItemName>
-		<szItemDesc>Wooden Planks. 1x1</szItemDesc>
-		<szBRName>Wooden Planks, small</szBRName>
+		<szItemName>Holzbretter, klein</szItemName>
+		<szLongItemName>Holzbretter, klein</szLongItemName>
+		<szItemDesc>Holzbretter. 1x1</szItemDesc>
+		<szBRName>Holzbretter, klein</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1722</uiIndex>
-		<szItemName>Wooden Planks, medium</szItemName>
-		<szLongItemName>Wooden Planks, medium</szLongItemName>
-		<szItemDesc>Wooden Planks. 2x1</szItemDesc>
-		<szBRName>Wooden Planks, medium</szBRName>
+		<szItemName>Holzbretter, mittel</szItemName>
+		<szLongItemName>Holzbretter, mittel</szLongItemName>
+		<szItemDesc>Holzbretter. 2x1</szItemDesc>
+		<szBRName>Holzbretter, mittel</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1723</uiIndex>
-		<szItemName>Wooden Planks, large</szItemName>
-		<szLongItemName>Wooden Planks, large</szLongItemName>
-		<szItemDesc>Wooden Planks. 2x2</szItemDesc>
-		<szBRName>Wooden Planks, large</szBRName>
+		<szItemName>Holzbretter, groß</szItemName>
+		<szLongItemName>Holzbretter, groß</szLongItemName>
+		<szItemDesc>Holzbretter. 2x2</szItemDesc>
+		<szBRName>Holzbretter, groß</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1724</uiIndex>
-		<szItemName>Wooden Wall, small</szItemName>
-		<szLongItemName>Wooden Wall, small</szLongItemName>
-		<szItemDesc>A small wooden wall, used for construction.</szItemDesc>
-		<szBRName>Wooden Wall, small</szBRName>
+		<szItemName>Bretterwand, klein</szItemName>
+		<szLongItemName>Bretterwand, klein</szLongItemName>
+		<szItemDesc>Eine kleine Bretterwand, die für den Bau verwendet wird.</szItemDesc>
+		<szBRName>Bretterwand, klein</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1725</uiIndex>
-		<szItemName>Wooden Wall, large</szItemName>
-		<szLongItemName>Wooden Wall, large</szLongItemName>
-		<szItemDesc>A large wooden wall, used for construction.</szItemDesc>
-		<szBRName>Wooden Wall, large</szBRName>
+		<szItemName>Bretterwand, groß</szItemName>
+		<szLongItemName>Bretterwand, groß</szLongItemName>
+		<szItemDesc>Eine große Holzwand, die zum Bau verwendet wird</szItemDesc>
+		<szBRName>Bretterwand, groß</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1726</uiIndex>
-		<szItemName>Nails</szItemName>
-		<szLongItemName>Pack of Nails</szLongItemName>
-		<szItemDesc>A pack of eight inch nails. Useful for building stuff made of wood.</szItemDesc>
-		<szBRName>Pack of Nails</szBRName>
+		<szItemName>Packung Nägel</szItemName>
+		<szLongItemName>Packung Nägel</szLongItemName>
+		<szItemDesc>Eine Packung mit 8-Zoll-Nägeln. Nützlich für den Bau von Sachen aus Holz.</szItemDesc>
+		<szBRName>Packung Nägel</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1727</uiIndex>
-		<szItemName>Roof Collapse</szItemName>
-		<szLongItemName>Roof Collapse</szLongItemName>
-		<szItemDesc>INTERNAL ITEM, DO NOT USE!!!</szItemDesc>
-		<szBRName>Roof Collapse</szBRName>
+		<szItemName>Dacheinsturz</szItemName>
+		<szLongItemName>Dacheinsturz</szLongItemName>
+		<szItemDesc>INTERNER ARTIKEL, NICHT VERWENDEN!!!</szItemDesc>
+		<szBRName>Dacheinsturz</szBRName>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1728</uiIndex>
-		<szItemName>12g Shells 2 RS</szItemName>
-		<szLongItemName>Kaliber 12 Shells, 2 Rubber Slug</szLongItemName>
-		<szItemDesc>Rubber slugs are often used by riot police. They are labelled non-lethal, but killing someone with this is still possible.</szItemDesc>
-		<szBRName>12g Shells 2 Rubber</szBRName>
-		<szBRDesc>Rubber slugs are often used by riot police. They are labelled non-lethal, but killing someone with this is still possible.</szBRDesc>
+		<szItemName>12g Patronen 2 RS</szItemName>
+		<szLongItemName>Kaliber 12 Patronen, 2 Gummigeschosse</szLongItemName>
+		<szItemDesc>Gummigeschosse werden häufig von der Bereitschaftspolizei eingesetzt. Sie sind als nicht tödlich gekennzeichnet, aber es ist trotzdem möglich, jemanden damit zu töten.</szItemDesc>
+		<szBRName>Kaliber 12 Patronen, 2 Gummigeschosse</szBRName>
+		<szBRDesc>Gummigeschosse werden häufig von der Bereitschaftspolizei eingesetzt. Sie sind als nicht tödlich gekennzeichnet, aber es ist trotzdem möglich, jemanden damit zu töten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1729</uiIndex>
-		<szItemName>12g Shells 4 RS</szItemName>
-		<szLongItemName>Kaliber 12 Shells, 4 Rubber Slug</szLongItemName>
-		<szItemDesc>Rubber slugs are often used by riot police. They are labelled non-lethal, but killing someone with this is still possible.</szItemDesc>
-		<szBRName>12g Shells 4 Rubber</szBRName>
-		<szBRDesc>Rubber slugs are often used by riot police. They are labelled non-lethal, but killing someone with this is still possible.</szBRDesc>
+		<szItemName>12g Patronen 4 RS</szItemName>
+		<szLongItemName>Kaliber 12 Patronen, 4 Gummigeschosse</szLongItemName>
+		<szItemDesc>Gummigeschosse werden häufig von der Bereitschaftspolizei eingesetzt. Sie sind als nicht tödlich gekennzeichnet, aber es ist trotzdem möglich, jemanden damit zu töten.</szItemDesc>
+		<szBRName>12g Patronen 4 Gummi</szBRName>
+		<szBRDesc>Gummigeschosse werden häufig von der Bereitschaftspolizei eingesetzt. Sie sind als nicht tödlich gekennzeichnet, aber es ist trotzdem möglich, jemanden damit zu töten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1730</uiIndex>
-		<szItemName>12g Shells 7 RS</szItemName>
-		<szLongItemName>Kaliber 12 Shells, 7 Rubber Slug</szLongItemName>
-		<szItemDesc>Rubber slugs are often used by riot police. They are labelled non-lethal, but killing someone with this is still possible.</szItemDesc>
-		<szBRName>12g Shells 7 Rubber</szBRName>
-		<szBRDesc>Rubber slugs are often used by riot police. They are labelled non-lethal, but killing someone with this is still possible.</szBRDesc>
+		<szItemName>12g Patronen 7 RS</szItemName>
+		<szLongItemName>Kaliber 12 Patronen, 7 Gummigeschosse</szLongItemName>
+		<szItemDesc>Gummigeschosse werden häufig von der Bereitschaftspolizei eingesetzt. Sie sind als nicht tödlich gekennzeichnet, aber es ist trotzdem möglich, jemanden damit zu töten.</szItemDesc>
+		<szBRName>12g Patronen 7 Gummi</szBRName>
+		<szBRDesc>Gummigeschosse werden häufig von der Bereitschaftspolizei eingesetzt. Sie sind als nicht tödlich gekennzeichnet, aber es ist trotzdem möglich, jemanden damit zu töten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1731</uiIndex>
-		<szItemName>12g Shells 12 RS</szItemName>
-		<szLongItemName>Kaliber 12 Shells, 12 Rubber Slug</szLongItemName>
-		<szItemDesc>Rubber slugs are often used by riot police. They are labelled non-lethal, but killing someone with this is still possible.</szItemDesc>
-		<szBRName>12g Shells 12 Rubber</szBRName>
-		<szBRDesc>Rubber slugs are often used by riot police. They are labelled non-lethal, but killing someone with this is still possible.</szBRDesc>
+		<szItemName>12g Patronen 12 RS</szItemName>
+		<szLongItemName>Kaliber 12 Patronen, 12 Gummigeschosse</szLongItemName>
+		<szItemDesc>Gummigeschosse werden häufig von der Bereitschaftspolizei eingesetzt. Sie sind als nicht tödlich gekennzeichnet, aber es ist trotzdem möglich, jemanden damit zu töten.</szItemDesc>
+		<szBRName>12g Patronen 12 Gummi</szBRName>
+		<szBRDesc>Gummigeschosse werden häufig von der Bereitschaftspolizei eingesetzt. Sie sind als nicht tödlich gekennzeichnet, aber es ist trotzdem möglich, jemanden damit zu töten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1732</uiIndex>
 		<szItemName>12g Drum 20 RS</szItemName>
-		<szLongItemName>Kaliber 12 Drum, 20 Rubber Slug</szLongItemName>
-		<szItemDesc>Rubber slugs are often used by riot police. They are labelled non-lethal, but killing someone with this is still possible.</szItemDesc>
-		<szBRName>12g Shells 20 Rubber</szBRName>
-		<szBRDesc>Rubber slugs are often used by riot police. They are labelled non-lethal, but killing someone with this is still possible.</szBRDesc>
+		<szLongItemName>Kaliber 12 Drum, 20 Gummigeschosse</szLongItemName>
+		<szItemDesc>Gummigeschosse werden häufig von der Bereitschaftspolizei eingesetzt. Sie sind als nicht tödlich gekennzeichnet, aber es ist trotzdem möglich, jemanden damit zu töten.</szItemDesc>
+		<szBRName>12g Patronen 20 Gummi</szBRName>
+		<szBRDesc>Gummigeschosse werden häufig von der Bereitschaftspolizei eingesetzt. Sie sind als nicht tödlich gekennzeichnet, aber es ist trotzdem möglich, jemanden damit zu töten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1733</uiIndex>
 		<szItemName>12g Kiste RS</szItemName>
-		<szLongItemName>Kaliber 12 Munitions-Kiste, Rubber Slug</szLongItemName>
-		<szItemDesc>A really big box of ammunition. I don't think this will fit in your backpack...</szItemDesc>
-		<szBRName>12g Kiste Rubber</szBRName>
+		<szLongItemName>Kaliber 12 Munitions-Kiste, Gummigeschosse</szLongItemName>
+		<szItemDesc>Eine wirklich große Kiste mit Munition. Ich glaube nicht, dass die in deinen Rucksack passt...</szItemDesc>
+		<szBRName>12g Kiste Gummi</szBRName>
 		<szBRDesc>Wir bieten jetzt verschiedene Arten von Munition in großen Mengen an. Bitte beachten Sie die Preise und Gewichte der Munition Kistes vor dem Kauf.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1734</uiIndex>
 		<szItemName>12g Box RS</szItemName>
-		<szLongItemName>Kaliber 12 Box, Rubber Slug</szLongItemName>
-		<szItemDesc>Rubber slugs are often used by riot police. They are labelled non-lethal, but killing someone with this is still possible.</szItemDesc>
-		<szBRName>12g Box Rubber</szBRName>
-		<szBRDesc>Rubber slugs are often used by riot police. They are labelled non-lethal, but killing someone with this is still possible.</szBRDesc>
+		<szLongItemName>Kaliber 12 Box, Gummigeschosse</szLongItemName>
+		<szItemDesc>Gummigeschosse werden häufig von der Bereitschaftspolizei eingesetzt. Sie sind als nicht tödlich gekennzeichnet, aber es ist trotzdem möglich, jemanden damit zu töten.</szItemDesc>
+		<szBRName>12g Box Gummi</szBRName>
+		<szBRDesc>Gummigeschosse werden häufig von der Bereitschaftspolizei eingesetzt. Sie sind als nicht tödlich gekennzeichnet, aber es ist trotzdem möglich, jemanden damit zu töten.</szBRDesc>
 	</ITEM>
   <ITEM>
 		<uiIndex>1735</uiIndex>
-		<szItemName>Anti-tank Mine</szItemName>
-		<szLongItemName>TM-62P2 anti-tank Mine</szLongItemName>
-		<szItemDesc>A soviet anti-tank mine. It can penetrate the hull of a battle tank. Might put a dent into an Icecream truck.</szItemDesc>
+		<szItemName>Panzerabwehrmine</szItemName>
+		<szLongItemName>TM-62P2 Panzerabwehrmine</szLongItemName>
+		<szItemDesc>Eine sowjetische Panzerabwehrmine. Sie kann den Rumpf eines Kampfpanzers durchdringen. Könnte eine Delle in einen Eiswagen machen.</szItemDesc>
 		<szBRName>TM-62P2</szBRName>
-		<szBRDesc>Not even a tank is safe against these babies. The TM-62P2 uses a plastic casing, making it almost impossible to detect via metal detectors.</szBRDesc>		
+		<szBRDesc>Nicht einmal ein Panzer ist vor diesen Babies sicher. Der TM-62P2 hat ein Kunststoffgehäuse, das es fast unmöglich macht, ihn mit Metalldetektoren zu entdecken.</szBRDesc>		
 	</ITEM>
   <ITEM>
 		<uiIndex>1736</uiIndex>
 		<szItemName>Strela-2</szItemName>
 		<szLongItemName>Strela-2</szLongItemName>
-		<szItemDesc>This man-portable surface-to-air missile has seen widespread use in nearly every regional conflict since 1968.</szItemDesc>
+		<szItemDesc>Diese tragbare Boden-Luft-Rakete ist seit 1968 in fast allen regionalen Konflikten eingesetzt worden.</szItemDesc>
 		<szBRName>9k32 Strela-2</szBRName>
-		<szBRDesc>Another famous russian export, this MANPADS is comparable to its-Western counterparts but a lot cheaper. Get yours now!</szBRDesc>		
+		<szBRDesc>Ein weiterer berühmter russischer Export. Diese Sprengköpfe sind vergleichbar mit ihren westlichen Gegenstücken, aber viel billiger. Holen Sie sich Ihre jetzt!</szBRDesc>		
 	</ITEM>
 	<ITEM>
 		<uiIndex>1737</uiIndex>
-		<szItemName>Strela-2 Missile</szItemName>
-		<szLongItemName>Strela-2 Missile</szLongItemName>
-		<szItemDesc>A surface-to-air missile. Considering the price-tag, use against ground targets would be a waste.</szItemDesc>
-		<szBRName>Strela-2 Missile</szBRName>
-		<szBRDesc>A missile for the russian Strela-2. Best used against aircraft. And the sun, PBparently.</szBRDesc>		
+		<szItemName>Strela-2 Rakete</szItemName>
+		<szLongItemName>Strela-2 Rakete</szLongItemName>
+		<szItemDesc>Eine Boden-Luft-Rakete. In Anbetracht des Preises wäre ein Einsatz gegen Bodenziele eine Verschwendung.</szItemDesc>
+		<szBRName>Strela-2 Rakete</szBRName>
+		<szBRDesc>Eine Rakete für die russische Strela-2. Am besten gegen Flugzeuge einsetzbar. Und offenbar auch gegen die Sonne.</szBRDesc>		
 	</ITEM>
   	<ITEM>
 		<uiIndex>1738</uiIndex>
-		<szItemName>Minirockets Cryo</szItemName>
-		<szLongItemName>Minirockets, Cryo</szLongItemName>
-		<szItemDesc>Using extremely sophisticated technology, these rockets flash-freeze any organic material upon detonation. For the duration the target becomes essentially solid.</szItemDesc>
-		<szBRName>Minirockets Cryo</szBRName>
+		<szItemName>Mini-Raketen Cryo</szItemName>
+		<szLongItemName>Mini-Raketen Cryo</szLongItemName>
+		<szItemDesc>Diese Raketen verwenden eine extrem ausgeklügelte Technologie, die jegliches organische Material bei der Detonation einfriert.</szItemDesc>
+		<szBRName>Mini-Raketen Cryo</szBRName>
 		<szBRDesc>Not for sale by BR!</szBRDesc>		
 	</ITEM>
   <ITEM>
     <uiIndex>1739</uiIndex>
-    <szItemName>Roof Collapse Smoke</szItemName>
-    <szLongItemName>Roof Collapse Smoke</szLongItemName>
-    <szItemDesc>INTERNAL ITEM, DO NOT USE!!!</szItemDesc>
-    <szBRName>Roof Collapse Smoke</szBRName>
+    <szItemName>Dacheinsturz Rauch</szItemName>
+    <szLongItemName>Dacheinsturz Rauch</szLongItemName>
+    <szItemDesc>INTERNER ARTIKEL, NICHT VERWENDEN!!!</szItemDesc>
+    <szBRName>Dacheinsturz Rauch</szBRName>
   </ITEM>
   <ITEM>
     <uiIndex>1740</uiIndex>
     <szItemName>Soda</szItemName>
     <szLongItemName>Soda</szLongItemName>
-    <szItemDesc>For a mix of industrial sugar and chemicals you don't really want to know, this sure is refreshing.</szItemDesc>
+    <szItemDesc>Für eine Mischung aus Industriezucker und Chemikalien, die man eigentlich gar nicht kennen will, ist das wirklich erfrischend.</szItemDesc>
     <szBRName>Soda</szBRName>
-    <szBRDesc>Not for sale through BR.</szBRDesc>
+    <szBRDesc>Nicht zu kaufen über BR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1741</uiIndex>
-    <szItemName>Beartrap</szItemName>
-    <szLongItemName>Beartrap</szLongItemName>
-    <szItemDesc>Anyone careless enough to step into this will have to stay put for a while.</szItemDesc>
-    <szBRName>Beartrap</szBRName>
-    <szBRDesc>Recommended by ACME.</szBRDesc>
+    <szItemName>Bärenfalle</szItemName>
+    <szLongItemName>Bärenfalle</szLongItemName>
+    <szItemDesc>Jeder, der unvorsichtig genug ist, sich hier hineinzubegeben, wird eine Weile an Ort und Stelle bleiben müssen.</szItemDesc>
+    <szBRName>Bärenfalle</szBRName>
+    <szBRDesc>Empfohlen von ACME.</szBRDesc>
   </ITEM>
 </ITEMLIST>
