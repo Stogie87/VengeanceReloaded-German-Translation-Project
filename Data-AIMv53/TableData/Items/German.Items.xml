@@ -5805,10 +5805,10 @@
   </ITEM>
   <ITEM>
     <uiIndex>724</uiIndex>
-    <szItemName>Stechkin PBS</szItemName>
-    <szLongItemName>Stechkin PBS</szLongItemName>
+    <szItemName>Stechkin APS</szItemName>
+    <szLongItemName>Stechkin APS</szLongItemName>
     <szItemDesc>Diese MP wurde in den 50er Jahren entwickelt. Sie ist nicht besonders genau, hat jedoch eine sehr hohe Feuerrate.</szItemDesc>
-    <szBRName>Stechkin PBS</szBRName>
+    <szBRName>Stechkin APS</szBRName>
     <szBRDesc>Diese MP wurde in den 50er Jahren entwickelt. Sie besitzt eine S-F Abzugsgruppe, ist nicht besonders genau, hat jedoch eine sehr hohe Feuerrate.</szBRDesc>
   </ITEM>
   <ITEM>
@@ -7265,9 +7265,9 @@
     <uiIndex>906</uiIndex>
     <szItemName>GranW MGL</szItemName>
     <szLongItemName>Granatwerfer Milkor MGL</szLongItemName>
-    <szItemDesc>Ein mehrschüssiger Granatwerfer (Multiple Grenade Launcher), der nach dem Revolverprinzip arbeitet. Die sechs Kammern des Werfers lassen sich mit einer beliebigen Granatmischung im Kaliber 40mm bestücken.</szItemDesc>
+    <szItemDesc>Ein mehrschüssiger Granatwerfer (Multiple Granate Launcher), der nach dem Revolverprinzip arbeitet. Die sechs Kammern des Werfers lassen sich mit einer beliebigen Granatmischung im Kaliber 40mm bestücken.</szItemDesc>
     <szBRName>Granatwerfer Milkor MGL</szBRName>
-    <szBRDesc>Der halbautomatische mehrschüssige Granatwerfer (Multiple Grenade Launcher) von Milkor arbeitet nach dem Revolverprinzip arbeitet. Die sechs Kammern des Werfers lassen sich mit einer beliebigen Granatmischung im Kaliber 40mm bestücken.</szBRDesc>
+    <szBRDesc>Der halbautomatische mehrschüssige Granatwerfer (Multiple Granate Launcher) von Milkor arbeitet nach dem Revolverprinzip arbeitet. Die sechs Kammern des Werfers lassen sich mit einer beliebigen Granatmischung im Kaliber 40mm bestücken.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>907</uiIndex>
@@ -7441,9 +7441,9 @@
     <uiIndex>928</uiIndex>
     <szItemName>9x18 PB</szItemName>
     <szLongItemName>9x18mm MP-Mag, PB</szLongItemName>
-    <szItemDesc>Russische 9x18mm Patrone in panzerbrechender Stahlkernausführung. 12 Schuß-Magazin für Stechkin PBS.</szItemDesc>
+    <szItemDesc>Russische 9x18mm Patrone in panzerbrechender Stahlkernausführung. 12 Schuß-Magazin für Stechkin APS.</szItemDesc>
     <szBRName>9x18 Mag PB #20</szBRName>
-    <szBRDesc>Russische 9x18mm Patrone in panzerbrechender Stahlkernausführung. 12 Schuß-Magazin für Stechkin PBS.</szBRDesc>
+    <szBRDesc>Russische 9x18mm Patrone in panzerbrechender Stahlkernausführung. 12 Schuß-Magazin für Stechkin APS.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>929</uiIndex>
@@ -10935,7 +10935,7 @@
   <ITEM>
     <uiIndex>1365</uiIndex>
     <szItemName>9x18mm Mag 12 G</szItemName>
-    <szLongItemName>9x18mm Pistol Mag, 12 G</szLongItemName>
+    <szLongItemName>9x18mm Pistolen Mag, 12 G</szLongItemName>
     <szItemDesc>Ein PMM Pistolenmagazin mit 12 Defensivgeschossen 9x18mm vom Type Glas-Patronen mit Hydro-Schock.</szItemDesc>
     <szBRName>9x18mm Mag 12 G</szBRName>
     <szBRDesc>Ideale Verteidigunsmunition für Ihre PMM Seitenwaffe: 12 Defensivgeschosse 9x18mm Glas-Patronen mit Hydro-Schock. Wenn es mal eng wird...</szBRDesc>
@@ -10943,7 +10943,7 @@
   <ITEM>
     <uiIndex>1366</uiIndex>
     <szItemName>9x18mm Mag 8 G</szItemName>
-    <szLongItemName>9x18mm Pistol Mag, 8 G</szLongItemName>
+    <szLongItemName>9x18mm Pistolen Mag, 8 G</szLongItemName>
     <szItemDesc>Ein PM Pistolenmagazin mit 8 Defensivgeschossen 9x18mm vom Type Glas-Patronen mit Hydro-Schock.</szItemDesc>
     <szBRName>9x18mm Mag 8 G</szBRName>
     <szBRDesc>Ideale Verteidigunsmunition für Ihre kleine Makarow: 8 Defensivgeschosse 9x18mm Glas-Patronen mit Hydro-Schock. Wenn es mal sehr eng wird...</szBRDesc>
@@ -10952,9 +10952,9 @@
     <uiIndex>1367</uiIndex>
     <szItemName>9x18mm Mag 20 G</szItemName>
     <szLongItemName>9x18mm SMG Mag, 20 G</szLongItemName>
-    <szItemDesc>Ein PBS Pistolenmagazin mit 20 Defensivgeschossen 9x18mm vom Type Glas-Patronen mit Hydro-Schock. Damit zerreißen Sie jeden ungeschützten Gegner förmlich</szItemDesc>
+    <szItemDesc>Ein APS Pistolenmagazin mit 20 Defensivgeschossen 9x18mm vom Type Glas-Patronen mit Hydro-Schock. Damit zerreißen Sie jeden ungeschützten Gegner förmlich</szItemDesc>
     <szBRName>9x18mm Mag 20 G</szBRName>
-    <szBRDesc>Ein PMM Pistolenmagazin mit 20 Defensivgeschossen 9x18mm vom Type Glas-Patronen mit Hydro-Schock. Wenn Sie mal mit der PBS Stechkin auf Bärenjagd wollen - nur zu!</szBRDesc>
+    <szBRDesc>Ein PMM Pistolenmagazin mit 20 Defensivgeschossen 9x18mm vom Type Glas-Patronen mit Hydro-Schock. Wenn Sie mal mit der APS Stechkin auf Bärenjagd wollen - nur zu!</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1368</uiIndex>
@@ -17658,7 +17658,7 @@
 		<szLongItemName>7.62x37mm Munitionskiste, DU</szLongItemName>
 		<szItemDesc>Eine wirklich große Kiste mit Munition.  Ich glaube nicht, dass die in deinen Rucksack passt...</szItemDesc>
 		<szBRName>7.62x37mm DU Munitionskiste</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2205</uiIndex>
@@ -17714,22 +17714,22 @@
 		<szLongItemName>9x39mm SP-5 Munitionskiste</szLongItemName>
 		<szItemDesc>Munitionskiste</szItemDesc>
 		<szBRName>9x39mm SP-5 Munitionskiste</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2212</uiIndex>
-		<szItemName>.30-06 AP, 5</szItemName>
-		<szLongItemName>.30-06 AP, 5</szLongItemName>
+		<szItemName>.30-06 PB, 5</szItemName>
+		<szLongItemName>.30-06 PB, 5</szLongItemName>
 		<szItemDesc>.30-06 Springfield FMJ Munition.</szItemDesc>
-		<szBRName>.30-06 AP, 5</szBRName>
+		<szBRName>.30-06 PB, 5</szBRName>
 		<szBRDesc>5 Kugeln of .30-06 Munition.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2213</uiIndex>
-		<szItemName>.30-06 AP, 20</szItemName>
-		<szLongItemName>.30-06 AP, BAR 20</szLongItemName>
+		<szItemName>.30-06 PB, 20</szItemName>
+		<szLongItemName>.30-06 PB, BAR 20</szLongItemName>
 		<szItemDesc>Ein Magazin für das BAR.</szItemDesc>
-		<szBRName>.30-06 AP, BAR 20</szBRName>
+		<szBRName>.30-06 PB, BAR 20</szBRName>
 		<szBRDesc>Dieses Magazin für das M1918A2 BAR und fasst 20 Schuss .30-06-Munition.</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -17783,42 +17783,42 @@
 	<ITEM>
 		<uiIndex>2220</uiIndex>
 		<szItemName>9x19mm Mag 8 BAT</szItemName>
-		<szLongItemName>9x19mm Pistol Mag, 8 BAT</szLongItemName>
-		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power. It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szItemDesc>
+		<szLongItemName>9x19mm Pistolen Mag, 8 BAT</szLongItemName>
+		<szItemDesc>Die Geco Blitz Action Trauma 9mm Munition wurde für eine hohe Mann-Stopp-Wirkung entwickelt. Sie ist vergleichbar mit Hohlspitzgeschossen, hat eine etwas bessere Panzerungsdurchdringung, aber aufgrund der ungewöhnlichen Form eine geringere Reichweite.</szItemDesc>
 		<szBRName>9x19mm Mag 8 BAT</szBRName>
-		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szBRDesc>
+		<szBRDesc>Heutzutage ziemlich schwer zu finden. Die Geco Blitz Action Trauma 9mm Munition wurde für eine hohe Mann-Stopp-Wirkung entwickelt. Sie ist vergleichbar mit Hohlspitzgeschossen, hat eine etwas bessere Panzerungsdurchdringung, aber aufgrund der ungewöhnlichen Form eine geringere Reichweite.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2221</uiIndex>
 		<szItemName>9x19mm Mag 15 BAT</szItemName>
-		<szLongItemName>9x19mm Pistol Mag, 15 BAT</szLongItemName>
-		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szItemDesc>
+		<szLongItemName>9x19mm Pistolen Mag, 15 BAT</szLongItemName>
+		<szItemDesc>Die Geco Blitz Action Trauma 9mm Munition wurde für eine hohe Mann-Stopp-Wirkung entwickelt. Sie ist vergleichbar mit Hohlspitzgeschossen, hat eine etwas bessere Panzerungsdurchdringung, aber aufgrund der ungewöhnlichen Form eine geringere Reichweite.</szItemDesc>
 		<szBRName>9x19mm Mag 15 BAT</szBRName>
-		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szBRDesc>
+		<szBRDesc>Heutzutage ziemlich schwer zu finden. Die Geco Blitz Action Trauma 9mm Munition wurde für eine hohe Mann-Stopp-Wirkung entwickelt. Sie ist vergleichbar mit Hohlspitzgeschossen, hat eine etwas bessere Panzerungsdurchdringung, aber aufgrund der ungewöhnlichen Form eine geringere Reichweite.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2222</uiIndex>
 		<szItemName>9x19mm SMG Mag BAT</szItemName>
 		<szLongItemName>9x19mm SMG Mag, BAT</szLongItemName>
-		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szItemDesc>
+		<szItemDesc>Die Geco Blitz Action Trauma 9mm Munition wurde für eine hohe Mann-Stopp-Wirkung entwickelt. Sie ist vergleichbar mit Hohlspitzgeschossen, hat eine etwas bessere Panzerungsdurchdringung, aber aufgrund der ungewöhnlichen Form eine geringere Reichweite.</szItemDesc>
 		<szBRName>9x19mm SMG Mag BAT</szBRName>
-		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szBRDesc>
+		<szBRDesc>Heutzutage ziemlich schwer zu finden. Die Geco Blitz Action Trauma 9mm Munition wurde für eine hohe Mann-Stopp-Wirkung entwickelt. Sie ist vergleichbar mit Hohlspitzgeschossen, hat eine etwas bessere Panzerungsdurchdringung, aber aufgrund der ungewöhnlichen Form eine geringere Reichweite.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2223</uiIndex>
 		<szItemName>9x19mm Lrg Mag BAT</szItemName>
 		<szLongItemName>9x19mm Large Mag, BAT</szLongItemName>
-		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szItemDesc>
+		<szItemDesc>Die Geco Blitz Action Trauma 9mm Munition wurde für eine hohe Mann-Stopp-Wirkung entwickelt. Sie ist vergleichbar mit Hohlspitzgeschossen, hat eine etwas bessere Panzerungsdurchdringung, aber aufgrund der ungewöhnlichen Form eine geringere Reichweite.</szItemDesc>
 		<szBRName>9x19mm Lrg Mag BAT</szBRName>
-		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szBRDesc>
+		<szBRDesc>Heutzutage ziemlich schwer zu finden. Die Geco Blitz Action Trauma 9mm Munition wurde für eine hohe Mann-Stopp-Wirkung entwickelt. Sie ist vergleichbar mit Hohlspitzgeschossen, hat eine etwas bessere Panzerungsdurchdringung, aber aufgrund der ungewöhnlichen Form eine geringere Reichweite.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2224</uiIndex>
 		<szItemName>9x19mm C-Mag BAT</szItemName>
 		<szLongItemName>9x19mm C-Mag, BAT</szLongItemName>
-		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szItemDesc>
+		<szItemDesc>Die Geco Blitz Action Trauma 9mm Munition wurde für eine hohe Mann-Stopp-Wirkung entwickelt. Sie ist vergleichbar mit Hohlspitzgeschossen, hat eine etwas bessere Panzerungsdurchdringung, aber aufgrund der ungewöhnlichen Form eine geringere Reichweite.</szItemDesc>
 		<szBRName>9x19mm C-Mag BAT</szBRName>
-		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szBRDesc>
+		<szBRDesc>Heutzutage ziemlich schwer zu finden. Die Geco Blitz Action Trauma 9mm Munition wurde für eine hohe Mann-Stopp-Wirkung entwickelt. Sie ist vergleichbar mit Hohlspitzgeschossen, hat eine etwas bessere Panzerungsdurchdringung, aber aufgrund der ungewöhnlichen Form eine geringere Reichweite.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2225</uiIndex>
@@ -17826,31 +17826,31 @@
 		<szLongItemName>9x19mm BAT Munitionskiste</szLongItemName>
 		<szItemDesc>Munitionskiste</szItemDesc>
 		<szBRName>9x19mm BAT Munitionskiste</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2226</uiIndex>
 		<szItemName>.30-06 XP3, 5</szItemName>
 		<szLongItemName>.30-06 XP3, 5</szLongItemName>
-		<szItemDesc>2-Stage expansion polymer tipped bullets designed to take down the biggest of game.</szItemDesc>
+		<szItemDesc>2-Stufen-Expansionspolymergeschosse, die auch das größte Wild zur Strecke bringen.</szItemDesc>
 		<szBRName>.30-06 XP3, 5</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2227</uiIndex>
 		<szItemName>.30-06 XP3, 8</szItemName>
 		<szLongItemName>.30-06 XP3, 8</szLongItemName>
-		<szItemDesc>A clip holding 8 rounds of FMJ ammo in the venerable .30-06 caliber.</szItemDesc>
+		<szItemDesc>Ein Magazin für 8 Schuss FMJ-Munition im bewährten Kaliber .30-06.</szItemDesc>
 		<szBRName>.30-06 XP3, 8</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2228</uiIndex>
 		<szItemName>.30-06 XP3, 20</szItemName>
 		<szLongItemName>.30-06 XP3, 20</szLongItemName>
-		<szItemDesc>A magazine suitable for the BAR holding 2-stage expanding deer hunting bullets.</szItemDesc>
+		<szItemDesc>Ein für die BAR geeignetes Magazin mit 2-stufig expandierenden Hirschjagdgeschossen.</szItemDesc>
 		<szBRName>.30-06 XP3, 20</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2229</uiIndex>
@@ -17858,135 +17858,135 @@
 		<szLongItemName>.30-06 XP3 Munitionskiste</szLongItemName>
 		<szItemDesc>Munitionskiste</szItemDesc>
 		<szBRName>.30-06 XP3 Munitionskiste</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2230</uiIndex>
-		<szItemName>.30-06 AP, Ammo Belt</szItemName>
-		<szLongItemName>.30-06 AP, Ammo Belt</szLongItemName>
-		<szItemDesc>100 Rounds of .30-06 ammunition.</szItemDesc>
-		<szBRName>.30-06 AP, Ammo Belt</szBRName>
-		<szBRDesc>100 Rounds of .30-06 ammunition.</szBRDesc>
+		<szItemName>.30-06 PB, Munitionsgurt</szItemName>
+		<szLongItemName>.30-06 PB, Munitionsgurt</szLongItemName>
+		<szItemDesc>100 Schuss .30-06-Munition.</szItemDesc>
+		<szBRName>.30-06 PB, Munitionsgurt</szBRName>
+		<szBRDesc>100 Schuss .30-06-Munition.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2231</uiIndex>
-		<szItemName>.30-06 XP3, Ammo Belt</szItemName>
-		<szLongItemName>.30-06 XP3, Ammo Belt</szLongItemName>
-		<szItemDesc>.30-06 Springfield XP3 ammunition .</szItemDesc>
-		<szBRName>.30-06 XP3, Ammo Belt</szBRName>
-		<szBRDesc>.30-06 Springfield XP3 ammunition .</szBRDesc>
+		<szItemName>.30-06 XP3, Munitionsgurt</szItemName>
+		<szLongItemName>.30-06 XP3, Munitionsgurt</szLongItemName>
+		<szItemDesc>.30-06 Springfield XP3-Munition.</szItemDesc>
+		<szBRName>.30-06 XP3, Munitionsgurt</szBRName>
+		<szBRDesc>.30-06 Springfield XP3-Munition.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2232</uiIndex>
 		<szItemName>12g Patronen 2 HN</szItemName>
 		<szLongItemName>12 Gauge Patronen, 2 Hornet's Nest</szLongItemName>
-		<szItemDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szItemDesc>
+		<szItemDesc>Eine weniger tödliche Direktfeuer-Patrone im Kaliber 12, die 20 Gummigeschosse mit der Größe von .308 Patronen gleichzeitig abfeuert.</szItemDesc>
 		<szBRName>12g Patronen 2 Hornet's Nest</szBRName>
-		<szBRDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szBRDesc>
+		<szBRDesc>Eine weniger tödliche Direktfeuer-Patrone im Kaliber 12, die 20 Gummigeschosse mit der Größe von .308 Patronen gleichzeitig abfeuert.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2233</uiIndex>
 		<szItemName>12g Patronen 4 HN</szItemName>
 		<szLongItemName>12 Gauge Patronen, 4 Hornet's Nest</szLongItemName>
-		<szItemDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szItemDesc>
+		<szItemDesc>Eine weniger tödliche Direktfeuer-Patrone im Kaliber 12, die 20 Gummigeschosse mit der Größe von .308 Patronen gleichzeitig abfeuert.</szItemDesc>
 		<szBRName>12g Patronen 4 Hornet's Nest</szBRName>
-		<szBRDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szBRDesc>
+		<szBRDesc>Eine weniger tödliche Direktfeuer-Patrone im Kaliber 12, die 20 Gummigeschosse mit der Größe von .308 Patronen gleichzeitig abfeuert.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2234</uiIndex>
 		<szItemName>12g Patronen 7 HN</szItemName>
 		<szLongItemName>12 Gauge Patronen, 7 Hornet's Nest</szLongItemName>
-		<szItemDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szItemDesc>
+		<szItemDesc>Eine weniger tödliche Direktfeuer-Patrone im Kaliber 12, die 20 Gummigeschosse mit der Größe von .308 Patronen gleichzeitig abfeuert.</szItemDesc>
 		<szBRName>12g Patronen 7 Hornet's Nest</szBRName>
-		<szBRDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szBRDesc>
+		<szBRDesc>Eine weniger tödliche Direktfeuer-Patrone im Kaliber 12, die 20 Gummigeschosse mit der Größe von .308 Patronen gleichzeitig abfeuert.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2235</uiIndex>
 		<szItemName>12g Patronen 12 HN</szItemName>
 		<szLongItemName>12 Gauge Patronen, 12 Hornet's Nest</szLongItemName>
-		<szItemDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szItemDesc>
+		<szItemDesc>Eine weniger tödliche Direktfeuer-Patrone im Kaliber 12, die 20 Gummigeschosse mit der Größe von .308 Patronen gleichzeitig abfeuert.</szItemDesc>
 		<szBRName>12g Patronen 12 Hornet's Nest</szBRName>
-		<szBRDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szBRDesc>
+		<szBRDesc>Eine weniger tödliche Direktfeuer-Patrone im Kaliber 12, die 20 Gummigeschosse mit der Größe von .308 Patronen gleichzeitig abfeuert.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2236</uiIndex>
 		<szItemName>12g Drum 20 HN</szItemName>
 		<szLongItemName>12 Gauge Drum 20, Hornet's Nest</szLongItemName>
-		<szItemDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szItemDesc>
+		<szItemDesc>Eine weniger tödliche Direktfeuer-Patrone im Kaliber 12, die 20 Gummigeschosse mit der Größe von .308 Patronen gleichzeitig abfeuert.</szItemDesc>
 		<szBRName>12g Drum 20 Hornet's Nest</szBRName>
-		<szBRDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szBRDesc>
+		<szBRDesc>Eine weniger tödliche Direktfeuer-Patrone im Kaliber 12, die 20 Gummigeschosse mit der Größe von .308 Patronen gleichzeitig abfeuert.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2237</uiIndex>
 		<szItemName>12g Kiste HN</szItemName>
 		<szLongItemName>12 Gauge Munitionskiste Hornet's Nest</szLongItemName>
-		<szItemDesc>Ammo box with 12 gauge Hornet's Nest ammunition.</szItemDesc>
+		<szItemDesc>Munitionskiste mit Kaliber 12 Hornet's Nest-Munition.</szItemDesc>
 		<szBRName>12 Gauge Munitionskiste Hornet's Nest</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2238</uiIndex>
 		<szItemName>12g Patronen 2 HE</szItemName>
-		<szLongItemName>12 Gauge Patronen, 2 High Explosive</szLongItemName>
-		<szItemDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szItemDesc>
-		<szBRName>12g Patronen 2 High Explosive</szBRName>
-		<szBRDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szBRDesc>
+		<szLongItemName>12 Gauge Patronen, 2 Hochexplosiv</szLongItemName>
+		<szItemDesc>Experimentelle hochexplosive Schrotflinten-Patronen. Im Vergleich zu normalen Schrotflinten-Patronen haben diese Patronen eine etwas geringere Reichweite.</szItemDesc>
+		<szBRName>12g Patronen 2 Hochexplosiv</szBRName>
+		<szBRDesc>Experimentelle hochexplosive Schrotflinten-Patronen. Im Vergleich zu normalen Schrotflinten-Patronen haben diese Patronen eine etwas geringere Reichweite.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2239</uiIndex>
 		<szItemName>12g Patronen 4 HE</szItemName>
-		<szLongItemName>12 Gauge Patronen, 4 High Explosive</szLongItemName>
-		<szItemDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szItemDesc>
-		<szBRName>12g Patronen 4 High Explosive</szBRName>
-		<szBRDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szBRDesc>
+		<szLongItemName>12 Gauge Patronen, 4 Hochexplosiv</szLongItemName>
+		<szItemDesc>Experimentelle hochexplosive Schrotflinten-Patronen. Im Vergleich zu normalen Schrotflinten-Patronen haben diese Patronen eine etwas geringere Reichweite.</szItemDesc>
+		<szBRName>12g Patronen 4 Hochexplosiv</szBRName>
+		<szBRDesc>Experimentelle hochexplosive Schrotflinten-Patronen. Im Vergleich zu normalen Schrotflinten-Patronen haben diese Patronen eine etwas geringere Reichweite.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2240</uiIndex>
 		<szItemName>12g Patronen 7 HE</szItemName>
-		<szLongItemName>12 Gauge High Explosive, 7</szLongItemName>
-		<szItemDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szItemDesc>
-		<szBRName>12g Patronen 7 High Explosive</szBRName>
-		<szBRDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szBRDesc>
+		<szLongItemName>12 Gauge Hochexplosiv, 7</szLongItemName>
+		<szItemDesc>Experimentelle hochexplosive Schrotflinten-Patronen. Im Vergleich zu normalen Schrotflinten-Patronen haben diese Patronen eine etwas geringere Reichweite.</szItemDesc>
+		<szBRName>12g Patronen 7 Hochexplosiv</szBRName>
+		<szBRDesc>Experimentelle hochexplosive Schrotflinten-Patronen. Im Vergleich zu normalen Schrotflinten-Patronen haben diese Patronen eine etwas geringere Reichweite.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2241</uiIndex>
 		<szItemName>12g Patronen 12 HE</szItemName>
-		<szLongItemName>12 Gauge Patronen, 12 High Explosive</szLongItemName>
-		<szItemDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szItemDesc>
-		<szBRName>12g Patronen 12 High Explosive</szBRName>
-		<szBRDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szBRDesc>
+		<szLongItemName>12 Gauge Patronen, 12 Hochexplosiv</szLongItemName>
+		<szItemDesc>Experimentelle hochexplosive Schrotflinten-Patronen. Im Vergleich zu normalen Schrotflinten-Patronen haben diese Patronen eine etwas geringere Reichweite.</szItemDesc>
+		<szBRName>12g Patronen 12 Hochexplosiv</szBRName>
+		<szBRDesc>Experimentelle hochexplosive Schrotflinten-Patronen. Im Vergleich zu normalen Schrotflinten-Patronen haben diese Patronen eine etwas geringere Reichweite.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2242</uiIndex>
 		<szItemName>12g Drum 20 HE</szItemName>
-		<szLongItemName>12 Gauge Drum 20, High Explosive</szLongItemName>
-		<szItemDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szItemDesc>
-		<szBRName>12g Drum 20 High Explosive</szBRName>
-		<szBRDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szBRDesc>
+		<szLongItemName>12 Gauge Drum 20, Hochexplosiv</szLongItemName>
+		<szItemDesc>Experimentelle hochexplosive Schrotflinten-Patronen. Im Vergleich zu normalen Schrotflinten-Patronen haben diese Patronen eine etwas geringere Reichweite.</szItemDesc>
+		<szBRName>12g Drum 20 Hochexplosiv</szBRName>
+		<szBRDesc>Experimentelle hochexplosive Schrotflinten-Patronen. Im Vergleich zu normalen Schrotflinten-Patronen haben diese Patronen eine etwas geringere Reichweite.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2243</uiIndex>
-		<szItemName>12g Kiste High Explosive</szItemName>
-		<szLongItemName>12 Gauge Munitionskiste High Explosive</szLongItemName>
-		<szItemDesc>Ammo box with 12 gauge Hornet's Nest ammunition.</szItemDesc>
-		<szBRName>12 Gauge Munitionskiste High Explosive</szBRName>
-		<szBRDesc>2000 shots of 12 gauge High Explosive ammunition.</szBRDesc>
+		<szItemName>12g Kiste Hochexplosiv</szItemName>
+		<szLongItemName>12 Gauge Munitionskiste Hochexplosiv</szLongItemName>
+		<szItemDesc>Munitionskiste mit Kaliber 12 Hornet's Nest-Munition.</szItemDesc>
+		<szBRName>12 Gauge Munitionskiste Hochexplosiv</szBRName>
+		<szBRDesc>2000 shots of 12 gauge Hochexplosiv ammunition.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2244</uiIndex>
 		<szItemName>9x21 SP-11, 18</szItemName>
 		<szLongItemName>9x21mm SP-11, 18</szLongItemName>
-		<szItemDesc>The SP-11 ammunition has verly low recoil, resulting in more accurate shots, but reduced penetration.</szItemDesc>
+		<szItemDesc>Die SP-11 Munition hat einen sehr geringen Rückstoß, was zu präziseren Schüssen, aber geringerer Durchschlagskraft führt.</szItemDesc>
 		<szBRName>9x21mm SP-11, 18</szBRName>
-		<szBRDesc>The SP-11 ammunition has verly low recoil, resulting in more accurate shots, but reduced penetration.</szBRDesc>
+		<szBRDesc>Die SP-11 Munition hat einen sehr geringen Rückstoß, was zu präziseren Schüssen, aber geringerer Durchschlagskraft führt.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2245</uiIndex>
 		<szItemName>9x21 SP-11, 30</szItemName>
 		<szLongItemName>9x21mm SP-11, 30</szLongItemName>
-		<szItemDesc>The SP-11 ammunition has verly low recoil, resulting in more accurate shots, but reduced penetration.</szItemDesc>
+		<szItemDesc>Die SP-11 Munition hat einen sehr geringen Rückstoß, was zu präziseren Schüssen, aber geringerer Durchschlagskraft führt.</szItemDesc>
 		<szBRName>9x21mm SP-11, 30</szBRName>
-		<szBRDesc>The SP-11 ammunition has verly low recoil, resulting in more accurate shots, but reduced penetration.</szBRDesc>
+		<szBRDesc>Die SP-11 Munition hat einen sehr geringen Rückstoß, was zu präziseren Schüssen, aber geringerer Durchschlagskraft führt.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2246</uiIndex>
@@ -17994,23 +17994,23 @@
 		<szLongItemName>9x21mm SP-11 Munitionskiste</szLongItemName>
 		<szItemDesc>Munitionskiste</szItemDesc>
 		<szBRName>9x21mm SP-11 Munitionskiste</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2247</uiIndex>
 		<szItemName>9x19mm Box BAT</szItemName>
 		<szLongItemName>9x19mm Box, BAT</szLongItemName>
-		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szItemDesc>
+		<szItemDesc>Die Geco Blitz Action Trauma 9mm Munition wurde für eine hohe Mann-Stopp-Wirkung entwickelt. Sie ist vergleichbar mit Hohlspitzgeschossen, hat eine etwas bessere Panzerungsdurchdringung, aber aufgrund der ungewöhnlichen Form eine geringere Reichweite.</szItemDesc>
 		<szBRName>9x19mm Box BAT</szBRName>
-		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, but has slightly better armor penetration. Save 10 percent on buying this 150 round box.</szBRDesc>
+		<szBRDesc>Heutzutage ziemlich schwer zu finden. Die Geco Blitz Action Trauma 9mm Munition wurde für eine hohe Mann-Stopp-Wirkung entwickelt. Sie ist vergleichbar mit Hohlspitzgeschossen, hat eine etwas bessere Panzerungsdurchdringung, aber aufgrund der ungewöhnlichen Form eine geringere Reichweite.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2248</uiIndex>
 		<szItemName>12g Box HE</szItemName>
-		<szLongItemName>12g Box, High Explosive</szLongItemName>
-		<szItemDesc>Experimental High Explosive shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szItemDesc>
+		<szLongItemName>12g Box, Hochexplosiv</szLongItemName>
+		<szItemDesc>Experimentelle Hochexplosiv-Schrotflinten-Patronen. Im Vergleich zu regulären Schrotflinten-Patronen haben diese Patronen eine leicht verringerte Reichweite.</szItemDesc>
 		<szBRName>12g Box HE</szBRName>
-		<szBRDesc>Experimental High Explosive shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range. Save 10 percent on buying this box with 50 rounds.</szBRDesc>
+		<szBRDesc>Experimentelle Hochexplosiv-Schrotflinten-Patronen. Im Vergleich zu regulären Schrotflinten-Patronen haben diese Patronen eine leicht verringerte Reichweite. Sparen Sie 10 Prozent beim Kauf dieser 50er Box.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2249</uiIndex>
@@ -18018,263 +18018,263 @@
 		<szLongItemName>12g Box, PolySchock</szLongItemName>
 		<szItemDesc>PolySchock 12-Gauge-Schrotflintenmunition hat eine höhere Mann-Stopp-Wirkung und ein geringeres Potenzial für Kollateralschäden als jede andere Schrotflintenmunition.</szItemDesc>
 		<szBRName>12g Box, PolySchock</szBRName>
-		<szBRDesc>PolySchock 12-Gauge-Schrotflintenmunition hat eine höhere Mann-Stopp-Wirkung und ein geringeres Potenzial für Kollateralschäden als jede andere Schrotflintenmunition. Save 10 percent on buying this box with 50 rounds.</szBRDesc>
+		<szBRDesc>PolySchock 12-Gauge-Schrotflintenmunition hat eine höhere Mann-Stopp-Wirkung und ein geringeres Potenzial für Kollateralschäden als jede andere Schrotflintenmunition. Sparen Sie 10 Prozent beim Kauf dieser 50er Box.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2250</uiIndex>
 		<szItemName>12g Box HN</szItemName>
 		<szLongItemName>12g Box, Hornet's Nest</szLongItemName>
-		<szItemDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szItemDesc>
+		<szItemDesc>Eine weniger tödliche Direktfeuer-Patrone im Kaliber 12, die 20 Gummigeschosse mit der Größe von .308 Patronen gleichzeitig abfeuert.</szItemDesc>
 		<szBRName>12g Box HN</szBRName>
-		<szBRDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles. Save 10 percent on buying this box with 50 rounds.</szBRDesc>
+		<szBRDesc>Eine weniger tödliche Direktfeuer-Patrone im Kaliber 12, die 20 Gummigeschosse mit der Größe von .308 Patronen gleichzeitig abfeuert. Sparen Sie 10 Prozent beim Kauf dieser 50er Box.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2251</uiIndex>
 		<szItemName>9x21 Box SP-11</szItemName>
 		<szLongItemName>9x21 Box, SP-11</szLongItemName>
-		<szItemDesc>The SP-11 ammunition has very low recoil, resulting in more accurate shots, but reduced penetration.</szItemDesc>
+		<szItemDesc>Die SP-11 Munition hat einen sehr geringen Rückstoß, was zu präziseren Schüssen, aber geringerer Durchschlagskraft führt.</szItemDesc>
 		<szBRName>9x21 Box SP-11</szBRName>
-		<szBRDesc>The SP-11 ammunition has very low recoil, resulting in more accurate shots, but reduced penetration.</szBRDesc>
+		<szBRDesc>Die SP-11 Munition hat einen sehr geringen Rückstoß, was zu präziseren Schüssen, aber geringerer Durchschlagskraft führt.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2252</uiIndex>
 		<szItemName>.454 Box</szItemName>
 		<szLongItemName>.454 Box</szLongItemName>
-		<szItemDesc>.454 Casull is a round developed for some truly large revolvers.</szItemDesc>
+		<szItemDesc>.Die .454 Casull ist eine Kugel, die für einige wirklich große Revolver entwickelt wurde.</szItemDesc>
 		<szBRName>.454 Box</szBRName>
-		<szBRDesc>.454 Casull is a round developed for some truly large revolvers. Save 10 percent on buying this box with 60 rounds.</szBRDesc>
+		<szBRDesc>.Die .454 Casull ist eine Kugel, die für einige wirklich große Revolver entwickelt wurde. Sparen Sie 10 Prozent beim Kauf dieser 60er Box.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2253</uiIndex>
-		<szItemName>.454 Box AP</szItemName>
-		<szLongItemName>.454 Box, AP</szLongItemName>
-		<szItemDesc>.454 Casull Armor Piercers meet any need for self-defense ammo.</szItemDesc>
-		<szBRName>.454 Box AP</szBRName>
-		<szBRDesc>.454 Casull Armor Piercers meet any need for self-defense ammo. Save 10 percent on buying this box with 60 rounds.</szBRDesc>
+		<szItemName>.454 Box PB</szItemName>
+		<szLongItemName>.454 Box, PB</szLongItemName>
+		<szItemDesc>.454 Casull Armor Piercers erfüllen alle Anforderungen an Selbstverteidigungsmunition.</szItemDesc>
+		<szBRName>.454 Box PB</szBRName>
+		<szBRDesc>.454 Casull Armor Piercers erfüllen alle Anforderungen an Selbstverteidigungsmunition. Sparen Sie 10 Prozent beim Kauf dieser 60er Box.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2254</uiIndex>
-		<szItemName>.454 Box HP</szItemName>
-		<szLongItemName>.454 Box, HP</szLongItemName>
-		<szItemDesc>.454 Casull Hollow Point ammunition, if you use your revolver for hunting.</szItemDesc>
-		<szBRName>.454 Box HP</szBRName>
-		<szBRDesc>.454 Casull Hollow Point ammunition, if you use your revolver for hunting. Save 10 percent on buying this box with 60 rounds.</szBRDesc>
+		<szItemName>.454 Box HS</szItemName>
+		<szLongItemName>.454 Box, HS</szLongItemName>
+		<szItemDesc>.454 Casull Hohlspitzmunition, wenn Sie Ihren Revolver für die Jagd verwenden.</szItemDesc>
+		<szBRName>.454 Box HS</szBRName>
+		<szBRDesc>.454 Casull Hohlspitzmunition, wenn Sie Ihren Revolver für die Jagd verwenden. Sparen Sie 10 Prozent beim Kauf dieser 60er Box.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2255</uiIndex>
 		<szItemName>.30-06 Box XP3</szItemName>
 		<szLongItemName>.30-06 Box, XP3</szLongItemName>
-		<szItemDesc>These brass cased, polymer tipped bullets provide a rapid 2-stage expansion on impact delivering devastatingly large wounds intended to knock down the largest of game such as elk and bears.</szItemDesc>
+		<szItemDesc>Diese mit Messing ummantelten Geschosse mit Polymerspitze bieten eine schnelle 2-stufige Ausweitung beim Aufprall und liefern verheerend große Wunden, die selbst das größte Wild wie Elche und Bären zur Strecke bringen.</szItemDesc>
 		<szBRName>.30-06 Box XP3</szBRName>
-		<szBRDesc>Due to its 2-stage expansion design, the XP3 provides extreme knockdown power, and deep penetration all in one package. Save 10 percent when purchasing our bulk 50 rounds boxes.</szBRDesc>
+		<szBRDesc>Dank des 2-stufigen Expansionsdesigns bietet die XP3 extreme Durchschlagskraft und hohe Penetration in einem Paket. Sparen Sie 10 Prozent beim Kauf unserer Großpackungen mit 50 Schuss.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2256</uiIndex>
 		<szItemName>9x39mm Box SP-5</szItemName>
 		<szLongItemName>9x39mm Box, SP-5</szLongItemName>
-		<szItemDesc>The match version of the 9x39mm round used by certain Russian silenced rifles doesn't have quite the armor piercing capabilities of the SP-6 ammo, but it is quite effective with long range shots.</szItemDesc>
+		<szItemDesc>Die Match-Version der 9x39mm Munition, die von bestimmten russischen schallgedämpften Gewehren verwendet wird, hat nicht ganz die panzerbrechende Wirkung der SP-6 Munition, ist aber bei Schüssen auf große Entfernungen recht effektiv.</szItemDesc>
 		<szBRName>9x39mm Box, SP-5</szBRName>
-		<szBRDesc>The match version of the 9x39mm subsonic round used by certain Russian silenced rifles provides excellent accuracy on long range shots without waking the neighbors.</szBRDesc>
+		<szBRDesc>Die Match-Version der 9x39mm Unterschallmunition, die von bestimmten russischen schallgedämpften Gewehren verwendet wird, bietet eine hervorragende Präzision bei Schüssen auf große Entfernungen, ohne die Nachbarn zu wecken.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2257</uiIndex>
-		<szItemName>.50 Beowulf 30 AP</szItemName>
-		<szLongItemName>.50 Beowulf Magazine, 30 AP</szLongItemName>
-		<szItemDesc>A 30-round AP clip for the .50 Beowulf Rifle</szItemDesc>
-		<szBRName>.50 Beowulf 30 AP</szBRName>
-		<szBRDesc>30 rounds of the highpowered .50 Beowulf ammo, just the thing for stopping vehicles.</szBRDesc>
+		<szItemName>.50 Beowulf 30 PB</szItemName>
+		<szLongItemName>.50 Beowulf Magazin, 30 PB</szLongItemName>
+		<szItemDesc>Ein PB-Magazin mit 30 Schuss für das .50 Beowulf Gewehr</szItemDesc>
+		<szBRName>.50 Beowulf 30 PB</szBRName>
+		<szBRDesc>30 Schuss der leistungsstarken .50 Beowulf-Munition. Genau das Richtige, um Fahrzeuge zu stoppen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2258</uiIndex>
-		<szItemName>.50 Beowulf 30 HP</szItemName>
-		<szLongItemName>.50 Bewoulf Magazine, 30 HP</szLongItemName>
-		<szItemDesc>A 30-round HP clip for the .50 Beowulf Rifle</szItemDesc>
-		<szBRName>.50 Beowulf 30 HP</szBRName>
-		<szBRDesc>A clip of 30 Hollow Point rounds, perfect for harassing big pussycats.</szBRDesc>
+		<szItemName>.50 Beowulf 30 HS</szItemName>
+		<szLongItemName>.50 Beowulf Magazin, 30 HS</szLongItemName>
+		<szItemDesc>Ein HS-Magazin mit 30 Schuss für das .50 Beowulf-Gewehr</szItemDesc>
+		<szBRName>.50 Beowulf 30 HS</szBRName>
+		<szBRDesc>Ein Magazin mit 30 Hohlspitzgeschossen, perfekt für die Verfolgung großer Miezekatzen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2259</uiIndex>
-		<szItemName>.454 C Rounds # 8</szItemName>
-		<szLongItemName>.454 C Rounds # 8</szLongItemName>
-		<szItemDesc>.454 Casull ammunition, suitable for a bigbore rifle.</szItemDesc>
-		<szBRName>.454 C Rounds # 8</szBRName>
-		<szBRDesc>.454 Casull ammunition, suitable for a bigbore rifle.</szBRDesc>
+		<szItemName>.454 C Patronen # 8</szItemName>
+		<szLongItemName>.454 C Patronen # 8</szLongItemName>
+		<szItemDesc>.454 Casull-Munition, geeignet für ein Großkalibergewehr.</szItemDesc>
+		<szBRName>.454 C Patronen # 8</szBRName>
+		<szBRDesc>.454 Casull-Munition, geeignet für ein Großkalibergewehr.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2260</uiIndex>
-		<szItemName>.454 C Rounds HP # 8</szItemName>
-		<szLongItemName>.454 C Rounds HP # 8</szLongItemName>
-		<szItemDesc>.454 Casull Hollow Point ammunition, suitable for a bigbore rifle.</szItemDesc>
-		<szBRName>.454 C Rounds HP # 8</szBRName>
-		<szBRDesc>.454 Casull ammunition, suitable for a bigbore rifle.</szBRDesc>
+		<szItemName>.454 C Patronen HS # 8</szItemName>
+		<szLongItemName>.454 C Patronen HS # 8</szLongItemName>
+		<szItemDesc>.454 Casull Hohlspitzmunition, geeignet für ein Großkalibergewehr.</szItemDesc>
+		<szBRName>.454 C Patronen HS # 8</szBRName>
+		<szBRDesc>.454 Casull-Munition, geeignet für ein Großkalibergewehr.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2261</uiIndex>
-		<szItemName>.454 C Rounds AP # 8</szItemName>
-		<szLongItemName>.454 C Rounds AP # 8</szLongItemName>
-		<szItemDesc>.454 Casull Armor Piercing ammunition, suitable for a bigbore rifle.</szItemDesc>
-		<szBRName>.454 C Rounds AP # 8</szBRName>
-		<szBRDesc>.454 Casull Armor Piercing ammunition, suitable for a bigbore rifle.</szBRDesc>
+		<szItemName>.454 C Patronen PB # 8</szItemName>
+		<szLongItemName>.454 C Patronen PB # 8</szLongItemName>
+		<szItemDesc>.454 Casull Panzerbrechende Munition, geeignet für ein Großkalibergewehr.</szItemDesc>
+		<szBRName>.454 C Patronen PB # 8</szBRName>
+		<szBRDesc>.454 Casull Panzerbrechende Munition, geeignet für ein Großkalibergewehr.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2262</uiIndex>
 		<szItemName>.22 LR Box</szItemName>
 		<szLongItemName>.22 LR Box</szLongItemName>
-		<szItemDesc>This box contains .22 LR ball ammunition.</szItemDesc>
+		<szItemDesc>Diese Schachtel enthält .22 LR Kugelmunition.</szItemDesc>
 		<szBRName>.22 LR Box</szBRName>
-		<szBRDesc>A box with 150 Rounds of .22 LR ball ammunition. Excellent for target practice at an affordable price.</szBRDesc>
+		<szBRDesc>Eine Schachtel mit 150 Patronen .22 LR Kugelmunition. Hervorragend geeignet für Zielübungen zu einem erschwinglichen Preis.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2263</uiIndex>
 		<szItemName>.22 LR Box M</szItemName>
 		<szLongItemName>.22 LR Box, Match</szLongItemName>
-		<szItemDesc>This box contains .22 LR match ammunition.</szItemDesc>
+		<szItemDesc>Diese Schachtel enthält .22 LR Match-Munition.</szItemDesc>
 		<szBRName>.22 LR Box M</szBRName>
-		<szBRDesc>For optimal performance and reliablity these 150 Rounds of .22 LR match ammunition will provide better accuracy than any other .22 bullet we have on sale.</szBRDesc>
+		<szBRDesc>Für optimale Leistung und Zuverlässigkeit bieten diese 150 Patronen .22 LR Match-Munition eine bessere Präzision als jedes andere .22-Geschoss, das wir im Angebot haben.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2264</uiIndex>
 		<szItemName>.22 LR Box Rat shot</szItemName>
 		<szLongItemName>.22 LR Box, Rat shot</szLongItemName>
-		<szItemDesc>Snake shot or Rat shot is a 22 round loaded with small lead shot, designed for pest control.</szItemDesc>
+		<szItemDesc>Schlangenschrot oder Rattenschrot ist eine 22er Patrone, die mit kleinen Bleischroten geladen ist und zur Schädlingsbekämpfung dient.</szItemDesc>
 		<szBRName>.22 LR Box RS</szBRName>
-		<szBRDesc>If you need to get rid of vermin, this 150 round box of .22 LR Rat shot should do the job.</szBRDesc>
+		<szBRDesc>Wenn Sie Ungeziefer loswerden müssen, ist diese 150-Schuss-Packung .22 LR Rat Shot genau das Richtige für Sie.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2265</uiIndex>
-		<szItemName>.22 LR Box HP</szItemName>
-		<szLongItemName>.22 LR Box, HP</szLongItemName>
-		<szItemDesc>This box contains .22 LR hyper velocity hollow point ammunition.</szItemDesc>
-		<szBRName>.22 LR Box HP</szBRName>
-		<szBRDesc>This box contains .22 LR hyper velocity hollow point ammunition. Great for hunting small animals.</szBRDesc>
+		<szItemName>.22 LR Box HS</szItemName>
+		<szLongItemName>.22 LR Box, HS</szLongItemName>
+		<szItemDesc>Diese Schachtel enthält .22 LR Hochgeschwindigkeits-Hohlspitzmunition.</szItemDesc>
+		<szBRName>.22 LR Box HS</szBRName>
+		<szBRDesc>Diese Schachtel enthält .22 LR Hochgeschwindigkeits-Hohlspitzmunition. Ideal für die Jagd auf kleine Tiere.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2266</uiIndex>
 		<szItemName>.22 LR Kiste</szItemName>
 		<szLongItemName>.22 LR Munitionskiste</szLongItemName>
-		<szItemDesc>Kiste of .22 LR ammunition.</szItemDesc>
+		<szItemDesc>Kiste mit .22 LR-Munition.</szItemDesc>
 		<szBRName>.22 LR Kiste</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2267</uiIndex>
 		<szItemName>.22 LR Kiste M</szItemName>
 		<szLongItemName>.22 LR Munitionskiste, Match</szLongItemName>
-		<szItemDesc>Kiste of .22 LR ammunition.</szItemDesc>
+		<szItemDesc>Kiste mit .22 LR-Munition.</szItemDesc>
 		<szBRName>.22 LR Kiste M</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2268</uiIndex>
 		<szItemName>.22 LR Kiste RS</szItemName>
 		<szLongItemName>.22 LR Munitionskiste, Rat shot</szLongItemName>
-		<szItemDesc>Kiste of .22 LR ammunition.</szItemDesc>
+		<szItemDesc>Kiste mit .22 LR-Munition.</szItemDesc>
 		<szBRName>.22 LR Kiste, RS</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2269</uiIndex>
-		<szItemName>.22 LR Kiste HP</szItemName>
-		<szLongItemName>.22 LR Kiste, HP</szLongItemName>
-		<szItemDesc>Kiste of .22 LR ammunition.</szItemDesc>
-		<szBRName>.22 LR Kiste HP</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szItemName>.22 LR Kiste HS</szItemName>
+		<szLongItemName>.22 LR Kiste, HS</szLongItemName>
+		<szItemDesc>Kiste mit .22 LR-Munition.</szItemDesc>
+		<szBRName>.22 LR Kiste HS</szBRName>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2270</uiIndex>
 		<szItemName>.22 LR Mag 10</szItemName>
 		<szLongItemName>.22 LR Mag, 10</szLongItemName>
-		<szItemDesc>A 10 round magazine .22 LR ammunition.</szItemDesc>
+		<szItemDesc>Ein 10-Schuss Magazin mit .22 LR-Patronen.</szItemDesc>
 		<szBRName>.22 LR Mag, 10</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2271</uiIndex>
 		<szItemName>.22 LR Mag M 10</szItemName>
 		<szLongItemName>.22 LR Mag Match, 10</szLongItemName>
-		<szItemDesc>A 10 round magazine .22 LR Match ammunition.</szItemDesc>
+		<szItemDesc>Ein 10-Schuss Magazin mit .22 LR Match-Patronen.</szItemDesc>
 		<szBRName>.22 LR Mag Match, 10</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2272</uiIndex>
 		<szItemName>.22 LR Mag R 10</szItemName>
 		<szLongItemName>.22 LR Mag Rat shot, 10</szLongItemName>
-		<szItemDesc>A 10 round magazine .22 LR Rat shot.</szItemDesc>
+		<szItemDesc>Ein 10-Schuss Magazin .22 LR Rat shot.</szItemDesc>
 		<szBRName>.22 LR Mag Rat shot, 10</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2273</uiIndex>
-		<szItemName>.22 LR Mag HP 10</szItemName>
-		<szLongItemName>.22 LR Mag HP, 10</szLongItemName>
-		<szItemDesc>A 10 round magazine high velocity .22 LR hollow point ammunition.</szItemDesc>
-		<szBRName>.22 LR Mag HP, 10</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szItemName>.22 LR Mag HS 10</szItemName>
+		<szLongItemName>.22 LR Mag HS, 10</szLongItemName>
+		<szItemDesc>Ein 10-Schuss Magazin mit .22 LR Hochgeschwindigkeits-Hohlspitzmunition.</szItemDesc>
+		<szBRName>.22 LR Mag HS, 10</szBRName>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2274</uiIndex>
 		<szItemName>.22 LR Drum 200</szItemName>
 		<szLongItemName>.22 LR Drum, 200</szLongItemName>
-		<szItemDesc>A drum magazine .22 LR ammunition.</szItemDesc>
+		<szItemDesc>Ein Trommelmagazin mit .22 LR-Patronen.</szItemDesc>
 		<szBRName>.22 LR Drum, 200</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2275</uiIndex>
 		<szItemName>.22 LR Drum M 200</szItemName>
 		<szLongItemName>.22 LR Drum Match, 200</szLongItemName>
-		<szItemDesc>A drum magazine .22 LR ammunition.</szItemDesc>
+		<szItemDesc>Ein Trommelmagazin mit .22 LR-Patronen.</szItemDesc>
 		<szBRName>.22 LR Drum Match, 200</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2276</uiIndex>
 		<szItemName>.22 LR Drum R 200</szItemName>
 		<szLongItemName>.22 LR Drum Rat shot, 200</szLongItemName>
-		<szItemDesc>A drum magazine .22 LR ammunition.</szItemDesc>
+		<szItemDesc>Ein Trommelmagazin mit .22 LR-Patronen.</szItemDesc>
 		<szBRName>.22 LR Drum Rat shot, 200</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2277</uiIndex>
-		<szItemName>.22 LR Drum HP 200</szItemName>
-		<szLongItemName>.22 LR Drum HP, 200</szLongItemName>
-		<szItemDesc>A drum magazine .22 LR ammunition.</szItemDesc>
-		<szBRName>.22 LR Drum HP, 200</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szItemName>.22 LR Drum HS 200</szItemName>
+		<szLongItemName>.22 LR Drum HS, 200</szLongItemName>
+		<szItemDesc>Ein Trommelmagazin mit .22 LR-Patronen.</szItemDesc>
+		<szBRName>.22 LR Drum HS, 200</szBRName>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2278</uiIndex>
 		<szItemName>9x18mm Mag 64</szItemName>
 		<szLongItemName>9x18mm SMG Mag, 64</szLongItemName>
-		<szItemDesc>64 round clip for a Bison PP-19.</szItemDesc>
+		<szItemDesc>64-Schuss Magazin für eine Bison PP-19.</szItemDesc>
 		<szBRName>9x18mm Mag 64</szBRName>
-		<szBRDesc>64 round clip for a Bison PP-19.</szBRDesc>
+		<szBRDesc>64-Schuss Magazin für eine Bison PP-19.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2279</uiIndex>
-		<szItemName>9x18mm Mag AP 64</szItemName>
-		<szLongItemName>9x18mm SMG Mag AP, 64</szLongItemName>
-		<szItemDesc>64 round clip for a Bison PP-19.</szItemDesc>
-		<szBRName>9x18mm Mag AP 64</szBRName>
-		<szBRDesc>64 round clip for a Bison PP-19.</szBRDesc>
+		<szItemName>9x18mm Mag PB 64</szItemName>
+		<szLongItemName>9x18mm SMG Mag PB, 64</szLongItemName>
+		<szItemDesc>64-Schuss Magazin für eine Bison PP-19.</szItemDesc>
+		<szBRName>9x18mm Mag PB 64</szBRName>
+		<szBRDesc>64-Schuss Magazin für eine Bison PP-19.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2280</uiIndex>
-		<szItemName>9x18mm Mag HP 64</szItemName>
-		<szLongItemName>9x18mm SMG Mag HP, 64</szLongItemName>
-		<szItemDesc>64 round clip for a Bison PP-19.</szItemDesc>
-		<szBRName>9x18mm Mag HP 64</szBRName>
-		<szBRDesc>64 round clip for a Bison PP-19.</szBRDesc>
+		<szItemName>9x18mm Mag HS 64</szItemName>
+		<szLongItemName>9x18mm SMG Mag HS, 64</szLongItemName>
+		<szItemDesc>64-Schuss Magazin für eine Bison PP-19.</szItemDesc>
+		<szBRName>9x18mm Mag HS 64</szBRName>
+		<szBRDesc>64-Schuss Magazin für eine Bison PP-19.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2281</uiIndex>
 		<szItemName>.408 Box</szItemName>
 		<szLongItemName>.408 Box</szLongItemName>
-		<szItemDesc>This box contains .408 CheyTac ammunition.</szItemDesc>
+		<szItemDesc>Diese Schachtel enthält .408 CheyTac-Munition.</szItemDesc>
 		<szBRName>.408 Box</szBRName>
-		<szBRDesc>The CheyTac .408 round provides incredible accuracy and devastating terminal ballistics over long distances for a number of anti-personnel, anti-sniper and anti-materiel roles.</szBRDesc>
+		<szBRDesc>Die CheyTac .408-Patrone bietet eine unglaubliche Präzision und eine verheerende Schlussballistik über große Entfernungen für eine Reihe von Anti-Personen-, Anti-Scharfschützen- und Anti-Fahrzeug-Einsätzen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2282</uiIndex>
@@ -18282,53 +18282,53 @@
 		<szLongItemName>.408 CheyTac Munitionskiste</szLongItemName>
 		<szItemDesc>Munitionskiste</szItemDesc>
 		<szBRName>.408 CheyTac Munitionskiste</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2283</uiIndex>
 		<szItemName>.408 Mag</szItemName>
 		<szLongItemName>.408 CheyTac Mag</szLongItemName>
-		<szItemDesc>The CheyTac .408 round provides excellent ballistic capabilities at supersonic speeds for a number of anti-personnel, anti-sniper and anti-materiel rifles.</szItemDesc>
+		<szItemDesc>Die CheyTac .408-Patrone bietet eine unglaubliche Präzision und eine verheerende Schlussballistik über große Entfernungen für eine Reihe von Anti-Personen-, Anti-Scharfschützen- und Anti-Fahrzeug-Einsätzen.</szItemDesc>
 		<szBRName>.408 CheyTac Mag</szBRName>
-		<szBRDesc>The CheyTac .408 round provides incredible accuracy and devastating terminal ballistics over long distances for a number of anti-personnel, anti-sniper and anti-materiel roles.</szBRDesc>
+		<szBRDesc>Die CheyTac .408-Patrone bietet eine unglaubliche Präzision und eine verheerende Schlussballistik über große Entfernungen für eine Reihe von Anti-Personen-, Anti-Scharfschützen- und Anti-Fahrzeug-Einsätzen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2284</uiIndex>
 		<szItemName>.38 SMG Mag</szItemName>
 		<szLongItemName>.38 Mag MAG</szLongItemName>
-		<szItemDesc>This .38 Special ball ammunition offers average damage and penetration abilities by combining the features of both hollow point and armor piercing ammo.</szItemDesc>
+		<szItemDesc>Diese .38 Special Kugelmunition bietet durchschnittliche Schadens- und Durchschlagskraft, indem sie die Eigenschaften von Hohlspitz- und panzerbrechender Munition kombiniert.</szItemDesc>
 		<szBRName>.38 SMG MAG</szBRName>
-		<szBRDesc>This 6-round speed loader of .38 Special ball ammunition offers average damage and penetration abilities by combining the features of both hollow point and armor piercing ammo.</szBRDesc>
+		<szBRDesc>Dieser 6-Schuss-Schnelllader mit .38 Special-Kugelmunition bietet durchschnittlichen Schaden und Durchschlagskraft, indem er die Eigenschaften von Hohlspitz- und panzerbrechender Munition kombiniert.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2285</uiIndex>
-		<szItemName>.38 SMG Mag AP</szItemName>
-		<szLongItemName>.38 SMG Mag AP</szLongItemName>
-		<szItemDesc>Armor piercing ammunition in .38 SPC.</szItemDesc>
-		<szBRName>.38 SMG Mag AP</szBRName>
-		<szBRDesc>Armor piercing ammunition in .38 SPC.</szBRDesc>
+		<szItemName>.38 SMG Mag PB</szItemName>
+		<szLongItemName>.38 SMG Mag PB</szLongItemName>
+		<szItemDesc>Panzerbrechende Munition im Kaliber .38 SPC.</szItemDesc>
+		<szBRName>.38 SMG Mag PB</szBRName>
+		<szBRDesc>Panzerbrechende Munition im Kaliber .38 SPC.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2286</uiIndex>
-		<szItemName>.38 SMG Mag HP</szItemName>
-		<szLongItemName>.38 SMG Mag HP</szLongItemName>
-		<szItemDesc>Hollow Point ammunition in .38 SPC.</szItemDesc>
-		<szBRName>.38 SMG Mag HP</szBRName>
-		<szBRDesc>Hollow Point ammunition in .38 SPC.</szBRDesc>
+		<szItemName>.38 SMG Mag HS</szItemName>
+		<szLongItemName>.38 SMG Mag HS</szLongItemName>
+		<szItemDesc>Hohlspitzmunition im Kaliber .38 SPC.</szItemDesc>
+		<szBRName>.38 SMG Mag HS</szBRName>
+		<szBRDesc>Hohlspitzmunition im Kaliber .38 SPC.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2287</uiIndex>
 		<szItemName>.38 SMG Mag Glaser</szItemName>
 		<szLongItemName>.38 SMG Mag Glaser</szLongItemName>
-		<szItemDesc>Glaser ammunition in .38 SPC.</szItemDesc>
+		<szItemDesc>Glaser-Munition im Kaliber .38 SPC.</szItemDesc>
 		<szBRName>.38 SMG Mag Glaser</szBRName>
-		<szBRDesc>Glaser ammunition in .38 SPC.</szBRDesc>
+		<szBRDesc>Glaser-Munition im Kaliber .38 SPC.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2288</uiIndex>
 		<szItemName>.22 LR Mag 100</szItemName>
 		<szLongItemName>.22 LR Mag, 100</szLongItemName>
-		<szItemDesc>A helix magazine .22 LR ammunition.</szItemDesc>
+		<szItemDesc>Ein Helix-Magazin mit .22 LR-Patronen.</szItemDesc>
 		<szBRName>.22 LR Mag, 100</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -18336,7 +18336,7 @@
 		<uiIndex>2289</uiIndex>
 		<szItemName>.22 LR Mag  M 100</szItemName>
 		<szLongItemName>.22 LR Mag Match, 100</szLongItemName>
-		<szItemDesc>A helix magazine .22 LR Match ammunition.</szItemDesc>
+		<szItemDesc>Ein Helix-Magazin mit .22 LR Match-Patronen.</szItemDesc>
 		<szBRName>.22 LR Mag Match, 100</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -18344,23 +18344,23 @@
 		<uiIndex>2290</uiIndex>
 		<szItemName>.22 LR Mag  R 100</szItemName>
 		<szLongItemName>.22 LR Mag Rat shot, 100</szLongItemName>
-		<szItemDesc>A helix magazine .22 LR Rat shot ammunition.</szItemDesc>
+		<szItemDesc>Ein Helix-Magazin mit .22 LR Rat Shot-Patronen.</szItemDesc>
 		<szBRName>.22 LR Mag Rat shot, 100</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2291</uiIndex>
-		<szItemName>.22 LR Mag  HP 100</szItemName>
-		<szLongItemName>.22 LR Mag HP, 100</szLongItemName>
-		<szItemDesc>A helix magazine .22 LR hollow point ammunition.</szItemDesc>
-		<szBRName>.22 LR Mag HP, 100</szBRName>
+		<szItemName>.22 LR Mag  HS 100</szItemName>
+		<szLongItemName>.22 LR Mag HS, 100</szLongItemName>
+		<szItemDesc>Ein Helix-Magazin mit .22 LR Hohlspitzmunition.</szItemDesc>
+		<szBRName>.22 LR Mag HS, 100</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2292</uiIndex>
 		<szItemName>.50 BMG Mag M, 5</szItemName>
-		<szLongItemName>.50 BMG Magazine Match, 5</szLongItemName>
-		<szItemDesc>A 5 round magazine of .50 caliber (Browning) Match bullets.</szItemDesc>
+		<szLongItemName>.50 BMG Magazin Match, 5</szLongItemName>
+		<szItemDesc>Ein 5-Schuss-Magazin mit Geschossen des Kalibers .50 (Browning) Match.</szItemDesc>
 		<szBRName>.50 Mag Match. 5</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -18368,7 +18368,7 @@
 		<uiIndex>2293</uiIndex>
 		<szItemName>.50 BMG Mag M</szItemName>
 		<szLongItemName>.50 BMG Magazine, Match</szLongItemName>
-		<szItemDesc>A 10 round magazine of .50 caliber Match (Browning) bullets for the Barrett M82A2.</szItemDesc>
+		<szItemDesc>Ein 10-Schuss-Magazin mit Geschossen des Kalibers .50 Match (Browning) für das Barrett M82A2.</szItemDesc>
 		<szBRName>.50 Mag Match</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -18378,61 +18378,61 @@
 		<szLongItemName>.50 BMG Munitionskiste, Match</szLongItemName>
 		<szItemDesc>.50 BMG Munitionskiste, Match</szItemDesc>
 		<szBRName>.50 BMG Match Munitionskiste</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2295</uiIndex>
 		<szItemName>.50 BMG Box M</szItemName>
 		<szLongItemName>.50 BMG Ammo Box, Match</szLongItemName>
-		<szItemDesc>This really isn't a case of 'This is gonna hurt you more than me.'</szItemDesc>
+		<szItemDesc>Es geht hier wirklich nicht um ein 'Das wird dir mehr wehtun als mir'.</szItemDesc>
 		<szBRName>.50 BMG Box Match</szBRName>
-		<szBRDesc>This nice little box contains 15 .50 BMG Match bullets.</szBRDesc>
+		<szBRDesc>Diese nette kleine Schachtel enthält 15 .50 BMG Match-Geschosse.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2296</uiIndex>
 		<szItemName>.30 Car Mag T</szItemName>
-		<szLongItemName>.30 Car Magazine, Tracer</szLongItemName>
-		<szItemDesc>A 30-round M1 magazine with Tracer ammo.</szItemDesc>
+		<szLongItemName>.30 Car Magazin, Leuchtspur</szLongItemName>
+		<szItemDesc>Ein 30-Schuss M1 Magazin mit Leuchtspurmunition.</szItemDesc>
 		<szBRName>.30 Car Mag Tracer</szBRName>
-		<szBRDesc>Tracer ammo for the old M1 Carbine.</szBRDesc>
+		<szBRDesc>Leuchtspurmunition für den alten M1-Karabiner.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2297</uiIndex>
 		<szItemName>.30 Car Kiste T</szItemName>
-		<szLongItemName>.30 Car Munitionskiste, Tracer</szLongItemName>
+		<szLongItemName>.30 Car Munitionskiste, Leuchtspur</szLongItemName>
 		<szItemDesc>Munitionskiste</szItemDesc>
-		<szBRName>.30 Car Munitionskiste, Tracer</szBRName>
-		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
+		<szBRName>.30 Car Munitionskiste, Leuchtspur</szBRName>
+		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2298</uiIndex>
 		<szItemName>.30 Car Box T</szItemName>
-		<szLongItemName>.30 Car Box, Tracer</szLongItemName>
-		<szItemDesc>Tracer ammo for the full auto .30 carbine variants.</szItemDesc>
+		<szLongItemName>.30 Car Box, Leuchtspur</szLongItemName>
+		<szItemDesc>Leuchtspurmunition für die vollautomatischen .30 Karabinervarianten.</szItemDesc>
 		<szBRName>.30 Car Box Tracer</szBRName>
-		<szBRDesc>Tracer ammo for the full auto .30 carbine variants.</szBRDesc>
+		<szBRDesc>Leuchtspurmunition für die vollautomatischen .30 Karabinervarianten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2299</uiIndex>
 		<szItemName>Railgun Mag</szItemName>
 		<szLongItemName>Railgun Magazin</szLongItemName>
-		<szItemDesc>Railgun magazine capable of holding 4 darts.</szItemDesc>
-		<szBRName>Railgun Magazine</szBRName>
+		<szItemDesc>Railgun-Magazin mit 4 Pfeilen.</szItemDesc>
+		<szBRName>Railgun Magazin</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2300</uiIndex>
-		<szItemName>Railgun Dart</szItemName>
-		<szLongItemName>Railgun Dart</szLongItemName>
-		<szItemDesc>A hypervelocity, trilium-tipped solid dart. Never argue with stupid people, they will drag you down to their level and then beat you with experience blast them with these instead.</szItemDesc>
-		<szBRName>Railgun Dart</szBRName>
+		<szItemName>Railgun Pfeil</szItemName>
+		<szLongItemName>Railgun Pfeil</szLongItemName>
+		<szItemDesc>Ein Hochgeschwindigkeits-Pfeil mit Trilium-Spitze.</szItemDesc>
+		<szBRName>Railgun Pfeil</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2301</uiIndex>
 		<szItemName>14.5x114mm Ammo, 1</szItemName>
 		<szLongItemName>14.5x114mm Ammo, 1</szLongItemName>
-		<szItemDesc>A heavy 14.5x114mm round, used by some heavy WW2 anti-tank rifles.</szItemDesc>
+		<szItemDesc>Ein schweres 14.5x114mm Geschoss, das von einigen schweren Panzerabwehrgewehren des Zweiten Weltkriegs verwendet wurde.</szItemDesc>
 		<szBRName>14.5x114mm Ammo, 1</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -18440,9 +18440,9 @@
 		<uiIndex>2302</uiIndex>
 		<szItemName>Box 14.5mm</szItemName>
 		<szLongItemName>Box 14.5x114mm</szLongItemName>
-		<szItemDesc>This spam can contains 14.5x114mm rounds used by some heavy soviet anti-tank rifles.</szItemDesc>
+		<szItemDesc>Diese Munitionsdose enthält 14.5x114mm Patronen, die von einigen schweren sowjetischen Panzerabwehrgewehren verwendet werden.</szItemDesc>
 		<szBRName>Box 14.5x114mm</szBRName>
-		<szBRDesc>This spam can contains 14.5x114mm rounds used by some heavy soviet anti-tank rifles.</szBRDesc>
+		<szBRDesc>Diese Munitionsdose enthält 14.5x114mm Patronen, die von einigen schweren sowjetischen Panzerabwehrgewehren verwendet werden.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2303</uiIndex>
@@ -18456,25 +18456,25 @@
 		<uiIndex>2304</uiIndex>
 		<szItemName>.30 Car 15 Tracer</szItemName>
 		<szLongItemName>.30 Car Mag, 15 Tracer</szLongItemName>
-		<szItemDesc>A 15-round .30 Car magazine with tracer ammo.</szItemDesc>
+		<szItemDesc>Ein 15-schüssiges .30 Car-Magazin mit Leuchtspurmunition.</szItemDesc>
 		<szBRName>.30 Car Mag Tracer</szBRName>
-		<szBRDesc>Tracer .30 Car rounds.</szBRDesc>
+		<szBRDesc>Tracer .30 Car Kugeln.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2305</uiIndex>
-		<szItemName>.30 Car 15 AP</szItemName>
-		<szLongItemName>.30 Car Mag, 15 AP</szLongItemName>
-		<szItemDesc>A 15-round .30 Car magazine with AP ammo.</szItemDesc>
-		<szBRName>.30 Car Mag AP</szBRName>
-		<szBRDesc>AP .30 Car rounds.</szBRDesc>
+		<szItemName>.30 Car 15 PB</szItemName>
+		<szLongItemName>.30 Car Mag, 15 PB</szLongItemName>
+		<szItemDesc>Ein 15-schüssiges .30 Car-Magazin mit PB-Munition.</szItemDesc>
+		<szBRName>.30 Car Mag PB</szBRName>
+		<szBRDesc>AP .30 Car Kugeln.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2306</uiIndex>
-		<szItemName>.30 Car 15 HP</szItemName>
-		<szLongItemName>.30 Car Mag, 15 HP</szLongItemName>
-		<szItemDesc>A 15-round .30 Car magazine with HP ammo.</szItemDesc>
-		<szBRName>.30 Car Mag HP</szBRName>
-		<szBRDesc>HP .30 Car rounds.</szBRDesc>
+		<szItemName>.30 Car 15 HS</szItemName>
+		<szLongItemName>.30 Car Mag, 15 HS</szLongItemName>
+		<szItemDesc>Ein 15-schüssiges .30 Car-Magazin mit HS-Munition.</szItemDesc>
+		<szBRName>.30 Car Mag HS</szBRName>
+		<szBRDesc>HP .30 Car Kugeln.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2307</uiIndex>
@@ -19230,169 +19230,169 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2401</uiIndex>
-		<szItemName>Molotov Bomb</szItemName>
-		<szLongItemName>Molotov Bomb</szLongItemName>
-		<szItemDesc>A red hot 60mm surprise for your enemies, home made of course. You better take cover for this one and be ready for a barbecue!</szItemDesc>
-		<szBRName>Molotov Bomb</szBRName>
+		<szItemName>Molotowbombe</szItemName>
+		<szLongItemName>Molotowbombe</szLongItemName>
+		<szItemDesc>Eine glühend heiße 60mm Überraschung für deine Feinde, natürlich hausgemacht. Gehen Sie lieber in Deckung und bereiten Sie sich auf ein Barbecue vor!</szItemDesc>
+		<szBRName>Molotowbombe</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2402</uiIndex>
-		<szItemName>HG 85 Grenade</szItemName>
-		<szLongItemName>HG 85 Fragmentation Grenade</szLongItemName>
-		<szItemDesc>A compact and small fragmentation grenade that will spread its shrapnel over a wide area.</szItemDesc>
-		<szBRName>HG 85 Frag' Grenade</szBRName>
-		<szBRDesc>The HG 85 consists of a plastic body, an inner liner carrying the preformed fragments, and a filling of PentaErythritol TetraNitrate high explosive. Despite its compact size it packs quite a punch and scatters its fragments over an area of up to 50 meters.</szBRDesc>
+		<szItemName>HG 85 Granate</szItemName>
+		<szLongItemName>HG 85 Splittergranate</szLongItemName>
+		<szItemDesc>Eine kompakte und kleine Splittergranate, die ihr Schrapnell über ein großes Gebiet verteilt.</szItemDesc>
+		<szBRName>HG 85 Frag' Granate</szBRName>
+		<szBRDesc>Der HG 85 besteht aus einem Kunststoffkörper, einer Innenhülle, die die vorgeformten Splitter trägt, und einer Füllung aus hochexplosivem PentaErythritol-TetraNitrat. Trotz ihrer kompakten Größe hat sie eine enorme Sprengkraft und verstreut ihre Splitter über eine Fläche von bis zu 50 Metern.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2403</uiIndex>
-		<szItemName>Mills Bomb</szItemName>
-		<szLongItemName>Mills Bomb No. 36M</szLongItemName>
-		<szItemDesc>While it may not be an ideal design for most efficient function, due to the offset detonator, which causes asymmetrical fragmentation, it is simple, rugged and effective.</szItemDesc>
-		<szBRName>Mills Bomb No. 36M</szBRName>
-		<szBRDesc>Without a doubt the most successful hand grenade of the 20th Century, having the longest continuous service life of any other type. The No.36M Mk.I remained the standard grenade of the British Armed Forces and was manufactured in the UK until 1972.</szBRDesc>
+		<szItemName>Mühlenbombe</szItemName>
+		<szLongItemName>Mühlenbombe No. 36M</szLongItemName>
+		<szItemDesc>Auch wenn sie aufgrund der versetzten Sprengkapsel, die eine asymmetrische Zersplitterung verursacht, nicht ideal für eine effiziente Wirkung ist, ist sie doch einfach, robust und effektiv.</szItemDesc>
+		<szBRName>Mühlenbombe No. 36M</szBRName>
+		<szBRDesc>Zweifellos die erfolgreichste Handgranate des 20. Jahrhunderts mit der längsten ununterbrochenen Nutzungsdauer aller anderen Typen. Die No.36M Mk.I ist die Standardgranate der britischen Streitkräfte und wurde bis 1972 im Vereinigten Königreich hergestellt.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2404</uiIndex>
-		<szItemName>M61 Grenade</szItemName>
-		<szLongItemName>M61 Hand Grenade</szLongItemName>
-		<szItemDesc>The M61 is a Vietnam War era hand grenade. It is basically an improved MK2 defensive grenade.</szItemDesc>
-		<szBRName>M61 Hand Grenade</szBRName>
-		<szBRDesc>The M61 is a Vietnam War era hand grenade. It is basically an improved MK2 defensive grenade. If you liked the "pineapple", you'll love the lemon.</szBRDesc>
+		<szItemName>M61 Granate</szItemName>
+		<szLongItemName>M61 Handgranate</szLongItemName>
+		<szItemDesc>Die M61 ist eine Handgranate aus dem Vietnamkrieg. Sie ist im Grunde eine verbesserte MK2-Verteidigungsgranate.</szItemDesc>
+		<szBRName>M61 Handgranate</szBRName>
+		<szBRDesc>Die M61 ist eine Handgranate aus dem Vietnamkrieg. Sie ist im Grunde eine verbesserte MK2-Verteidigungsgranate. Wenn Sie die "Ananas" mochten, werden Sie die Zitrone lieben.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2405</uiIndex>
-		<szItemName>RGD-5 Grenade</szItemName>
-		<szLongItemName>RGD-5 Fragmentation Grenade</szLongItemName>
-		<szItemDesc>Soviet-style fragmentation grenade. Handle with care, these things are pretty volatile.</szItemDesc>
-		<szBRName>RGD-5 Fragmentation Grenade</szBRName>
-		<szBRDesc>The RGD-5 is an affordable post World War II Russian anti-personnel fragmentation grenade. The design dates from the late 1950s. It is still in service in many of Russia's former client states.</szBRDesc>
+		<szItemName>RGD-5 Granate</szItemName>
+		<szLongItemName>RGD-5 Splittergranate</szLongItemName>
+		<szItemDesc>Splittergranate nach sowjetischem Vorbild. Seien Sie vorsichtig, diese Dinger sind ziemlich instabil.</szItemDesc>
+		<szBRName>RGD-5 Splittergranate</szBRName>
+		<szBRDesc>Die RGD-5 ist eine erschwingliche russische Splittergranate zur Personenabwehr aus der Zeit nach dem Zweiten Weltkrieg. Das Design stammt aus den späten 1950er Jahren. Sie wird noch immer in vielen ehemaligen russischen Mitgliedstaaten eingesetzt.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2406</uiIndex>
-		<szItemName>F1 Grenade</szItemName>
-		<szLongItemName>F1 Fragmentation Grenade</szLongItemName>
-		<szItemDesc>The F1 is an anti-personnel fragmentation grenade with a considerable area of effect.</szItemDesc>
-		<szBRName>F1 Frag' Grenade</szBRName>
-		<szBRDesc>These updated versions of the Soviet World War II frag grenade have a wide dispersion rate. Just don't ask where we got them from, okay?</szBRDesc>
+		<szItemName>F1 Granate</szItemName>
+		<szLongItemName>F1 Splittergranate</szLongItemName>
+		<szItemDesc>Die F1 ist eine Anti-Personen-Splittergranate mit einem großen Wirkungsbereich.</szItemDesc>
+		<szBRName>F1 Frag' Granate</szBRName>
+		<szBRDesc>Diese verbesserte Version der sowjetischen Granate aus dem Zweiten Weltkrieg hat eine hohe Streuwirkung. Fragen Sie nur nicht, woher wir sie haben, okay?</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2407</uiIndex>
-		<szItemName>V40 Mini Grenade</szItemName>
-		<szLongItemName>V40 Mini Fragmentation Grenade</szLongItemName>
-		<szItemDesc>A very small and reliable fragmentation grenade. The V40 fragmentation grenade was manufactured in the Netherlands, and was in service in the Canadian Forces and the US Armed Forces. "They see me rollin' THEY RUNNIN'!"</szItemDesc>
-		<szBRName>V40 Mini Grenade</szBRName>
-		<szBRDesc>The V40 is a very light, spherical shaped grenade approximately the size of a golf-ball and due to its size considerable quantities of this grenade can be carried. You won't find a smaller hand grenade in our stock.</szBRDesc>
+		<szItemName>V40 Mini-Granate</szItemName>
+		<szLongItemName>V40 Mini Splittergranate</szLongItemName>
+		<szItemDesc>Eine sehr kleine und zuverlässige Splittergranate. Die V40 Splittergranate wurde in den Niederlanden hergestellt und war bei den kanadischen und den US-Streitkräften im Einsatz. "Wenn sie mich rollen sehen, rennen sie weg!"</szItemDesc>
+		<szBRName>V40 Mini-Granate</szBRName>
+		<szBRDesc>Das V40 ist eine sehr leichte, kugelförmige Granate, die ungefähr die Größe eines Golfballs hat und aufgrund ihrer Größe in großen Mengen transportiert werden kann. Eine kleinere Handgranate werden Sie in unserem Sortiment nicht finden.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2408</uiIndex>
-		<szItemName>RGN Grenade</szItemName>
-		<szLongItemName>RGN Offensive Grenade</szLongItemName>
-		<szItemDesc>A small and compact Russian offensive mini grenade. Very lethal in a very limited area of effect.</szItemDesc>
-		<szBRName>RGN Offensive Grenade</szBRName>
-		<szBRDesc>The hard to get RGN hand grenade (Ruchnaya Granata Oboronitel'naya) is an offensive Russian fragmentation hand grenade. The grenade shell consists of two internally serrated aluminium hemispheres. The fragments produced by the grenade generate a lethal radius of between 5 and 20 meters</szBRDesc>
+		<szItemName>RGN Granate</szItemName>
+		<szLongItemName>RGN Offensiv-Granate</szLongItemName>
+		<szItemDesc>Ein kleine und kompakte russische Offensiv-Minigranate. Sehr tödlich in einem sehr begrenzten Wirkungsbereich.</szItemDesc>
+		<szBRName>RGN Offensiv-Granate</szBRName>
+		<szBRDesc>Die schwer erhältliche RGN Handgranate (Ruchnaya Granata Oboronitel'naya) ist eine offensive russische Splitterhandgranate. Die von der Granate erzeugten Fragmente haben einen tödlichen Radius von 5 bis 20 Metern.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2409</uiIndex>
-		<szItemName>RGO Grenade</szItemName>
-		<szLongItemName>RGO Defensive Grenade</szLongItemName>
-		<szItemDesc>Small and compact Russian defensive mini grenade. Very lethal in a limited area of effect.</szItemDesc>
-		<szBRName>RGO Defensive Grenade</szBRName>
-		<szBRDesc>The hard to get RGO hand grenade (Ruchnaya Granata Oboronitel'naya) is a defensive Russian fragmentation hand grenade. It consists of a double layered aluminium pre-fragmented body. The fragments produced by the grenade generate a lethal radius of between 6 and 30 meters</szBRDesc>
+		<szItemName>RGO Granate</szItemName>
+		<szLongItemName>RGO Defensiv-Granate</szLongItemName>
+		<szItemDesc>Kleine und kompakte russische Defensiv-Minigranate. Sehr tödlich in einem begrenzten Wirkungsbereich.</szItemDesc>
+		<szBRName>RGO Defensiv-Granate</szBRName>
+		<szBRDesc>Die schwer erhältliche RGO Handgranate (Ruchnaya Granata Oboronitel'naya) ist eine defensive russische Splitterhandgranate. Die von der Granate erzeugten Fragmente haben einen tödlichen Radius von 6 bis 30 Metern.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2410</uiIndex>
-		<szItemName>AN/M14 Grenade</szItemName>
-		<szLongItemName>AN/M14 Incendiary Grenade</szLongItemName>
-		<szItemDesc>The cylindrical grenade body of thin sheet metal is filled with an incendiary mixture, Thermite TH3 and First-Fire (FF) Mixture VII. Very effective to set something on fire.</szItemDesc>
-		<szBRName>AN/M14 Incendiary Grenade</szBRName>
-		<szBRDesc>The AN-M14 TH3 incendiary hand grenade is used to destroy equipment. It can damage, immobilize, or destroy vehicles, weapons systems, shelters, or munitions. But of course this device can also be used to start fires in areas containing flammable materials.</szBRDesc>
+		<szItemName>AN/M14 Granate</szItemName>
+		<szLongItemName>AN/M14 Brandgranate</szLongItemName>
+		<szItemDesc>Der zylindrische Granatenkörper aus dünnem Blech ist mit einem Brandgemisch, Thermit TH3 und First-Fire (FF) Mixture VII, gefüllt. Sehr effektiv, um etwas in Brand zu setzen</szItemDesc>
+		<szBRName>AN/M14 Brandgranate</szBRName>
+		<szBRDesc>Die AN-M14 TH3 Handgranate mit Brandsatz wird zur Zerstörung von Ausrüstung eingesetzt. Sie kann Fahrzeuge, Waffensysteme, Bunker oder Munition beschädigen, lahm legen oder zerstören. Natürlich kann dieses Ding auch zum Auslösen von Bränden in Bereichen mit brennbaren Materialien verwendet werden.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2411</uiIndex>
-		<szItemName>M24 Grenade</szItemName>
+		<szItemName>M24 Granate</szItemName>
 		<szLongItemName>M24 Stielgranate</szLongItemName>
-		<szItemDesc>The potato masher is a very effective offensive grenade. Due to its odd shape you may find it difficult to store them.</szItemDesc>
+		<szItemDesc>Der Kartoffelstampfer ist eine sehr effektive Offensiv-Granate. Aufgrund seiner seltsamen Form könnte es schwierig sein, sie zu lagern.</szItemDesc>
 		<szBRName>M24 Stielgranate</szBRName>
-		<szBRDesc>Rare collectors item! We just got our hands on some very hard to find vintage WW 2 German stick grenades.</szBRDesc>
+		<szBRDesc>Seltenes Sammlerstück! Wir haben gerade ein paar sehr schwer zu findende deutsche Stielgranaten aus dem Zweiten Weltkrieg in die Hände bekommen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2412</uiIndex>
-		<szItemName>M-DN 11 Grenade</szItemName>
-		<szLongItemName>M-DN 11 Fragmentation Grenade</szLongItemName>
-		<szItemDesc>A very reliable German hand grenade. The casing of the grenade is thick and shock resistant. Its plastic casing is filled with 3.800 steel balls, that will scatter over a significant area.</szItemDesc>
-		<szBRName>M-DN 11 Fragmentation Grenade</szBRName>
-		<szBRDesc>This M-DN 11 Fragmentation Grenade was designed by Diehl of Germany to replace DM-51 grenades employed by German forces. Due to the relatively high price, only a very limited amount has been used by German GSG-9 and KSK forces.</szBRDesc>
+		<szItemName>M-DN 11 Granate</szItemName>
+		<szLongItemName>M-DN 11 Splittergranate</szLongItemName>
+		<szItemDesc>Eine sehr zuverlässige deutsche Handgranate. Das Gehäuse der Granate ist dick und stoßfest. Das Kunststoffgehäuse ist mit 3.800 Stahlkugeln gefüllt, die über eine große Fläche verstreut werden können.</szItemDesc>
+		<szBRName>M-DN 11 Splittergranate</szBRName>
+		<szBRDesc>Diese M-DN 11 Splittergranate wurde von der Firma Diehl entwickelt, um die von den deutschen Streitkräften verwendeten DM-51 Granaten zu ersetzen. Aufgrund des relativ hohen Preises wurde nur eine sehr begrenzte Menge von deutschen GSG-9 und KSK Truppen verwendet.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2413</uiIndex>
-		<szItemName>MK3A2 Grenade</szItemName>
-		<szLongItemName>MK3A2 Offensive Grenade</szLongItemName>
-		<szItemDesc>This concussion grenade creates more powerful shockwaves in an enclosed area than a traditional fragmentation device with a limited area of effect.</szItemDesc>
-		<szBRName>MK3A2 Offensive Grenade</szBRName>
-		<szBRDesc>The MK3A2 offensive hand grenade is a concussion grenade designed to produce casualties during close combat while minimizing danger to friendly personnel.</szBRDesc>
+		<szItemName>MK3A2 Granate</szItemName>
+		<szLongItemName>MK3A2 Offensiv-Granate</szLongItemName>
+		<szItemDesc>Diese Schockgranate erzeugt in einem geschlossenen Bereich stärkere Schockwellen als eine herkömmliche Splittergranate.</szItemDesc>
+		<szBRName>MK3A2 Offensiv-Granate</szBRName>
+		<szBRDesc>Die MK3A2 Offensiv-Handgranate ist eine Schockgranate, die darauf ausgelegt ist, im Nahkampf Verletzungen zu verursachen und gleichzeitig die Gefahr für die eigenen Leute zu minimieren.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2414</uiIndex>
 		<szItemName>40mm VOG Smoke</szItemName>
-		<szLongItemName>VOG-25 40mm Smoke Grenade</szLongItemName>
-		<szItemDesc>A smoke grenade for Russian 40mm grenade launchers.</szItemDesc>
-		<szBRName>VOG Smoke Grenade</szBRName>
-		<szBRDesc>A smoke grenade for Russian 40mm grenade launchers and is effective both against visual and infrared devices.</szBRDesc>
+		<szLongItemName>VOG-25 40mm Rauch-Granate</szLongItemName>
+		<szItemDesc>Eine Rauch-Granate für russische 40mm Granatwerfer.</szItemDesc>
+		<szBRName>VOG Rauch-Granate</szBRName>
+		<szBRDesc>Eine Rauch-Granate für russische 40mm Granatwerfer. Sie ist sowohl gegen optische als auch gegen Infrarot-Geräte wirksam.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2415</uiIndex>
-		<szItemName>40mm VOG Tear Gas Grenade</szItemName>
-		<szLongItemName>VOG-25 40mm Tear Gas Grenade</szLongItemName>
-		<szItemDesc>A non-lethal tear gas grenade for Russian 40mm grenade launchers.</szItemDesc>
-		<szBRName>VOG Tear Gas Grenade</szBRName>
-		<szBRDesc>Check out our tear gas grenades suitable for Russian 40mm grenade launchers, when you need to disable targets without killing them.</szBRDesc>
+		<szItemName>40mm VOG Tränengas-Granate</szItemName>
+		<szLongItemName>VOG-25 40mm Tränengas-Granate</szLongItemName>
+		<szItemDesc>Eine nicht-tödliche Tränengas-Granate für russische 40mm Granatwerfer.</szItemDesc>
+		<szBRName>VOG Tränengas-Granate</szBRName>
+		<szBRDesc>Sehen Sie sich unsere Tränengas-Granaten an, die für russische 40mm Granatwerfer geeignet sind. Damit können Sie Ziele außer Gefecht setzen, ohne sie zu töten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2416</uiIndex>
-		<szItemName>Small Mine</szItemName>
-		<szLongItemName>Small Mine</szLongItemName>
-		<szItemDesc>A point defense land mine, with limited effect radius. Ideal for blocking small entrances.</szItemDesc>
-		<szBRName>Small Mine</szBRName>
-		<szBRDesc>A point defense land mine, with limited effect radius. Ideal for blocking small entrances.</szBRDesc>
+		<szItemName>Kleine Mine</szItemName>
+		<szLongItemName>Kleine Mine</szLongItemName>
+		<szItemDesc>Eine Punktverteidigungs-Landmine mit begrenztem Wirkungsradius. Ideal zum Blockieren kleiner Eingänge.</szItemDesc>
+		<szBRName>Kleine Mine</szBRName>
+		<szBRDesc>Eine Punktverteidigungs-Landmine mit begrenztem Wirkungsradius. Ideal zum Blockieren kleiner Eingänge.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2417</uiIndex>
 		<szItemName>S-Mine</szItemName>
 		<szLongItemName>S-Mine</szLongItemName>
-		<szItemDesc>The German S-mine, also known as the Bouncing Betty, is the best-known version of a class of mines known as bounding mines. The explosion projects a lethal spray of steel balls and fragments in all directions.</szItemDesc>
+		<szItemDesc>Die deutsche S-Mine, auch als Bouncing Betty bekannt, ist die bekannteste Minenart, die auch unter dem Namen Bounding Mines bekannt ist. Die Explosion schleudert einen tödlichen Sprühnebel aus Stahlkugeln und -splittern in alle Richtungen.</szItemDesc>
 		<szBRName>S-Mine</szBRName>
-		<szBRDesc>The German S-mine, also known as the Bouncing Betty, is the best-known version of a class of mines known as bounding mines. The explosion projects a lethal spray of steel balls and fragments in all directions.</szBRDesc>
+		<szBRDesc>Die deutsche S-Mine, auch als Bouncing Betty bekannt, ist die bekannteste Minenart, die auch unter dem Namen Bounding Mines bekannt ist. Die Explosion schleudert einen tödlichen Sprühnebel aus Stahlkugeln und -splittern in alle Richtungen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2418</uiIndex>
 		<szItemName>BLU-43 Mine</szItemName>
-		<szLongItemName>BLU-44 Dragontooth Mine</szLongItemName>
-		<szItemDesc>The Dragontooth was designed during the Vietnam War with helicopter deployment in mind. Small but lethal.</szItemDesc>
+		<szLongItemName>BLU-44 Drachenzahn-Mine</szLongItemName>
+		<szItemDesc>Der Drachenzahn wurde während des Vietnamkriegs speziell für den Hubschrauber-Einsatz entwickelt. Klein, aber tödlich.</szItemDesc>
 		<szBRName>BLU-43 Mine</szBRName>
-		<szBRDesc>The Dragontooth was designed during the Vietnam War with helicopter deployment in mind. Small but lethal.</szBRDesc>
+		<szBRDesc>Der Drachenzahn wurde während des Vietnamkriegs speziell für den Hubschrauber-Einsatz entwickelt. Klein, aber tödlich.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2419</uiIndex>
-		<szItemName>C1 Small</szItemName>
-		<szLongItemName>C1 Small Charge</szLongItemName>
-		<szItemDesc>Composition C1 is a solution of RDX and a small amount of mineral oil. This combination retains the explosive power of RDX while increasing its stability. This small charge has a slightly decreased blast radius for those situations you want a more controlled explosion.</szItemDesc>
-		<szBRName>C1 small Charge</szBRName>
-		<szBRDesc>Composition C1 is a solution of RDX and a small amount of mineral oil. This combination retains the explosive power of RDX while increasing its stability. This small charge has a slightly decreased blast radius for those situations you want a more controlled explosion.</szBRDesc>
+		<szItemName>Kleine Ladung C1</szItemName>
+		<szLongItemName>Kleine Ladung C1</szLongItemName>
+		<szItemDesc>Die Mischung C1 ist eine Lösung aus RDX und einer kleinen Menge Mineralöl. Diese Kombination bewahrt die Sprengkraft von RDX und erhöht gleichzeitig seine Stabilität. Diese kleine Ladung hat einen leicht verringerten Explosionsradius für Situationen, in denen Sie eine kontrolliertere Explosion erzielen möchten.</szItemDesc>
+		<szBRName>Kleine Ladung C1</szBRName>
+		<szBRDesc>Die Mischung C1 ist eine Lösung aus RDX und einer kleinen Menge Mineralöl. Diese Kombination bewahrt die Sprengkraft von RDX und erhöht gleichzeitig seine Stabilität. Diese kleine Ladung hat einen leicht verringerten Explosionsradius für Situationen, in denen Sie eine kontrolliertere Explosion erzielen möchten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2420</uiIndex>
-		<szItemName>C4 Small</szItemName>
-		<szLongItemName>C4 Small Charge</szLongItemName>
-		<szItemDesc>Composition C4 is a white plastic explosive that is more powerful than TNT. Unlike C1, its sister composition, this one's odorless. Compared to a regular chunk of C4, this small charge has a slightly decreased blast radius for those situations you want a more controlled explosion.</szItemDesc>
-		<szBRName>C4 Small Charge</szBRName>
-		<szBRDesc>Composition C4 is a white plastic explosive that is more powerful than TNT.  Compared to a regular chunk of C4, this small charge has a slightly decreased blast radius for those situations you want a more controlled explosion.</szBRDesc>
+		<szItemName>Kleine Ladung C4</szItemName>
+		<szLongItemName>Kleine Ladung C4</szLongItemName>
+		<szItemDesc>Die Mischung C4 ist ein weißer Plastiksprengstoff, der stärker ist als TNT. Im Gegensatz zu seiner Schwesterkomposition C1 ist dieser Sprengstoff geruchlos. Im Vergleich zu einem normalen C4-Brocken hat diese kleine Ladung einen leicht verringerten Explosionsradius für Situationen, in denen Sie eine kontrolliertere Explosion erzielen möchten.</szItemDesc>
+		<szBRName>Kleine Ladung C4</szBRName>
+		<szBRDesc>Die Mischung C4 ist ein weißer Plastiksprengstoff, der stärker ist als TNT. Im Vergleich zu einem normalen C4-Brocken hat diese kleine Ladung einen leicht verringerten Explosionsradius für Situationen, in denen Sie eine kontrolliertere Explosion erzielen möchten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2421</uiIndex>
 		<szItemName>Eagle Screamer</szItemName>
 		<szLongItemName>Eagle Screamer</szLongItemName>
-		<szItemDesc>The Eagle Screamer is a homemade tear gas bomb. It sets free a large cloud of tear gas. Just attach any kind of detonator and you're ready to blow it up.</szItemDesc>
+		<szItemDesc>Der Eagle Screamer ist eine selbstgebaute Tränengasbombe. Sie setzt eine große Tränengaswolke frei. Bringen Sie einfach einen beliebigen Zünder an und schon können Sie die Bombe hochgehen lassen.</szItemDesc>
 		<szBRName>Eagle Screamer</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -19400,7 +19400,7 @@
 		<uiIndex>2422</uiIndex>
 		<szItemName>Eagle Silencer</szItemName>
 		<szLongItemName>Eagle Silencer</szLongItemName>
-		<szItemDesc>The Eagle Silencer is a homemade stun bomb. Due to the overpressure the area of effect is quite impressive. Just attach any kind of detonator and you're ready to blow it up. Would probably be a good idea to keep some distance.</szItemDesc>
+		<szItemDesc>Der Eagle Silencer ist eine selbstgebaute Betäubungsbombe. Durch den Überdruck ist der Wirkungsbereich ziemlich beeindruckend. Bringen Sie einfach einen beliebigen Zünder an, und schon können Sie die Bombe hochgehen lassen. Es wäre wahrscheinlich eine gute Idee, etwas Abstand zu halten.</szItemDesc>
 		<szBRName>Eagle Silencer</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -19408,7 +19408,7 @@
 		<uiIndex>2423</uiIndex>
 		<szItemName>Eagle Fearball</szItemName>
 		<szLongItemName>Eagle Fearball</szLongItemName>
-		<szItemDesc>The Eagle Fearball is a homemade bomb. Thanks to the gasoline its area of effect is quite impressive. Just attach any kind of detonator and you're ready to blow it up.</szItemDesc>
+		<szItemDesc>Der Eagle Fearball ist eine selbstgebaute Bombe. Dank des Benzins ist ihr Wirkungsbereich ziemlich beeindruckend. Bringen Sie einfach einen beliebigen Zünder an und schon können Sie die Bombe hochgehen lassen.</szItemDesc>
 		<szBRName>Eagle Fearball</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -19416,7 +19416,7 @@
 		<uiIndex>2424</uiIndex>
 		<szItemName>Eagle Fireflash</szItemName>
 		<szLongItemName>Eagle Fireflash</szLongItemName>
-		<szItemDesc>A homemade incendiary bomb. Thanks to the gasoline its area of effect is quite impressive. Just attach any kind of detonator and you're ready to blow it up.</szItemDesc>
+		<szItemDesc>Eine selbstgebaute Brandbombe. Dank des Benzins ist ihr Wirkungsbereich ziemlich beeindruckend. Bringen Sie einfach einen beliebigen Zünder an und schon können Sie die Bombe hochgehen lassen.</szItemDesc>
 		<szBRName>Eagle Fireflash</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -19424,7 +19424,7 @@
 		<uiIndex>2425</uiIndex>
 		<szItemName>Eagle Dog</szItemName>
 		<szLongItemName>Eagle Dog</szLongItemName>
-		<szItemDesc>The Eagle Dog is a homemade mustard gas bomb. It sets free a cloud of deadly mustard gas and its area of effect is quite impressive. Just attach any kind of detonator and you're ready to blow it up. Would probably be a good idea to keep some distance.</szItemDesc>
+		<szItemDesc>Der Eagle Dog ist eine selbstgebaute Senfgasbombe. Sie setzt eine Wolke aus tödlichem Senfgas frei und ihr Wirkungsbereich ist ziemlich beeindruckend. Bringen Sie einfach einen beliebigen Zünder an, und schon können Sie die Bombe hochgehen lassen. Es ist wahrscheinlich eine gute Idee, etwas Abstand zu halten.</szItemDesc>
 		<szBRName>Eagle Dog</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -19432,241 +19432,241 @@
 		<uiIndex>2426</uiIndex>
 		<szItemName>Eagle Smokeball</szItemName>
 		<szLongItemName>Eagle Smokeball</szLongItemName>
-		<szItemDesc>The Eagle Smokeball is a homemade smoke bomb. Due to the overpressure the area of effect is quite impressive. Just attach any kind of detonator and you're ready to blow it up.</szItemDesc>
+		<szItemDesc>Der Eagle Smokeball ist eine selbstgebaute Rauchbombe. Durch den Überdruck ist der Wirkungsbereich ziemlich beeindruckend. Bringen Sie einfach einen beliebigen Zünder an, und schon können Sie die Bombe hochgehen lassen.</szItemDesc>
 		<szBRName>Eagle Smokeball</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2427</uiIndex>
-		<szItemName>C1 Pipebomb</szItemName>
-		<szLongItemName>C1 Pipebomb</szLongItemName>
-		<szItemDesc>A chunk of steel, a detonator and a small C1 charge form a nice little pipebomb. Use on your own risk.</szItemDesc>
-		<szBRName>C1 Pipebomb</szBRName>
+		<szItemName>C1 Rohrbombe</szItemName>
+		<szLongItemName>C1 Rohrbombe</szLongItemName>
+		<szItemDesc>Ein Stück Stahl, ein Zünder und eine kleine C1-Ladung ergeben eine nette kleine Rohrbombe. Die Verwendung erfolgt auf eigene Gefahr.</szItemDesc>
+		<szBRName>C1 Rohrbombe</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2428</uiIndex>
-		<szItemName>C4 Pipebomb</szItemName>
-		<szLongItemName>C4 Pipebomb</szLongItemName>
-		<szItemDesc>A homemade devestating little explosive device.</szItemDesc>
-		<szBRName>C4 Pipebomb</szBRName>
+		<szItemName>C4 Rohrbombe</szItemName>
+		<szLongItemName>C4 Rohrbombe</szLongItemName>
+		<szItemDesc>Ein selbstgebauter, zerstörerischer kleiner Sprengsatz.</szItemDesc>
+		<szBRName>C4 Rohrbombe</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2429</uiIndex>
 		<szItemName>Flashbang Mine</szItemName>
 		<szLongItemName>Flashbang Mine</szLongItemName>
-		<szItemDesc>The Flashbang Mine can be equipped with a detonator. Nice to set up ambushes.</szItemDesc>
+		<szItemDesc>Die Flashbang-Mine kann mit einer Sprengkapsel ausgestattet werden. Gut geeignet, um Hinterhalte zu legen.</szItemDesc>
 		<szBRName>Flashbang Mine</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2430</uiIndex>
-		<szItemName>M34 Grenade</szItemName>
-		<szLongItemName>M34 WP Grenade</szLongItemName>
-		<szItemDesc>The M34 White Phosphorous grenade, also referred to as Willie Pete, is a small but nasty incendiary grenade. The effect radius is quite limited, but the duration makes more than up for that.</szItemDesc>
-		<szBRName>M34 WP Grenade</szBRName>
-		<szBRDesc>The M34 White Phosphorous grenade, also referred to as Willie Pete, is a small but nasty incendiary grenade. These weapons are particularly dangerous to exposed people because white phosphorus continues to burn unless deprived of oxygen or until it is completely consumed.</szBRDesc>
+		<szItemName>M34 Granate</szItemName>
+		<szLongItemName>M34 WP Granate</szLongItemName>
+		<szItemDesc>Das M34 White Phosphorous Granate, auch Willie Pete genannt, ist eine kleine, aber fiese Brandgranate. Der Wirkungsradius ist ziemlich begrenzt, aber die Dauer macht das mehr als wett.</szItemDesc>
+		<szBRName>M34 WP Granate</szBRName>
+		<szBRDesc>Das M34 White Phosphorous Granate, auch Willie Pete genannt, ist eine kleine, aber fiese Brandgranate. Der Wirkungsradius ist ziemlich begrenzt, aber die Dauer macht das mehr als wett.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2431</uiIndex>
 		<szItemName>EFL Mag</szItemName>
-		<szLongItemName>DM 13 Signal Flares Magazin</szLongItemName>
-		<szItemDesc>Signal flares for the HK Emergency Flare Launcher system.</szItemDesc>
-		<szBRName>Signal Flares Mag</szBRName>
-		<szBRDesc>5 signal flares for the HK Emergency Flare Launcher system.</szBRDesc>
+		<szLongItemName>DM 13 Signalfackel-Magazin</szLongItemName>
+		<szItemDesc>Signalfackeln für den HK Emergency Flare Launcher.</szItemDesc>
+		<szBRName>Signalfackeln Mag</szBRName>
+		<szBRDesc>5 Signalfackeln für den HK Emergency Flare Launcher.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2432</uiIndex>
 		<szItemName>FFV551 HEAT</szItemName>
 		<szLongItemName>FFV551 HEAT</szLongItemName>
-		<szItemDesc>A very effective anti-tank rocket for the Carl-Gustaf M3 recoilless rifle.</szItemDesc>
+		<szItemDesc>Eine sehr effektive Panzerabwehrrakete für das rückstoßfreie Gewehr Carl-Gustaf M3.</szItemDesc>
 		<szBRName>FFV551 HEAT</szBRName>
-		<szBRDesc>A very effective anti-tank rocket for the Carl-Gustaf M3 recoilless rifle.</szBRDesc>
+		<szBRDesc>Eine sehr effektive Panzerabwehrrakete für das rückstoßfreie Gewehr Carl-Gustaf M3.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2433</uiIndex>
 		<szItemName>FFV502 HEDP</szItemName>
 		<szLongItemName>RPG - FFV502 HEDP</szLongItemName>
-		<szItemDesc>The 84mm HEDP rocket for the Carl-Gustaf M3 is effective against a wide variety of targets, including enemy personnel.</szItemDesc>
+		<szItemDesc>Die 84mm HEDP-Rakete für den Carl-Gustaf M3 ist wirksam gegen eine Vielzahl von Zielen, einschließlich feindlicher Truppen.</szItemDesc>
 		<szBRName>RPG - FFV502 HEDP</szBRName>
-		<szBRDesc>The 84mm HEDP rocket for the Carl-Gustaf M3 is effective against a wide variety of targets, including enemy personnel.</szBRDesc>
+		<szBRDesc>Die 84mm HEDP-Rakete für den Carl-Gustaf M3 ist wirksam gegen eine Vielzahl von Zielen, einschließlich feindlicher Truppen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2434</uiIndex>
 		<szItemName>FFV441B Napalm</szItemName>
-		<szLongItemName>FFV441B Napalm Rocket</szLongItemName>
-		<szItemDesc>This Napalm Rocket for the Carl-Gustaf M3 is very useful if you need to set a large area on fire.</szItemDesc>
-		<szBRName>FFV441B Napalm Rocket</szBRName>
-		<szBRDesc>This Napalm Rocket for the Carl-Gustaf M3 is very useful if you need to set a large area on fire.</szBRDesc>
+		<szLongItemName>FFV441B Napalm-Rakete</szLongItemName>
+		<szItemDesc>Diese Napalm-Rakete für den Carl-Gustaf M3 ist sehr nützlich, wenn Sie große Flächen in Brand setzen wollen.</szItemDesc>
+		<szBRName>FFV441B Napalm-Rakete</szBRName>
+		<szBRDesc>Diese Napalm-Rakete für den Carl-Gustaf M3 ist sehr nützlich, wenn Sie große Flächen in Brand setzen wollen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2435</uiIndex>
-		<szItemName>Improvised Grenade</szItemName>
-		<szLongItemName>Improvised Grenade</szLongItemName>
-		<szItemDesc>Take some marbles, a jar and a chunk of C1 plastic explosives and you get a nice little homemade hand grenade.</szItemDesc>
-		<szBRName>Improvised Grenade</szBRName>
+		<szItemName>Improvisierte Granate</szItemName>
+		<szLongItemName>Improvisierte Granate</szLongItemName>
+		<szItemDesc>Man nehme ein paar Murmeln, ein Glas und ein Stück C1-Plastiksprengstoff und schon hat man eine nette kleine selbstgebaute Handgranate.</szItemDesc>
+		<szBRName>Improvisierte Granate</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2436</uiIndex>
-		<szItemName>M25A2 Grenade</szItemName>
-		<szLongItemName>M25A2 Riot Grenade</szLongItemName>
-		<szItemDesc>This small grenade releases tactical dispersion gas that reeks havoc on exposed eyes and skin.</szItemDesc>
-		<szBRName>M25A2 Riot Grenade</szBRName>
-		<szBRDesc>This eight ounce tear gas grenade is pretty useful if you need to clear a room of vermin.</szBRDesc>
+		<szItemName>M25A2 Granate</szItemName>
+		<szLongItemName>M25A2 Riot Granate</szLongItemName>
+		<szItemDesc>Diese kleinen Granaten setzen taktische Dispersionsgase frei, die sich verheerend auf Augen und Haut auswirken.</szItemDesc>
+		<szBRName>M25A2 Riot Granate</szBRName>
+		<szBRDesc>Diese acht Unzen Tränengas-Granaten sind ziemlich nützlich, wenn man einen Raum von Ungeziefer befreien muss.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2437</uiIndex>
-		<szItemName>Taped Flare</szItemName>
-		<szLongItemName>Taped Emergency Flare</szLongItemName>
-		<szItemDesc>A flare normally used for emergency purposes. There is some duct tape on it.</szItemDesc>
-		<szBRName>Taped Emergency Flare</szBRName>
+		<szItemName>Geklebte Fackel</szItemName>
+		<szLongItemName>Geklebte Notfallfackel</szLongItemName>
+		<szItemDesc>Eine Fackel, die normalerweise für Notfälle verwendet wird. Es ist etwas Klebeband daran befestigt.</szItemDesc>
+		<szBRName>Geklebte Notfallfackel</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2438</uiIndex>
-		<szItemName>Flarebomb</szItemName>
-		<szLongItemName>Flarebomb</szLongItemName>
-		<szItemDesc>Due to the different fire accelerant, this Flarebomb has a slightly increased area of effect compared to a regular Molotov Cocktail, though the duration of the fire is decreased.</szItemDesc>
-		<szBRName>Flarebomb</szBRName>
+		<szItemName>Leuchtbombe</szItemName>
+		<szLongItemName>Leuchtbombe</szLongItemName>
+		<szItemDesc>Aufgrund des alternativen Brandbeschleunigers hat diese Leuchtbombe einen etwas größeren Wirkungsbereich als ein normaler Molotow-Cocktail. Die Dauer des Feuers ist jedoch geringer.</szItemDesc>
+		<szBRName>Leuchtbombe</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2439</uiIndex>
-		<szItemName>Mustard Gas Mine</szItemName>
-		<szLongItemName>Mustard Gas Mine</szLongItemName>
-		<szItemDesc>This Mine packs a nasty and deadly surprise. Equip with a detonator of your choice and watch your enemies choke. This mine releases a colorless, odorless, and tasteless gas that causes intense burning and blistering of the lungs.</szItemDesc>
-		<szBRName>Mustard Gas Mine</szBRName>
+		<szItemName>Senfgas-Mine</szItemName>
+		<szLongItemName>Senfgas-Mine</szLongItemName>
+		<szItemDesc>Diese Mine birgt eine böse und tödliche Überraschung. Rüste sie mit einem Zünder deiner Wahl aus und sieh zu, wie deine Feinde ersticken. Diese Mine setzt ein farbloses, geruchloses und geschmackloses Gas frei, das ein starkes Brennen und Blasenbildung in der Lunge verursacht.</szItemDesc>
+		<szBRName>Senfgas-Mine</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2440</uiIndex>
-		<szItemName>Tear Gas Mine</szItemName>
-		<szLongItemName>Tear Gas Mine</szLongItemName>
-		<szItemDesc>A homemade tear gas mine that only needs a detonator.</szItemDesc>
-		<szBRName>Tear Gas Mine</szBRName>
+		<szItemName>Tränengas-Mine</szItemName>
+		<szLongItemName>Tränengas-Mine</szLongItemName>
+		<szItemDesc>Eine selbstgebaute Tränengas-Mine, die nur noch einen Zünder benötigt.</szItemDesc>
+		<szBRName>Tränengas-Mine</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2441</uiIndex>
-		<szItemName>Smoke Mine</szItemName>
-		<szLongItemName>Smoke Mine</szLongItemName>
-		<szItemDesc>This homemade smoke mine can be used to cover defensive positions, a retreat or an assault. All you need is a detonator.</szItemDesc>
-		<szBRName>Smoke Mine</szBRName>
+		<szItemName>Rauch-Mine</szItemName>
+		<szLongItemName>Rauch-Mine</szLongItemName>
+		<szItemDesc>Diese selbstgebaute Rauchmine kann zur Deckung von Verteidigungsstellungen, für einen Rückzug oder einen Angriff verwendet werden. Alles, was du noch brauchst, ist ein Zünder.</szItemDesc>
+		<szBRName>Rauch-Mine</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2442</uiIndex>
-		<szItemName>40mm Shell HE</szItemName>
-		<szLongItemName>40mm Shell HE</szLongItemName>
-		<szItemDesc>This standard fragmentation shell features a time-delayed firing device to ignite its encased TNT.</szItemDesc>
-		<szBRName>40mm Shell HE</szBRName>
-		<szBRDesc>This standard fragmentation shell features a time-delayed firing device to ignite its encased TNT.</szBRDesc>
+		<szItemName>40mm Granate HE</szItemName>
+		<szLongItemName>40mm Granate HE</szLongItemName>
+		<szItemDesc>Diese Standard-Splittergranate verfügt über eine zeitverzögerte Zündvorrichtung.</szItemDesc>
+		<szBRName>40mm Granate HE</szBRName>
+		<szBRDesc>Diese Standard-Splittergranate verfügt über eine zeitverzögerte Zündvorrichtung.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2443</uiIndex>
-		<szItemName>40mm Shell Illumination</szItemName>
-		<szLongItemName>40mm Shell Illumination</szLongItemName>
-		<szItemDesc>Whether you use them for target practice or for a real operation, these 40mm Patronen are the right choice when you need to light up a large area.</szItemDesc>
-		<szBRName>40mm Shell Illumination</szBRName>
-		<szBRDesc>Whether you use them for target practice or for a real operation, these 40mm Patronen are the right choice when you need to light up a large area.</szBRDesc>
+		<szItemName>40mm Leucht-Granate</szItemName>
+		<szLongItemName>40mm Leucht-Granate</szLongItemName>
+		<szItemDesc>Egal, ob Sie sie für Zielübungen oder für einen echten Einsatz verwenden, diese 40mm Granaten sind die richtige Wahl, wenn Sie eine große Fläche beleuchten müssen.</szItemDesc>
+		<szBRName>40mm Leucht-Granate</szBRName>
+		<szBRDesc>Egal, ob Sie sie für Zielübungen oder für einen echten Einsatz verwenden, diese 40mm Granaten sind die richtige Wahl, wenn Sie eine große Fläche beleuchten müssen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2444</uiIndex>
-		<szItemName>40mm Shell MG</szItemName>
-		<szLongItemName>40mm Shell Mustard Gas</szLongItemName>
-		<szItemDesc>Mustard Gas is known for its blistering and burning effect. With this round you will make your opponents cough out most of their internal organs.</szItemDesc>
-		<szBRName>40mm Shell Mustard Gas</szBRName>
-		<szBRDesc>Mustard Gas is known for its blistering and burning effect. With this round you will make your opponents cough out most of their internal organs.</szBRDesc>
+		<szItemName>40mm Senfgas-Granate</szItemName>
+		<szLongItemName>40mm Senfgas-Granate</szLongItemName>
+		<szItemDesc>Senfgas ist für seine blasenbildende und brennende Wirkung bekannt. Mit dieser Granate werden Sie Ihre Gegner dazu bringen, die meisten ihrer inneren Organe auszuhusten.</szItemDesc>
+		<szBRName>40mm Senfgas-Granate</szBRName>
+		<szBRDesc>Senfgas ist für seine blasenbildende und brennende Wirkung bekannt. Mit dieser Granate werden Sie Ihre Gegner dazu bringen, die meisten ihrer inneren Organe auszuhusten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2445</uiIndex>
-		<szItemName>40mm Shell Napalm</szItemName>
-		<szLongItemName>40mm Shell Napalm</szLongItemName>
-		<szItemDesc>This shell works great for crowd control, but it tends to require more clean up afterwards than standard Tear Gas.</szItemDesc>
-		<szBRName>40mm Shell Napalm</szBRName>
-		<szBRDesc>This shell works great for crowd control, but it tends to require more clean up afterwards than standard Tear Gas.</szBRDesc>
+		<szItemName>40mm Napalm-Granate</szItemName>
+		<szLongItemName>40mm Napalm-Granate</szLongItemName>
+		<szItemDesc>Diese Granate eignet sich hervorragend für die Kontrolle von Menschenmengen, erfordert aber in der Regel mehr Aufräumarbeiten als normales Tränengas.</szItemDesc>
+		<szBRName>40mm Napalm-Granate</szBRName>
+		<szBRDesc>Diese Granate eignet sich hervorragend für die Kontrolle von Menschenmengen, erfordert aber in der Regel mehr Aufräumarbeiten als normales Tränengas.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2446</uiIndex>
-		<szItemName>40mm Shell Smoke</szItemName>
-		<szLongItemName>40mm Shell Smoke</szLongItemName>
-		<szItemDesc>Now they see you, now they don't. When properly employed, this 40mm smoke shell will leave your opposition thinking they're dealing with Houdini himself.</szItemDesc>
-		<szBRName>40mm Shell Smoke</szBRName>
-		<szBRDesc>When fired from a 40mm mortar, this shell will quickly release a cloud of smoke that will aid in battlefield entry or withdrawal.</szBRDesc>
+		<szItemName>40mm Rauch-Granate</szItemName>
+		<szLongItemName>40mm Rauch-Granate</szLongItemName>
+		<szItemDesc>Erst sehen sie dich, dann nicht mehr. Richtig eingesetzt, lässt diese 40mm Rauchgranate Ihre Gegner glauben, sie hätten es mit Houdini zu tun.</szItemDesc>
+		<szBRName>40mm Rauch-Granate</szBRName>
+		<szBRDesc>Wenn diese Granate aus einem 40mm Mörser abgefeuert wird, setzt sie schnell eine Rauchwolke frei, die das Betreten des Schlachtfelds oder den Rückzug erleichtert.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2447</uiIndex>
-		<szItemName>40mm Shell Stun</szItemName>
-		<szLongItemName>40mm Shell Stun</szLongItemName>
-		<szItemDesc>When fired from the 40mm commando mortar, these projectiles create a massive vacuum that will leave your enemies gasping for air.</szItemDesc>
-		<szBRName>40mm Shell Stun</szBRName>
-		<szBRDesc>When fired from the 40mm commando mortar, these projectiles create a massive vacuum that will leave your enemies gasping for air.</szBRDesc>
+		<szItemName>40mm Stun-Granate</szItemName>
+		<szLongItemName>40mm Stun-Granate</szLongItemName>
+		<szItemDesc>Wenn diese Geschosse aus dem 40mm Kommandomörser abgefeuert werden, erzeugen sie ein massives Vakuum, das Ihre Feinde nach Luft schnappen lässt.</szItemDesc>
+		<szBRName>40mm Stun-Granate</szBRName>
+		<szBRDesc>Wenn diese Geschosse aus dem 40mm Kommandomörser abgefeuert werden, erzeugen sie ein massives Vakuum, das Ihre Feinde nach Luft schnappen lässt.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2448</uiIndex>
-		<szItemName>40mm Shell TG</szItemName>
-		<szLongItemName>40mm Shell Tear Gas</szLongItemName>
-		<szItemDesc>This rubber-like round will disperse tear gas after a short delay. These projectiles are meant to be fired from the 40mm commando mortar.</szItemDesc>
-		<szBRName>40mm Shell Tear Gas</szBRName>
-		<szBRDesc>This rubber-like round will disperse tear gas after a short delay. These projectiles are meant to be fired from the 40mm commando mortar.</szBRDesc>
+		<szItemName>40mm Tränengas-Granate</szItemName>
+		<szLongItemName>40mm Tränengas-Granate</szLongItemName>
+		<szItemDesc>Dieses gummiartige Geschoss zerstreut Tränengas nach kurzer Verzögerung. Diese Geschosse sind für den Abschuss aus dem 40mm Kommandomörser vorgesehen.</szItemDesc>
+		<szBRName>40mm Tränengas-Granate</szBRName>
+		<szBRDesc>Dieses gummiartige Geschoss zerstreut Tränengas nach kurzer Verzögerung. Diese Geschosse sind für den Abschuss aus dem 40mm Kommandomörser vorgesehen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2449</uiIndex>
-		<szItemName>40mm Shell Thermobaric</szItemName>
-		<szLongItemName>40mm Shell Thermobaric</szLongItemName>
-		<szItemDesc>This grenade works great for crowd control, but it tends to require more clean up afterwards than standard Tear Gas.</szItemDesc>
-		<szBRName>40mm Shell Thermobaric</szBRName>
-		<szBRDesc>This grenade works great for crowd control, but it tends to require more clean up afterwards than standard Tear Gas.</szBRDesc>
+		<szItemName>40mm thermische Granate</szItemName>
+		<szLongItemName>40mm thermische Granate</szLongItemName>
+		<szItemDesc>Diese Granate eignet sich hervorragend für die Kontrolle von Menschenmengen, erfordert aber in der Regel mehr Aufräumarbeiten als normales Tränengas.</szItemDesc>
+		<szBRName>40mm thermische Granate</szBRName>
+		<szBRDesc>Diese Granate eignet sich hervorragend für die Kontrolle von Menschenmengen, erfordert aber in der Regel mehr Aufräumarbeiten als normales Tränengas.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2450</uiIndex>
-		<szItemName>40mm Shell VOG-25</szItemName>
-		<szLongItemName>40mm Shell VOG-25</szLongItemName>
-		<szItemDesc>Someone put a VOG-25 grenade into a 40mm shell casing.</szItemDesc>
-		<szBRName>40mm Shell VOG-25</szBRName>
+		<szItemName>40mm Granate VOG-25</szItemName>
+		<szLongItemName>40mm Granate VOG-25</szLongItemName>
+		<szItemDesc>Jemand hat eine VOG-25 Granate in ein 40mm Granatengehäuse eingesetzt.</szItemDesc>
+		<szBRName>40mm Granate VOG-25</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2451</uiIndex>
-		<szItemName>40mm Shell VOG-25P</szItemName>
-		<szLongItemName>40mm Shell VOG-25P</szLongItemName>
-		<szItemDesc>A VOG-25P grenade put into a shell casing for 40mm mortar Patronen.</szItemDesc>
-		<szBRName>40mm Shell VOG-25P</szBRName>
+		<szItemName>40mm Granate VOG-25P</szItemName>
+		<szLongItemName>40mm Granate VOG-25P</szLongItemName>
+		<szItemDesc>Eine VOG-25P Granate in einer Granathülle für 40mm Mörser.</szItemDesc>
+		<szBRName>40mm Granate VOG-25P</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2452</uiIndex>
-		<szItemName>40mm Shell VOG Smoke</szItemName>
-		<szLongItemName>40mm Shell VOG Smoke</szLongItemName>
-		<szItemDesc>A 40mm VOG smoke grenade in a shell casing.</szItemDesc>
-		<szBRName>40mm Shell VOG Smoke</szBRName>
+		<szItemName>40mm Rauch-Granate VOG</szItemName>
+		<szLongItemName>40mm Rauch-Granate VOG</szLongItemName>
+		<szItemDesc>Eine 40mm VOG Rauch-Granate in einem Granatgehäuse.</szItemDesc>
+		<szBRName>40mm Rauch-Granate VOG</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2453</uiIndex>
-		<szItemName>40mm Shell VOG TG</szItemName>
-		<szLongItemName>40mm Shell VOG Tear Gas</szLongItemName>
-		<szItemDesc>A VOG Tear Gas grenade in a shell casing.</szItemDesc>
-		<szBRName>40mm Shell VOG Tear Gas</szBRName>
+		<szItemName>40mm Granate VOG TG</szItemName>
+		<szLongItemName>40mm Tränengas-Granate VOG</szLongItemName>
+		<szItemDesc>Eine VOG Tränengas-Granate in einem Granatgehäuse.</szItemDesc>
+		<szBRName>40mm Tränengas-Granate VOG</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2454</uiIndex>
-		<szItemName>Stinger Grenade</szItemName>
-		<szLongItemName>Stinger Grenade</szLongItemName>
-		<szItemDesc>The Stinger Grenade is filled with more than 800 small rubber balls. It is an effective stun grenade for a lot of different tactical scenarios.</szItemDesc>
-		<szBRName>Stinger Grenade</szBRName>
-		<szBRDesc>The Stinger Grenade is filled with more than 800 small rubber balls. It is an effective stun grenade for a lot of different tactical scenarios.</szBRDesc>
+		<szItemName>Stinger Granate</szItemName>
+		<szLongItemName>Stinger Granate</szLongItemName>
+		<szItemDesc>Die Stinger Granate ist mit mehr als 800 kleinen Gummikugeln gefüllt. Sie ist eine effektive Betäubungsgranate für viele verschiedene taktische Szenarien.</szItemDesc>
+		<szBRName>Stinger Granate</szBRName>
+		<szBRDesc>Die Stinger Granate ist mit mehr als 800 kleinen Gummikugeln gefüllt. Sie ist eine effektive Betäubungsgranate für viele verschiedene taktische Szenarien.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2455</uiIndex>
-		<szItemName>XM84 Stun Grenade</szItemName>
-		<szLongItemName>XM84 Stun Grenade</szLongItemName>
-		<szItemDesc>Being louder than Motorhead and more blinding than Kathy Bates topless, this US stun grenade pacifies targets like no other.</szItemDesc>
-		<szBRName>XM84 Stun Grenade</szBRName>
-		<szBRDesc>These genuine Picatinny stun grenades detonate louder than any other stock we have, ideal for room clearing and less-lethal applications.</szBRDesc>
+		<szItemName>XM84 Stun Granate</szItemName>
+		<szLongItemName>XM84 Stun Granate</szLongItemName>
+		<szItemDesc>Diese US-amerikanische Betäubungsgranate ist lauter als Motorhead und blendender als Kathy Bates oben ohne und befriedet Ziele wie keine andere.</szItemDesc>
+		<szBRName>XM84 Stun Granate</szBRName>
+		<szBRDesc>Diese echten Picatinny-Stun-Granaten detonieren lauter als jeder andere Bestand, den wir haben. Ideal für die Säuberung von Räumen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2456</uiIndex>
@@ -19683,10 +19683,10 @@
 	<ITEM>
 		<uiIndex>2458</uiIndex>
 		<szItemName>PG-16 HEAT</szItemName>
-		<szLongItemName>PG-16 HEAT Grenade</szLongItemName>
-		<szItemDesc>This grenade has a more powerful rocket booster and fits entirely inside the launching tube, thanks to the smaller diameter of the warhead.</szItemDesc>
-		<szBRName>PG-16 HEAT Grenade</szBRName>
-		<szBRDesc>This grenade has a more powerful rocket booster and fits entirely inside the launching tube, thanks to the smaller diameter of the warhead.</szBRDesc>
+		<szLongItemName>PG-16 HEAT Granate</szLongItemName>
+		<szItemDesc>Diese Granate hat einen leistungsfähigen Raketenantrieb und passt dank des geringeren Durchmessers des Gefechtskopfes vollständig in das Abschussrohr.</szItemDesc>
+		<szBRName>PG-16 HEAT Granate</szBRName>
+		<szBRDesc>Diese Granate hat einen leistungsfähigen Raketenantrieb und passt dank des geringeren Durchmessers des Gefechtskopfes vollständig in das Abschussrohr.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2459</uiIndex>
@@ -19709,26 +19709,26 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2462</uiIndex>
-		<szItemName>TNT stick</szItemName>
-		<szLongItemName>TNT stick</szLongItemName>
-		<szItemDesc>Good old reliable trinitrotoluene, now in a handy throwable size.</szItemDesc>
-		<szBRName>TNT stick</szBRName>
+		<szItemName>TNT-Stab</szItemName>
+		<szLongItemName>TNT-Stab</szLongItemName>
+		<szItemDesc>Das gute alte, zuverlässige Trinitrotoluol. In einer handlichen Wurf-Größe.</szItemDesc>
+		<szBRName>TNT-Stab</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2463</uiIndex>
-		<szItemName>HMX stick</szItemName>
-		<szLongItemName>HMX stick</szLongItemName>
-		<szItemDesc>50%%%% TNT plus 50%%%% RDX = a heap of whoop-ass!</szItemDesc>
-		<szBRName>HMX stick</szBRName>
-		<szBRDesc>A handy HMX stick with all the usual pontency you get when mixing TNT and RDX but in a smaller, manageable package.</szBRDesc>
+		<szItemName>HMX-Stab</szItemName>
+		<szLongItemName>HMX-Stab</szLongItemName>
+		<szItemDesc>50%%%% TNT plus 50%%%% RDX = ein Arsch voll Scheiße!</szItemDesc>
+		<szBRName>HMX-Stab</szBRName>
+		<szBRDesc>Ein HMX-Stab mit der üblichen Menge an TNT und RDX in einem kleinen, handlichen Format.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2464</uiIndex>
-		<szItemName>Fertilizer Bomb</szItemName>
-		<szLongItemName>Fertilizer Bomb</szLongItemName>
-		<szItemDesc>A mix of gasoline and ammonium nitrate. This is a volatile combination that should be handled with care.</szItemDesc>
-		<szBRName>Fertilizer Bomb</szBRName>
+		<szItemName>Chemie-Bombe</szItemName>
+		<szLongItemName>Chemie-Bombe</szLongItemName>
+		<szItemDesc>Eine Mischung aus Benzin und Ammoniumnitrat. Dies ist eine instabile Kombination, die mit Vorsicht gehandhabt werden sollte.</szItemDesc>
+		<szBRName>Chemie-Bombe</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -19745,18 +19745,18 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2467</uiIndex>
-		<szItemName>Signal Mine</szItemName>
-		<szLongItemName>Signal Mine SM</szLongItemName>
-		<szItemDesc>Signal Mine.</szItemDesc>
-		<szBRName>Signal Mine</szBRName>
-		<szBRDesc>Signal Mine.</szBRDesc>
+		<szItemName>Signal-Mine</szItemName>
+		<szLongItemName>Signal-Mine SM</szLongItemName>
+		<szItemDesc>Signal-Mine.</szItemDesc>
+		<szBRName>Signal-Mine</szBRName>
+		<szBRDesc>Signal-Mine.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2468</uiIndex>
-		<szItemName>Molotov</szItemName>
-		<szLongItemName>Improved Molotov Cocktail</szLongItemName>
-		<szItemDesc>This classic guerilla design now uses oil-based additives to create a clingier accelerant for more destructive power and thicker smoke.</szItemDesc>
-		<szBRName>Molotov Cocktail</szBRName>
+		<szItemName>Molotow</szItemName>
+		<szLongItemName>Verbesserter Molotow-Cocktai</szLongItemName>
+		<szItemDesc>Dieses klassische Guerilla-Design verwendet jetzt ölbasierte Additive als Brandbeschleuniger für eine stärkere Zerstörungskraft und dichteren Rauch.</szItemDesc>
+		<szBRName>Verbesserter Molotow-Cocktai</szBRName>
 		<szBRDesc>Not available at BR</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -20021,7 +20021,7 @@
 		<szLongItemName>Dragon Skin Body Armor</szLongItemName>
 		<szItemDesc>Dragon Skin Body Armor is lightweight and offers very high protection. Unfortunately Dragon Skin cannot be repaired.</szItemDesc>
 		<szBRName>Dragon Skin Body Armor</szBRName>
-		<szBRDesc>Cutting edge body armor design, Dragon Skin uses overlapping ceramic scale discs offering protection even against powerful rifle rounds while still providing flexibility of movement.</szBRDesc>
+		<szBRDesc>Cutting edge body armor design, Dragon Skin uses overlapping ceramic scale discs offering protection even against powerful rifle Patronen while still providing flexibility of movement.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2502</uiIndex>
@@ -20227,7 +20227,7 @@
 		<uiIndex>2527</uiIndex>
 		<szItemName>Poly-18 Vest</szItemName>
 		<szLongItemName>Spec-18 MilEx Polyurethane Vest</szLongItemName>
-		<szItemDesc>New advanced Polyurethane bodyarmor offers superior penetration resistance and high performance protection. Has been improved with a extra application of Compound-18.</szItemDesc>
+		<szItemDesc>New advanced Polyurethane bodyarmor offers superior penetration resistance and high performance protection. Has been improved with a extra PBplication of Compound-18.</szItemDesc>
 		<szBRName>Treated MilEx Polyurethane Vest</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -20875,9 +20875,9 @@
 		<uiIndex>2608</uiIndex>
 		<szItemName>TT-2B Vest</szItemName>
 		<szLongItemName>TT-2B Shotgun Vest</szLongItemName>
-		<szItemDesc>A light weight vest from Tactical Tailor for support crew, with pockets for up to 3 assault rifle mags and two shotgun shell bandoleers in addition to two medium sized pockets.</szItemDesc>
+		<szItemDesc>A light weight vest from Tactical Tailor for support crew, with pockets for up to 3 assault rifle mags and two shotgun Granate bandoleers in addition to two medium sized pockets.</szItemDesc>
 		<szBRName>TT-2B Shotgun Vest</szBRName>
-		<szBRDesc>The Tactical Tailor vests of the first generation were designed for members of the support crew.  Its supprisingly light weight, has pockets for up to 3 assault rifle magazines and two shotgun shell bandoleers in addition to the two medium sized pockets.</szBRDesc>
+		<szBRDesc>The Tactical Tailor vests of the first generation were designed for members of the support crew.  Its supprisingly light weight, has pockets for up to 3 assault rifle magazines and two shotgun Granate bandoleers in addition to the two medium sized pockets.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2609</uiIndex>
@@ -20923,7 +20923,7 @@
 		<uiIndex>2614</uiIndex>
 		<szItemName>KSK Desert Vest</szItemName>
 		<szLongItemName>KSK Desert Vest</szLongItemName>
-		<szItemDesc>A German assault vest, as used by the KSK (German Special Forces), especially in Desert Scenarios. This vest has several pockets for magazines, grenades and various equipment pockets.</szItemDesc>
+		<szItemDesc>A German assault vest, as used by the KSK (German Special Forces), especially in Desert Scenarios. This vest has several pockets for magazines, Granates and various equipment pockets.</szItemDesc>
 		<szBRName>KSK Desert Vest</szBRName>
 		<szBRDesc>A German assault vest, as used by the KSK (German Special Forces), especially in Desert Scenarios. As you would expect from such a vest, it offers great camouflage in these regions. These vests are hard to get. Buy now, as long as stock lasts.</szBRDesc>
 	</ITEM>
@@ -21017,7 +21017,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2626</uiIndex>
-		<szItemName>60mm Shell Rig</szItemName>
+		<szItemName>60mm Granate Rig</szItemName>
 		<szLongItemName>60mm Patronen Leg Rig</szLongItemName>
 		<szItemDesc>This panel can store three 60mm mortar Patronen.</szItemDesc>
 		<szBRName>60mm Patronen Leg Rig</szBRName>
@@ -21026,10 +21026,10 @@
 	<ITEM>
 		<uiIndex>2627</uiIndex>
 		<szItemName>Lg Gr. Pouch</szItemName>
-		<szLongItemName>Large Grenades Leg Rig</szLongItemName>
-		<szItemDesc>A leg pouch with three pockets for large hand grenades.</szItemDesc>
-		<szBRName>Large Grenades Leg Rig</szBRName>
-		<szBRDesc>A leg pouch with three pockets for large hand grenades.</szBRDesc>
+		<szLongItemName>Large Granates Leg Rig</szLongItemName>
+		<szItemDesc>A leg pouch with three pockets for large Handgranates.</szItemDesc>
+		<szBRName>Large Granates Leg Rig</szBRName>
+		<szBRDesc>A leg pouch with three pockets for large Handgranates.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2628</uiIndex>
@@ -21043,17 +21043,17 @@
 		<uiIndex>2629</uiIndex>
 		<szItemName>Guarder Vest</szItemName>
 		<szLongItemName>Guarder Force Recon Vest</szLongItemName>
-		<szItemDesc>The Guarder Force Recon Vest was designed to carry a diverse variety of combat equipment including room for three 40mm grenades.</szItemDesc>
+		<szItemDesc>The Guarder Force Recon Vest was designed to carry a diverse variety of combat equipment including room for three 40mm Granates.</szItemDesc>
 		<szBRName>Guarder Force Recon Vest</szBRName>
-		<szBRDesc>The Guarder Force Recon Vest was designed to carry a diverse variety of combat equipment. In particular, this vest has also three pockets for 40mm grenades.</szBRDesc>
+		<szBRDesc>The Guarder Force Recon Vest was designed to carry a diverse variety of combat equipment. In particular, this vest has also three pockets for 40mm Granates.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2630</uiIndex>
 		<szItemName>Small 40mm Gren. LR</szItemName>
-		<szLongItemName>Small 40mm Grenades Leg Rig</szLongItemName>
-		<szItemDesc>A twin pouch for 40mm grenades mounted on a leg rig. The rig is small enough to still allow access to the regular pant pockets.</szItemDesc>
-		<szBRName>Small 40mm Grenades Leg Rig</szBRName>
-		<szBRDesc>To be mounted on a leg rig, this twin pouch for 40mm grenades is small enough to still allow access to the regular pant pockets.</szBRDesc>
+		<szLongItemName>Small 40mm Granates Leg Rig</szLongItemName>
+		<szItemDesc>A twin pouch for 40mm Granates mounted on a leg rig. The rig is small enough to still allow access to the regular pant pockets.</szItemDesc>
+		<szBRName>Small 40mm Granates Leg Rig</szBRName>
+		<szBRDesc>To be mounted on a leg rig, this twin pouch for 40mm Granates is small enough to still allow access to the regular pant pockets.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2631</uiIndex>
@@ -21106,10 +21106,10 @@
 	<ITEM>
 		<uiIndex>2637</uiIndex>
 		<szItemName>VOG Rig</szItemName>
-		<szLongItemName>40mm VOG Grenades Rig Combat Pack</szLongItemName>
-		<szItemDesc>This Afghan era Soviet chest rig carries 40mm VOG grenades and is worn like a combat pack.</szItemDesc>
-		<szBRName>VOG Grenades Rig</szBRName>
-		<szBRDesc>This Afghan era Soviet chest rig can carry a huge assortment of 40mm VOG grenades and is worn like a combat pack.</szBRDesc>
+		<szLongItemName>40mm VOG Granates Rig Combat Pack</szLongItemName>
+		<szItemDesc>This Afghan era Soviet chest rig carries 40mm VOG Granates and is worn like a combat pack.</szItemDesc>
+		<szBRName>VOG Granates Rig</szBRName>
+		<szBRDesc>This Afghan era Soviet chest rig can carry a huge assortment of 40mm VOG Granates and is worn like a combat pack.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2638</uiIndex>
@@ -21131,9 +21131,9 @@
 		<uiIndex>2640</uiIndex>
 		<szItemName>Recon Combat Pack</szItemName>
 		<szLongItemName>Eagle Recon Combat Pack</szLongItemName>
-		<szItemDesc>In addition to two small side pockets this compact butt pack has 6 loops to store 40mm grenades.</szItemDesc>
+		<szItemDesc>In addition to two small side pockets this compact butt pack has 6 loops to store 40mm Granates.</szItemDesc>
 		<szBRName>Eagle Recon Pack</szBRName>
-		<szBRDesc>Engineered with Eagle's legendary build quaility, this improved buttpack also has two small side pockets and 6 loops to store 40mm grenades.</szBRDesc>
+		<szBRDesc>Engineered with Eagle's legendary build quaility, this improved buttpack also has two small side pockets and 6 loops to store 40mm Granates.</szBRDesc>
 
 	</ITEM>
 	<ITEM>
@@ -21156,17 +21156,17 @@
 		<uiIndex>2643</uiIndex>
 		<szItemName>RPG Pack</szItemName>
 		<szLongItemName>RPG Combat Pack</szLongItemName>
-		<szItemDesc>A combat pack for 4 rocket propelled grenades, as used by the RPG-7. The bandoilers can also store 60mm mortar Patronen.</szItemDesc>
+		<szItemDesc>A combat pack for 4 rocket propelled Granates, as used by the RPG-7. The bandoilers can also store 60mm mortar Patronen.</szItemDesc>
 		<szBRName>RPG Combat Pack</szBRName>
-		<szBRDesc>This combat pack has a medium sized pocket, four smaller pockets and four special bandoilers for rocket propelled grenades, as used by the RPG-7. The bandoilers will also store 60mm mortart Patronen or items of similiar size.</szBRDesc>
+		<szBRDesc>This combat pack has a medium sized pocket, four smaller pockets and four special bandoilers for rocket propelled Granates, as used by the RPG-7. The bandoilers will also store 60mm mortart Patronen or items of similiar size.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2644</uiIndex>
 		<szItemName>GL Holster</szItemName>
 		<szLongItemName>Grenade Launcher Holster</szLongItemName>
-		<szItemDesc>A special holster for small 40mm grenade launchers. The holster has 3 loops for 40mm grenades.</szItemDesc>
+		<szItemDesc>A special holster for small 40mm Granate launchers. The holster has 3 loops for 40mm Granates.</szItemDesc>
 		<szBRName>Grenade Launcher Holster</szBRName>
-		<szBRDesc>A special holster for small 40mm grenade launchers. The holster has 3 loops for 40mm grenades.</szBRDesc>
+		<szBRDesc>A special holster for small 40mm Granate launchers. The holster has 3 loops for 40mm Granates.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2645</uiIndex>
@@ -21196,9 +21196,9 @@
 		<uiIndex>2648</uiIndex>
 		<szItemName>RM21-G Vest</szItemName>
 		<szLongItemName>Russian RM21-G Vest</szLongItemName>
-		<szItemDesc>This assault vest was developed for equipping OMON and SOBR special forces units. It is equipped with pouches for 4 magazines, 6 VOG-25 grenades, 2 handgrenades and 2 medium sized pockets for other items.</szItemDesc>
+		<szItemDesc>This assault vest was developed for equipping OMON and SOBR special forces units. It is equipped with pouches for 4 magazines, 6 VOG-25 Granates, 2 handgrenades and 2 medium sized pockets for other items.</szItemDesc>
 		<szBRName>Russian RM21-G Vest</szBRName>
-		<szBRDesc>This assault vest was developed for equipping OMON and SOBR special forces units. It is equipped with pouches for 4 magazines, 6 VOG-25 grenades, 2 handgrenades and 2 medium sized pockets for other items.</szBRDesc>
+		<szBRDesc>This assault vest was developed for equipping OMON and SOBR special forces units. It is equipped with pouches for 4 magazines, 6 VOG-25 Granates, 2 handgrenades and 2 medium sized pockets for other items.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2649</uiIndex>
@@ -21222,7 +21222,7 @@
 		<szLongItemName>RM-OMON Vest</szLongItemName>
 		<szItemDesc>This utility vest is manufactured for special units of the MVD.</szItemDesc>
 		<szBRName>RM-OMON Vest</szBRName>
-		<szBRDesc>This genuine Russian utility vest is manufactured for special units of the MVD. It has two pockets for AR magazines, a holster for a small pistol and 2 medium sized utility pockets.</szBRDesc>
+		<szBRDesc>This genuine Russian utility vest is manufactured for special units of the MVD. It has two pockets for AR magazines, a holster for a small Pistolen and 2 medium sized utility pockets.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2652</uiIndex>
@@ -21236,9 +21236,9 @@
 		<uiIndex>2653</uiIndex>
 		<szItemName>SAW Vest</szItemName>
 		<szLongItemName>SAW Vest</szLongItemName>
-		<szItemDesc>This camouflaged SAW Vest can store two ammo belts, several magazines and has a small pistol holster.</szItemDesc>
+		<szItemDesc>This camouflaged SAW Vest can store two Munitionsgurts, several magazines and has a small Pistolen holster.</szItemDesc>
 		<szBRName>SAW Vest</szBRName>
-		<szBRDesc>This SAW Vest can store two ammo belts, several magazines, has a small pistol holster and comes in MARPAT camo.</szBRDesc>
+		<szBRDesc>This SAW Vest can store two Munitionsgurts, several magazines, has a small Pistolen holster and comes in MARPAT camo.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2654</uiIndex>
@@ -21332,25 +21332,25 @@
 		<uiIndex>2665</uiIndex>
 		<szItemName>Tactical Belt</szItemName>
 		<szLongItemName>Tactical EWF Belt</szLongItemName>
-		<szItemDesc>This quality belt has a pistol holster for a medium sized pistol, pockets for spare magazines and bandoleers for shotgun Patronen.</szItemDesc>
+		<szItemDesc>This quality belt has a Pistolen holster for a medium sized pistol, pockets for spare magazines and bandoleers for shotgun Patronen.</szItemDesc>
 		<szBRName>Tactical EWF Belt</szBRName>
-		<szBRDesc>This quality police belt has a pistol holster for a medium sized pistol, spare magazines and bandoleers for shotgun Patronen.</szBRDesc>
+		<szBRDesc>This quality police belt has a Pistolen holster for a medium sized pistol, spare magazines and bandoleers for shotgun Patronen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2666</uiIndex>
-		<szItemName>Garand Ammo Belt</szItemName>
-		<szLongItemName>M1 Garand Ammo Belt</szLongItemName>
-		<szItemDesc>A classic U.S. military ammo belt for M1 Garand ammo clips.</szItemDesc>
-		<szBRName>M1 Garand Ammo Belt</szBRName>
+		<szItemName>Garand Munitionsgurt</szItemName>
+		<szLongItemName>M1 Garand Munitionsgurt</szLongItemName>
+		<szItemDesc>A classic U.S. military Munitionsgurt for M1 Garand ammo clips.</szItemDesc>
+		<szBRName>M1 Garand Munitionsgurt</szBRName>
 		<szBRDesc>This belt is designed for carrying 12 M1 8 round enblock clips.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2667</uiIndex>
 		<szItemName>Grenade Belt</szItemName>
 		<szLongItemName>Grenade Belt</szLongItemName>
-		<szItemDesc>This belt has two pockets for large grenades, two small utility pockets, suitable to take regular grenades and a utility pouch.</szItemDesc>
+		<szItemDesc>This belt has two pockets for large Granates, two small utility pockets, suitable to take regular Granates and a utility pouch.</szItemDesc>
 		<szBRName>Grenade Belt</szBRName>
-		<szBRDesc>This belt has two pockets for large grenades, two small utility pockets, suitable to take regular grenades and a utility pouch.</szBRDesc>
+		<szBRDesc>This belt has two pockets for large Granates, two small utility pockets, suitable to take regular Granates and a utility pouch.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2668</uiIndex>
@@ -21364,9 +21364,9 @@
 		<uiIndex>2669</uiIndex>
 		<szItemName>Assault Combat Pack</szItemName>
 		<szLongItemName>Assault Combat Pack</szLongItemName>
-		<szItemDesc>This large combat pack is designed to safely store a large quantity of 40mm grenades. Can't be worn with a backpack.</szItemDesc>
+		<szItemDesc>This large combat pack is designed to safely store a large quantity of 40mm Granates. Can't be worn with a backpack.</szItemDesc>
 		<szBRName>Assault Combat Pack</szBRName>
-		<szBRDesc>This large combat pack is designed to safely store a large quantity of 40mm grenades.</szBRDesc>
+		<szBRDesc>This large combat pack is designed to safely store a large quantity of 40mm Granates.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2670</uiIndex>
@@ -21390,7 +21390,7 @@
 		<szLongItemName>Russian RM22SF Desert Vest</szLongItemName>
 		<szItemDesc>A versatile Russian special forces vest.</szItemDesc>
 		<szBRName>Russian RM22SF Desert</szBRName>
-		<szBRDesc>Designed for carrying magazines, grenades, and a few other things, this is the Russian special forces vest. This variant has a desert camo pattern.</szBRDesc>
+		<szBRDesc>Designed for carrying magazines, Granates, and a few other things, this is the Russian special forces vest. This variant has a desert camo pattern.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2673</uiIndex>
@@ -21444,9 +21444,9 @@
 		<uiIndex>2679</uiIndex>
 		<szItemName>Dual Holster</szItemName>
 		<szLongItemName>Dual Holster Belt</szLongItemName>
-		<szItemDesc>This belt has two pistol holster for small and medium sized pistols.</szItemDesc>
+		<szItemDesc>This belt has two Pistolen holster for small and medium sized pistols.</szItemDesc>
 		<szBRName>Dual Holster Belt</szBRName>
-		<szBRDesc>This belt has two pistol holster for small and medium sized pistols.</szBRDesc>
+		<szBRDesc>This belt has two Pistolen holster for small and medium sized pistols.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2680</uiIndex>
@@ -21468,9 +21468,9 @@
 		<uiIndex>2682</uiIndex>
 		<szItemName>12G Pouch</szItemName>
 		<szLongItemName>ETAC Shotgun Ammo Pouch</szLongItemName>
-		<szItemDesc>ETAC Shotgun shell pouches are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
+		<szItemDesc>ETAC Shotgun Granate pouches are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
 		<szBRName>ETAC Shotgun Ammo Pouch</szBRName>
-		<szBRDesc>ETAC Shotgun shell pouches are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment.</szBRDesc>
+		<szBRDesc>ETAC Shotgun Granate pouches are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2683</uiIndex>
@@ -21507,9 +21507,9 @@
 	<ITEM>
 		<uiIndex>2687</uiIndex>
 		<szItemName>ETAC Holster</szItemName>
-		<szLongItemName>ETAC Pistol Holster</szLongItemName>
+		<szLongItemName>ETAC Pistolen Holster</szLongItemName>
 		<szItemDesc>A MARPAT camo holster for your favourite side arm.</szItemDesc>
-		<szBRName>ETAC Pistol Holster</szBRName>
+		<szBRName>ETAC Pistolen Holster</szBRName>
 		<szBRDesc>This lightweight desert MARPAT holster is made from hardened 1680D ballistic nylon that absorb shock and sheds moisture away from your favorite sidearm.</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -21538,19 +21538,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2691</uiIndex>
-		<szItemName>Dbl Grenade</szItemName>
-		<szLongItemName>ETAC Double Grenade Pouch</szLongItemName>
+		<szItemName>Dbl Granate</szItemName>
+		<szLongItemName>ETAC Double Granate Pouch</szLongItemName>
 		<szItemDesc>Grenades can sometimes be like gonads and can cause a world or hurt if they're left swinging loose in the open elments. Keep 'em safe in this double pouch.</szItemDesc>
-		<szBRName>ETAC Dbl Grenade Pouch</szBRName>
-		<szBRDesc>Keep you grenades safe and secure in this camouflaged tactial grenade pouch.</szBRDesc>
+		<szBRName>ETAC Dbl Granate Pouch</szBRName>
+		<szBRDesc>Keep you Granates safe and secure in this camouflaged tactial Granate pouch.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2692</uiIndex>
 		<szItemName>VOG Bandolier</szItemName>
-		<szLongItemName>40mm VOG Grenades Bandolier</szLongItemName>
-		<szItemDesc>This tactical black bandolier is straight out of Terminator 2, it can carry a huge assortment of 40mm VOG grenades and is worn like a combat pack.</szItemDesc>
-		<szBRName>VOG Grenades Bandolier</szBRName>
-		<szBRDesc>This tactical black bandolier can carry a huge assortment of 40mm VOG grenades and is worn like a combat pack.</szBRDesc>
+		<szLongItemName>40mm VOG Granates Bandolier</szLongItemName>
+		<szItemDesc>This tactical black bandolier is straight out of Terminator 2, it can carry a huge assortment of 40mm VOG Granates and is worn like a combat pack.</szItemDesc>
+		<szBRName>VOG Granates Bandolier</szBRName>
+		<szBRDesc>This tactical black bandolier can carry a huge assortment of 40mm VOG Granates and is worn like a combat pack.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2693</uiIndex>
@@ -22424,10 +22424,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2802</uiIndex>
-		<szItemName>Shell</szItemName>
-		<szLongItemName>Empty Mortar Shell</szLongItemName>
-		<szItemDesc>An empty mortar shell casing, obviously unused. MacGyver or pyromaniacs could no doubt get something going with this one.</szItemDesc>
-		<szBRName>Empty Mortar Shell</szBRName>
+		<szItemName>Granate</szItemName>
+		<szLongItemName>Empty Mortar Granate</szLongItemName>
+		<szItemDesc>An empty mortar Granate casing, obviously unused. MacGyver or pyromaniacs could no doubt get something going with this one.</szItemDesc>
+		<szBRName>Empty Mortar Granate</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -22532,7 +22532,7 @@
 		<szLongItemName>30x60 Spotting Scope</szLongItemName>
 		<szItemDesc>A high powered, waterproof spotting scope for your sniper squad.</szItemDesc>
 		<szBRName>30x60 Spotting Scope</szBRName>
-		<szBRDesc>Triplet Apochromatic lens combined with high density, extra-low dispersion glass makes this the perfect scope for the spotter of your sniper team.</szBRDesc>
+		<szBRDesc>Triplet PBochromatic lens combined with high density, extra-low dispersion glass makes this the perfect scope for the spotter of your sniper team.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2816</uiIndex>
@@ -22587,7 +22587,7 @@
 		<uiIndex>2822</uiIndex>
 		<szItemName>LAM</szItemName>
 		<szLongItemName>Insight LAM-1000</szLongItemName>
-		<szItemDesc>Originally designed in response to the U.S. Navy SEAL's Assault Pistol program, the Laser Aiming Module, (LAM) pioneered new ground and set the standard for multi-laser/white light capability in a compact pistol mounted package. Today, Insight Tech-Gear's LAM-1000 is known to the U.S. Military as the ILWLP.</szItemDesc>
+		<szItemDesc>Originally designed in response to the U.S. Navy SEAL's Assault Pistolen program, the Laser Aiming Module, (LAM) pioneered new ground and set the standard for multi-laser/white light capability in a compact Pistolen mounted package. Today, Insight Tech-Gear's LAM-1000 is known to the U.S. Military as the ILWLP.</szItemDesc>
 		<szBRName>Insight LAM-1000</szBRName>
 		<szBRDesc>The ILWLP/LAM-1000 with interface is an advanced single-module, multi-function illuminator flashlight and aiming device derived from the military standard Insight AN/PEQ-6. Discontinued product, once they're gone, THEY'RE GONE.</szBRDesc>
 	</ITEM>
@@ -23048,9 +23048,9 @@
 		<uiIndex>2881</uiIndex>
 		<szItemName>CRL Laser Sight</szItemName>
 		<szLongItemName>Sightmark CRL Triple duty Laser</szLongItemName>
-		<szItemDesc>An affordable, compact tactical laser sight inspired by military applications with a lightweight yet durable composite plastic body.</szItemDesc>
+		<szItemDesc>An affordable, compact tactical laser sight inspired by military PBplications with a lightweight yet durable composite plastic body.</szItemDesc>
 		<szBRName>Sightmark CRL Tri Laser</szBRName>
-		<szBRDesc>An affordable tactical laser sight inspired by military and law-enforcement applications. Low profile and compact size make it ideal for rapid-fire shooting or home defense. Durable, yet light. Adjustable windage and elevation. 300-yard visibility at night, 20 yards in sunlight.</szBRDesc>
+		<szBRDesc>An affordable tactical laser sight inspired by military and law-enforcement PBplications. Low profile and compact size make it ideal for rapid-fire shooting or home defense. Durable, yet light. Adjustable windage and elevation. 300-yard visibility at night, 20 yards in sunlight.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2882</uiIndex>
@@ -23248,7 +23248,7 @@
 		<uiIndex>2906</uiIndex>
 		<szItemName>They Live</szItemName>
 		<szLongItemName>They Live</szLongItemName>
-		<szItemDesc>Roddy Piper plays a drifter referred to as Nada, who discovers the ruling class are in fact aliens concealing their appearance and manipulating people to spend money, breed and accept the status quo with subliminal messages in mass media.</szItemDesc>
+		<szItemDesc>Roddy Piper plays a drifter referred to as Nada, who discovers the ruling class are in fact aliens concealing their PBpearance and manipulating people to spend money, breed and accept the status quo with subliminal messages in mass media.</szItemDesc>
 		<szBRName>Video</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23334,11 +23334,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2917</uiIndex>
-		<szItemName>40mm Shell Casing</szItemName>
-		<szLongItemName>40mm Shell Casing</szLongItemName>
-		<szItemDesc>This shell casing can be combined with a variety of 40mm grenades to allow firing the grenades with a 40mm commando mortar.</szItemDesc>
-		<szBRName>40mm Shell Casing</szBRName>
-		<szBRDesc>These military surplus shell casings have a hundred and one uses, from creating custom projectiles to containing sundrie items in the garage or office.</szBRDesc>
+		<szItemName>40mm Granate Casing</szItemName>
+		<szLongItemName>40mm Granate Casing</szLongItemName>
+		<szItemDesc>This Granate casing can be combined with a variety of 40mm Granates to allow firing the Granates with a 40mm commando mortar.</szItemDesc>
+		<szBRName>40mm Granate Casing</szBRName>
+		<szBRDesc>These military surplus Granate casings have a hundred and one uses, from creating custom projectiles to containing sundrie items in the garage or office.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2918</uiIndex>
@@ -23511,9 +23511,9 @@
 	<ITEM>
 		<uiIndex>2939</uiIndex>
 		<szItemName>mod. GL Collimator</szItemName>
-		<szLongItemName>mod. Grenade Launcher Collimator</szLongItemName>
-		<szItemDesc>A red dot sight that can be mounted to certain grenade launchers to improve sight range and target acquisition.</szItemDesc>
-		<szBRName>mod. Grenade Launcher Collimator</szBRName>
+		<szLongItemName>mod. Granate Launcher Collimator</szLongItemName>
+		<szItemDesc>A red dot sight that can be mounted to certain Granate launchers to improve sight range and target acquisition.</szItemDesc>
+		<szBRName>mod. Granate Launcher Collimator</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -23624,7 +23624,7 @@
 		<uiIndex>2953</uiIndex>
 		<szItemName>mod. AN/PVS-14</szItemName>
 		<szLongItemName>mod. Scope, AN/PVS-14 NV</szLongItemName>
-		<szItemDesc>The PVS-14 Gen 3P scope is designed for the most demanding of night-time applications.</szItemDesc>
+		<szItemDesc>The PVS-14 Gen 3P scope is designed for the most demanding of night-time PBplications.</szItemDesc>
 		<szBRName>mod. Scope, AN/PVS-14 NV</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23768,7 +23768,7 @@
 		<uiIndex>2971</uiIndex>
 		<szItemName>Blood Bag</szItemName>
 		<szLongItemName>Blood Bag</szLongItemName>
-		<szItemDesc>This plastic bag may well save your life. It is used to restore a person's blood during a blood transfusion. Blood type 0- is universal in emergencies and still cheaper than HP printer ink.</szItemDesc>
+		<szItemDesc>This plastic bag may well save your life. It is used to restore a person's blood during a blood transfusion. Blood type 0- is universal in emergencies and still cheaper than HS printer ink.</szItemDesc>
 		<szBRName>Blood Bag</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23818,7 +23818,7 @@
 		<szLongItemName>Trauma pack</szLongItemName>
 		<szItemDesc>An easy-to-use pre-packed sterile emergency bandage for when that wound turns into a gusher.</szItemDesc>
 		<szBRName>Trauma pack</szBRName>
-		<szBRDesc>This emergency bandage is elasticized with a non-adhesive pad sewn in. With its built-in pressure bar it can apply pressure to any site, can be easily wrapped and secured to almost all wounds.</szBRDesc>
+		<szBRDesc>This emergency bandage is elasticized with a non-adhesive pad sewn in. With its built-in pressure bar it can PBply pressure to any site, can be easily wrapped and secured to almost all wounds.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2978</uiIndex>
@@ -24072,7 +24072,7 @@
 		<uiIndex>3009</uiIndex>
 		<szItemName>Rune Stones</szItemName>
 		<szLongItemName>Rune Stones</szLongItemName>
-		<szItemDesc>A small sack of stones etched with what appears to be runes, some give off a very weak glow. These are not ordinary stones, some are warm, others are cold. If real is what you can see, smell, taste and feel then 'real' is simply electrical signals interpreted by your brain.</szItemDesc>
+		<szItemDesc>A small sack of stones etched with what PBpears to be runes, some give off a very weak glow. These are not ordinary stones, some are warm, others are cold. If real is what you can see, smell, taste and feel then 'real' is simply electrical signals interpreted by your brain.</szItemDesc>
 		<szBRName>Rune Stones</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -24252,7 +24252,7 @@
 		<uiIndex>3032</uiIndex>
 		<szItemName>Contract</szItemName>
 		<szLongItemName>Articles of Traineeship</szLongItemName>
-		<szItemDesc>A contract between the A.I.M. personnel office and Kevin Rubins. It states that he will complete his apprenticeship (with certificate) for a security specialist free of charge when gaining practical experience within a relief project.</szItemDesc>
+		<szItemDesc>A contract between the A.I.M. personnel office and Kevin Rubins. It states that he will complete his PBprenticeship (with certificate) for a security specialist free of charge when gaining practical experience within a relief project.</szItemDesc>
 		<szBRName>Articles of Traineeship</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
