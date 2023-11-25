@@ -17232,49 +17232,49 @@
 		<uiIndex>2151</uiIndex>
 		<szItemName>M1 Garand T26</szItemName>
 		<szLongItemName>M1 Garand T26</szLongItemName>
-		<szItemDesc>This M1 Garand variant has an 6 inches shorter barrel than a regualr Garand.</szItemDesc>
+		<szItemDesc>Diese M1 Garand Variante hat einen um 6 Zoll kürzeren Lauf als eine reguläre Garand.</szItemDesc>
 		<szBRName>M1 Garand T26</szBRName>
-		<szBRDesc>Also known as the Tanker Garand, the T26 arose from requests by various Army combat commands for a shortened version of the standard M1 rifle for use in jungle or mobile warfare.</szBRDesc>
+		<szBRDesc>Die T26, auch als Tanker Garand bekannt, entstand auf Wunsch verschiedener Armeekommandos, die eine verkürzte Version des Standardgewehrs M1 für den Einsatz im Dschungel oder in der mobilen Kriegsführung benötigten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2152</uiIndex>
 		<szItemName>AKMSU</szItemName>
 		<szLongItemName>AKMSU</szLongItemName>
-		<szItemDesc>A shorter variant of the AKMS for special forces use. The U-shaped buttplate of the stock allows folding/unfolding while a clip is in place.</szItemDesc>
+		<szItemDesc>Eine kürzere Variante des AKMS für Spezialeinheiten. Die U-förmige Schaftkappe ermöglicht das Ein- und Ausklappen des Schafts, während ein Magazin eingesetzt ist.</szItemDesc>
 		<szBRName>AKMSU</szBRName>
-		<szBRDesc>This even more shortened variant of the AKM comes with a folding stock that allows folding/unfolding while a magazine is in the gun. Designed for paratroopers and special forces units, it's quite functional despite the rather unusual foregrip.</szBRDesc>
+		<szBRDesc>Diese noch stärker verkürzte Variante der AKM verfügt über einen Klappschaft, der das Ein- und Ausklappen ermöglicht, während sich ein Magazin in der Waffe befindet. Sie wurde für Fallschirmjäger und Spezialeinheiten entwickelt und ist trotz des eher ungewöhnlichen Vordergriffs recht funktionell.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2153</uiIndex>
 		<szItemName>Beretta ARX160</szItemName>
 		<szLongItemName>Beretta ARX160</szLongItemName>
-		<szItemDesc>Italians may be more reknowned for their style but this new weapons system imparts a host of modern practical feautures to their Future Soldier program.</szItemDesc>
+		<szItemDesc>Die Italiener sind zwar eher für ihren Stil bekannt, aber dieses neue Waffensystem verleiht ihrem Future-Soldier-Programm eine Vielzahl moderner und nützlicher Eigenschaften.</szItemDesc>
 		<szBRName>Beretta ARX160</szBRName>
-		<szBRDesc>Created for Italy's Soldato Futuro program, this modular weapon system makes use of Polymers and a lightweight chrome-lined barrel as well as a short-stroke piston system to reduce recoil.</szBRDesc>
+		<szBRDesc>Dieses modulare Waffensystem, das für das italienische Soldato Futuro-Programm entwickelt wurde, verwendet Polymere und einen leichten, verchromten Lauf sowie ein Kurzhubkolbensystem zur Verringerung des Rückstoßes.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2154</uiIndex>
 		<szItemName>Blaser LR</szItemName>
 		<szLongItemName>Blaser R8 Long Range</szLongItemName>
-		<szItemDesc>This top of the line hunting rifle will nullify those before they even realise they are being targeted until it is too late.</szItemDesc>
+		<szItemDesc>Dieses erstklassige Jagdgewehr macht die Ziele unschädlich, bevor sie überhaupt merken, dass sie ins Visier genommen wurden.</szItemDesc>
 		<szBRName>Blaser R8 Long Range</szBRName>
-		<szBRDesc>Make .338 cartridges reach their full, deadly potential with this 27 inch barrelled hunting rifle along with Blaser's legendary receiverless straight-pull design.</szBRDesc>
+		<szBRDesc>Mit dieser Jagdwaffe mit 27-Zoll-Lauf und dem bewährten Blaser Receiverless Straight-Pull-Design entfalten .338 Patronen ihr volles, tödliches Potenzial.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2155</uiIndex>
 		<szItemName>CA-15 Recon</szItemName>
 		<szLongItemName>CA-15 Recon</szLongItemName>
-		<szItemDesc>Despite its light weight this modern Patrol carbine is accurate enough for DMR duties.</szItemDesc>
+		<szItemDesc>Trotz seines geringen Gewichts ist dieser moderne Patrouillen-Karabiner präzise genug für den DMR-Einsatz.</szItemDesc>
 		<szBRName>CA-15 Recon</szBRName>
-		<szBRDesc>With a custom-made barrel consisting of Carbon Fiber the Christensen Arms CA-15 saves weight but does not compromise on reliability or accuracy and comes with a sub MOA guarantee.</szBRDesc>
+		<szBRDesc>Mit einem maßgefertigten Lauf aus Kohlefaser spart das Christensen Arms CA-15 Gewicht, geht aber keine Kompromisse bei Zuverlässigkeit und Präzision ein und kommt mit einer Sub-MOA-Garantie.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2156</uiIndex>
 		<szItemName>CZ 805 Bren</szItemName>
 		<szLongItemName>CZ 805 Bren</szLongItemName>
-		<szItemDesc>Don't confuse it with the old English light MG from WWII, worse still don't call it by its prototype Lada name, as this rifle is far from a cheap Eastern European jalopy.</szItemDesc>
+		<szItemDesc>Verwechseln Sie es nicht mit dem alten englischen leichten MG aus dem Zweiten Weltkrieg, und noch wichtiger: Nennen Sie es nicht bei seinem Prototypnamen Lada, denn dieses Gewehr ist alles andere als eine billige osteuropäische Blechbüchse.</szItemDesc>
 		<szBRName>CZ 805 Bren</szBRName>
-		<szBRDesc>A modern modular assault rifle platform, the 805 Bren was developed in conjunction with the Czech army and features all mod cons such as integral rails, folding stock and can fit a multitude of optional attachments.</szBRDesc>
+		<szBRDesc>Das 805 Bren ist ein modernes modulares Sturmgewehr, das in Zusammenarbeit mit der tschechischen Armee entwickelt wurde. Es verfügt über zahlreiche Extras wie integrierte Schienen und einen klappbaren Schaft und kann mit einer Vielzahl von optionalen Anbauteilen ausgestattet werden.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2157</uiIndex>
@@ -17638,146 +17638,146 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2202</uiIndex>
-		<szItemName>Bolts, 5</szItemName>
-		<szLongItemName>Crossbow Bolts, 5</szLongItemName>
-		<szItemDesc>Whether it's crusading kings or the local deer population, these lightweight aluminium crossbow bolts will level both in the same lethal level of silence.</szItemDesc>
-		<szBRName>Bolts, 5</szBRName>
-		<szBRDesc>These lightweight aluminium crossbow bolts are tipped with a special 4 blade steel hunting arrow-head.</szBRDesc>
+		<szItemName>Bolzen, 5</szItemName>
+		<szLongItemName>Armbrust Bolzen, 5</szLongItemName>
+		<szItemDesc>Egal, ob es sich um Kreuzfahrerkönige oder die örtliche Rehpopulation handelt, diese leichten Armbrustbolzen aus Aluminium erledigen beides mit lautloser und tödlicher Präzision.</szItemDesc>
+		<szBRName>Bolzen, 5</szBRName>
+		<szBRDesc>Diese leichten Aluminium-Armbrustbolzen sind mit einer speziellen 4-Klingen-Jagdpfeilspitze aus Stahl bestückt.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2203</uiIndex>
-		<szItemName>Bolts, 5 HE</szItemName>
-		<szLongItemName>Crossbow Bolts, 5 HE</szLongItemName>
-		<szItemDesc>These steel-made crossbow bolts contain a nasty surprise. The high explosive arrow-heads will turn your crossbow to a silent "grenade launcher".</szItemDesc>
-		<szBRName>Bolts, 5 HE</szBRName>
-		<szBRDesc>These steel-made crossbow bolts contain a nasty surprise. The high explosive arrow-heads will turn your crossbow to a silent "grenade launcher".</szBRDesc>
+		<szItemName>Bolzen, 5 HE</szItemName>
+		<szLongItemName>Armbrust BolzenArmbrust Bolzen, 5 HE</szLongItemName>
+		<szItemDesc>Diese Armbrustbolzen aus Stahl enthalten eine böse Überraschung. Die hochexplosiven Pfeilspitzen verwandeln Ihre Armbrust in einen lautlosen "Granatwerfer".</szItemDesc>
+		<szBRName>Bolzen, 5 HE</szBRName>
+		<szBRDesc>Diese Armbrustbolzen aus Stahl enthalten eine böse Überraschung. Die hochexplosiven Pfeilspitzen verwandeln Ihre Armbrust in einen lautlosen "Granatwerfer".</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2204</uiIndex>
-		<szItemName>7.62x37mm Crate DU</szItemName>
-		<szLongItemName>7.62x37mm Ammo Crate, DU</szLongItemName>
-		<szItemDesc>A really big box of ammunition.  I don't think this will fit in your backpack...</szItemDesc>
-		<szBRName>7.62x37mm DU ammo crate</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szItemName>7.62x37mm Kiste DU</szItemName>
+		<szLongItemName>7.62x37mm Munitionskiste, DU</szLongItemName>
+		<szItemDesc>Eine wirklich große Kiste mit Munition.  Ich glaube nicht, dass die in deinen Rucksack passt...</szItemDesc>
+		<szBRName>7.62x37mm DU Munitionskiste</szBRName>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2205</uiIndex>
 		<szItemName>7.62x37mm Box DU</szItemName>
 		<szLongItemName>7.62x37mm Box, DU</szLongItemName>
-		<szItemDesc>Deal out armor penetration and radiation damage from a suppressed rifle.</szItemDesc>
+		<szItemDesc>Durchdringen Sie Panzerung und verursachen Sie gleichzeitig Strahlungsschaden mit einem schallgedämpften Gewehr.</szItemDesc>
 		<szBRName>7.62x37mm Box DU</szBRName>
-		<szBRDesc>Deal out armor penetration and radiation damage from a suppressed rifle.</szBRDesc>
+		<szBRDesc>Durchdringen Sie Panzerung und verursachen Sie gleichzeitig Strahlungsschaden mit einem schallgedämpften Gewehr.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2206</uiIndex>
 		<szItemName>12.7x108mm HE</szItemName>
-		<szLongItemName>12.7mm HE Magazine</szLongItemName>
-		<szItemDesc>High Explosive ammunition for heavy anti-material rifles.</szItemDesc>
-		<szBRName>12.7mm HE Magazine</szBRName>
+		<szLongItemName>12.7mm HE Magazin</szLongItemName>
+		<szItemDesc>Hochexplosive Munition für schwere Panzerabwehrgewehre.</szItemDesc>
+		<szBRName>12.7mm HE Magazin</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2207</uiIndex>
 		<szItemName>12.7x108mm HE/AP</szItemName>
-		<szLongItemName>12.7mm HE/AP Magazine</szLongItemName>
-		<szItemDesc>High Explosive armor piercing ammunition for heavy anti-material rifles.</szItemDesc>
-		<szBRName>12.7mm HE/AP Magazine</szBRName>
+		<szLongItemName>12.7mm HE/AP Magazin</szLongItemName>
+		<szItemDesc>Hochexplosive panzerbrechende Munition für schwere Panzerabwehrgewehre.</szItemDesc>
+		<szBRName>12.7mm HE/AP Magazin</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2208</uiIndex>
-		<szItemName>12.7x108mm HE crate</szItemName>
-		<szLongItemName>12.7x108mm HE ammo crate</szLongItemName>
-		<szItemDesc>ammo crate</szItemDesc>
-		<szBRName>12.7x108mm HE ammo crate</szBRName>
+		<szItemName>12.7x108mm HE Kiste</szItemName>
+		<szLongItemName>12.7x108mm HE Munitionskiste</szLongItemName>
+		<szItemDesc>Munitionskiste</szItemDesc>
+		<szBRName>12.7x108mm HE Munitionskiste</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2209</uiIndex>
-		<szItemName>12.7x108mm HE/AP crate</szItemName>
-		<szLongItemName>12.7x108mm HE/AP ammo crate</szLongItemName>
-		<szItemDesc>ammo crate</szItemDesc>
-		<szBRName>12.7x108mm HE/AP ammo crate</szBRName>
+		<szItemName>12.7x108mm HE/AP Kiste</szItemName>
+		<szLongItemName>12.7x108mm HE/AP Munitionskiste</szLongItemName>
+		<szItemDesc>Munitionskiste</szItemDesc>
+		<szBRName>12.7x108mm HE/AP Munitionskiste</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2210</uiIndex>
 		<szItemName>9x39mm SP-5 Mag</szItemName>
-		<szLongItemName>9x39mm SP-5 Magazine</szLongItemName>
-		<szItemDesc>Match version of the 9x39mm round used by certain Russian silenced rifles.</szItemDesc>
+		<szLongItemName>9x39mm SP-5 Magazin</szLongItemName>
+		<szItemDesc>Match-Version der 9x39mm Patrone, die von bestimmten russischen schallgedämpften Gewehren verwendet wird.</szItemDesc>
 		<szBRName>9x39mm SP-5 Mag</szBRName>
-		<szBRDesc>The match version of the 9x39mm round used by certain Russian silenced rifles doesn't have quite the armor piercing capabilities of the SP-6 ammo, but it is quite effective if you need to take those long range shots.</szBRDesc>
+		<szBRDesc>Die Match-Version der 9x39mm Munition, die von bestimmten russischen schallgedämpften Gewehren verwendet wird, hat nicht ganz die panzerbrechende Wirkung der SP6 Munition, ist aber sehr effektiv, wenn Sie auf große Entfernungen schießen müssen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2211</uiIndex>
-		<szItemName>9x39mm SP-5 crate</szItemName>
-		<szLongItemName>9x39mm SP-5 ammo crate</szLongItemName>
-		<szItemDesc>ammo crate</szItemDesc>
-		<szBRName>9x39mm SP-5 ammo crate</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szItemName>9x39mm SP-5 Kiste</szItemName>
+		<szLongItemName>9x39mm SP-5 Munitionskiste</szLongItemName>
+		<szItemDesc>Munitionskiste</szItemDesc>
+		<szBRName>9x39mm SP-5 Munitionskiste</szBRName>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2212</uiIndex>
 		<szItemName>.30-06 AP, 5</szItemName>
 		<szLongItemName>.30-06 AP, 5</szLongItemName>
-		<szItemDesc>.30-06 Springfield FMJ ammunition.</szItemDesc>
+		<szItemDesc>.30-06 Springfield FMJ Munition.</szItemDesc>
 		<szBRName>.30-06 AP, 5</szBRName>
-		<szBRDesc>5 Rounds of .30-06 ammunition.</szBRDesc>
+		<szBRDesc>5 Kugeln of .30-06 Munition.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2213</uiIndex>
 		<szItemName>.30-06 AP, 20</szItemName>
 		<szLongItemName>.30-06 AP, BAR 20</szLongItemName>
-		<szItemDesc>A magazine for the BAR.</szItemDesc>
+		<szItemDesc>Ein Magazin für das BAR.</szItemDesc>
 		<szBRName>.30-06 AP, BAR 20</szBRName>
-		<szBRDesc>This magazine for the M1918A2 BAR holds 20 rounds of .30-06 ammunition.</szBRDesc>
+		<szBRDesc>Dieses Magazin für das M1918A2 BAR und fasst 20 Schuss .30-06-Munition.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2214</uiIndex>
-		<szItemName>12g Shells 2 PS</szItemName>
-		<szLongItemName>12 Gauge Shells, 2 PolyShok</szLongItemName>
-		<szItemDesc>PolyShok 12 gauge shotgun ammunition produces more stopping power, with less potential for collateral damage, than any other shotgun ammunition.</szItemDesc>
-		<szBRName>12g Shells 2 PolyShok</szBRName>
-		<szBRDesc>PolyShok 12 gauge shotgun ammunition produces more stopping power, with less potential for collateral damage, than any other shotgun ammunition.</szBRDesc>
+		<szItemName>12g Patronen 2 PS</szItemName>
+		<szLongItemName>12 Gauge Patronen, 2 PolySchock</szLongItemName>
+		<szItemDesc>PolySchock 12-Gauge-Schrotflintenmunition hat eine höhere Mann-Stopp-Wirkung und ein geringeres Potenzial für Kollateralschäden als jede andere Schrotflintenmunition.</szItemDesc>
+		<szBRName>12g Patronen 2 PolySchock</szBRName>
+		<szBRDesc>PolySchock 12-Gauge-Schrotflintenmunition hat eine höhere Mann-Stopp-Wirkung und ein geringeres Potenzial für Kollateralschäden als jede andere Schrotflintenmunition.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2215</uiIndex>
-		<szItemName>12g Shells 4 PS</szItemName>
-		<szLongItemName>12 Gauge Shells, 4 PolyShok</szLongItemName>
-		<szItemDesc>PolyShok 12 gauge shotgun ammunition produces more stopping power, with less potential for collateral damage, than any other shotgun ammunition.</szItemDesc>
-		<szBRName>12g Shells 4 PolyShok</szBRName>
-		<szBRDesc>PolyShok 12 gauge shotgun ammunition produces more stopping power, with less potential for collateral damage, than any other shotgun ammunition.</szBRDesc>
+		<szItemName>12g Patronen 4 PS</szItemName>
+		<szLongItemName>12 Gauge Patronen, 4 PolySchock</szLongItemName>
+		<szItemDesc>PolySchock 12-Gauge-Schrotflintenmunition hat eine höhere Mann-Stopp-Wirkung und ein geringeres Potenzial für Kollateralschäden als jede andere Schrotflintenmunition.</szItemDesc>
+		<szBRName>12g Patronen 4 PolySchock</szBRName>
+		<szBRDesc>PolySchock 12-Gauge-Schrotflintenmunition hat eine höhere Mann-Stopp-Wirkung und ein geringeres Potenzial für Kollateralschäden als jede andere Schrotflintenmunition.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2216</uiIndex>
-		<szItemName>12g Shells 7 PS</szItemName>
-		<szLongItemName>12 Gauge Shells, 7 PolyShok</szLongItemName>
-		<szItemDesc>PolyShok 12 gauge shotgun ammunition produces more stopping power, with less potential for collateral damage, than any other shotgun ammunition.</szItemDesc>
-		<szBRName>12g Shells 7 PolyShok</szBRName>
-		<szBRDesc>PolyShok 12 gauge shotgun ammunition produces more stopping power, with less potential for collateral damage, than any other shotgun ammunition.</szBRDesc>
+		<szItemName>12g Patronen 7 PS</szItemName>
+		<szLongItemName>12 Gauge Patronen, 7 PolySchock</szLongItemName>
+		<szItemDesc>PolySchock 12-Gauge-Schrotflintenmunition hat eine höhere Mann-Stopp-Wirkung und ein geringeres Potenzial für Kollateralschäden als jede andere Schrotflintenmunition.</szItemDesc>
+		<szBRName>12g Patronen 7 PolySchock</szBRName>
+		<szBRDesc>PolySchock 12-Gauge-Schrotflintenmunition hat eine höhere Mann-Stopp-Wirkung und ein geringeres Potenzial für Kollateralschäden als jede andere Schrotflintenmunition.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2217</uiIndex>
-		<szItemName>12g Shells 12 PS</szItemName>
-		<szLongItemName>12 Gauge Shells, 12 PolyShok</szLongItemName>
-		<szItemDesc>PolyShok 12 gauge shotgun ammunition produces more stopping power, with less potential for collateral damage, than any other shotgun ammunition.</szItemDesc>
-		<szBRName>12g Shells 12 PolyShok</szBRName>
-		<szBRDesc>PolyShok 12 gauge shotgun ammunition produces more stopping power, with less potential for collateral damage, than any other shotgun ammunition.</szBRDesc>
+		<szItemName>12g Patronen 12 PS</szItemName>
+		<szLongItemName>12 Gauge Patronen, 12 PolySchock</szLongItemName>
+		<szItemDesc>PolySchock 12-Gauge-Schrotflintenmunition hat eine höhere Mann-Stopp-Wirkung und ein geringeres Potenzial für Kollateralschäden als jede andere Schrotflintenmunition.</szItemDesc>
+		<szBRName>12g Patronen 12 PolySchock</szBRName>
+		<szBRDesc>PolySchock 12-Gauge-Schrotflintenmunition hat eine höhere Mann-Stopp-Wirkung und ein geringeres Potenzial für Kollateralschäden als jede andere Schrotflintenmunition.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2218</uiIndex>
 		<szItemName>12g Drum 20 PS</szItemName>
-		<szLongItemName>12 Gauge Drum 20, PolyShok</szLongItemName>
-		<szItemDesc>PolyShok 12 gauge shotgun ammunition produces more stopping power, with less potential for collateral damage, than any other shotgun ammunition.</szItemDesc>
-		<szBRName>12g Drum 20 PolyShok</szBRName>
-		<szBRDesc>PolyShok 12 gauge shotgun ammunition produces more stopping power, with less potential for collateral damage, than any other shotgun ammunition.</szBRDesc>
+		<szLongItemName>12 Gauge Drum 20, PolySchock</szLongItemName>
+		<szItemDesc>PolySchock 12-Gauge-Schrotflintenmunition hat eine höhere Mann-Stopp-Wirkung und ein geringeres Potenzial für Kollateralschäden als jede andere Schrotflintenmunition.</szItemDesc>
+		<szBRName>12g Drum 20 PolySchock</szBRName>
+		<szBRDesc>PolySchock 12-Gauge-Schrotflintenmunition hat eine höhere Mann-Stopp-Wirkung und ein geringeres Potenzial für Kollateralschäden als jede andere Schrotflintenmunition.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2219</uiIndex>
-		<szItemName>12g crate PolyShok</szItemName>
-		<szLongItemName>12 Gauge ammo crate PolyShok</szLongItemName>
-		<szItemDesc>Ammo box with 12 gauge PolyShok ammunition.</szItemDesc>
-		<szBRName>12 Gauge ammo crate PolyShok</szBRName>
+		<szItemName>12g Kiste PolySchock</szItemName>
+		<szLongItemName>12 Gauge Munitionskiste PolySchock</szLongItemName>
+		<szItemDesc>Munitionskiste mit 12-Gauge-PolySchock-Munition.</szItemDesc>
+		<szBRName>12 Gauge Munitionskiste PolySchock</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -17822,11 +17822,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2225</uiIndex>
-		<szItemName>9x19 BAT crate</szItemName>
-		<szLongItemName>9x19mm BAT ammo crate</szLongItemName>
-		<szItemDesc>ammo crate</szItemDesc>
-		<szBRName>9x19mm BAT ammo crate</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szItemName>9x19 BAT Kiste</szItemName>
+		<szLongItemName>9x19mm BAT Munitionskiste</szLongItemName>
+		<szItemDesc>Munitionskiste</szItemDesc>
+		<szBRName>9x19mm BAT Munitionskiste</szBRName>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2226</uiIndex>
@@ -17834,7 +17834,7 @@
 		<szLongItemName>.30-06 XP3, 5</szLongItemName>
 		<szItemDesc>2-Stage expansion polymer tipped bullets designed to take down the biggest of game.</szItemDesc>
 		<szBRName>.30-06 XP3, 5</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2227</uiIndex>
@@ -17842,7 +17842,7 @@
 		<szLongItemName>.30-06 XP3, 8</szLongItemName>
 		<szItemDesc>A clip holding 8 rounds of FMJ ammo in the venerable .30-06 caliber.</szItemDesc>
 		<szBRName>.30-06 XP3, 8</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2228</uiIndex>
@@ -17850,15 +17850,15 @@
 		<szLongItemName>.30-06 XP3, 20</szLongItemName>
 		<szItemDesc>A magazine suitable for the BAR holding 2-stage expanding deer hunting bullets.</szItemDesc>
 		<szBRName>.30-06 XP3, 20</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2229</uiIndex>
-		<szItemName>.30-06 XP3 crate</szItemName>
-		<szLongItemName>.30-06 XP3 ammo crate</szLongItemName>
-		<szItemDesc>ammo crate</szItemDesc>
-		<szBRName>.30-06 XP3 ammo crate</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szItemName>.30-06 XP3 Kiste</szItemName>
+		<szLongItemName>.30-06 XP3 Munitionskiste</szLongItemName>
+		<szItemDesc>Munitionskiste</szItemDesc>
+		<szBRName>.30-06 XP3 Munitionskiste</szBRName>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2230</uiIndex>
@@ -17878,34 +17878,34 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2232</uiIndex>
-		<szItemName>12g Shells 2 HN</szItemName>
-		<szLongItemName>12 Gauge Shells, 2 Hornet's Nest</szLongItemName>
+		<szItemName>12g Patronen 2 HN</szItemName>
+		<szLongItemName>12 Gauge Patronen, 2 Hornet's Nest</szLongItemName>
 		<szItemDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szItemDesc>
-		<szBRName>12g Shells 2 Hornet's Nest</szBRName>
+		<szBRName>12g Patronen 2 Hornet's Nest</szBRName>
 		<szBRDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2233</uiIndex>
-		<szItemName>12g Shells 4 HN</szItemName>
-		<szLongItemName>12 Gauge Shells, 4 Hornet's Nest</szLongItemName>
+		<szItemName>12g Patronen 4 HN</szItemName>
+		<szLongItemName>12 Gauge Patronen, 4 Hornet's Nest</szLongItemName>
 		<szItemDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szItemDesc>
-		<szBRName>12g Shells 4 Hornet's Nest</szBRName>
+		<szBRName>12g Patronen 4 Hornet's Nest</szBRName>
 		<szBRDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2234</uiIndex>
-		<szItemName>12g Shells 7 HN</szItemName>
-		<szLongItemName>12 Gauge Shells, 7 Hornet's Nest</szLongItemName>
+		<szItemName>12g Patronen 7 HN</szItemName>
+		<szLongItemName>12 Gauge Patronen, 7 Hornet's Nest</szLongItemName>
 		<szItemDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szItemDesc>
-		<szBRName>12g Shells 7 Hornet's Nest</szBRName>
+		<szBRName>12g Patronen 7 Hornet's Nest</szBRName>
 		<szBRDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2235</uiIndex>
-		<szItemName>12g Shells 12 HN</szItemName>
-		<szLongItemName>12 Gauge Shells, 12 Hornet's Nest</szLongItemName>
+		<szItemName>12g Patronen 12 HN</szItemName>
+		<szLongItemName>12 Gauge Patronen, 12 Hornet's Nest</szLongItemName>
 		<szItemDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szItemDesc>
-		<szBRName>12g Shells 12 Hornet's Nest</szBRName>
+		<szBRName>12g Patronen 12 Hornet's Nest</szBRName>
 		<szBRDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -17918,58 +17918,58 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2237</uiIndex>
-		<szItemName>12g crate HN</szItemName>
-		<szLongItemName>12 Gauge ammo crate Hornet's Nest</szLongItemName>
+		<szItemName>12g Kiste HN</szItemName>
+		<szLongItemName>12 Gauge Munitionskiste Hornet's Nest</szLongItemName>
 		<szItemDesc>Ammo box with 12 gauge Hornet's Nest ammunition.</szItemDesc>
-		<szBRName>12 Gauge ammo crate Hornet's Nest</szBRName>
+		<szBRName>12 Gauge Munitionskiste Hornet's Nest</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2238</uiIndex>
-		<szItemName>12g Shells 2 HE</szItemName>
-		<szLongItemName>12 Gauge Shells, 2 High Explosive</szLongItemName>
-		<szItemDesc>Experimental High Explosivie Shotgun Shells. Compared to regular shotgun shells, these shells have a slightly decreased range.</szItemDesc>
-		<szBRName>12g Shells 2 High Explosive</szBRName>
-		<szBRDesc>Experimental High Explosivie Shotgun Shells. Compared to regular shotgun shells, these shells have a slightly decreased range.</szBRDesc>
+		<szItemName>12g Patronen 2 HE</szItemName>
+		<szLongItemName>12 Gauge Patronen, 2 High Explosive</szLongItemName>
+		<szItemDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szItemDesc>
+		<szBRName>12g Patronen 2 High Explosive</szBRName>
+		<szBRDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2239</uiIndex>
-		<szItemName>12g Shells 4 HE</szItemName>
-		<szLongItemName>12 Gauge Shells, 4 High Explosive</szLongItemName>
-		<szItemDesc>Experimental High Explosivie Shotgun Shells. Compared to regular shotgun shells, these shells have a slightly decreased range.</szItemDesc>
-		<szBRName>12g Shells 4 High Explosive</szBRName>
-		<szBRDesc>Experimental High Explosivie Shotgun Shells. Compared to regular shotgun shells, these shells have a slightly decreased range.</szBRDesc>
+		<szItemName>12g Patronen 4 HE</szItemName>
+		<szLongItemName>12 Gauge Patronen, 4 High Explosive</szLongItemName>
+		<szItemDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szItemDesc>
+		<szBRName>12g Patronen 4 High Explosive</szBRName>
+		<szBRDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2240</uiIndex>
-		<szItemName>12g Shells 7 HE</szItemName>
+		<szItemName>12g Patronen 7 HE</szItemName>
 		<szLongItemName>12 Gauge High Explosive, 7</szLongItemName>
-		<szItemDesc>Experimental High Explosivie Shotgun Shells. Compared to regular shotgun shells, these shells have a slightly decreased range.</szItemDesc>
-		<szBRName>12g Shells 7 High Explosive</szBRName>
-		<szBRDesc>Experimental High Explosivie Shotgun Shells. Compared to regular shotgun shells, these shells have a slightly decreased range.</szBRDesc>
+		<szItemDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szItemDesc>
+		<szBRName>12g Patronen 7 High Explosive</szBRName>
+		<szBRDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2241</uiIndex>
-		<szItemName>12g Shells 12 HE</szItemName>
-		<szLongItemName>12 Gauge Shells, 12 High Explosive</szLongItemName>
-		<szItemDesc>Experimental High Explosivie Shotgun Shells. Compared to regular shotgun shells, these shells have a slightly decreased range.</szItemDesc>
-		<szBRName>12g Shells 12 High Explosive</szBRName>
-		<szBRDesc>Experimental High Explosivie Shotgun Shells. Compared to regular shotgun shells, these shells have a slightly decreased range.</szBRDesc>
+		<szItemName>12g Patronen 12 HE</szItemName>
+		<szLongItemName>12 Gauge Patronen, 12 High Explosive</szLongItemName>
+		<szItemDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szItemDesc>
+		<szBRName>12g Patronen 12 High Explosive</szBRName>
+		<szBRDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2242</uiIndex>
 		<szItemName>12g Drum 20 HE</szItemName>
 		<szLongItemName>12 Gauge Drum 20, High Explosive</szLongItemName>
-		<szItemDesc>Experimental High Explosivie Shotgun Shells. Compared to regular shotgun shells, these shells have a slightly decreased range.</szItemDesc>
+		<szItemDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szItemDesc>
 		<szBRName>12g Drum 20 High Explosive</szBRName>
-		<szBRDesc>Experimental High Explosivie Shotgun Shells. Compared to regular shotgun shells, these shells have a slightly decreased range.</szBRDesc>
+		<szBRDesc>Experimental High Explosivie Shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2243</uiIndex>
-		<szItemName>12g crate High Explosive</szItemName>
-		<szLongItemName>12 Gauge ammo crate High Explosive</szLongItemName>
+		<szItemName>12g Kiste High Explosive</szItemName>
+		<szLongItemName>12 Gauge Munitionskiste High Explosive</szLongItemName>
 		<szItemDesc>Ammo box with 12 gauge Hornet's Nest ammunition.</szItemDesc>
-		<szBRName>12 Gauge ammo crate High Explosive</szBRName>
+		<szBRName>12 Gauge Munitionskiste High Explosive</szBRName>
 		<szBRDesc>2000 shots of 12 gauge High Explosive ammunition.</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -17990,11 +17990,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2246</uiIndex>
-		<szItemName>9x21 SP-11 crate</szItemName>
-		<szLongItemName>9x21mm SP-11 ammo crate</szLongItemName>
-		<szItemDesc>ammo crate</szItemDesc>
-		<szBRName>9x21mm SP-11 ammo crate</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szItemName>9x21 SP-11 Kiste</szItemName>
+		<szLongItemName>9x21mm SP-11 Munitionskiste</szLongItemName>
+		<szItemDesc>Munitionskiste</szItemDesc>
+		<szBRName>9x21mm SP-11 Munitionskiste</szBRName>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2247</uiIndex>
@@ -18008,17 +18008,17 @@
 		<uiIndex>2248</uiIndex>
 		<szItemName>12g Box HE</szItemName>
 		<szLongItemName>12g Box, High Explosive</szLongItemName>
-		<szItemDesc>Experimental High Explosive shotgun shells. Compared to regular shotgun shells, these shells have a slightly decreased range.</szItemDesc>
+		<szItemDesc>Experimental High Explosive shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range.</szItemDesc>
 		<szBRName>12g Box HE</szBRName>
-		<szBRDesc>Experimental High Explosive shotgun shells. Compared to regular shotgun shells, these shells have a slightly decreased range. Save 10 percent on buying this box with 50 rounds.</szBRDesc>
+		<szBRDesc>Experimental High Explosive shotgun Patronen. Compared to regular shotgun Patronen, these Patronen have a slightly decreased range. Save 10 percent on buying this box with 50 rounds.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2249</uiIndex>
 		<szItemName>12g Box PS</szItemName>
-		<szLongItemName>12g Box, PolyShok</szLongItemName>
-		<szItemDesc>PolyShok 12 gauge shotgun ammunition produces more stopping power, with less potential for collateral damage, than any other shotgun ammunition.</szItemDesc>
-		<szBRName>12g Box, PolyShok</szBRName>
-		<szBRDesc>PolyShok 12 gauge shotgun ammunition produces more stopping power, with less potential for collateral damage, than any other shotgun ammunition. Save 10 percent on buying this box with 50 rounds.</szBRDesc>
+		<szLongItemName>12g Box, PolySchock</szLongItemName>
+		<szItemDesc>PolySchock 12-Gauge-Schrotflintenmunition hat eine höhere Mann-Stopp-Wirkung und ein geringeres Potenzial für Kollateralschäden als jede andere Schrotflintenmunition.</szItemDesc>
+		<szBRName>12g Box, PolySchock</szBRName>
+		<szBRDesc>PolySchock 12-Gauge-Schrotflintenmunition hat eine höhere Mann-Stopp-Wirkung und ein geringeres Potenzial für Kollateralschäden als jede andere Schrotflintenmunition. Save 10 percent on buying this box with 50 rounds.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2250</uiIndex>
@@ -18150,35 +18150,35 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2266</uiIndex>
-		<szItemName>.22 LR Crate</szItemName>
-		<szLongItemName>.22 LR Ammo Crate</szLongItemName>
-		<szItemDesc>Crate of .22 LR ammunition.</szItemDesc>
-		<szBRName>.22 LR Crate</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szItemName>.22 LR Kiste</szItemName>
+		<szLongItemName>.22 LR Munitionskiste</szLongItemName>
+		<szItemDesc>Kiste of .22 LR ammunition.</szItemDesc>
+		<szBRName>.22 LR Kiste</szBRName>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2267</uiIndex>
-		<szItemName>.22 LR Crate M</szItemName>
-		<szLongItemName>.22 LR Ammo Crate, Match</szLongItemName>
-		<szItemDesc>Crate of .22 LR ammunition.</szItemDesc>
-		<szBRName>.22 LR Crate M</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szItemName>.22 LR Kiste M</szItemName>
+		<szLongItemName>.22 LR Munitionskiste, Match</szLongItemName>
+		<szItemDesc>Kiste of .22 LR ammunition.</szItemDesc>
+		<szBRName>.22 LR Kiste M</szBRName>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2268</uiIndex>
-		<szItemName>.22 LR Crate RS</szItemName>
-		<szLongItemName>.22 LR Ammo Crate, Rat shot</szLongItemName>
-		<szItemDesc>Crate of .22 LR ammunition.</szItemDesc>
-		<szBRName>.22 LR Crate, RS</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szItemName>.22 LR Kiste RS</szItemName>
+		<szLongItemName>.22 LR Munitionskiste, Rat shot</szLongItemName>
+		<szItemDesc>Kiste of .22 LR ammunition.</szItemDesc>
+		<szBRName>.22 LR Kiste, RS</szBRName>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2269</uiIndex>
-		<szItemName>.22 LR Crate HP</szItemName>
-		<szLongItemName>.22 LR Crate, HP</szLongItemName>
-		<szItemDesc>Crate of .22 LR ammunition.</szItemDesc>
-		<szBRName>.22 LR Crate HP</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szItemName>.22 LR Kiste HP</szItemName>
+		<szLongItemName>.22 LR Kiste, HP</szLongItemName>
+		<szItemDesc>Kiste of .22 LR ammunition.</szItemDesc>
+		<szBRName>.22 LR Kiste HP</szBRName>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2270</uiIndex>
@@ -18186,7 +18186,7 @@
 		<szLongItemName>.22 LR Mag, 10</szLongItemName>
 		<szItemDesc>A 10 round magazine .22 LR ammunition.</szItemDesc>
 		<szBRName>.22 LR Mag, 10</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2271</uiIndex>
@@ -18194,7 +18194,7 @@
 		<szLongItemName>.22 LR Mag Match, 10</szLongItemName>
 		<szItemDesc>A 10 round magazine .22 LR Match ammunition.</szItemDesc>
 		<szBRName>.22 LR Mag Match, 10</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2272</uiIndex>
@@ -18202,7 +18202,7 @@
 		<szLongItemName>.22 LR Mag Rat shot, 10</szLongItemName>
 		<szItemDesc>A 10 round magazine .22 LR Rat shot.</szItemDesc>
 		<szBRName>.22 LR Mag Rat shot, 10</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2273</uiIndex>
@@ -18210,7 +18210,7 @@
 		<szLongItemName>.22 LR Mag HP, 10</szLongItemName>
 		<szItemDesc>A 10 round magazine high velocity .22 LR hollow point ammunition.</szItemDesc>
 		<szBRName>.22 LR Mag HP, 10</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2274</uiIndex>
@@ -18218,7 +18218,7 @@
 		<szLongItemName>.22 LR Drum, 200</szLongItemName>
 		<szItemDesc>A drum magazine .22 LR ammunition.</szItemDesc>
 		<szBRName>.22 LR Drum, 200</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2275</uiIndex>
@@ -18226,7 +18226,7 @@
 		<szLongItemName>.22 LR Drum Match, 200</szLongItemName>
 		<szItemDesc>A drum magazine .22 LR ammunition.</szItemDesc>
 		<szBRName>.22 LR Drum Match, 200</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2276</uiIndex>
@@ -18234,7 +18234,7 @@
 		<szLongItemName>.22 LR Drum Rat shot, 200</szLongItemName>
 		<szItemDesc>A drum magazine .22 LR ammunition.</szItemDesc>
 		<szBRName>.22 LR Drum Rat shot, 200</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2277</uiIndex>
@@ -18242,7 +18242,7 @@
 		<szLongItemName>.22 LR Drum HP, 200</szLongItemName>
 		<szItemDesc>A drum magazine .22 LR ammunition.</szItemDesc>
 		<szBRName>.22 LR Drum HP, 200</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2278</uiIndex>
@@ -18278,11 +18278,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2282</uiIndex>
-		<szItemName>.408 Crate</szItemName>
-		<szLongItemName>.408 CheyTac Ammo Crate</szLongItemName>
-		<szItemDesc>ammo crate</szItemDesc>
-		<szBRName>.408 CheyTac Ammo Crate</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szItemName>.408 Kiste</szItemName>
+		<szLongItemName>.408 CheyTac Munitionskiste</szLongItemName>
+		<szItemDesc>Munitionskiste</szItemDesc>
+		<szBRName>.408 CheyTac Munitionskiste</szBRName>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2283</uiIndex>
@@ -18374,11 +18374,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2294</uiIndex>
-		<szItemName>.50 BMG Crate M</szItemName>
-		<szLongItemName>.50 BMG Ammo Crate, Match</szLongItemName>
-		<szItemDesc>.50 BMG Ammo Crate, Match</szItemDesc>
-		<szBRName>.50 BMG Match ammo crate</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szItemName>.50 BMG Kiste M</szItemName>
+		<szLongItemName>.50 BMG Munitionskiste, Match</szLongItemName>
+		<szItemDesc>.50 BMG Munitionskiste, Match</szItemDesc>
+		<szBRName>.50 BMG Match Munitionskiste</szBRName>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2295</uiIndex>
@@ -18398,11 +18398,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2297</uiIndex>
-		<szItemName>.30 Car Crate T</szItemName>
-		<szLongItemName>.30 Car Ammo Crate, Tracer</szLongItemName>
-		<szItemDesc>ammo crate</szItemDesc>
-		<szBRName>.30 Car Ammo Crate, Tracer</szBRName>
-		<szBRDesc>Not buyable at BR</szBRDesc>
+		<szItemName>.30 Car Kiste T</szItemName>
+		<szLongItemName>.30 Car Munitionskiste, Tracer</szLongItemName>
+		<szItemDesc>Munitionskiste</szItemDesc>
+		<szBRName>.30 Car Munitionskiste, Tracer</szBRName>
+		<szBRDesc>Nicht bei BR kaufbar</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2298</uiIndex>
@@ -18415,7 +18415,7 @@
 	<ITEM>
 		<uiIndex>2299</uiIndex>
 		<szItemName>Railgun Mag</szItemName>
-		<szLongItemName>Railgun Magazine</szLongItemName>
+		<szLongItemName>Railgun Magazin</szLongItemName>
 		<szItemDesc>Railgun magazine capable of holding 4 darts.</szItemDesc>
 		<szBRName>Railgun Magazine</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
@@ -18446,10 +18446,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2303</uiIndex>
-		<szItemName>14.5mm Crate</szItemName>
-		<szLongItemName>14.5mm Ammo Crate</szLongItemName>
-		<szItemDesc>ammo crate</szItemDesc>
-		<szBRName>14.5mm Ammo Crate</szBRName>
+		<szItemName>14.5mm Kiste</szItemName>
+		<szLongItemName>14.5mm Munitionskiste</szLongItemName>
+		<szItemDesc>Munitionskiste</szItemDesc>
+		<szBRName>14.5mm Munitionskiste</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -19471,7 +19471,7 @@
 	<ITEM>
 		<uiIndex>2431</uiIndex>
 		<szItemName>EFL Mag</szItemName>
-		<szLongItemName>DM 13 Signal Flares Magazine</szLongItemName>
+		<szLongItemName>DM 13 Signal Flares Magazin</szLongItemName>
 		<szItemDesc>Signal flares for the HK Emergency Flare Launcher system.</szItemDesc>
 		<szBRName>Signal Flares Mag</szBRName>
 		<szBRDesc>5 signal flares for the HK Emergency Flare Launcher system.</szBRDesc>
@@ -19568,9 +19568,9 @@
 		<uiIndex>2443</uiIndex>
 		<szItemName>40mm Shell Illumination</szItemName>
 		<szLongItemName>40mm Shell Illumination</szLongItemName>
-		<szItemDesc>Whether you use them for target practice or for a real operation, these 40mm shells are the right choice when you need to light up a large area.</szItemDesc>
+		<szItemDesc>Whether you use them for target practice or for a real operation, these 40mm Patronen are the right choice when you need to light up a large area.</szItemDesc>
 		<szBRName>40mm Shell Illumination</szBRName>
-		<szBRDesc>Whether you use them for target practice or for a real operation, these 40mm shells are the right choice when you need to light up a large area.</szBRDesc>
+		<szBRDesc>Whether you use them for target practice or for a real operation, these 40mm Patronen are the right choice when you need to light up a large area.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2444</uiIndex>
@@ -19632,7 +19632,7 @@
 		<uiIndex>2451</uiIndex>
 		<szItemName>40mm Shell VOG-25P</szItemName>
 		<szLongItemName>40mm Shell VOG-25P</szLongItemName>
-		<szItemDesc>A VOG-25P grenade put into a shell casing for 40mm mortar shells.</szItemDesc>
+		<szItemDesc>A VOG-25P grenade put into a shell casing for 40mm mortar Patronen.</szItemDesc>
 		<szBRName>40mm Shell VOG-25P</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -20866,10 +20866,10 @@
 	<ITEM>
 		<uiIndex>2607</uiIndex>
 		<szItemName>12g Rig</szItemName>
-		<szLongItemName>12g Shotgun Shells Leg Rig</szLongItemName>
-		<szItemDesc>This leg rig can hold several 12 gauge shotgun shells and allows access to the regular pants pockets.</szItemDesc>
-		<szBRName>12g Shells Leg Rig</szBRName>
-		<szBRDesc>Whether on the shooting range or on daily duty, with this leg rig you'll never have a problem again to get those bulky 12 gauge shells, when you need them.</szBRDesc>
+		<szLongItemName>12g Shotgun Patronen Leg Rig</szLongItemName>
+		<szItemDesc>This leg rig can hold several 12 gauge shotgun Patronen and allows access to the regular pants pockets.</szItemDesc>
+		<szBRName>12g Patronen Leg Rig</szBRName>
+		<szBRDesc>Whether on the shooting range or on daily duty, with this leg rig you'll never have a problem again to get those bulky 12 gauge Patronen, when you need them.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2608</uiIndex>
@@ -20979,9 +20979,9 @@
 		<uiIndex>2621</uiIndex>
 		<szItemName>HSW Pack</szItemName>
 		<szLongItemName>HSW Combat Pack</szLongItemName>
-		<szItemDesc>This Heavy Support Weapon butt pack has loops for 6 mortar shells and storage room for additional items.</szItemDesc>
+		<szItemDesc>This Heavy Support Weapon butt pack has loops for 6 mortar Patronen and storage room for additional items.</szItemDesc>
 		<szBRName>HSW Combat Pack</szBRName>
-		<szBRDesc>This Heavy Support Weapon butt pack has loops for up to 6 mortar shells and storage room for additional equipment.</szBRDesc>
+		<szBRDesc>This Heavy Support Weapon butt pack has loops for up to 6 mortar Patronen and storage room for additional equipment.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2622</uiIndex>
@@ -21018,10 +21018,10 @@
 	<ITEM>
 		<uiIndex>2626</uiIndex>
 		<szItemName>60mm Shell Rig</szItemName>
-		<szLongItemName>60mm Shells Leg Rig</szLongItemName>
-		<szItemDesc>This panel can store three 60mm mortar shells.</szItemDesc>
-		<szBRName>60mm Shells Leg Rig</szBRName>
-		<szBRDesc>This panel can store three 60mm mortar shells.</szBRDesc>
+		<szLongItemName>60mm Patronen Leg Rig</szLongItemName>
+		<szItemDesc>This panel can store three 60mm mortar Patronen.</szItemDesc>
+		<szBRName>60mm Patronen Leg Rig</szBRName>
+		<szBRDesc>This panel can store three 60mm mortar Patronen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2627</uiIndex>
@@ -21156,9 +21156,9 @@
 		<uiIndex>2643</uiIndex>
 		<szItemName>RPG Pack</szItemName>
 		<szLongItemName>RPG Combat Pack</szLongItemName>
-		<szItemDesc>A combat pack for 4 rocket propelled grenades, as used by the RPG-7. The bandoilers can also store 60mm mortar shells.</szItemDesc>
+		<szItemDesc>A combat pack for 4 rocket propelled grenades, as used by the RPG-7. The bandoilers can also store 60mm mortar Patronen.</szItemDesc>
 		<szBRName>RPG Combat Pack</szBRName>
-		<szBRDesc>This combat pack has a medium sized pocket, four smaller pockets and four special bandoilers for rocket propelled grenades, as used by the RPG-7. The bandoilers will also store 60mm mortart shells or items of similiar size.</szBRDesc>
+		<szBRDesc>This combat pack has a medium sized pocket, four smaller pockets and four special bandoilers for rocket propelled grenades, as used by the RPG-7. The bandoilers will also store 60mm mortart Patronen or items of similiar size.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2644</uiIndex>
@@ -21332,9 +21332,9 @@
 		<uiIndex>2665</uiIndex>
 		<szItemName>Tactical Belt</szItemName>
 		<szLongItemName>Tactical EWF Belt</szLongItemName>
-		<szItemDesc>This quality belt has a pistol holster for a medium sized pistol, pockets for spare magazines and bandoleers for shotgun shells.</szItemDesc>
+		<szItemDesc>This quality belt has a pistol holster for a medium sized pistol, pockets for spare magazines and bandoleers for shotgun Patronen.</szItemDesc>
 		<szBRName>Tactical EWF Belt</szBRName>
-		<szBRDesc>This quality police belt has a pistol holster for a medium sized pistol, spare magazines and bandoleers for shotgun shells.</szBRDesc>
+		<szBRDesc>This quality police belt has a pistol holster for a medium sized pistol, spare magazines and bandoleers for shotgun Patronen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2666</uiIndex>
@@ -23151,7 +23151,7 @@
 	<ITEM>
 		<uiIndex>2894</uiIndex>
 		<szItemName>Bazoombas</szItemName>
-		<szLongItemName>Bazoombas magazine</szLongItemName>
+		<szLongItemName>Bazoombas Magazin</szLongItemName>
 		<szItemDesc>This adult magazine is stacked with explicit boobantic blouse bunnies. Each monthly issue is packed with humongous yabos! Special article with Centerfold of the year Candy's 34-HH snowcones and more boobalicious babes!</szItemDesc>
 		<szBRName>Porno Magazine</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
@@ -23159,7 +23159,7 @@
 	<ITEM>
 		<uiIndex>2895</uiIndex>
 		<szItemName>Buns mag</szItemName>
-		<szLongItemName>Buns magazine</szLongItemName>
+		<szLongItemName>Buns Magazin</szLongItemName>
 		<szItemDesc>Vol.6 No.4 June issue of your favourite derrière adult magazine!</szItemDesc>
 		<szBRName>Magazine</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
