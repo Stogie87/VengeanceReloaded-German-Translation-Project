@@ -300,9 +300,9 @@
     <uiIndex>37</uiIndex>
     <szItemName>Messer</szItemName>
     <szLongItemName>Kampfmesser</szLongItemName>
-    <szItemDesc>Dieses Kampfmesser mit massivem Heft verwandelt Sie in eine rotierende Killer-Maschine, die den schnellen und leisen Tod bringt.</szItemDesc>
+    <szItemDesc>Dieses Kampfmesser verwandelt Sie in eine rotierende Killer-Maschine, die den schnellen und leisen Tod bringt.</szItemDesc>
     <szBRName>Kampfmesser</szBRName>
-    <szBRDesc>Dieses Kampfmesser mit massivem Heft verwandelt Sie in eine rotierende Killer-Maschine, die den schnellen und leisen Tod bringt.</szBRDesc>
+    <szBRDesc>Dieses Kampfmesser verwandelt Sie in eine rotierende Killer-Maschine, die den schnellen und leisen Tod bringt.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>38</uiIndex>
@@ -1138,11 +1138,11 @@
   </ITEM>
   <ITEM>
     <uiIndex>142</uiIndex>
-    <szItemName>Sprengst. C-4</szItemName>
-    <szLongItemName>Sprengstoff, C-4</szLongItemName>
-    <szItemDesc>C-4 ist ein weißer, handhabungssicherer, sehr effektiver plastischer Sprengstoff und wirkungsvoller als TNT. C-4 besteht aus 91%% Hexogen, 2,1%% Polyisobuten, 5.3%% DOS und 1,6%% Mineralöl. Im Vergleich zu C-1 ist C-4 geruchlos.</szItemDesc>
-    <szBRName>Sprengstoff, C-4</szBRName>
-    <szBRDesc>C-4 ist ein weißer, handhabungssicherer, sehr effektiver plastischer Sprengstoff und wirkungsvoller als TNT. C-4 besteht aus 91%% Hexogen, 2,1%% Polyisobuten, 5.3%% DOS und 1,6%% Mineralöl. Im Vergleich zu C-1 ist C-4 geruchlos.</szBRDesc>
+    <szItemName>Sprengst. C4</szItemName>
+    <szLongItemName>Sprengstoff, C4</szLongItemName>
+    <szItemDesc>C4 ist ein weißer, handhabungssicherer, sehr effektiver plastischer Sprengstoff und wirkungsvoller als TNT. C4 besteht aus 91 Prozent Hexogen, 2,1 Prozent Polyisobuten, 5.3 Prozent DOS und 1,6 Prozent Mineralöl. Im Vergleich zu C1 ist C4 geruchlos.</szItemDesc>
+    <szBRName>Sprengstoff, C4</szBRName>
+    <szBRDesc>C4 ist ein weißer, handhabungssicherer, sehr effektiver plastischer Sprengstoff und wirkungsvoller als TNT. C4 besteht aus 91 Prozent Hexogen, 2,1 Prozent Polyisobuten, 5.3 Prozent DOS und 1,6 Prozent Mineralöl. Im Vergleich zu C1 ist C4 geruchlos.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>143</uiIndex>
@@ -1683,10 +1683,10 @@
   </ITEM>
   <ITEM>
     <uiIndex>210</uiIndex>
-    <szItemName>Headset</szItemName>
-    <szLongItemName>PELTOR Headset</szLongItemName>
+    <szItemName>Kopfset</szItemName>
+    <szLongItemName>PELTOR Kopfset</szLongItemName>
     <szItemDesc>Der PELTOR XP Takctical ist ein HiFi-Stereo- Kopfhörer mit zwei windunempfindlichen Mikrofonen.</szItemDesc>
-    <szBRName>PELTOR Headset</szBRName>
+    <szBRName>PELTOR Kopfset</szBRName>
     <szBRDesc>Der PELTOR XP Takctical ist ein HiFi-Stereo-Kopfhörer mit zwei windunempfindlichen Mikrofonen, die leise Geräusche verstärken und sehr laute herausfiltern. Der justierbare Bügel garantiert perfekten Sitz.</szBRDesc>
   </ITEM>
   <ITEM>
@@ -7265,9 +7265,9 @@
     <uiIndex>906</uiIndex>
     <szItemName>GranW MGL</szItemName>
     <szLongItemName>Granatwerfer Milkor MGL</szLongItemName>
-    <szItemDesc>Ein mehrschüssiger Granatwerfer (Multiple Granate Launcher), der nach dem Revolverprinzip arbeitet. Die sechs Kammern des Werfers lassen sich mit einer beliebigen Granatmischung im Kaliber 40mm bestücken.</szItemDesc>
+    <szItemDesc>Ein mehrschüssiger Granatwerfer (Multiple Granatwerfer), der nach dem Revolverprinzip arbeitet. Die sechs Kammern des Werfers lassen sich mit einer beliebigen Granatmischung im Kaliber 40mm bestücken.</szItemDesc>
     <szBRName>Granatwerfer Milkor MGL</szBRName>
-    <szBRDesc>Der halbautomatische mehrschüssige Granatwerfer (Multiple Granate Launcher) von Milkor arbeitet nach dem Revolverprinzip arbeitet. Die sechs Kammern des Werfers lassen sich mit einer beliebigen Granatmischung im Kaliber 40mm bestücken.</szBRDesc>
+    <szBRDesc>Der halbautomatische mehrschüssige Granatwerfer (Multiple Granatwerfer) von Milkor arbeitet nach dem Revolverprinzip arbeitet. Die sechs Kammern des Werfers lassen sich mit einer beliebigen Granatmischung im Kaliber 40mm bestücken.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>907</uiIndex>
@@ -8232,17 +8232,17 @@
   <ITEM>
     <uiIndex>1027</uiIndex>
     <szItemName>Tarnset</szItemName>
-    <szLongItemName>Tarnset, Urban</szLongItemName>
+    <szLongItemName>Tarnset, Stadtmuster</szLongItemName>
     <szItemDesc>Das kompakte Tarnset (Urban) schließt mehrere graue Farbtöne und einen Spiegel ein. Diese lang anhaltende, nichtverlaufende Gesichtsfarbe kann mit Wasser und Seife leicht entfernt werden.</szItemDesc>
-    <szBRName>Tarnset, Urban</szBRName>
+    <szBRName>Tarnset, Stadtmuster</szBRName>
     <szBRDesc>Das kompakte Tarnset (Urban) schließt mehrere graue Farbtöne und einen Spiegel ein. Diese lang anhaltende, nichtverlaufende Gesichtsfarbe kann mit Wasser und Seife leicht entfernt werden.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1028</uiIndex>
     <szItemName>Tarnset</szItemName>
-    <szLongItemName>Tarnset, Wüste</szLongItemName>
+    <szLongItemName>Tarnset, Wüstenmuster</szLongItemName>
     <szItemDesc>Das kompakte Tarnset (Wüste) enthält die Farben braun, beige und weiß sowie einen Spiegel ein. Diese lang anhaltende, nichtverlaufende Gesichtsfarbe kann mit Wasser und Seife leicht entfernt werden.</szItemDesc>
-    <szBRName>Tarnset, Wüste</szBRName>
+    <szBRName>Tarnset, Wüstenmuster</szBRName>
     <szBRDesc>Das kompakte Tarnset (Wüste) enthält die Farben braun, beige und weiß sowie einen Spiegel ein. Diese lang anhaltende, nichtverlaufende Gesichtsfarbe kann mit Wasser und Seife leicht entfernt werden.</szBRDesc>
   </ITEM>
   <ITEM>
@@ -17088,7 +17088,7 @@
 		<uiIndex>2133</uiIndex>
 		<szItemName>Nordisches Kurzschwert</szItemName>
 		<szLongItemName>Nordisches Kurzschwert</szLongItemName>
-		<szItemDesc>"A cleaved head no longer plots." Die Wikingerschwerter wurden aus bemerkenswert hochwertigem Stahl gefertigt, und dieses alte Schwert scheint noch viele Jahrzehnte voller Schlachten vor sich zu haben. Es trägt auch die Inschrift "+VLFBERH+T".</szItemDesc>
+		<szItemDesc>"A cleaved Kopf no longer plots." Die Wikingerschwerter wurden aus bemerkenswert hochwertigem Stahl gefertigt, und dieses alte Schwert scheint noch viele Jahrzehnte voller Schlachten vor sich zu haben. Es trägt auch die Inschrift "+VLFBERH+T".</szItemDesc>
 		<szBRName>Nordisches Kurzschwert</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -19664,7 +19664,7 @@
 		<uiIndex>2455</uiIndex>
 		<szItemName>XM84 Stun Granate</szItemName>
 		<szLongItemName>XM84 Stun Granate</szLongItemName>
-		<szItemDesc>Diese US-amerikanische Betäubungsgranate ist lauter als Motorhead und blendender als Kathy Bates oben ohne und befriedet Ziele wie keine andere.</szItemDesc>
+		<szItemDesc>Diese US-amerikanische Betäubungsgranate ist lauter als MotorKopf und blendender als Kathy Bates oben ohne und befriedet Ziele wie keine andere.</szItemDesc>
 		<szBRName>XM84 Stun Granate</szBRName>
 		<szBRDesc>Diese echten Picatinny-Stun-Granaten detonieren lauter als jeder andere Bestand, den wir haben. Ideal für die Säuberung von Räumen.</szBRDesc>
 	</ITEM>
@@ -21664,19 +21664,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2707</uiIndex>
-		<szItemName>MSA Headset</szItemName>
-		<szLongItemName>MSA Headset Hi-Threat</szLongItemName>
+		<szItemName>MSA Kopfset</szItemName>
+		<szLongItemName>MSA Kopfset Hi-Threat</szLongItemName>
 		<szItemDesc>Schützt Ihr Gehör und gibt die Übertragungen Ihrer Teamkollegen mit präzisem, natürlichem Klang wieder. Lokalisiert Geräusche und reduziert übermäßigen Lärm. Genau das richtige Gerät, um Gehörverlust bei Feuergefechten zu verhindern.</szItemDesc>
-		<szBRName>MSA Headset Hi-Threat</szBRName>
-		<szBRDesc>Dieses Headset mit zwei Ohrmuscheln bietet die Möglichkeit, leises Flüstern zu hören und gleichzeitig die Ohren vor schädlichen Geräuschen zu schützen, so dass der Träger eine 360-Grad-Wahrnehmung auf dem Schlachtfeld aufrechterhalten kann.</szBRDesc>
+		<szBRName>MSA Kopfset Hi-Threat</szBRName>
+		<szBRDesc>Dieses Kopfset mit zwei Ohrmuscheln bietet die Möglichkeit, leises Flüstern zu hören und gleichzeitig die Ohren vor schädlichen Geräuschen zu schützen, so dass der Träger eine 360-Grad-Wahrnehmung auf dem Schlachtfeld aufrechterhalten kann.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2708</uiIndex>
-		<szItemName>Pro Headset</szItemName>
-		<szLongItemName>Pro Headset</szLongItemName>
-		<szItemDesc>Dieses Qualitäts-Headset bietet einen stark verbesserten Hörbereich.</szItemDesc>
-		<szBRName>Pro Headset</szBRName>
-		<szBRDesc>Unsere hochwertigen, maßgefertigten Headsets bieten garantiert den höchsten erweiterten Hörbereich aller auf dem Markt erhältlichen Headsets.</szBRDesc>
+		<szItemName>Pro Kopfset</szItemName>
+		<szLongItemName>Pro Kopfset</szLongItemName>
+		<szItemDesc>Dieses Qualitäts-Kopfset bietet einen stark verbesserten Hörbereich.</szItemDesc>
+		<szBRName>Pro Kopfset</szBRName>
+		<szBRDesc>Unsere hochwertigen, maßgefertigten Kopfsets bieten garantiert den höchsten erweiterten Hörbereich aller auf dem Markt erhältlichen Kopfsets.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2709</uiIndex>
@@ -22528,258 +22528,258 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2815</uiIndex>
-		<szItemName>Spotting Zielfernrohr</szItemName>
-		<szLongItemName>30x60 Spotting Zielfernrohr</szLongItemName>
-		<szItemDesc>A high powered, waterproof spotting Zielfernrohr for your Scharfschützen squad.</szItemDesc>
-		<szBRName>30x60 Spotting Zielfernrohr</szBRName>
-		<szBRDesc>Triplet Apochromatic lens combined with high density, extra-low dispersion glass makes this the perfect Zielfernrohr for the spotter of your Scharfschützen team.</szBRDesc>
+		<szItemName>Zielfernrohr</szItemName>
+		<szLongItemName>30x60 Beobachter-Zielfernrohr</szLongItemName>
+		<szItemDesc>Ein hochleistungsfähiges, wasserdichtes Zielfernrohr für Ihren Scharfschützentrupp.</szItemDesc>
+		<szBRName>30x60 Beobachter-Zielfernrohr</szBRName>
+		<szBRDesc>Apochromatisches Triplett-Objektiv in Kombination mit hochdichtem Glas mit extra niedriger Dispersion macht dies zum perfekten Zielfernrohr für den Beobachter Ihres Scharfschützen-Teams.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2816</uiIndex>
 		<szItemName>Taclight</szItemName>
-		<szLongItemName>Taktische Flashlight</szLongItemName>
-		<szItemDesc>A Kleine Taktische flashlight that fits on almost all guns and slightly increases night vision range.</szItemDesc>
-		<szBRName>Taktische Flashlight</szBRName>
-		<szBRDesc>A Kleine Taktische flashlight that fits on almost all guns and slightly increases night vision range.</szBRDesc>
+		<szLongItemName>Taktische Taschenlampe</szLongItemName>
+		<szItemDesc>Eine kleine taktische Taschenlampe, die auf fast alle Gewehre passt und die Nachtsichtweite leicht erhöht.</szItemDesc>
+		<szBRName>Taktische Taschenlampe</szBRName>
+		<szBRDesc>Eine kleine taktische Taschenlampe, die auf fast alle Gewehre passt und die Nachtsichtweite leicht erhöht.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2817</uiIndex>
-		<szItemName>Griplight</szItemName>
-		<szLongItemName>Griplight</szLongItemName>
-		<szItemDesc>A practical combination of foregrip and Taktische flashlight.</szItemDesc>
-		<szBRName>Griplight</szBRName>
-		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
+		<szItemName>Grifflampe</szItemName>
+		<szLongItemName>Grifflampe</szLongItemName>
+		<szItemDesc>Eine praktische Kombination aus Vordergriff und taktischer Taschenlampe.</szItemDesc>
+		<szBRName>Grifflampe</szBRName>
+		<szBRDesc>Eine praktische Kombination aus Vordergriff und taktischer Taschenlampe.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2818</uiIndex>
 		<szItemName>BORS</szItemName>
-		<szLongItemName>Barrett Optical Ranging System</szLongItemName>
-		<szItemDesc>An advanced ballistic target computer for Long Range Sniper Rifles, allowing you to forget about the science so you can focus on the task of putting lead on the target.</szItemDesc>
-		<szBRName>Barrett Optical Ranging Sysystem</szBRName>
-		<szBRDesc>An advanced ballistic target computer that can be attached to certain Long Range Sniper Rifles. The BORS automatically updates, processing data in real-time from a number of external factors giving the shooter the exact yardage and bore-line angle at which a bullet will hit its target.</szBRDesc>
+		<szLongItemName>Barrett Optischer Entfernungsmesser</szLongItemName>
+		<szItemDesc>Ein fortschrittlicher ballistischer Zielcomputer für Scharfschützengewehre mit großer Reichweite, der es Ihnen ermöglicht, die Wissenschaft zu vergessen und sich auf die Aufgabe zu konzentrieren, Blei auf das Ziel zu bringen.</szItemDesc>
+		<szBRName>Barrett Optischer Entfernungsmesser</szBRName>
+		<szBRDesc>Ein fortschrittlicher ballistischer Zielcomputer für Scharfschützengewehre mit großer Reichweite, der es Ihnen ermöglicht, die Wissenschaft zu vergessen und sich auf die Aufgabe zu konzentrieren, Blei auf das Ziel zu bringen.</szBRDesc>
 
 	</ITEM>
 	<ITEM>
 		<uiIndex>2819</uiIndex>
 		<szItemName>Meprolight</szItemName>
 		<szLongItemName>Meprolight Reflex</szLongItemName>
-		<szItemDesc>This mil-spec all-in-one electro-optical sight includes built-in visible and IR laser designators powered by four independent power sources in the unlikely event one goes down. </szItemDesc>
+		<szItemDesc>Dieses elektro-optische All-in-One-Visier nach Militärstandard verfügt über integrierte IR-Laser, die von vier unabhängigen Stromquellen gespeist werden, für den unwahrscheinlichen Fall, dass eine davon ausfällt. </szItemDesc>
 		<szBRName>Meprolight Reflex</szBRName>
-		<szBRDesc>The only true "all-in-one-sight". This unique multi-purpose red-dot reflex sight with laser pointers, boasts a Große lens to assure rapid target acquisition and instinctive accurate shooting ability.</szBRDesc>
+		<szBRDesc>Das einzige echte "All-in-One-Visier". Dieses einzigartige Mehrzweck-Rotpunkt-Reflexvisier mit Laserpointer, verfügt über eine Große Linse, um eine schnelle Zielerfassung und instinktive genaue Schießfähigkeit zu gewährleisten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2820</uiIndex>
 		<szItemName>Tru Dot</szItemName>
-		<szLongItemName>Tru Dot Match Sights</szLongItemName>
-		<szItemDesc>Meprolight night sights feature a very distinguishable white outline around the tritium ampule for daylight conditions. In darkness the tritium ampule provides illumination. Meprolight Night Sights provide fast target aquisition in all lighting conditions. Front and rear are both red.</szItemDesc>
-		<szBRName>Tru Dot Match Sights</szBRName>
-		<szBRDesc>Meprolight night sights feature a very distinguishable white outline around the tritium ampule for daylight conditions. In darkness the tritium ampule provides illumination. Meprolight Night Sights provide fast target aquisition in all lighting conditions. Front and rear are both red.</szBRDesc>
+		<szLongItemName>Tru Dot Match Visier</szLongItemName>
+		<szItemDesc>Meprolight Nachtzielgeräte haben einen deutlich erkennbaren weißen Umriss um die Tritiumlampe für Tageslichtbedingungen. Bei Dunkelheit leuchtet die Tritiumlampe. Meprolight Nachtsichtgeräte ermöglichen eine schnelle Zielerfassung bei allen Lichtverhältnissen.</szItemDesc>
+		<szBRName>Tru Dot Match Visier</szBRName>
+		<szBRDesc>Meprolight Nachtzielgeräte haben einen deutlich erkennbaren weißen Umriss um die Tritiumlampe für Tageslichtbedingungen. Bei Dunkelheit leuchtet die Tritiumlampe. Meprolight Nachtsichtgeräte ermöglichen eine schnelle Zielerfassung bei allen Lichtverhältnissen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2821</uiIndex>
 		<szItemName>.50 Beowulf Adapter</szItemName>
 		<szLongItemName>.50 Beowulf Adapter</szLongItemName>
-		<szItemDesc>This special adapter can be attached to a Beowulf Rifle to allow for the use of the 30-rnd C-Mags.</szItemDesc>
+		<szItemDesc>Dieser spezielle Adapter kann an einem Beowulf-Gewehr angebracht werden, um die Verwendung der 30er C-Mags zu ermöglichen.</szItemDesc>
 		<szBRName>.50 Beowulf Adapter</szBRName>
-		<szBRDesc>This special adapter can be attached to a Beowulf Rifle to allow for the use of the 30-rnd C-Mags.</szBRDesc>
+		<szBRDesc>Dieser spezielle Adapter kann an einem Beowulf-Gewehr angebracht werden, um die Verwendung der 30er C-Mags zu ermöglichen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2822</uiIndex>
 		<szItemName>LAM</szItemName>
 		<szLongItemName>Insight LAM-1000</szLongItemName>
-		<szItemDesc>Originally designed in response to the U.S. Navy SEAL's Assault Pistolen program, the Laser Aiming Module, (LAM) pioneered new ground and set the standard for multi-laser/white light capability in a compact Pistolen mounted package. Today, Insight Tech-Gear's LAM-1000 is known to the U.S. Military as the ILWLP.</szItemDesc>
+		<szItemDesc>Ursprünglich wurde das Laser Zielerfassungsmodul (LAM) als Antwort auf das Assault Pistol Programm der U.S. Navy SEALs entwickelt und setzte den Standard für Multi-Laser/Weißlicht-Fähigkeiten in einem kompakten, auf Pistolen montierten Paket. Heute ist das LAM-1000 von Insight Tech-Gear beim US-Militär als ILWLP bekannt.</szItemDesc>
 		<szBRName>Insight LAM-1000</szBRName>
-		<szBRDesc>The ILWLP/LAM-1000 with interface is an advanced single-module, multi-function illuminator flashlight and aiming device derived from the military standard Insight AN/PEQ-6. Discontinued product, once they're gone, THEY'RE GONE.</szBRDesc>
+		<szBRDesc>Die ILWLP/LAM-1000 mit Schnittstelle ist eine fortschrittliche, einmodulige, multifunktionale Taschenlampe und Zielvorrichtung, die vom militärischen Standard Insight AN/PEQ-6 abgeleitet ist.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2823</uiIndex>
 		<szItemName>Magpulgrip</szItemName>
-		<szLongItemName>Magpul PTS Angled Fore-Grip</szLongItemName>
-		<szItemDesc>Compatible with most Picatinny-railed hand guards, the Magpul AFG takes into account natural ergonomics and provides comfortable and stable use that reduces fatigue and allows for more precise control. Can be attached to most SMGs and rifles to enhance burst and selective fire accuracy.</szItemDesc>
-		<szBRName>Magpul PTS Angled Fore-Grip</szBRName>
-		<szBRDesc>Unlike conventional vertical fore-grips, the AFG helps mitigate recoil and control the weapon to facilitate faster, more accurate follow-up shots. Can be attached to most SMGs and rifles to enhance burst and selective fire accuracy.</szBRDesc>
+		<szLongItemName>Magpul PTS angewinkelt Vordergriff</szLongItemName>
+		<szItemDesc>Das Magpul AFG ist mit den meisten Picatinny-Handschutzschienen kompatibel. Es berücksichtigt die natürliche Ergonomie und bietet eine komfortable und stabile Handhabung, die Ermüdungserscheinungen reduziert und eine präzisere Kontrolle ermöglicht. Kann an die meisten SMGs und Gewehre angebracht werden.</szItemDesc>
+		<szBRName>Magpul PTS angewinkelt Vordergriff</szBRName>
+		<szBRDesc>Im Gegensatz zu herkömmlichen vertikalen Vordergriffen hilft der AFG, den Rückstoß zu dämpfen und die Waffe zu kontrollieren, um schnellere und präzisere Folgeschüsse zu ermöglichen. Kann an die meisten SMGs und Gewehre angebracht werden.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2824</uiIndex>
 		<szItemName>FLEX ELAP LAM</szItemName>
-		<szLongItemName>FLEX E-LAP Laser Aiming Pointer</szLongItemName>
-		<szItemDesc>With a flick of the switch turn your laser unit into a CQB illuminator, taking advantage of the built-in LED unit. Included on top of the laser is a 20mm RIS rail, for mounting even more on your gun! Double lasers, mmmmm... the looks? They speak for themselves, wipe the dribble from your chin, lads!</szItemDesc>
+		<szLongItemName>FLEX E-LAP Laser-Zielhilfe</szLongItemName>
+		<szItemDesc>Mit nur einem Knopfdruck verwandeln Sie Ihren Laser in eine CQB-Beleuchtung, indem Sie die Vorteile der eingebauten LED-Einheit nutzen. Oben auf dem Laser befindet sich eine 20mm RIS-Schiene, um noch mehr an Ihrer Waffe zu montieren!</szItemDesc>
 		<szBRName>FLEX E-LAP LAM</szBRName>
-		<szBRDesc>Solid and robust, this is a 'big man's' laser sporting an impressive throw-lever QD release. This will improve any 20mm RIS rail like a boss!</szBRDesc>
+		<szBRDesc>Dieser solide und robuste Laser für den großen Mann verfügt über einen hochwertigen QD-Auslöser mit Druckknopf.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2825</uiIndex>
 		<szItemName>Twin Beam TL</szItemName>
-		<szLongItemName>Twin Beam Target Laser</szLongItemName>
-		<szItemDesc>Since 1983, ILEE of Norway have been supplying target laser systems on Kleine arms to the military market. This twin beam target laser can switch from infrared and illumination modes in a flick.</szItemDesc>
-		<szBRName>Twin Beam Target Laser</szBRName>
-		<szBRDesc>ILEE offer this twin beam target laser enabling users to switch rapidly between two different light sources. Standard light sources available include red and infrared beams and an infrared illuminator.</szBRDesc>
+		<szLongItemName>Zweistrahliger Ziellaser</szLongItemName>
+		<szItemDesc>Seit 1983 liefert das norwegische Unternehmen ILEE Ziellasersysteme auf Kleinwaffen für den militärischen Markt. Dieser Zweistrahl-Ziellaser kann im Handumdrehen zwischen Infrarot- und Beleuchtungsmodus umschalten.</szItemDesc>
+		<szBRName>Zweistrahliger Ziellaser</szBRName>
+		<szBRDesc>ILEE bietet diesen Zweistrahl-Ziellaser an, der es dem Benutzer ermöglicht, schnell zwischen zwei verschiedenen Lichtquellen zu wechseln. Zu den standardmäßig verfügbaren Lichtquellen gehören rote und infrarote Strahlen sowie ein Infrarot-Strahler.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2826</uiIndex>
 		<szItemName>TAM-14</szItemName>
-		<szLongItemName>TAM-14 Thermal Acquisition Monocular</szLongItemName>
-		<szItemDesc>Nivisys currently features the TAM-14 Thermal Acquisition Monocular system designed to meet the needs of the individual user for ground based night operations. The system has set the pace for future hand held thermal devices that are head or Helm mountable as well as weapon mountable.</szItemDesc>
+		<szLongItemName>TAM-14 Thermisches Erfassungsmonokular</szLongItemName>
+		<szItemDesc>Nivisys bietet derzeit das Wärmeerfassungs-Monokularsystem TAM-14 an, das auf die Bedürfnisse des einzelnen Anwenders für bodengestützte Nachteinsätze zugeschnitten ist. Das System ist wegweisend für zukünftige tragbare Wärmebildgeräte, die sowohl am Kopf oder am Helm als auch an der Waffe montiert werden können.</szItemDesc>
 		<szBRName>TAM-14</szBRName>
-		<szBRDesc>The system was designed to maximize versatility by quickly adapting to weapons, head gear, Helms, video output and more. Incorporating in-service head and Helm mounts designed for the AN/PVS-7 and AN/PVS-14, the TAM-14 is compact, lightweight and intuitive to operate.</szBRDesc>
+		<szBRDesc>Das System wurde entwickelt, um die Vielseitigkeit zu maximieren, indem es schnell an Waffen, Kopfbedeckungen, Helme, Videoausgang und mehr angepasst werden kann. Das TAM-14 verfügt über Kopf- und Helmhalterungen für die AN/PVS-7 und AN/PVS-14.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2827</uiIndex>
 		<szItemName>Shock Stock</szItemName>
-		<szLongItemName>Mako Shock Stock</szLongItemName>
-		<szItemDesc>Unique patented anti-rattle mechanism with sleek, steamlined design will not snag on gear or webbing. Using new and quick operational integral lever and ribbed rubber butt pad with a non slip design will be a boon to Taktische operatives.</szItemDesc>
+		<szLongItemName>Mako Schock Stock</szLongItemName>
+		<szItemDesc>Einzigartiger, patentierter Anti-Rassel-Mechanismus mit schlankem, dampfdurchlässigem Design, der sich nicht an Ausrüstung oder Gurtband verhakt. Der neue und schnell zu bedienende integrierte Hebel und das gerippte Gummipolster mit rutschfestem Design sind ein Segen für taktische Anwender.</szItemDesc>
 		<szBRName>Mako Shock Stock</szBRName>
-		<szBRDesc>The revolutionary patented 'GL-Shock' absorbing buttstock contains a recoil-reducing mechanism with a built in premium silicon chrome alloy spring to create a state-of-the-art stock</szBRDesc>
+		<szBRDesc>Der revolutionäre, patentierte 'GL-Schock' absorbierende Schaft enthält einen rückstoßmindernden Mechanismus mit einer eingebauten Premium-Silizium-Chrom-Legierungsfeder, um einen hochmodernen Stock zu kreieren.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2828</uiIndex>
 		<szItemName>HK 416 10" Bausatz</szItemName>
 		<szLongItemName>Bausatz Kit - HK 416 10"</szLongItemName>
-		<szItemDesc>This Bausatz converts the HK 416 to the 10" variant.</szItemDesc>
+		<szItemDesc>Dieser Bausatz rüstet das HK 416 auf die 10 Zoll Variante um.</szItemDesc>
 		<szBRName>HK 416 10" Kit</szBRName>
-		<szBRDesc>This Bausatz converts the HK 416 to the 10" variant.</szBRDesc>
+		<szBRDesc>Dieser Bausatz rüstet das HK 416 auf die 10 Zoll Variante um.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2829</uiIndex>
 		<szItemName>HK 416 14" Bausatz</szItemName>
 		<szLongItemName>Bausatz Kit - HK 416 14"</szLongItemName>
-		<szItemDesc>This Bausatz converts the HK 416 to the 14" variant.</szItemDesc>
+		<szItemDesc>Dieser Bausatz rüstet das HK 416 auf die 14 Zoll Variante um.</szItemDesc>
 		<szBRName>HK 416 14" Kit</szBRName>
-		<szBRDesc>This Bausatz converts the HK 416 to the 14" variant.</szBRDesc>
+		<szBRDesc>Dieser Bausatz rüstet das HK 416 auf die 14 Zoll Variante um.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2830</uiIndex>
 		<szItemName>HK 416 16" Bausatz</szItemName>
 		<szLongItemName>Bausatz Kit - HK 416 16"</szLongItemName>
-		<szItemDesc>This Bausatz converts the HK 416 to the 16" variant.</szItemDesc>
+		<szItemDesc>Dieser Bausatz rüstet das HK 416 auf die 16 Zoll Variante um.</szItemDesc>
 		<szBRName>HK 416 16" Kit</szBRName>
-		<szBRDesc>This Bausatz converts the HK 416 to the 16" variant.</szBRDesc>
+		<szBRDesc>Dieser Bausatz rüstet das HK 416 auf die 16 Zoll Variante um.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2831</uiIndex>
 		<szItemName>HK 416 20" Bausatz</szItemName>
 		<szLongItemName>Bausatz Kit - HK 416 20"</szLongItemName>
-		<szItemDesc>This Bausatz converts the HK 416 to the 20" variant.</szItemDesc>
+		<szItemDesc>Dieser Bausatz rüstet das HK 416 auf die 20 Zoll Variante um.</szItemDesc>
 		<szBRName>HK 416 20" Kit</szBRName>
-		<szBRDesc>This Bausatz converts the HK 416 to the 20" variant.</szBRDesc>
+		<szBRDesc>Dieser Bausatz rüstet das HK 416 auf die 20 Zoll Variante um.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2832</uiIndex>
 		<szItemName>HK 417 12" Bausatz</szItemName>
 		<szLongItemName>Bausatz Kit - HK 417 12"</szLongItemName>
-		<szItemDesc>This Bausatz converts the HK 417 to the 12" variant.</szItemDesc>
+		<szItemDesc>Dieser Bausatz rüstet das HK 417 auf die 12 Zoll Variante um.</szItemDesc>
 		<szBRName>HK 417 12" Kit</szBRName>
-		<szBRDesc>This Bausatz converts the HK 417 to the 12" variant.</szBRDesc>
+		<szBRDesc>Dieser Bausatz rüstet das HK 417 auf die 12 Zoll Variante um.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2833</uiIndex>
 		<szItemName>HK 417 16" Bausatz</szItemName>
 		<szLongItemName>Bausatz Kit - HK 417 16"</szLongItemName>
-		<szItemDesc>This Bausatz converts the HK 417 to the 16" variant.</szItemDesc>
+		<szItemDesc>Dieser Bausatz rüstet das HK 417 auf die 16 Zoll Variante um.</szItemDesc>
 		<szBRName>HK 417 16" Kit</szBRName>
-		<szBRDesc>This Bausatz converts the HK 417 to the 16" variant.</szBRDesc>
+		<szBRDesc>Dieser Bausatz rüstet das HK 417 auf die 16 Zoll Variante um.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2834</uiIndex>
 		<szItemName>HK 417 20" Bausatz</szItemName>
 		<szLongItemName>Bausatz Kit - HK 417 20"</szLongItemName>
-		<szItemDesc>This Bausatz converts the HK 417 to the 20" variant.</szItemDesc>
+		<szItemDesc>Dieser Bausatz rüstet das HK 417 auf die 20 Zoll Variante um.</szItemDesc>
 		<szBRName>HK 417 20" Kit</szBRName>
-		<szBRDesc>This Bausatz converts the HK 417 to the 20" variant.</szBRDesc>
+		<szBRDesc>Dieser Bausatz rüstet das HK 417 auf die 20 Zoll Variante um.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2835</uiIndex>
 		<szItemName>TriRail</szItemName>
 		<szLongItemName>Tiberius Arms Tri-Rail</szLongItemName>
-		<szItemDesc>The Tiberius Arms Tri-Rail Riser is a unique Zielfernrohr mounting system that maximizes usable space. This mount is perfect for converting your rifle, shotgun or carbine to Taktische configuration. Easy to install in just a few minutes with no gunsmithing required.</szItemDesc>
+		<szItemDesc>Die Tiberius Arms Tri-Rail Riser ist ein einzigartiges Zielfernrohr-Montagesystem, das den verfügbaren Raum maximal ausnutzt. Diese Montage ist perfekt für die Umwandlung Ihrer Gewehr, Schrotflinte oder Karabiner auf eine taktische Konfiguration.</szItemDesc>
 		<szBRName>Tiberius Arms Tri-Rail</szBRName>
-		<szBRDesc>The Tiberius Arms Tri-Rail Riser is a unique Zielfernrohr mounting system that maximizes usable space. This mount is perfect for converting your rifle, shotgun or carbine to Taktische configuration. Easy to install in just a few minutes with no gunsmithing required.</szBRDesc>
+		<szBRDesc>Die Tiberius Arms Tri-Rail Riser ist ein einzigartiges Zielfernrohr-Montagesystem, das den verfügbaren Raum maximal ausnutzt. Diese Montage ist perfekt für die Umwandlung Ihrer Gewehr, Schrotflinte oder Karabiner auf eine taktische Konfiguration.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2836</uiIndex>
 		<szItemName>Zielfernrohr 7x C.</szItemName>
 		<szLongItemName>Zielfernrohr 7x Combo</szLongItemName>
-		<szItemDesc>A combination of 7x battle Zielfernrohr and reflex sight.</szItemDesc>
+		<szItemDesc>Eine Kombination aus 7x Kampfzielfernrohr und Spiegelreflexvisier.</szItemDesc>
 		<szBRName>Zielfernrohr 7x Combo</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2837</uiIndex>
-		<szItemName>SMG Suppressor</szItemName>
-		<szLongItemName>SMG Suppressor</szLongItemName>
-		<szItemDesc>A long sound suppressor that can be attached to certain submachine guns. Due to its length it adds additional stability during burst fire.</szItemDesc>
-		<szBRName>SMG Suppressor</szBRName>
-		<szBRDesc>This sound suppressor can be attached to certain submachineguns. Due to its length it adds additional stability during burst fire. Fits the Ingram MAC-10, most of the MP5 series and similiar guns.</szBRDesc>
+		<szItemName>SMG Schalldämpfer</szItemName>
+		<szLongItemName>SMG Schalldämpfer</szLongItemName>
+		<szItemDesc>Ein langer Schalldämpfer, der an bestimmten Maschinenpistolen angebracht werden kann. Aufgrund seiner Länge sorgt er für zusätzliche Stabilität beim Feuerstoß.</szItemDesc>
+		<szBRName>SMG Schalldämpfer</szBRName>
+		<szBRDesc>Dieser Schalldämpfer kann an bestimmten Maschinenpistolen angebracht werden. Durch seine Länge sorgt er für zusätzliche Stabilität bei Salvenfeuer. Passt auf die Ingram MAC-10, die meisten MP5 Modelle und ähnliche Waffen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2838</uiIndex>
-		<szItemName>Gas&amp;Oil</szItemName>
-		<szLongItemName>Gasoline-Oil mix</szLongItemName>
-		<szItemDesc>A mix of gasoline and oil. You'd better not use this to refill your car. But maybe there is another use for it.</szItemDesc>
-		<szBRName>Gasoline-Oil mix</szBRName>
+		<szItemName>Gas&amp;Öl</szItemName>
+		<szLongItemName>Benzin-Öl-Gemisch</szLongItemName>
+		<szItemDesc>Ein Gemisch aus Benzin und Öl. Damit sollten Sie Ihr Auto besser nicht auftanken. Aber vielleicht gibt es eine andere Verwendung dafür.</szItemDesc>
+		<szBRName>Benzin-Öl-Gemisch</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2839</uiIndex>
-		<szItemName>Alcohol-Oil Mix taped</szItemName>
-		<szLongItemName>Alcohol-Oil Mix taped</szLongItemName>
-		<szItemDesc>Don't drink! There is also some duct tape sticking on the bottle.</szItemDesc>
-		<szBRName>Alcohol-Oil Mix taped</szBRName>
+		<szItemName>Alkohol-Öl-Mischung mit Klebeband</szItemName>
+		<szLongItemName>Alkohol-Öl-Mischung mit Klebeband</szLongItemName>
+		<szItemDesc>Nicht trinken! Auf der Flasche klebt auch etwas Klebeband.</szItemDesc>
+		<szBRName>Alkohol-Öl-Mischung mit Klebeband</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2840</uiIndex>
-		<szItemName>Flare</szItemName>
-		<szLongItemName>Modified Flare</szLongItemName>
-		<szItemDesc>This emergency flare has been modified with a detonator. All you need now is some kind of tripwire to get a trip flare.</szItemDesc>
-		<szBRName>Modified Flare</szBRName>
+		<szItemName>Fackel</szItemName>
+		<szLongItemName>Modifizierte Fackel</szLongItemName>
+		<szItemDesc>Diese Notfallfackel wurde mit einem Zünder modifiziert. Alles, was Sie jetzt brauchen, ist eine Art Stolperdraht, um eine Auslösefackel zu erhalten.</szItemDesc>
+		<szBRName>Modifizierte Fackel</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2841</uiIndex>
 		<szItemName>Walkman</szItemName>
-		<szLongItemName>Modified Walkman</szLongItemName>
-		<szItemDesc>Attaching a detonator to a walkman may seem stupid, but once you got rid of unneccessary parts you got a basic alarm trap. All you need now is some kind of tripwire.</szItemDesc>
-		<szBRName>Modified Walkman</szBRName>
+		<szLongItemName>Modifizierter Walkman</szLongItemName>
+		<szItemDesc>Es mag dumm erscheinen, einen Zünder an einem Walkman anzubringen, aber wenn man erst einmal die überflüssigen Teile entfernt hat, hat man eine simple Alarmfalle. Jetzt brauchen Sie nur noch eine Art Stolperdraht.</szItemDesc>
+		<szBRName>Modifizierter Walkman</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2842</uiIndex>
-		<szItemName>mod. Reddot LAM</szItemName>
-		<szLongItemName>mod. Laser, Reddot</szLongItemName>
-		<szItemDesc>This Kleine laser module feels somehow sticky.</szItemDesc>
-		<szBRName>mod. Laser, Reddot</szBRName>
+		<szItemName>mod. Rotpunkt LAM</szItemName>
+		<szLongItemName>mod. Laser, Rotpunkt</szLongItemName>
+		<szItemDesc>Dieses Kleine Lasermodul fühlt sich irgendwie klebrig an.</szItemDesc>
+		<szBRName>mod. Laser, Rotpunkt</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2843</uiIndex>
-		<szItemName>Reflex Sight</szItemName>
-		<szLongItemName>Mod. Reflex Sight</szLongItemName>
-		<szItemDesc>This reflex dual-illuminated advanced combat gun sight is the new standard for instant any-light shooting accuracy.</szItemDesc>
-		<szBRName>mod. Reflex Sight</szBRName>
+		<szItemName>Reflexvisier</szItemName>
+		<szLongItemName>Mod. Reflexvisier</szLongItemName>
+		<szItemDesc>Dieses moderne Reflexvisier mit doppelter Beleuchtung ist der neue Standard für sofortige Schießpräzision bei allen Lichtverhältnissen.</szItemDesc>
+		<szBRName>Mod. Reflexvisier</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2844</uiIndex>
 		<szItemName>Kobra</szItemName>
 		<szLongItemName>Kobra</szLongItemName>
-		<szItemDesc>This Russische reflex sight sits on a sidemount-bracket to fit onto AK-style receivers. Somehow this thing feels sticky.</szItemDesc>
-		<szBRName>mod. Kobra</szBRName>
+		<szItemDesc>Dieses Russische Reflexvisier sitzt auf einer Sidemount-Halterung und passt auf AK-Receiver. Irgendwie fühlt sich das Ding klebrig an.</szItemDesc>
+		<szBRName>Mod. Kobra</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2845</uiIndex>
 		<szItemName>Taclight</szItemName>
-		<szLongItemName>Taktische Flashlight</szLongItemName>
-		<szItemDesc>A Kleine Taktische flashlight that fits on almost all guns and slightly increases night vision range. Somehow this thing feels sticky.</szItemDesc>
-		<szBRName>Taktische Flashlight</szBRName>
+		<szLongItemName>Taktische Taschenlampe</szLongItemName>
+		<szItemDesc>Eine kleine taktische Taschenlampe, die auf fast alle Gewehre passt und die Nachtsichtweite leicht erhöht. Irgendwie fühlt sich das Ding klebrig an.</szItemDesc>
+		<szBRName>Taktische Taschenlampe</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2846</uiIndex>
 		<szItemName>Reflex L.</szItemName>
 		<szLongItemName>Mod. Reflex &amp; Laser</szLongItemName>
-		<szItemDesc>A combination of Reddot LAM and a Reflex Sight. If you are short on attachment slots, try one of these.</szItemDesc>
+		<szItemDesc>Eine Kombination aus Rotpunkt-LAM und einem Reflexvisier. Wenn Sie zu wenig Anbauplätze haben, versuchen Sie es mit einem von diesen.</szItemDesc>
 		<szBRName>Mod. Reflex &amp; Laser</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -22787,30 +22787,30 @@
 		<uiIndex>2847</uiIndex>
 		<szItemName>mod. CORSAK - Kobra</szItemName>
 		<szLongItemName>mod. Combo, CORSAK - Kobra</szLongItemName>
-		<szItemDesc>A combination of CORSAK and Kobra. If you are short on attachment slots, try one of these. Will fit only on certain Russische guns, as it requires an AK style receiver. Somehow this thing feels sticky.</szItemDesc>
+		<szItemDesc>Eine Kombination aus CORSAK und Kobra. Wenn Sie wenig Aufnahmeslots haben, versuchen Sie es mit einem von diesen. Wird nur auf bestimmte russische Waffen passen, da es einen AK-Receiver erfordert. Irgendwie fühlt sich das Ding klebrig an.</szItemDesc>
 		<szBRName>mod. Combo, CORSAK - Kobra</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2848</uiIndex>
-		<szItemName>mod. Rifle LAM</szItemName>
-		<szLongItemName>mod. Laser, Rifle LAM</szLongItemName>
-		<szItemDesc>This Laser Aiming Module is meant to fit on modern rifle rail interface systems. Somehow this thing feels sticky.</szItemDesc>
-		<szBRName>mod. Laser, Rifle LAM</szBRName>
+		<szItemName>mod. Gewehr LAM</szItemName>
+		<szLongItemName>mod. Laser, Gewehr LAM</szLongItemName>
+		<szItemDesc>Dieses Laser-Zielmodul ist für moderne Gewehrschienen-Schnittstellensysteme geeignet. Irgendwie fühlt sich das Ding klebrig an.</szItemDesc>
+		<szBRName>mod. Laser, Gewehr LAM</szBRName>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2849</uiIndex>
-		<szItemName>mod. Foregrip</szItemName>
-		<szLongItemName>mod. Foregrip</szLongItemName>
-		<szItemDesc>A special hand grip that can be attached to most SMGs and rifles to enhance burst and selective fire accuracy. Somehow this thing feels sticky.</szItemDesc>
-		<szBRName>mod. Foregrip</szBRName>
+		<szItemName>mod. Vordergriff</szItemName>
+		<szLongItemName>mod. Vordergriff</szLongItemName>
+		<szItemDesc>Ein spezieller Handgriff, der an die meisten SMGs und Gewehre angebracht werden kann, um die Präzision von Feuerstößen und selektivem Feuer zu verbessern. Irgendwie fühlt sich das Ding klebrig an.</szItemDesc>
+		<szBRName>mod. Vordergriff</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2850</uiIndex>
 		<szItemName>int. Zielfernrohr 2x</szItemName>
 		<szLongItemName>int. Zielfernrohr, 2x</szLongItemName>
-		<szItemDesc>This type of Zielfernrohr is often found built-in on modern assault rifles, though it could fit on a revolver, shotgun, or SMG as well.</szItemDesc>
+		<szItemDesc>Diese Art von Zielfernrohr wird häufig an moderne Sturmgewehre montiert, obwohl es auch an einen Revolver, eine Schrotflinte oder ein Maschinengewehr passen könnte.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, 2x</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -22818,7 +22818,7 @@
 		<uiIndex>2851</uiIndex>
 		<szItemName>mod. Zielfernrohr 4x</szItemName>
 		<szLongItemName>mod. Zielfernrohr, 4x ACOG</szLongItemName>
-		<szItemDesc>Combat gun Zielfernrohr with 4x magnification.</szItemDesc>
+		<szItemDesc>Sturmgewehr Zielfernrohr mit 4-facher Vergrößerung.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, 4x ACOG</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -22826,7 +22826,7 @@
 		<uiIndex>2852</uiIndex>
 		<szItemName>ACOG Reflex</szItemName>
 		<szLongItemName>mod. Zielfernrohr, 4x ACOG Reflex</szLongItemName>
-		<szItemDesc>Trijicon Advanced Combat Optical GunZielfernrohr with 4x magnification, an additional DOCTER Reflex Sight has been mounted atop the eyepiece for faster target acquisition.</szItemDesc>
+		<szItemDesc>Trijicon Advanced Combat Optical Gun Zielfernrohr mit 4-facher Vergrößerung, ein zusätzliches DOCTER Reflexvisier wurde auf das Okular montiert für eine schnellere Zielerfassung.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, 4x ACOG Reflex</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -22834,7 +22834,7 @@
 		<uiIndex>2853</uiIndex>
 		<szItemName>mod. PSO-1</szItemName>
 		<szLongItemName>mod. Zielfernrohr, PSO-1</szLongItemName>
-		<szItemDesc>Russischer Standard Zielfernrohr that fits many AK-type rifles. Magnification is 4x. Somehow this thing feels sticky.</szItemDesc>
+		<szItemDesc>Russisches Standard-Zielfernrohr, das auf viele AK-Gewehre passt. Die Vergrößerung ist 4x. Irgendwie fühlt sich das Ding klebrig.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, PSO-1</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -22842,7 +22842,7 @@
 		<uiIndex>2854</uiIndex>
 		<szItemName>mod. Zielfernrohr 7x</szItemName>
 		<szLongItemName>mod. Zielfernrohr, 7x</szLongItemName>
-		<szItemDesc>With this Zielfernrohr you can give precision performance to a bolt-action rifle, AR-10, FAL, G3, SCAR-H, or M-14 serving in the Designated Marksman role.</szItemDesc>
+		<szItemDesc>Mit diesem Zielfernrohr können Sie einem Repetiergewehr, AR-10, FAL, G3, SCAR-H, oder M-14 die Rolle des Scharfschützenkönigs verleihen.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, 7x</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -22856,215 +22856,215 @@
 		<uiIndex>2856</uiIndex>
 		<szItemName>mod. Laser, AN/PEQ-2A</szItemName>
 		<szLongItemName>mod. Laser, AN/PEQ-2A</szLongItemName>
-		<szItemDesc>This medium sized advanced laser aiming module has a highly increased range compared to a standard issue laser. Can only be attached to guns at least the size of an SMG. Somehow this thing feels sticky.</szItemDesc>
+		<szItemDesc>Dieses mittelgroße, fortschrittliche Laser-Zielmodul hat eine stark erhöhte Reichweite im Vergleich zu einem Standard-Laser. Kann nur an Waffen angebracht werden, die mindestens die Größe eines SMGs haben. Irgendwie fühlt sich das Ding klebrig an.</szItemDesc>
 		<szBRName>mod. Laser, AN/PEQ-2A</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2857</uiIndex>
-		<szItemName>Alcohol-Oil Mix</szItemName>
-		<szLongItemName>Alcohol-Oil Mix</szLongItemName>
-		<szItemDesc>Don't drink!</szItemDesc>
-		<szBRName>Alcohol-Oil Mix</szBRName>
+		<szItemName>Alkohol-Öl-Gemisch</szItemName>
+		<szLongItemName>Alkohol-Öl-Gemisch</szLongItemName>
+		<szItemDesc>Nicht trinken!</szItemDesc>
+		<szBRName>Alkohol-Öl-Gemisch</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2858</uiIndex>
 		<szItemName>Trijicon Night Sight</szItemName>
-		<szLongItemName>Trijicon's Bright &amp; Tough Night Sights</szLongItemName>
-		<szItemDesc>The only self-luminous sight system for most light handguns that ensures greater night fire accuracy than any other iron sight.</szItemDesc>
-		<szBRName>Trijicon's Bright &amp; Tough Night Sights</szBRName>
-		<szBRDesc>Tritium phosphor-filled glass lamps provide battery free illumination for most handguns ensuring greater night fire accuracy than any other iron sight. Comes with 12 year warranty.</szBRDesc>
+		<szLongItemName>Trijicon's Bright &amp; Tough Nachtsichtgerät</szLongItemName>
+		<szItemDesc>Das einzige selbstleuchtende Visiersystem für die meisten leichten Handfeuerwaffen, das eine höhere Genauigkeit bei Nachtfeuer gewährleistet als jedes andere Eisenvisier.</szItemDesc>
+		<szBRName>Trijicon's Bright &amp; Tough Nachtsichtgerät</szBRName>
+		<szBRDesc>Tritium Phosphor-gefüllte Glaslampen bieten eine batterielose Beleuchtung für die meisten Handfeuerwaffen und gewährleisten eine höhere Genauigkeit bei Nachtfeuer als jedes andere Eisenvisier. Wird mit 12 Jahren Garantie geliefert.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2859</uiIndex>
 		<szItemName>PU Zielfernrohr</szItemName>
 		<szLongItemName>PU Zielfernrohr</szLongItemName>
-		<szItemDesc>Another vintage WW-II Zielfernrohr Originally used on Mosin-Nagant rifles, this variant of the PU Zielfernrohr has an AK Zielfernrohr mount to fit a wider range of WP guns.</szItemDesc>
+		<szItemDesc>Ein weiteres Vintage WW-II Zielfernrohr. Ursprünglich auf Mosin-Nagant Gewehre verwendet, hat diese Variante des PU Zielfernrohrs eine AK-Halterung, um auf eine breitere Palette von WP Gewehren zu passen.</szItemDesc>
 		<szBRName>PU Zielfernrohr</szBRName>
-		<szBRDesc>Another vintage WW-II Zielfernrohr Originally used on Mosin-Nagant rifles, this variant of the PU Zielfernrohr has an AK Zielfernrohr mount to fit a wider range of WP guns.</szBRDesc>
+		<szBRDesc>Ein weiteres Vintage WW-II Zielfernrohr. Ursprünglich auf Mosin-Nagant Gewehre verwendet, hat diese Variante des PU Zielfernrohrs eine AK-Halterung, um auf eine breitere Palette von WP Gewehren zu passen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2861</uiIndex>
 		<szItemName>553 Holo sight</szItemName>
-		<szLongItemName>Eotech 553 A65 Holographic Sight</szLongItemName>
-		<szItemDesc>After extensive testing of various optical sights US Special Operations Command standardized the Eotech HWS as its 1X weapon optic for close quarter and urban combat zones. Eotech developed this battle proven design further with additional features for the 553 A65 Holographic Weapon Sight.</szItemDesc>
-		<szBRName>Eotech 553 A65 Holographic Sight</szBRName>
-		<szBRDesc>EOTech's 553 A65 Holographic Weapon Sight's strength is its holographic reticle pattern which is instantly visible in any lighting condition, instinctive to center regardless of shooting angle and always remaining in view to achieve a lightning quick target acquisition.</szBRDesc>
+		<szLongItemName>Eotech 553 A65 Holografisches Visier</szLongItemName>
+		<szItemDesc>Nach umfangreichen Tests verschiedener optischer Visiere standardisierte das US Special Operations Command das Eotech HWS als 1X-Waffenoptik für den Nah- und Stadtkampf. Eotech entwickelte dieses kampferprobte Design mit zusätzlichen Funktionen für das 553 A65 Holografisches Waffenvisier weiter.</szItemDesc>
+		<szBRName>Eotech 553 A65 Holografisches Visier</szBRName>
+		<szBRDesc>Die Stärke des 553 A65 Holo-Visiers von EOTech ist das holografische Zielbild, das bei allen Lichtverhältnissen sofort sichtbar ist, sich unabhängig vom Schusswinkel instinktiv zentrieren lässt und immer im Blickfeld bleibt, um eine blitzschnelle Zielerfassung zu ermöglichen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2862</uiIndex>
-		<szItemName>Holo sight</szItemName>
-		<szLongItemName>Holographic Sight XPS2</szLongItemName>
-		<szItemDesc>The XPS2 is the shortest, Kleineest and lightest EOTech model holographic weapon sight available without night vision. Its size and weight make it convenient for hunters and law enforcement officers to carry.</szItemDesc>
-		<szBRName>Holographic Sight XPS2</szBRName>
-		<szBRDesc>The XPS2 is the shortest, Kleineest and lightest EOTech model holographic weapon sight available.</szBRDesc>
+		<szItemName>Holo-Sichtgerät</szItemName>
+		<szLongItemName>Holografisches Visier XPS2</szLongItemName>
+		<szItemDesc>Das XPS2 ist das kürzeste, kleinste und leichteste holographische Waffenzielgerät von EOTech, das ohne Nachtsichtgerät erhältlich ist. Seine Größe und Gewicht ermöglicht Jägern und Polizeibeamten einen bequemen Tragekomfort.</szItemDesc>
+		<szBRName>Holografisches Visier XPS2</szBRName>
+		<szBRDesc>Das XPS2 ist das kürzeste, kleinste und leichteste holographische Waffenzielgerät von EOTech auf dem Markt.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2863</uiIndex>
-		<szItemName>Steel Tube w. Primer</szItemName>
-		<szLongItemName>Steel Tube w. Primer</szLongItemName>
-		<szItemDesc>Someone has a put a detonator on this steel tube. What could this be used for?</szItemDesc>
-		<szBRName>Steel Tube w. Primer</szBRName>
+		<szItemName>Stahlrohr mit Haftgrundierung</szItemName>
+		<szLongItemName>Stahlrohr mit Haftgrundierung</szLongItemName>
+		<szItemDesc>Jemand hat eine Zündervorrichtung an diesem Stahlrohr angebracht. Wofür könnte das wohl verwendet werden?</szItemDesc>
+		<szBRName>Stahlrohr mit Haftgrundierung</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2864</uiIndex>
 		<szItemName>Upper AR57 11"</szItemName>
 		<szLongItemName>Bausatz Kit - Upper AR57 11"</szLongItemName>
-		<szItemDesc>This upper receiver can be used to convert the AR57 into the 11" version.</szItemDesc>
+		<szItemDesc>Mit diesem Schaft kann das AR57 in die 11 Zoll Ausführung umgebaut werden.</szItemDesc>
 		<szBRName>Upper AR57 11" Kit</szBRName>
-		<szBRDesc>This upper receiver can be used to convert the AR57 into the 11" version.</szBRDesc>
+		<szBRDesc>Mit diesem Schaft kann das AR57 in die 11 Zoll Ausführung umgebaut werden.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2865</uiIndex>
 		<szItemName>Upper AR57 16"</szItemName>
 		<szLongItemName>Bausatz Kit - Upper AR57 16"</szLongItemName>
-		<szItemDesc>This upper receiver can be used to convert the AR57 into the 16" version.</szItemDesc>
+		<szItemDesc>Mit diesem Schaft kann das AR57 in die 16 Zoll Ausführung umgebaut werden.</szItemDesc>
 		<szBRName>Upper AR57 16" Kit</szBRName>
-		<szBRDesc>This upper receiver Bausatz kit can be used to convert any AR57 into a 16" version.</szBRDesc>
+		<szBRDesc>Mit diesem Schaft kann das AR57 in die 16 Zoll Ausführung umgebaut werden.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2866</uiIndex>
 		<szItemName>Upper AR57 6" S</szItemName>
 		<szLongItemName>Bausatz Kit - Upper AR57 6" S</szLongItemName>
-		<szItemDesc>This upper receiver can be used to convert the AR57 into the 6" silenced version.</szItemDesc>
+		<szItemDesc>Mit diesem Schaft kann das AR57 in die 6 Zoll Ausführung umgebaut werden.</szItemDesc>
 		<szBRName>Upper AR57 6" S Kit</szBRName>
-		<szBRDesc>This upper receiver kit can be used to convert your AR57 into the 6" silenced version.</szBRDesc>
+		<szBRDesc>Mit diesem Schaft kann das AR57 in die 6 Zoll Ausführung umgebaut werden.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2867</uiIndex>
 		<szItemName>Upper M4A1</szItemName>
 		<szLongItemName>Bausatz Kit - Upper M4A1</szLongItemName>
-		<szItemDesc>This is the basic upper receiver for the M4A1 carbine.</szItemDesc>
+		<szItemDesc>Dies ist das Basisgehäuse für den M4A1-Karabiner.</szItemDesc>
 		<szBRName>Upper M4A1 Kit</szBRName>
-		<szBRDesc>A basic upper receiver Bausatz kit for the M4A1 carbine.</szBRDesc>
+		<szBRDesc>Dies ist das Basisgehäuse für den M4A1-Karabiner.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2868</uiIndex>
 		<szItemName>Upper M4A3</szItemName>
 		<szLongItemName>Bausatz Kit - Upper M4A3</szLongItemName>
-		<szItemDesc>This upper receiver converts an M4A1 carbine into the Bushmaster M4A3, chambered in 6.8 SPC.</szItemDesc>
+		<szItemDesc>Dieses Schaftgehäuse verwandelt einen M4A1-Karabiner in ein Bushmaster M4A3 im Kaliber 6.8 SPC.</szItemDesc>
 		<szBRName>Upper M4A3 Kit</szBRName>
-		<szBRDesc>This upper receiver Bausatz kit converts an M4A1 carbine into the Bushmaster M4A3, chambered in 6.8 SPC.</szBRDesc>
+		<szBRDesc>Dieses Schaftgehäuse verwandelt einen M4A1-Karabiner in ein Bushmaster M4A3 im Kaliber 6.8 SPC.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2869</uiIndex>
 		<szItemName>Upper Beowulf</szItemName>
 		<szLongItemName>Bausatz Kit - Upper Beowulf</szLongItemName>
-		<szItemDesc>This heavy upper receiver converts an M4A1 carbine into the .50 Beowulf rifle.</szItemDesc>
+		<szItemDesc>Dieses schwere Schaftgehäuse verwandelt einen M4A1 Karabiner in ein .50 Beowulf Gewehr.</szItemDesc>
 		<szBRName>Upper Beowulf Kit</szBRName>
-		<szBRDesc>For those good with tools this kit has all you need to convert your existing M4A1 carbine into a .50 Beowulf rifle.</szBRDesc>
+		<szBRDesc>Für diejenigen, die gut mit Werkzeug umgehen können, bietet dieser Bausatz alles, was Sie brauchen, um Ihren vorhandenen M4A1-Karabiner in ein .50 Beowulf-Gewehr umzubauen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2870</uiIndex>
 		<szItemName>Upper Wh. Kitty</szItemName>
 		<szLongItemName>Bausatz Kit - Upper Whisper Kitty</szLongItemName>
-		<szItemDesc>This upper receiver can be used to convert an M4A1 carbine into the silenced Whisper Kitty special purpose rifle.</szItemDesc>
+		<szItemDesc>Mit diesem Schaft kann ein M4A1-Karabiner in das schallgedämpfte Spezialgewehr Whisper Kitty umgewandelt werden.</szItemDesc>
 		<szBRName>Upper Whisper Kitty Kit</szBRName>
-		<szBRDesc>This upper receiver can be used to convert an M4A1 carbine into the silenced Whisper Kitty special purpose rifle.</szBRDesc>
+		<szBRDesc>Mit diesem Schaft kann ein M4A1-Karabiner in das schallgedämpfte Spezialgewehr Whisper Kitty umgewandelt werden.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2871</uiIndex>
-		<szItemName>Camo Cover Wood</szItemName>
-		<szLongItemName>Camo Cover MK.III Wood</szLongItemName>
-		<szItemDesc>This Helm camo cover provides camouflage in Waldmuster regions.</szItemDesc>
-		<szBRName>Camo Cover MK.III Wood</szBRName>
-		<szBRDesc>Made from mil-spec nylon/cotton these feature slots to allow eyewear retention straps to thread through, communications gear flap on rear and use velcro fasteners.</szBRDesc>
+		<szItemName>Tarnabdeckung Waldmuster</szItemName>
+		<szLongItemName>Tarnabdeckung MK.III Waldmuster</szLongItemName>
+		<szItemDesc>Diese Helm-Tarnabdeckung dient der Tarnung in Waldregionen.</szItemDesc>
+		<szBRName>Tarnabdeckung MK.III Waldmuster</szBRName>
+		<szBRDesc>Sie sind aus Nylon/Baumwolle in Mil-Spec-Qualität gefertigt und verfügen über Schlitze, durch die Brillenbänder gefädelt werden können, eine Kommunikationsklappe auf der Rückseite und Klettverschlüsse.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2872</uiIndex>
-		<szItemName>Camo Cover Desert</szItemName>
-		<szLongItemName>Camo Cover MK.III Desert</szLongItemName>
-		<szItemDesc>This Helm camo cover provides camouflage in desert regions.</szItemDesc>
-		<szBRName>Camo Cover MK.III Desert</szBRName>
-		<szBRDesc>This Helm camo cover offers camouflage in arid regions and come with velcro fasteners.</szBRDesc>
+		<szItemName>Tarnabdeckung Wüstenmuster</szItemName>
+		<szLongItemName>Tarnabdeckung MK.III Wüstenmuster</szLongItemName>
+		<szItemDesc>Diese Helm-Tarnabdeckung dient der Tarnung in Wüstenregionen.</szItemDesc>
+		<szBRName>Tarnabdeckung MK.III Wüstenmuster</szBRName>
+		<szBRDesc>Diese Helm-Tarnabdeckung bietet Tarnung in trockenen Regionen und kommt mit Klettverschlüssen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2873</uiIndex>
-		<szItemName>Camo Cover Urban</szItemName>
-		<szLongItemName>Camo Cover MK.III Urban</szLongItemName>
-		<szItemDesc>This Helm camo cover provides camouflage in urban regions.</szItemDesc>
-		<szBRName>Camo Cover MK.III Urban</szBRName>
-		<szBRDesc>This Helm camo cover offers camouflage in urban regions and uses velcro fasteners.</szBRDesc>
+		<szItemName>Tarnabdeckung Stadtmuster</szItemName>
+		<szLongItemName>Tarnabdeckung MK.III Stadtmuster</szLongItemName>
+		<szItemDesc>Diese Helm-Tarnabdeckung sorgt für Tarnung in städtischen Regionen.</szItemDesc>
+		<szBRName>Tarnabdeckung MK.III Stadtmuster</szBRName>
+		<szBRDesc>Diese Helm-Tarnabdeckung bietet Tarnung in urbanen Regionen und verwendet Klettverschlüsse.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2874</uiIndex>
-		<szItemName>Camo Cover Night</szItemName>
-		<szLongItemName>Camo Cover MK.III Night</szLongItemName>
-		<szItemDesc>This Helm camo cover conceals Helms for night operations.</szItemDesc>
-		<szBRName>Camo Cover MK.III Night</szBRName>
-		<szBRDesc>This Helm camo cover conceals Helms for night operations.</szBRDesc>
+		<szItemName>Tarnabdeckung Nachtmuster</szItemName>
+		<szLongItemName>Tarnabdeckung MK.III Nachtmuster</szLongItemName>
+		<szItemDesc>Diese Helm-Tarnabdeckung verdeckt Helme für Nachteinsätze.</szItemDesc>
+		<szBRName>Tarnabdeckung MK.III Nachtmuster</szBRName>
+		<szBRDesc>Diese Helm-Tarnabdeckung verdeckt Helme für Nachteinsätze.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2875</uiIndex>
-		<szItemName>Jar of Marbles</szItemName>
-		<szLongItemName>Jar of Marbles</szLongItemName>
-		<szItemDesc>A glass jar filled with some marbles.</szItemDesc>
-		<szBRName>Jar of Marbles</szBRName>
+		<szItemName>Glas mit Murmeln</szItemName>
+		<szLongItemName>Glas mit Murmeln</szLongItemName>
+		<szItemDesc>Ein Glasgefäß mit einigen Murmeln.</szItemDesc>
+		<szBRName>Glas mit Murmeln</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2876</uiIndex>
 		<szItemName>Sightmark RS</szItemName>
-		<szLongItemName>Sightmark Reflex sight</szLongItemName>
-		<szItemDesc>Incredibly lightweight for its size, the Ultra Shot is the biggest and baddest sight in the Sightmark reflex sight line. Perfect for shotguns or rifles, the Ultra Shot Reflex Sight is equipped with a built-in, integrated weaver mount, which fits all standard picatinny or weaver bases.</szItemDesc>
-		<szBRName>Sightmark Reflex sight</szBRName>
-		<szBRDesc>Incredibly lightweight for its size, the Ultra Shot is the biggest and baddest sight in the Sightmark reflex sight line. Perfect for shotguns or rifles, the Ultra Shot Reflex Sight is equipped with a built-in, integrated weaver mount, which fits all standard picatinny or weaver bases.</szBRDesc>
+		<szLongItemName>Sightmark Reflexvisier</szLongItemName>
+		<szItemDesc>Unglaublich leicht für seine Größe, das Ultra Shot ist das größte und schwerste Visier in der Sightmark Reflexvisier Linie. Perfekt für Schrotflinten oder Gewehre.</szItemDesc>
+		<szBRName>Sightmark Reflexvisier</szBRName>
+		<szBRDesc>Unglaublich leicht für seine Größe, das Ultra Shot ist das größte und schwerste Visier in der Sightmark Reflexvisier Linie. Perfekt für Schrotflinten oder Gewehre.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2877</uiIndex>
 		<szItemName>Reflex SMR</szItemName>
-		<szLongItemName>Reflex Sight, SMR</szLongItemName>
-		<szItemDesc>This reflex sight enhances target acquisition and can be mounted on most firearms.</szItemDesc>
-		<szBRName>Reflex Sight SMR</szBRName>
-		<szBRDesc>A squirrel hunters dream. This affordable reflex sight makes target practice that much easier.</szBRDesc>
+		<szLongItemName>Reflexvisier, SMR</szLongItemName>
+		<szItemDesc>Dieses Reflexvisier verbessert die Zielerfassung und kann auf die meisten Schusswaffen montiert werden.</szItemDesc>
+		<szBRName>Reflexvisier SMR</szBRName>
+		<szBRDesc>Ein Traum für Eichhörnchenjäger. Dieses erschwingliche Reflexvisier macht Zielübungen so viel einfacher.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2878</uiIndex>
 		<szItemName>mod. SMR</szItemName>
-		<szLongItemName>mod. SMR Reflex Sight</szLongItemName>
-		<szItemDesc>This reflex sight enhances target acquisition and can be mounted on most firearms.</szItemDesc>
-		<szBRName>mod. SMR Reflex Sight</szBRName>
+		<szLongItemName>mod. SMR Reflexvisier</szLongItemName>
+		<szItemDesc>Dieses Reflexvisier verbessert die Zielerfassung und kann auf die meisten Schusswaffen montiert werden.</szItemDesc>
+		<szBRName>mod. SMR Reflexvisier</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2879</uiIndex>
 		<szItemName>FF Laser</szItemName>
 		<szLongItemName>Firefield Laser</szLongItemName>
-		<szItemDesc>You only need one clean shot to engage your enemy. Make it count. Dynamic and powerful, this versatile unit is equipped with a weaver rail and easily affixes to the Trigger guard of a wide variety of firearms including SMG's and pistols.</szItemDesc>
+		<szItemDesc>Sie brauchen nur einen sauberen Schuss, um Ihren Feind zu erledigen. Dieser Schuss muss sitzen. Diese dynamische und leistungsstarke Vorrichtung ist mit einer Weaver-Schiene ausgestattet und lässt sich leicht am Abzugsbügel einer Vielzahl von Schusswaffen, einschließlich SMGs und Pistolen, befestigen.</szItemDesc>
 		<szBRName>Firefield Laser</szBRName>
-		<szBRDesc>Complete with a Taktische pressure pad, this compact laser is user friendly with an on/off tilt switch. Ideal for use in home defense, the powerful bright green laser can pacify targets and alleviate threats quickly.</szBRDesc>
+		<szBRDesc>Dieser kompakte Laser ist mit einem Taktischen Druckpolster ausgestattet und verfügt über einen benutzerfreundlichen Ein/Aus-Kippschalter. Ideal für den Einsatz in der Heimverteidigung, kann der leistungsstarke Laser Bedrohungen schnell beseitigen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2880</uiIndex>
 		<szItemName>AN/PEQ-15</szItemName>
 		<szLongItemName>AN/PEQ-15 DBALA2</szLongItemName>
-		<szItemDesc>These IR lasers emit a highly collimated beam of IR light for precise weapon aiming, as well as a separate, IR-illuminating laser with adjustable focus.</szItemDesc>
+		<szItemDesc>Diese IR-Laser emittieren einen hochgradig kollimierten IR-Lichtstrahl, der ein präzises Zielen mit der Waffe ermöglicht, sowie einen separaten, IR-beleuchteten Laser mit einstellbarem Fokus.</szItemDesc>
 		<szBRName>AN/PEQ-15 DBALA2</szBRName>
-		<szBRDesc>The AN/PEQ-15 Advanced Target Pointer/Illuminator/Aiming Light and the AN/PEQ-15A Dual Beam Aiming Laser Advanced (DBALA2) are designed to be used in conjunction with night vision devices to engage enemy targets in darkness.</szBRDesc>
+		<szBRDesc>Der AN/PEQ-15 Advanced Target Pointer/Illuminator/Aiming Light und der AN/PEQ-15A Dual Beam Aiming Laser Advanced (DBALA2) sind in Verbindung mit Nachtsichtgeräten zur Bekämpfung feindlicher Ziele in der Dunkelheit vorgesehen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2881</uiIndex>
-		<szItemName>CRL Laser Sight</szItemName>
+		<szItemName>CRL Laser-Visier</szItemName>
 		<szLongItemName>Sightmark CRL Triple duty Laser</szLongItemName>
-		<szItemDesc>An affordable, compact Taktische laser sight inspired by military Applications with a lightweight yet durable composite plastic body.</szItemDesc>
+		<szItemDesc>Ein erschwingliches, kompaktes taktisches Laservisier, das von militärischen Anwendungen inspiriert ist und ein leichtes, aber robustes Gehäuse aus Verbundkunststoff besitzt.</szItemDesc>
 		<szBRName>Sightmark CRL Tri Laser</szBRName>
-		<szBRDesc>An affordable Taktische laser sight inspired by military and law-enforcement Applications. Low profile and compact size make it ideal for rapid-fire shooting or home defense. Durable, yet light. Adjustable windage and elevation. 300-yard visibility at night, 20 yards in sunlight.</szBRDesc>
+		<szBRDesc>Ein erschwingliches taktisches Laservisier, inspiriert von militärischen und polizeilichen Anwendungen. Das flache Profil und die kompakte Größe machen es ideal für Schnellfeuerschüsse. Einstellbare Höhen- und Seitenverstellung. 300 Yards Sichtbarkeit bei Nacht, 20 Yards bei Sonnenlicht.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2882</uiIndex>
-		<szItemName>Flu Vaccine</szItemName>
-		<szLongItemName>Influenza vaccine</szLongItemName>
-		<szItemDesc>Do like the rest get your shot today! No questions asked! This safe never tested before vaccine will help you through this year without dying. Top additives are: Mercury, MSG, formaldehyde and aluminum. May cause mutations in genetic information and migranes. But don't worry, Gardasil got you.</szItemDesc>
-		<szBRName>Influenza vaccine</szBRName>
+		<szItemName>Grippe-Impfstoff</szItemName>
+		<szLongItemName>Grippe-Impfstoff</szLongItemName>
+		<szItemDesc>Machen Sie es wie die anderen und sichern Sie sich noch heute Ihre Chance! Es werden keine Fragen gestellt! Dieser sichere, noch nie getestete Impfstoff wird Ihnen helfen, dieses Jahr zu überstehen, ohne zu sterben. Die wichtigsten Zusatzstoffe sind: Quecksilber, MSG, Formaldehyd und Aluminium. Kann Mutationen in der genetischen Information und Migräne verursachen.</szItemDesc>
+		<szBRName>Grippe-Impfstoff</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2883</uiIndex>
 		<szItemName>mod. Laser, CORSAK</szItemName>
 		<szLongItemName>mod. Laser, CORSAK</szLongItemName>
-		<szItemDesc>The Corsak Laser is a powerful and compact laser target designation unit for a wide range of Russische weapons. Somehow this thing feels sticky.</szItemDesc>
+		<szItemDesc>Der Corsak Laser ist ein leistungsfähiges und kompaktes Laserzielbestimmungsgerät für eine breite Palette russischer Waffen. Irgendwie fühlt sich das Ding klebrig an.</szItemDesc>
 		<szBRName>mod.  Laser, CORSAK</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23072,7 +23072,7 @@
 		<uiIndex>2884</uiIndex>
 		<szItemName>Trigger&amp;Spring</szItemName>
 		<szLongItemName>Trigger&amp;Spring</szLongItemName>
-		<szItemDesc>This improved Trigger Group features a new bolt&amp;spring system.</szItemDesc>
+		<szItemDesc>Diese verbesserte Abzugseinheit verfügt über ein neues Bolzen&amp;Federsystem.</szItemDesc>
 		<szBRName>Trigger&amp;Spring</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23080,7 +23080,7 @@
 		<uiIndex>2885</uiIndex>
 		<szItemName>Trigger Group 2</szItemName>
 		<szLongItemName>Trigger Group 2</szLongItemName>
-		<szItemDesc>For the unhappy Trigger-happy folks: Just attach the ACME Trigger Group to your favourite assault rifle and enjoy simple and effective 2-round burst fire.</szItemDesc>
+		<szItemDesc>Für die unzufriedenen Trigger-Liebhaber: Befestigen Sie einfach die ACME Trigger Group an Ihrem Lieblings-Sturmgewehr und genießen Sie einfaches und effektives 2-Schuss-Feuer.</szItemDesc>
 		<szBRName>Trigger Group 2</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23088,7 +23088,7 @@
 		<uiIndex>2886</uiIndex>
 		<szItemName>mod. Trigger Group 2</szItemName>
 		<szLongItemName>mod. Trigger Group 2</szLongItemName>
-		<szItemDesc>For the unhappy Trigger-happy folks: Just attach the ACME Trigger Group to your favourite assault rifle and enjoy simple and effective 2-round burst fire.</szItemDesc>
+		<szItemDesc>Für die unzufriedenen Trigger-Liebhaber: Befestigen Sie einfach die ACME Trigger Group an Ihrem Lieblings-Sturmgewehr und genießen Sie einfaches und effektives 2-Schuss-Feuer.</szItemDesc>
 		<szBRName>mod. Trigger Group 2</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23096,7 +23096,7 @@
 		<uiIndex>2887</uiIndex>
 		<szItemName>Trigger Group 4</szItemName>
 		<szLongItemName>Trigger Group 4</szLongItemName>
-		<szItemDesc>For the unhappy Trigger-happy folks: Just attach the ACME Trigger Group to your favourite assault rifle and enjoy simple and effective 4-round burst fire.</szItemDesc>
+		<szItemDesc>Für die unzufriedenen Trigger-Liebhaber: Befestigen Sie einfach die ACME Trigger Group an Ihrem Lieblings-Sturmgewehr und genießen Sie einfaches und effektives 4-Schuss-Feuer.</szItemDesc>
 		<szBRName>Trigger Group 4</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23104,7 +23104,7 @@
 		<uiIndex>2888</uiIndex>
 		<szItemName>mod. Trigger Group 4</szItemName>
 		<szLongItemName>mod. Trigger Group 4</szLongItemName>
-		<szItemDesc>For the unhappy Trigger-happy folks: Just attach the ACME Trigger Group to your favourite assault rifle and enjoy simple and effective 2-round burst fire.</szItemDesc>
+		<szItemDesc>Für die unzufriedenen Trigger-Liebhaber: Befestigen Sie einfach die ACME Trigger Group an Ihrem Lieblings-Sturmgewehr und genießen Sie einfaches und effektives 4-Schuss-Feuer.</szItemDesc>
 		<szBRName>mod. Trigger Group 4</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23112,31 +23112,31 @@
 		<uiIndex>2889</uiIndex>
 		<szItemName>Blaser Bausatz .300 WM</szItemName>
 		<szLongItemName>Bausatz Kit - Blaser .300 WM</szLongItemName>
-		<szItemDesc>This Bausatz Umrüstsatz is used on the Blaser R93 to convert it into the .300 WM configuration.</szItemDesc>
+		<szItemDesc>Dieser Umrüstsatz wird bei der Blaser R93 verwendet, um sie in die .300 WM Variante umzurüsten.</szItemDesc>
 		<szBRName>Blaser .300 WM Kit</szBRName>
-		<szBRDesc>This Bausatz Umrüstsatz is used on the Blaser R93 to convert it into the .300 WM configuration.</szBRDesc>
+		<szBRDesc>Dieser Umrüstsatz wird bei der Blaser R93 verwendet, um sie in die .300 WM Variante umzurüsten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2890</uiIndex>
 		<szItemName>Blaser Bausatz 7.62</szItemName>
 		<szLongItemName>Bausatz Kit - Blaser 7.62</szLongItemName>
-		<szItemDesc>This Bausatz Umrüstsatz is used on the Blaser R93 to convert it into the 7.62x51 configuration.</szItemDesc>
+		<szItemDesc>Dieser Umrüstsatz wird bei der Blaser R93 verwendet, um sie in die 7.62x51 Ausführung umzurüsten.</szItemDesc>
 		<szBRName>Blaser 7.62 Kit</szBRName>
-		<szBRDesc>This Bausatz Umrüstsatz is used on the Blaser R93 to convert it into the 7.62x51 configuration.</szBRDesc>
+		<szBRDesc>Dieser Umrüstsatz wird bei der Blaser R93 verwendet, um sie in die 7.62x51 Ausführung umzurüsten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2891</uiIndex>
 		<szItemName>Blaser Bausatz .30-06</szItemName>
 		<szLongItemName>Bausatz Kit - Blaser .30-06</szLongItemName>
-		<szItemDesc>This Bausatz Umrüstsatz is used on the Blaser R93 to convert it into the .30-06 configuration.</szItemDesc>
+		<szItemDesc>Dieser Umrüstsatz wird bei der Blaser R93 verwendet, um sie in die .30-06 Ausführung umzurüsten.</szItemDesc>
 		<szBRName>Blaser .30-06 Kit</szBRName>
-		<szBRDesc>This Bausatz Umrüstsatz is used on the Blaser R93 to convert it into the .30-06 configuration.</szBRDesc>
+		<szBRDesc>Dieser Umrüstsatz wird bei der Blaser R93 verwendet, um sie in die .30-06 Ausführung umzurüsten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2892</uiIndex>
 		<szItemName>Muscle Mag</szItemName>
 		<szLongItemName>Muscle&amp;Fitness</szLongItemName>
-		<szItemDesc>September 1990 Muscle and Fitness provides readers with oversized tips on how to live a healthy life by eating like a dinosaur, doing the right exercises and maintaining a great attitude about it all. And steroids!</szItemDesc>
+		<szItemDesc>September 1990 Muscle and Fitness gibt den Lesern überdimensionale Tipps, wie sie ein gesundes Leben führen können, indem sie sich wie ein Dinosaurier ernähren, die richtigen Übungen machen und eine gute Einstellung zu allem haben. Und Steroide!</szItemDesc>
 		<szBRName>Muscle&amp;Fitness</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23144,15 +23144,15 @@
 		<uiIndex>2893</uiIndex>
 		<szItemName>Gun Mag</szItemName>
 		<szLongItemName>Guns&amp;Girls Nr.21</szLongItemName>
-		<szItemDesc>40 pages of pure action that specializes in portraying female Taktische operators from an ultra-sexy perspective.</szItemDesc>
-		<szBRName>Magazine</szBRName>
+		<szItemDesc>40 Seiten pure Action, die sich darauf spezialisiert, weibliche Taktikerinnen aus einer ultra-sexy Perspektive zu porträtieren.</szItemDesc>
+		<szBRName>Magazin</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2894</uiIndex>
 		<szItemName>Bazoombas</szItemName>
 		<szLongItemName>Bazoombas Magazin</szLongItemName>
-		<szItemDesc>This adult magazine is stacked with explicit boobantic blouse bunnies. Each monthly issue is packed with humongous yabos! Special article with Centerfold of the year Candy's 34-HH snowcones and more boobalicious babes!</szItemDesc>
+		<szItemDesc>Dieses Magazin für Erwachsene ist vollgestopft mit knackigen Blusenbunnies. Jede monatliche Ausgabe ist vollgepackt mit gigantischen Titten! Sonderartikel mit dem Topmodel des Jahres, der Schneekönigin Candy (34-HH), und weiteren tittengeilen Babes!</szItemDesc>
 		<szBRName>Porno Magazine</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23160,7 +23160,7 @@
 		<uiIndex>2895</uiIndex>
 		<szItemName>Buns mag</szItemName>
 		<szLongItemName>Buns Magazin</szLongItemName>
-		<szItemDesc>Vol.6 No.4 June issue of your favourite derrière adult magazine!</szItemDesc>
+		<szItemDesc>Juni-Ausgabe deines Lieblingsmagazins für Erwachsene aus dem Dreiländereck!</szItemDesc>
 		<szBRName>Magazine</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23168,71 +23168,71 @@
 		<uiIndex>2896</uiIndex>
 		<szItemName>Guns&amp;Girls</szItemName>
 		<szLongItemName>Guns&amp;Girls Nr.41</szLongItemName>
-		<szItemDesc>Guns&amp;Girls magazine contains 40 pages of hot girls with some of the world's most exotic weaponry in unrealistic Taktische settings.</szItemDesc>
+		<szItemDesc>Das Magazin Guns&amp;Girls zeigt auf 40 Seiten heiße Mädchen mit einigen der exotischsten Waffen der Welt in unrealistischen taktischen Szenarien.</szItemDesc>
 		<szBRName>Magazine</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2897</uiIndex>
-		<szItemName>Commando</szItemName>
-		<szLongItemName>Commando</szLongItemName>
-		<szItemDesc>A retired elite Black Ops Commando launches a one man war against a group of South American criminals who have kidnapped his daughter to blackmail him into starting a revolution and getting an exiled dictator back into power.</szItemDesc>
-		<szBRName>Commando</szBRName>
+		<szItemName>Kommando</szItemName>
+		<szLongItemName>Kommando</szLongItemName>
+		<szItemDesc>Ein ehemaliger Black-Ops-Elitekommandant führt einen Ein-Mann-Krieg gegen eine Gruppe südamerikanischer Krimineller, die seine Tochter entführt haben, um ihn zu erpressen, eine Revolution anzuzetteln und einen Diktator im Exil wieder an die Macht zu bringen.</szItemDesc>
+		<szBRName>Kommando</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2898</uiIndex>
-		<szItemName>Ghillie Set Wood</szItemName>
+		<szItemName>Ghillie Set Waldmuster</szItemName>
 		<szLongItemName>Ghillie Set Waldmuster</szLongItemName>
-		<szItemDesc>Synthetic nylon threads that can be added to a Ghillie suit to provide additional camouflage. This set is coloured in Waldmuster colours.</szItemDesc>
+		<szItemDesc>Synthetische Nylonfäden, die zu einem Ghillie-Anzug hinzugefügt werden können, um zusätzliche Tarnung zu bieten. Dieses Set ist in Waldmuster-Farben gefärbt.</szItemDesc>
 		<szBRName>Ghillie Set Waldmuster</szBRName>
-		<szBRDesc>This kit includes seven Waldmuster colors of next generation synthetic textile materials and complete directions on how to assemble into a lightweight camouflage ghillie poncho (not included).</szBRDesc>tory>
+		<szBRDesc>Dieser Bausatz enthält sieben Waldmuster-Farben aus synthetischen Textilmaterialien der nächsten Generation und eine vollständige Anleitung für den Zusammenbau eines leichten Tarnponchos (nicht im Lieferumfang enthalten).</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2899</uiIndex>
-		<szItemName>Ghillie Set Desert</szItemName>
-		<szLongItemName>Ghillie Set Desert</szLongItemName>
-		<szItemDesc>Synthetic nylon threads that can be added to a Ghillie suit to provide additional camouflage. This set is coloured in desert colours.</szItemDesc>
-		<szBRName>Ghillie Set Desert</szBRName>
-		<szBRDesc>Water proof, rot proof, fire retardant and odorless free, this camouflage kit includes seven colors of next-gen synthetic thread and complete instructions on how to assemble a lightweight ghillie poncho (not included).</szBRDesc>
+		<szItemName>Ghillie Set Wüstenmuster</szItemName>
+		<szLongItemName>Ghillie Set Wüstenmuster</szLongItemName>
+		<szItemDesc>Synthetische Nylonfäden, die zu einem Ghillie-Anzug hinzugefügt werden können, um eine zusätzliche Tarnung zu erreichen. Dieses Set ist in Wüstenfarben gefärbt.</szItemDesc>
+		<szBRName>Ghillie Set Wüstenmuster</szBRName>
+		<szBRDesc>Dieses Tarnset ist wasserdicht, fäulnisbeständig, feuerhemmend und geruchsneutral. Es enthält sieben Farben synthetischen Garns der nächsten Generation und eine vollständige Anleitung für die Montage eines leichten Ghillie-Ponchos (nicht im Lieferumfang enthalten).</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2900</uiIndex>
-		<szItemName>Ghillie Kit Wood</szItemName>
+		<szItemName>Ghillie Kit Waldmuster</szItemName>
 		<szLongItemName>Ghillie Kit Waldmuster</szLongItemName>
-		<szItemDesc>This selfmade Ghillie Kit uses local foliage to provide additional camouflage in Waldmuster regions, when attached to a Ghillie suit.</szItemDesc>
+		<szItemDesc>Dieses selbstgefertigte Ghillie-Kit nutzt einheimisches Laub, um in Waldgebieten für zusätzliche Tarnung zu sorgen.</szItemDesc>
 		<szBRName>Ghillie Kit Waldmuster</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2901</uiIndex>
-		<szItemName>Ghillie Kit Desert</szItemName>
-		<szLongItemName>Ghillie Kit Desert</szLongItemName>
-		<szItemDesc>This selfmade Ghillie Kit uses local foliage to provide additional camouflage in desert regions, when attached to a Ghillie suit.</szItemDesc>
-		<szBRName>Ghillie Kit Desert</szBRName>
+		<szItemName>Ghillie Kit Wüstenmuster</szItemName>
+		<szLongItemName>Ghillie Kit Wüstenmuster</szLongItemName>
+		<szItemDesc>Dieses selbstgefertigte Ghillie-Kit nutzt einheimisches Laub, um in Wüstengebieten für zusätzliche Tarnung zu sorgen.</szItemDesc>
+		<szBRName>Ghillie Kit Wüstenmuster</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2902</uiIndex>
 		<szItemName>CK WP Scharfschützen</szItemName>
 		<szLongItemName>Umrüstsatz - SCAR-WP Scharfschützen</szLongItemName>
-		<szItemDesc>This blackmarket Umrüstsatz contains all necessary parts to convert a SCAR-H or SCAR -WP to a Scharfschützen variant using 7.62x54R ammunition.</szItemDesc>
+		<szItemDesc>Dieser Schwarzmarkt-Umrüstsatz enthält alle notwendigen Teile, um ein SCAR-H oder SCAR -WP in eine Scharfschützen-Variante mit 7.62x54R-Munition umzubauen.</szItemDesc>
 		<szBRName>C. K. - SCAR-WP Scharfschützen</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2903</uiIndex>
-		<szItemName>Documentary</szItemName>
-		<szLongItemName>What in the World Are They Spraying?</szLongItemName>
-		<szItemDesc>This movie will unfold the truth about the Chemtrail/Geo-Engineering coverup. Rapidly developing industry driven by scientists, corporations, and governments intent on changing global climate, controlling the weather, and altering the chemical composition of soil and water - all supposedly for the betterment of mankind.</szItemDesc>
-		<szBRName>Documentary</szBRName>
+		<szItemName>Dokumentarfilm</szItemName>
+		<szLongItemName>Was um alles in der Welt sprühen die da?</szLongItemName>
+		<szItemDesc>Dieser Film wird die Wahrheit über die Chemtrail/Geo-Engineering-Vertuschung enthüllen. Eine sich schnell entwickelnde Industrie, die von Wissenschaftlern, Unternehmen und Regierungen angetrieben wird, um das globale Klima zu verändern, das Wetter zu kontrollieren und die chemische Zusammensetzung von Boden und Wasser zu verändern - alles angeblich zum Wohle der Menschheit.</szItemDesc>
+		<szBRName>Dokumentarfilm</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2904</uiIndex>
 		<szItemName>Judge Dredd</szItemName>
 		<szLongItemName>Judge Dredd</szLongItemName>
-		<szItemDesc> In a dark future where powerful and coldly efficient "Judges" act with the supreme authority of both the police force and legal system, Judge Dredd is the most feared law enforcer of them all. Stallone stars as the UK comic book anti-hero, but big budget and fine sets couldn't stop it flopping.</szItemDesc>
+		<szItemDesc>In einer düsteren Zukunft, in der mächtige und kaltblütige "Judges" mit der höchsten Autorität sowohl der Polizei als auch des Rechtssystems agieren, ist Judge Dredd der gefürchtetste Gesetzeshüter von allen. Stallone spielt den britischen Anti-Helden aus den Comics, doch das hohe Budget und die schönen Kulissen konnten den Flop nicht verhindern.</szItemDesc>
 		<szBRName>Video</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23240,15 +23240,15 @@
 		<uiIndex>2905</uiIndex>
 		<szItemName>Terminator</szItemName>
 		<szLongItemName>The Terminator</szLongItemName>
-		<szItemDesc>In the year of darkness, 2029, the rulers of this planet devised the ultimate plan. They would reshape the future by changing the past. The plan required something that felt no pity. No pain. No fear. Something unstoppable.</szItemDesc>
+		<szItemDesc>Im Jahr 2029, dem Jahr der Dunkelheit, schmiedeten die Führer dieses Planeten einen ultimativen Plan. Sie wollten die Zukunft umgestalten, indem sie die Vergangenheit änderten. Der Plan erforderte etwas, das kein Mitleid empfindet. Keinen Schmerz. Keine Angst. Etwas Unaufhaltsames.</szItemDesc>
 		<szBRName>Video</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2906</uiIndex>
-		<szItemName>They Live</szItemName>
-		<szLongItemName>They Live</szLongItemName>
-		<szItemDesc>Roddy Piper plays a drifter referred to as Nada, who discovers the ruling class are in fact aliens concealing their appearance and manipulating people to spend money, breed and accept the status quo with subliminal messages in mass media.</szItemDesc>
+		<szItemName>Sie leben</szItemName>
+		<szLongItemName>Sie leben</szLongItemName>
+		<szItemDesc>Roddy Piper spielt einen Herumtreiber namens Nada, der entdeckt, dass die herrschende Klasse in Wirklichkeit Außerirdische sind, die ihr Aussehen verbergen und die Menschen mit unterschwelligen Botschaften in den Massenmedien dazu bringen, Geld auszugeben, sich fortzupflanzen und den Status quo zu akzeptieren.</szItemDesc>
 		<szBRName>Video</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23256,23 +23256,23 @@
 		<uiIndex>2907</uiIndex>
 		<szItemName>Agenda 21</szItemName>
 		<szLongItemName>Agenda 21</szLongItemName>
-		<szItemDesc>Think globally, enslave locally. This document was birthed at the 1992 UN Conference on environment and development.</szItemDesc>
+		<szItemDesc>Global denken, lokal versklaven. Dieses Dokument wurde auf der UN-Konferenz über Umwelt und Entwicklung 1992 veröffentlicht.</szItemDesc>
 		<szBRName>Agenda 21</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2908</uiIndex>
 		<szItemName>Document</szItemName>
-		<szLongItemName>H.A.A.R.P Document</szLongItemName>
-		<szItemDesc>This 500 page document covering the high frequency active auroral research program and its capabilites. The document is divided into sections as weather modification, earthquakes, ionospheric enhancement and lastly modulated heating of the auroral electrojet.</szItemDesc>
-		<szBRName>H.A.A.R.P Document</szBRName>
+		<szLongItemName>H.A.A.R.P Dokument</szLongItemName>
+		<szItemDesc>Dieses 500-seitige Dokument behandelt das Hochfrequenz-Forschungsprogramm für aktive Polarlichter und seine Einsatzmöglichkeiten. Das Dokument ist in Abschnitte wie Wetterveränderung, Erdbeben, Ionosphärenverstärkung und schließlich modulierte Erwärmung des Polarlicht-Elektrojets unterteilt.</szItemDesc>
+		<szBRName>H.A.A.R.P Dokument</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2909</uiIndex>
 		<szItemName>MKUltra</szItemName>
 		<szLongItemName>Project MKUltra</szLongItemName>
-		<szItemDesc>This how-to guide on mind control by the CIA is a great read. Million dollar studies have honed methods to redirect focus, alter mood, behavior and manipulate personality. It's proven results have helped agencies control the herd since the '50s.</szItemDesc>
+		<szItemDesc>Diese Anleitung zur Gedankenkontrolle durch die CIA ist eine großartige Lektüre. In millionenschweren Studien wurden Methoden verfeinert, um den Fokus umzulenken, die Stimmung und das Verhalten zu verändern und die Persönlichkeit zu manipulieren. Die nachgewiesenen Ergebnisse haben den Behörden seit den 50er Jahren geholfen, die Herde zu kontrollieren.</szItemDesc>
 		<szBRName>CIA's Book on Project MK-ultra</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23280,103 +23280,103 @@
 		<uiIndex>2910</uiIndex>
 		<szItemName>Nachos</szItemName>
 		<szLongItemName>Nachos</szLongItemName>
-		<szItemDesc>These nachos made by 'On The Border Mexican Grill' are truly heavenly! With extra cheese flavourings it will clog your arteries like no other. Packed with MSG, these excitotoxins will ravage brain cells for that great taste! Expect migraines, heart palpitations and seizures if consumed regularly.</szItemDesc>
+		<szItemDesc>Diese Nachos von 'On The Border Mexican Grill' sind wirklich himmlisch! Mit zusätzlichen Käsearomen verstopfen sie Ihre Arterien wie kein anderes Produkt. Diese mit MSG angereicherten Exzitotoxine zerstören die Gehirnzellen und sorgen für einen tollen Geschmack! Rechnen Sie bei regelmäßigem Verzehr mit Migräne, Herzklopfen und Krampfanfällen.</szItemDesc>
 		<szBRName>Nachos</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2911</uiIndex>
-		<szItemName>Pancakes</szItemName>
-		<szLongItemName>Hungry Jacks Canned Pancakes</szLongItemName>
-		<szItemDesc>A boom to the electric scooter industry, this is a divine breakfast for your family, made easy! With enough carbs to send you to the emergency ward before brunch! Nothing says good parenting like serving your kids this every morning to ensure a happy and healthy foundation in life!</szItemDesc>
-		<szBRName>Hungry Jacks Canned Pancakes</szBRName>
+		<szItemName>Pfannkuchen</szItemName>
+		<szLongItemName>Hungry Jacks Dosenpfannkuchen</szLongItemName>
+		<szItemDesc>Ein Boom für die Elektroroller-Industrie - ein göttliches Frühstück für die ganze Familie, leicht gemacht! Mit genug Kohlenhydraten, um Sie noch vor dem Brunch in die Notaufnahme zu schicken! Es gibt nichts Besseres für Eltern, als ihren Kindern jeden Morgen dieses Frühstück zu servieren, um ihnen eine glückliche und gesunde Grundlage für ihr Leben zu geben!</szItemDesc>
+		<szBRName>Hungry Jacks Dosenpfannkuchen</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2912</uiIndex>
-		<szItemName>Noodles</szItemName>
-		<szLongItemName>Fu-Wang Noodles</szLongItemName>
-		<szItemDesc>Instant and tasty Fu-Wang noodles. Whenever you are  hungry and time poor, these are ready to eat in two minutes,  just add water. Now contains bits of dolphin, because fawk-ayou dawphin!</szItemDesc>
-		<szBRName>Fu-Wang Noodles</szBRName>
+		<szItemName>Nudeln</szItemName>
+		<szLongItemName>Fu-Wang Nudeln</szLongItemName>
+		<szItemDesc>Schnelle und leckere Fu-Wang-Nudeln. Wann immer Sie hungrig sind und wenig Zeit haben, sind diese Nudeln in zwei Minuten verzehrfertig, Sie müssen nur Wasser hinzufügen. Enthält jetzt auch Delfinstücke!</szItemDesc>
+		<szBRName>Fu-Wang Nudeln</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2913</uiIndex>
 		<szItemName>Doodles</szItemName>
-		<szLongItemName>Cheez Doodles</szLongItemName>
-		<szItemDesc>Nothing serves heart disease so deliciously like Cheez Doodles! With a stunning 110 calories in a 1 ounce serve you'll have obesity striking in days! Side effects may include allergic reactions, bad breath, body odor, constipation, osteoporosis, heartburn, acne, diarrhea, oh and death...maybe.</szItemDesc>
-		<szBRName>Cheez Doodles</szBRName>
+		<szLongItemName>Käse-Doodles</szLongItemName>
+		<szItemDesc>Nichts ist so hilfreich für Herzkrankheiten wie Cheez Doodles! Mit atemberaubenden 110 Kalorien in einer Portion! Zu den Nebenwirkungen gehören allergische Reaktionen, Mundgeruch, Körpergeruch, Verstopfung, Osteoporose, Sodbrennen, Akne, Durchfall und vielleicht... der Tod.</szItemDesc>
+		<szBRName>Käse-Doodles</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2914</uiIndex>
 		<szItemName>Twinkie</szItemName>
 		<szLongItemName>Twinkie</szLongItemName>
-		<szItemDesc>Due to their high chemical composition, this American snack sponge cake is thought to have an infinite shelf life and can last unspoiled in storage for years, probably even past armageddon! Government subsidies make this junk food inexpensive, but the health bills that come with them are by no means a money-saver.</szItemDesc>
+		<szItemDesc>Aufgrund der hohen chemischen Zusammensetzung dieser amerikanischen Snack-Biskuits geht man davon aus, dass sie unendlich lange haltbar sind und jahrelang unverdorben gelagert werden können, wahrscheinlich sogar bis zum Weltuntergang! Staatliche Subventionen machen dieses Junkfood zwar billig, aber die damit verbundenen Gesundheitskosten sind keineswegs eine Kostenersparnis.</szItemDesc>
 		<szBRName>Twinkie</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2915</uiIndex>
-		<szItemName>BBQ Sauce</szItemName>
-		<szLongItemName>Barbecue Sauce</szLongItemName>
-		<szItemDesc>Great horns Texas BBQ sauce with extra flavoring. Seasoned with cumin, chili peppers, bell peppers and ancho powder, lots of black pepper, onion, a dash of tomato and sugar,  meat drippings and smoke flavor. Where's the grill?</szItemDesc>
-		<szBRName>BBQ Sauce</szBRName>
+		<szItemName>BBQ Soße</szItemName>
+		<szLongItemName>Barbecue-Soße</szLongItemName>
+		<szItemDesc>Great horns Texas BBQ Sauce mit extra Würze. Gewürzt mit Kreuzkümmel, Chilischoten, Paprika und Ancho-Pulver, viel schwarzem Pfeffer, Zwiebeln, einer Prise Tomate und Zucker, Fleischtropfen und Raucharoma. Wo ist der Grill?</szItemDesc>
+		<szBRName>BBQ Soße</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2916</uiIndex>
 		<szItemName>ITL MARS</szItemName>
-		<szLongItemName>ITL Multipurpose Aiming Reflex Sight</szLongItemName>
-		<szItemDesc>The ITL Multipurpose Aiming Reflex Sight combines an advanced reflex sight with a high-power laser device. Due to its size it can't be combined with a Zielfernrohr.</szItemDesc>
+		<szLongItemName>ITL Mehrzweck-Zielvisier</szLongItemName>
+		<szItemDesc>Das ITL Mehrzweck-Zielreflexvisier kombiniert ein modernes Reflexvisier mit einem Hochleistungslasergerät. Aufgrund seiner Größe kann es nicht mit einem Zielfernrohr kombiniert werden.</szItemDesc>
 		<szBRName>ITL MARS</szBRName>
-		<szBRDesc>The standard sight of the IWI Tavor, the ITL Multipurpose Aiming Reflex Sight combines an advanced reflex sight with a high-power laser device.</szBRDesc>
+		<szBRDesc>Das ITL Mehrzweckzielvisier ist das Standardvisier der IWI Tavor und kombiniert ein fortschrittliches Reflexvisier mit einem Hochleistungslaser.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2917</uiIndex>
-		<szItemName>40mm Granate Casing</szItemName>
-		<szLongItemName>40mm Granate Casing</szLongItemName>
-		<szItemDesc>This Granate casing can be combined with a variety of 40mm Granaten to allow firing the Granaten with a 40mm commando mortar.</szItemDesc>
-		<szBRName>40mm Granate Casing</szBRName>
-		<szBRDesc>These military surplus Granate casings have a hundred and one uses, from creating custom projectiles to containing sundrie items in the garage or office.</szBRDesc>
+		<szItemName>40mm Granaten-Gehäuse</szItemName>
+		<szLongItemName>40mm Granaten-Gehäuse</szLongItemName>
+		<szItemDesc>Dieses Granaten-Gehäuse kann mit einer Vielzahl von 40mm Granaten kombiniert werden, um den Granatenbeschuss mit einem 40mm Kommandomörser zu ermöglichen.</szItemDesc>
+		<szBRName>40mm Granaten-Gehäuse</szBRName>
+		<szBRDesc>Dieses Granaten-Gehäuse kann mit einer Vielzahl von 40mm Granaten kombiniert werden, um den Granatenbeschuss mit einem 40mm Kommandomörser zu ermöglichen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2918</uiIndex>
-		<szItemName>Aiming Module SDNV</szItemName>
-		<szLongItemName>Aiming Module SDNV</szLongItemName>
-		<szItemDesc>A combination of the Burris Speeddot and an AN/PVS-14 NV Zielfernrohr.</szItemDesc>
-		<szBRName>Aiming Module SDNV</szBRName>
+		<szItemName>Zielerfassungsmodul SDNV</szItemName>
+		<szLongItemName>Zielerfassungsmodul SDNV</szLongItemName>
+		<szItemDesc>Eine Kombination aus dem Burris Speeddot und einem AN/PVS-14 NV Zielfernrohr.</szItemDesc>
+		<szBRName>Zielerfassungsmodul SDNV</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2919</uiIndex>
-		<szItemName>Aiming Module SDRNV</szItemName>
-		<szLongItemName>Aiming Module SDRNV</szLongItemName>
-		<szItemDesc>A combination of the Burris Speeddot, a Reddot LAM and an AN/PVS-14 NV Zielfernrohr.</szItemDesc>
-		<szBRName>Aiming Module SDRNV</szBRName>
+		<szItemName>Zielerfassungsmodul SDRNV</szItemName>
+		<szLongItemName>Zielerfassungsmodul SDRNV</szLongItemName>
+		<szItemDesc>Eine Kombination aus dem Burris Speeddot, einem Rotpunkt LAM und einem AN/PVS-14 NV Zielfernrohr.</szItemDesc>
+		<szBRName>Zielerfassungsmodul SDRNV</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2920</uiIndex>
-		<szItemName>int. Thermal sight</szItemName>
-		<szLongItemName>int. Thermal sight module</szLongItemName>
-		<szItemDesc>int. Thermal sight module</szItemDesc>
-		<szBRName>int. Thermal sight module</szBRName>
+		<szItemName>int. Wärmesichtmodul</szItemName>
+		<szLongItemName>int. Wärmesichtmodul</szLongItemName>
+		<szItemDesc>int. Wärmesichtmodul</szItemDesc>
+		<szBRName>int. Wärmesichtmodul</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2921</uiIndex>
 		<szItemName>mod. BORS</szItemName>
-		<szLongItemName>mod. Barrett Optical Ranging System</szLongItemName>
-		<szItemDesc>An advanced ballistic target computer that can be attached to certain Long Range Sniper Rifles. This one has been modified to permanently stick to a gun. Since the BORS is mounted directly to the Zielfernrohr and coupled with the elevation knobs, the computer can interact with the Zielfernrohr by simply turning the elevation knob until the LCD displays the targetтАЩs range.</szItemDesc>
-		<szBRName>mod. Barrett Optical Ranging System</szBRName>
+		<szLongItemName>mod. Barrett Optischer Entfernungsmesser</szLongItemName>
+		<szItemDesc>Ein fortschrittlicher ballistischer Zielcomputer, der an bestimmten Langstrecken-Scharfschützengewehren angebracht werden kann. Dieser Computer wurde so modifiziert, dass er dauerhaft an einem Gewehr befestigt werden kann. Da der BORS direkt am Zielfernrohr angebracht und mit den Höhenverstellknöpfen gekoppelt ist, kann der Computer mit dem Zielfernrohr interagieren, indem man nur am Höhenverstellknopf dreht, bis die LCD-Anzeige die Reichweite des Ziels anzeigt.</szItemDesc>
+		<szBRName>mod. Barrett Optischer Entfernungsmesser</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2922</uiIndex>
 		<szItemName>Zielfernrohr 2x R&amp;L</szItemName>
 		<szLongItemName>Zielfernrohr, 2x Reflex &amp; Laser</szLongItemName>
-		<szItemDesc>A useful combination of Kleine Zielfernrohr, a red dot LAM and a Reflex Sight held together with glue, duct tape and ingenuity.</szItemDesc>
+		<szItemDesc>Eine sinnvolle Kombination aus Kleinem Zielfernrohr, einer Rotpunkt-LAM und einem Reflexvisier, zusammengehalten mit Kleber, Klebeband und Einfallsreichtum.</szItemDesc>
 		<szBRName>WOZ x2 Zielfernrohr Reflex &amp; Laser</szBRName>
 		<szBRDesc>Nicht zu verkaufen.- Combo merge item</szBRDesc>
 	</ITEM>
@@ -23384,7 +23384,7 @@
 		<uiIndex>2923</uiIndex>
 		<szItemName>ACOG R. L.</szItemName>
 		<szLongItemName>4x Zielfernrohr ACOG Reflex &amp; Laser</szLongItemName>
-		<szItemDesc>A useful combination of 4x Zielfernrohr, a red dot LAM and Reflex Sight. Great if your gun's accessories slots are fighting for space.</szItemDesc>
+		<szItemDesc>Eine nützliche Kombination aus 4x Zielfernrohr, einem Rotpunkt-LAM und einem Reflexvisier. Ideal, wenn die Zubehörsteckplätze Ihrer Waffe um Platz kämpfen.</szItemDesc>
 		<szBRName>WOZ 4x ACOG Reflex &amp; Laser</szBRName>
 		<szBRDesc>Nicht zu verkaufen.- Combo merge item</szBRDesc>
 	</ITEM>
@@ -23392,7 +23392,7 @@
 		<uiIndex>2924</uiIndex>
 		<szItemName>7x S.R.L</szItemName>
 		<szLongItemName>mod. Zielfernrohr, 7x Reflex &amp; Laser</szLongItemName>
-		<szItemDesc>A useful combination of 7xZielfernrohr, Reddot LAM and Reflex Sight. Great if you need to save attachment slots. It doesn't get much better than this.</szItemDesc>
+		<szItemDesc>Eine nützliche Kombination aus 7x Zielfernrohr, Rotpunkt LAM und Reflexvisier. Ideal, wenn Sie Anbauplätze sparen müssen. Viel besser geht es nicht.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, 7x Reflex &amp; Laser</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23400,7 +23400,7 @@
 		<uiIndex>2925</uiIndex>
 		<szItemName>S. 7x R.LAM</szItemName>
 		<szLongItemName>mod. Zielfernrohr, 7x Reflex &amp; LAM</szLongItemName>
-		<szItemDesc>Whenever you think it doesn't get better, someone comes along and shows you it does! The best combination available, this aiming module consists of an AN/PEQ LAM, a 7x Battle Zielfernrohr and a Reflex Sight.</szItemDesc>
+		<szItemDesc>Immer wenn du denkst, es geht nicht mehr besser, kommt jemand daher und zeigt dir, dass es doch geht! Die beste verfügbare Kombination! Dieses Zielerfassungsmodul besteht aus einem AN/PEQ LAM, einem 7x Kampfzielfernrohr und einem Reflexvisier.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, 7x Reflex &amp; LAM</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23408,127 +23408,127 @@
 		<uiIndex>2926</uiIndex>
 		<szItemName>ACOG R.LAM</szItemName>
 		<szLongItemName>mod. Zielfernrohr, 4x ACOG Reflex &amp; LAM</szLongItemName>
-		<szItemDesc>A useful combination of 4xZielfernrohr, AN/PEQ LAM and Reflex Sight. Great if you need to save attachment slots.</szItemDesc>
+		<szItemDesc>Eine nützliche Kombination aus 4x Zielfernrohr, AN/PEQ LAM und Reflexvisier. Ideal, wenn Sie Anbauplätze sparen müssen.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, 4x ACOG Reflex &amp; LAM</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2927</uiIndex>
 		<szItemName>mod. AIM SAR</szItemName>
-		<szLongItemName>mod. Aiming Module SAR</szLongItemName>
-		<szItemDesc>A combination of the Burris Speeddot, the AR Zielfernrohr and a Reddot LAM.</szItemDesc>
-		<szBRName>mod. Aiming Module SAR</szBRName>
+		<szLongItemName>mod. Zielerfassungsmodul SAR</szLongItemName>
+		<szItemDesc>Eine Kombination aus dem Burris Speeddot, dem AR Zielfernrohr und einem Rotpunkt LAM.</szItemDesc>
+		<szBRName>mod. Zielerfassungsmodul SAR</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2928</uiIndex>
 		<szItemName>mod. AIM SDA</szItemName>
-		<szLongItemName>mod. Aiming Module SDA</szLongItemName>
-		<szItemDesc>A combination of the Burris Speeddot and the AR Zielfernrohr.</szItemDesc>
-		<szBRName>mod. Aiming Module SDA</szBRName>
+		<szLongItemName>mod. Zielerfassungsmodul SDA</szLongItemName>
+		<szItemDesc>Eine Kombination aus dem Burris Speeddot und dem AR Zielfernrohr.</szItemDesc>
+		<szBRName>mod. Zielerfassungsmodul SDA</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2929</uiIndex>
 		<szItemName>mod. AIM SDNV</szItemName>
-		<szLongItemName>mod. Aiming Module SDNV</szLongItemName>
-		<szItemDesc>A combination of the Burris Speeddot and an AN/PVS-14 NV Zielfernrohr.</szItemDesc>
-		<szBRName>mod. Aiming Module SDNV</szBRName>
+		<szLongItemName>mod. Zielerfassungsmodul SDNV</szLongItemName>
+		<szItemDesc>Eine Kombination aus dem Burris Speeddot und einem AN/PVS-14 NV Zielfernrohr.</szItemDesc>
+		<szBRName>mod. Zielerfassungsmodul SDNV</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2930</uiIndex>
 		<szItemName>mod. AIM SDRNV</szItemName>
-		<szLongItemName>mod. Aiming Module SDRNV</szLongItemName>
-		<szItemDesc>A combination of the Burris Speeddot, a Reddot LAM and an AN/PVS-14 NV Zielfernrohr.</szItemDesc>
-		<szBRName>mod. Aiming Module SDRNV</szBRName>
+		<szLongItemName>mod. Zielerfassungsmodul SDRNV</szLongItemName>
+		<szItemDesc>Eine Kombination aus dem Burris Speeddot, einem Rotpunkt LAM und einem AN/PVS-14 NV Zielfernrohr.</szItemDesc>
+		<szBRName>mod. Zielerfassungsmodul SDRNV</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2931</uiIndex>
 		<szItemName>mod. AIM WP</szItemName>
-		<szLongItemName>mod. Aiming Module WP</szLongItemName>
-		<szItemDesc>This Aiming Module for Russische guns combines a Kobra, a PSO-1 Zielfernrohr and a CORSAK LAM.</szItemDesc>
-		<szBRName>mod. Aiming Module WP</szBRName>
+		<szLongItemName>mod. Zielerfassungsmodul WP</szLongItemName>
+		<szItemDesc>Dieses Zielerfassungsmodul für russische Waffen kombiniert eine Kobra, ein PSO-1 Zielfernrohr und ein CORSAK LAM.</szItemDesc>
+		<szBRName>mod. Zielerfassungsmodul WP</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2932</uiIndex>
-		<szItemName>int. Bipod</szItemName>
-		<szLongItemName>int. Bipod</szLongItemName>
-		<szItemDesc>The universal bipod fits most Scharfschützen and assault rifles, as well as light machine guns. Made from a die-cast aluminum, it has a Beschichtete matte finish. Its legs fold up when not in use for easy storage.</szItemDesc>
-		<szBRName>int. Bipod</szBRName>
+		<szItemName>int. Zweibein</szItemName>
+		<szLongItemName>int. Zweibein</szLongItemName>
+		<szItemDesc>Der universelle Zweibein passt auf die meisten Scharfschützen und Sturmgewehre, sowie auf leichte Maschinengewehre. Es ist aus Aluminiumdruckguss gefertigt und hat eine beschichtete, matte Oberfläche. Seine Beine lassen sich bei Nichtgebrauch zur einfachen Aufbewahrung einklappen.</szItemDesc>
+		<szBRName>int. Zweibein</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2933</uiIndex>
-		<szItemName>Heavy Bipod</szItemName>
-		<szLongItemName>Bipod, Heavy</szLongItemName>
-		<szItemDesc>This heavy duty bipod fits most LMGs and Scharfschützen rifles. It may be harder to get the weapon into a firing position, but shots will be much more accurate and controllable.</szItemDesc>
-		<szBRName>Bipod, Heavy</szBRName>
-		<szBRDesc>This heavy duty bipod fits most LMGs and Scharfschützen rifles. It may be harder to get the weapon into a firing position, but shots will be much more accurate and controllable.</szBRDesc>
+		<szItemName>Schweres Zweibein</szItemName>
+		<szLongItemName>Schweres Zweibein</szLongItemName>
+		<szItemDesc>Dieser robuste Zweibein passt auf die meisten LMGs und Scharfschützengewehre. Es kann schwieriger sein, die Waffe in eine Feuerposition zu bringen, aber die Schüsse werden viel genauer und kontrollierbarer sein.</szItemDesc>
+		<szBRName>Schweres Zweibein</szBRName>
+		<szBRDesc>Dieser robuste Zweibein passt auf die meisten LMGs und Scharfschützengewehre. Es kann schwieriger sein, die Waffe in eine Feuerposition zu bringen, aber die Schüsse werden viel genauer und kontrollierbarer sein.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2934</uiIndex>
 		<szItemName>SD. L.</szItemName>
-		<szLongItemName>mod. SpeedDot &amp; Laser Sight</szLongItemName>
-		<szItemDesc>An advanced reflex sight, suitable for the worst conditions. Can only be combined with a few Zielfernrohrs. Someone also glued a Reddot LAM to it.</szItemDesc>
-		<szBRName>mod. SpeedDot &amp; Laser Sight</szBRName>
+		<szLongItemName>mod. SpeedDot &amp; Laser-Visier</szLongItemName>
+		<szItemDesc>Ein fortschrittliches Reflexvisier, geeignet für die schlimmsten Bedingungen. Kann nur mit ein paar Zielfernrohren kombiniert werden. Jemand hat auch einen Rotpunkt LAM daran geklebt.</szItemDesc>
+		<szBRName>mod. SpeedDot &amp; Laser-Visier</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2935</uiIndex>
 		<szItemName>mod. SMR L.</szItemName>
-		<szLongItemName>mod. SMR &amp; Laser Sight</szLongItemName>
-		<szItemDesc>A combination of Reddot LAM and the Sight Mark Reflex Sight.</szItemDesc>
-		<szBRName>mod. SMR &amp; Laser Sight</szBRName>
+		<szLongItemName>mod. SMR &amp; Laser-Visier</szLongItemName>
+		<szItemDesc>Eine Kombination aus Rotpunkt LAM und dem Sight Mark Reflexvisier.</szItemDesc>
+		<szBRName>mod. SMR &amp; Laser-Visier</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2936</uiIndex>
-		<szItemName>mod. LAM-Flashlight</szItemName>
-		<szLongItemName>mod. Combo, Rifle LAM - F-L</szLongItemName>
-		<szItemDesc>This Laser Aiming Module and Taktische flashlight combination is meant to fit on modern rifle rail interface systems.</szItemDesc>
-		<szBRName>mod. Combo, Rifle LAM - F-L</szBRName>
+		<szItemName>mod. LAM-Taschenlampe</szItemName>
+		<szLongItemName>mod. Combo, Gewehr LAM - F-L</szLongItemName>
+		<szItemDesc>Diese Kombination aus Laserzielerfassungsmodul und Taktischer Taschenlampe ist für moderne Gewehrschienen-Interface-Systeme gedacht.</szItemDesc>
+		<szBRName>mod. Combo, Gewehr LAM - F-L</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2937</uiIndex>
 		<szItemName>mod. Duckbill</szItemName>
 		<szLongItemName>mod. Duckbill</szLongItemName>
-		<szItemDesc>This metal object, when attached to the end of a shotgun Bausatz, causes buckshot fired from the shotgun to spread out along a horizontal line instead of its standard circular pattern.</szItemDesc>
+		<szItemDesc>Dieser Metallkörper, der am Ende eines Schrotflinten-Bausatzes angebracht wird, bewirkt, dass sich die aus der Flinte abgefeuerten Schrotkugeln entlang einer horizontalen Linie ausbreiten, anstatt wie üblich kreisförmig zu verlaufen.</szItemDesc>
 		<szBRName>mod. Duckbill</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2938</uiIndex>
-		<szItemName>mod. Flash Suppressor</szItemName>
-		<szLongItemName>mod. Flash Suppressor</szLongItemName>
-		<szItemDesc>Standard equipment for keeping those  pesky muzzle flashes from giving away your position.</szItemDesc>
-		<szBRName>mod. Flash Suppressor</szBRName>
+		<szItemName>mod. Flash Schalldämpfer</szItemName>
+		<szLongItemName>mod. Flash Schalldämpfer</szLongItemName>
+		<szItemDesc>Standardausrüstung, damit die lästigen Mündungsfeuer nicht Ihre Position verraten.</szItemDesc>
+		<szBRName>mod. Flash Schalldämpfer</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2939</uiIndex>
 		<szItemName>mod. GL Collimator</szItemName>
-		<szLongItemName>mod. Granate Launcher Collimator</szLongItemName>
-		<szItemDesc>A red dot sight that can be mounted to certain Granate launchers to improve sight range and target acquisition.</szItemDesc>
-		<szBRName>mod. Granate Launcher Collimator</szBRName>
+		<szLongItemName>mod. Granatwerfer Collimator</szLongItemName>
+		<szItemDesc>Ein Rotpunktvisier, das an bestimmten Granatwerfern montiert werden kann, um die Sichtweite und Zielerfassung zu verbessern.</szItemDesc>
+		<szBRName>mod. Granatwerfer Collimator</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2940</uiIndex>
-		<szItemName>mod. Griplight</szItemName>
-		<szLongItemName>mod. Griplight</szLongItemName>
-		<szItemDesc>A practical combination of foregrip and Taktische flashlight.</szItemDesc>
-		<szBRName>mod. Griplight</szBRName>
+		<szItemName>mod. Grifflampe</szItemName>
+		<szLongItemName>mod. Grifflampe</szLongItemName>
+		<szItemDesc>Eine praktische Kombination aus Vordergriff und taktischer Taschenlampe.</szItemDesc>
+		<szBRName>mod. Grifflampe</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2941</uiIndex>
 		<szItemName>mod. Grippod</szItemName>
 		<szLongItemName>mod. Grippod</szLongItemName>
-		<szItemDesc>This Grippod fits on the lower Picatinny Rail of a lot of modern rifles. Its bipod is not as sturdy as a dedicated one, though.</szItemDesc>
+		<szItemDesc>Dieser Grippod passt auf die untere Picatinny-Schiene vieler moderner Gewehre. Sein Zweibein ist allerdings nicht so stabil wie ein dedizierter Zweibeiner.</szItemDesc>
 		<szBRName>mod. Grippod</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23536,7 +23536,7 @@
 		<uiIndex>2942</uiIndex>
 		<szItemName>mod. ISM-4X-IR</szItemName>
 		<szLongItemName>mod. ISM-4X-IR</szLongItemName>
-		<szItemDesc>The Integrated Sightning Module combines a high power Laser Aiming Module with a quality Zielfernrohr and a red dot sight.</szItemDesc>
+		<szItemDesc>Das Integrierte Zielerfassungsmodul kombiniert einen Hochleistungs-Laser mit einem hochwertigen Zielfernrohr und einem Rotpunktvisier.</szItemDesc>
 		<szBRName>mod. ISM-4X-IR</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23544,7 +23544,7 @@
 		<uiIndex>2943</uiIndex>
 		<szItemName>mod. ISM-V-IR</szItemName>
 		<szLongItemName>mod. ISM-V-IR</szLongItemName>
-		<szItemDesc>A combination of a red-dot sight with a high power aiming laser (including IR).</szItemDesc>
+		<szItemDesc>Eine Kombination aus einem Rotpunktvisier und einem leistungsstarken Ziellaser (einschließlich IR).</szItemDesc>
 		<szBRName>mod. ISM-V-IR</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23552,63 +23552,63 @@
 		<uiIndex>2944</uiIndex>
 		<szItemName>mod. ITL MARS</szItemName>
 		<szLongItemName>mod. ITL MARS</szLongItemName>
-		<szItemDesc>The ITL Multi-purpose Aiming Reflex Sight combines an advanced reflex sight with a high-power laser device. Due to its size it can't be combined with a Zielfernrohr.</szItemDesc>
+		<szItemDesc>Das ITL Multi-Purpose Aiming Reflexvisier kombiniert ein modernes Reflexvisier mit einem Hochleistungslaser. Aufgrund seiner Größe kann es nicht mit einem Zielfernrohr kombiniert werden.</szItemDesc>
 		<szBRName>mod. ITL MARS</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2945</uiIndex>
-		<szItemName>mod. Laser Sight</szItemName>
-		<szLongItemName>mod. Laser Sight</szLongItemName>
-		<szItemDesc>The Universal Daylight Laser projects a highly visible red spot at a rather significant range. In a stainless steel housing, it fits onto the Trigger guard of most sub-machine guns and pistols.</szItemDesc>
-		<szBRName>mod. Laser Sight</szBRName>
+		<szItemName>mod. Laser-Visier</szItemName>
+		<szLongItemName>mod. Laser-Visier</szLongItemName>
+		<szItemDesc>Der Universal-Tageslichtlaser projiziert einen gut sichtbaren roten Punkt auf eine beträchtliche Entfernung. In einem Edelstahlgehäuse passt er auf den Abzugsbügel der meisten Maschinenpistolen und Maschinengewehre.</szItemDesc>
+		<szBRName>mod. Laser-Visier</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2946</uiIndex>
 		<szItemName>mod. LAM-200</szItemName>
 		<szLongItemName>mod. Insight LAM-200</szLongItemName>
-		<szItemDesc>Tomorrow's sights... For Today's handguns. When a standard laser sight isn't enough, the LAM-200 adds Infrared to increase nighttime visibility through night vision goggles.</szItemDesc>
+		<szItemDesc>Das Visier von morgen... Für die Handfeuerwaffen von heute. Wenn ein Standard-Laservisier nicht ausreicht, bietet das LAM-200 zusätzlich Infrarot, um die Sichtbarkeit bei Nacht durch Nachtsichtbrillen zu erhöhen.</szItemDesc>
 		<szBRName>mod. Insight LAM-200</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2947</uiIndex>
-		<szItemName>mod. Aimpoint</szItemName>
-		<szLongItemName>mod. Laser, Old Aimpoint</szLongItemName>
-		<szItemDesc>This old laser aiming device weighs enough to be a weapon (club) in its own right. Fits older HK rifles.</szItemDesc>
-		<szBRName>mod. Laser, Old Aimpoint</szBRName>
+		<szItemName>mod. Laser-Zielgerät</szItemName>
+		<szLongItemName>mod. altes Laser-Zielgerät</szLongItemName>
+		<szItemDesc>Dieses alte Laser-Zielgerät wiegt genug, um selbst eine Waffe (Keule) zu sein. Passt auf ältere HK-Gewehre.</szItemDesc>
+		<szBRName>mod. Laser, altes Laser-Zielgerät</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2948</uiIndex>
 		<szItemName>mod. Trijicon NS</szItemName>
-		<szLongItemName>mod. Match Sight, B&amp;T N.S.</szLongItemName>
-		<szItemDesc>Trijicon's Bright &amp; Tough Night Sights - the only self-luminous sight system for most light handguns that ensures greater night fire accuracy than any other iron sight.</szItemDesc>
-		<szBRName>mod. Match Sight, B&amp;T N.S.</szBRName>
+		<szLongItemName>mod. Match-Visier, B&amp;T N.S.</szLongItemName>
+		<szItemDesc>Trijicon - Bright &amp; Tough Nachtsichtgeräte - das einzige selbstleuchtende Visiersystem für die meisten leichten Handfeuerwaffen, das eine höhere Zielgenauigkeit bei Nachtfeuer gewährleistet als jedes andere Eisenvisier.</szItemDesc>
+		<szBRName>mod. Match-Visier, B&amp;T N.S.</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2949</uiIndex>
-		<szItemName>mod. Match Sights</szItemName>
-		<szLongItemName>mod. Match Sights</szLongItemName>
-		<szItemDesc>These match sights have been made for precision during competition shooting. Thanks to easier target acquisition it also allows a trained shooter to fire two quick shots in a shorter amount of time.</szItemDesc>
-		<szBRName>mod. Match Sights</szBRName>
+		<szItemName>mod. Match-Visier</szItemName>
+		<szLongItemName>mod. Match-Visier</szLongItemName>
+		<szItemDesc>Diese Match-Visiere wurden für Präzision beim Wettkampfschießen entwickelt. Dank der leichteren Zielerfassung kann ein geübter Schütze auch zwei schnelle Schüsse in kürzerer Zeit abgeben.</szItemDesc>
+		<szBRName>mod. Match-Visier</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2950</uiIndex>
-		<szItemName>mod. Muzzle Break</szItemName>
-		<szLongItemName>mod. Muzzle Break</szLongItemName>
-		<szItemDesc>This device reduces recoil from autofire. It can be fitted to all caliber 7.62 light machine guns and assault rifles.</szItemDesc>
-		<szBRName>mod. Muzzle Break</szBRName>
+		<szItemName>mod. Mündungsbremse</szItemName>
+		<szLongItemName>mod. Mündungsbremse</szLongItemName>
+		<szItemDesc>Diese Vorrichtung reduziert den Rückstoß bei Selbstschussanlagen. Sie kann an allen leichten Maschinengewehren und Sturmgewehren des Kalibers 7.62 angebracht werden.</szItemDesc>
+		<szBRName>mod. Mündungsbremse</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2951</uiIndex>
 		<szItemName>mod. SpeedDot</szItemName>
 		<szLongItemName>mod. SpeedDot</szLongItemName>
-		<szItemDesc>An advanced reflex sight, suitable for the worst conditions. Can only be combined with a few Zielfernrohrs.</szItemDesc>
+		<szItemDesc>Ein fortschrittliches Reflexvisier, geeignet für die schlimmsten Bedingungen. Kann nur mit bestimmten Zielfernrohren kombiniert werden.</szItemDesc>
 		<szBRName>mod. SpeedDot</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23616,7 +23616,7 @@
 		<uiIndex>2952</uiIndex>
 		<szItemName>mod. 1P21 Zielfernrohr</szItemName>
 		<szLongItemName>mod. Zielfernrohr, 1P21 Minuta</szLongItemName>
-		<szItemDesc>A high-end Zielfernrohr for use with Russische Scharfschützen rifles.</szItemDesc>
+		<szItemDesc>Ein hochwertiges Zielfernrohr für die Verwendung mit russischen Scharfschützengewehren.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, 1P21 Minuta</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23624,7 +23624,7 @@
 		<uiIndex>2953</uiIndex>
 		<szItemName>mod. AN/PVS-14</szItemName>
 		<szLongItemName>mod. Zielfernrohr, AN/PVS-14 NV</szLongItemName>
-		<szItemDesc>The PVS-14 Gen 3P Zielfernrohr is designed for the most demanding of night-time Applications.</szItemDesc>
+		<szItemDesc>Das PVS-14 Gen 3P Zielfernrohr wurde für anspruchsvolle Nachteinsätze entwickelt.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, AN/PVS-14 NV</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23632,7 +23632,7 @@
 		<uiIndex>2954</uiIndex>
 		<szItemName>mod. Burris Zielfernrohr</szItemName>
 		<szLongItemName>mod. Zielfernrohr, Burris AR</szLongItemName>
-		<szItemDesc>The perfect Zielfernrohr to accompany the SpeeDot Reflex Sight.</szItemDesc>
+		<szItemDesc>Das perfekte Zielfernrohr für das SpeeDot Reflexvisier</szItemDesc>
 		<szBRName>mod. Zielfernrohr, Burris AR</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23640,7 +23640,7 @@
 		<uiIndex>2955</uiIndex>
 		<szItemName>mod. M84 Zielfernrohr</szItemName>
 		<szLongItemName>mod. Zielfernrohr, M84</szLongItemName>
-		<szItemDesc>This American WW II Zielfernrohr closes the gap between a battle Zielfernrohr and a Scharfschützen Zielfernrohr. It is still a decent Zielfernrohr for some hunting rifles.</szItemDesc>
+		<szItemDesc>Dieses amerikanische WW II Zielfernrohr schließt die Lücke zwischen einem Kampfzielfernrohr und einem Scharfschützen Zielfernrohr. Es ist dennoch ein anständiges Zielfernrohr für bestimmte Jagdgewehre.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, M84</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23648,7 +23648,7 @@
 		<uiIndex>2956</uiIndex>
 		<szItemName>mod. No.32 Zielfernrohr</szItemName>
 		<szLongItemName>mod. Zielfernrohr, No.32</szLongItemName>
-		<szItemDesc>British Zielfernrohr used during WW-II.</szItemDesc>
+		<szItemDesc>Britisches Zielfernrohr aus dem Zweiten Weltkrieg.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, No.32</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23664,7 +23664,7 @@
 		<uiIndex>2958</uiIndex>
 		<szItemName>mod. PEM</szItemName>
 		<szLongItemName>mod. Zielfernrohr, PEM</szLongItemName>
-		<szItemDesc>Russische WW-II era Zielfernrohr.</szItemDesc>
+		<szItemDesc>Russische WW-II Zielfernrohr.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, PEM</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23672,7 +23672,7 @@
 		<uiIndex>2959</uiIndex>
 		<szItemName>int. PGO-7W</szItemName>
 		<szLongItemName>int. Zielfernrohr, PGO-7W</szLongItemName>
-		<szItemDesc>This Russische day-time Zielfernrohr was Originally developed for the RPG-7 rocket launcher, but it will also fit on rifles with an AK-style receiver.</szItemDesc>
+		<szItemDesc>Dieses russische Tageszielfernrohr wurde ursprünglich für den RPG-7-Raketenwerfer entwickelt, passt aber auch auf Gewehre mit einem AK-Empfänger.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, PGO-7W</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23680,7 +23680,7 @@
 		<uiIndex>2960</uiIndex>
 		<szItemName>int. PSO-3</szItemName>
 		<szLongItemName>int. Zielfernrohr, PSO-3</szLongItemName>
-		<szItemDesc>Better than the PSO-1 (Magnification is 8x), this Zielfernrohr is often used on Russische DMRs and Scharfschützen rifles.</szItemDesc>
+		<szItemDesc>Besser als das PSO-1 (8-fache Vergrößerung), wird dieses Zielfernrohr oft mit russischen DMRs und Scharfschützengewehren verwendet.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, PSO-3</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23688,7 +23688,7 @@
 		<uiIndex>2961</uiIndex>
 		<szItemName>mod. Zielfernrohr 10x</szItemName>
 		<szLongItemName>mod. Zielfernrohr, Scharfschützen 10x</szLongItemName>
-		<szItemDesc>A Große Zielfernrohr, too big to fit on most assault rifles and carbines.  Hmmm, maybe it would fit on a Scharfschützen rifle?</szItemDesc>
+		<szItemDesc>Ein großes Zielfernrohr. Zu groß, um auf die meisten Sturmgewehre und Karabiner zu passen.  Hmmm, vielleicht würde es auf ein Scharfschützengewehr passen?</szItemDesc>
 		<szBRName>mod. Zielfernrohr, Scharfschützen 10x</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
@@ -23696,137 +23696,137 @@
 		<uiIndex>2962</uiIndex>
 		<szItemName>mod. ZF-42</szItemName>
 		<szLongItemName>mod. Zielfernrohr, ZF-42</szLongItemName>
-		<szItemDesc>German Zielfernrohr for the Gewehr 98 and the Karabiner 98k.</szItemDesc>
+		<szItemDesc>Deutsches Zielfernrohr für das Gewehr 98 und den Karabiner 98k.</szItemDesc>
 		<szBRName>mod. Zielfernrohr, ZF-42</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2963</uiIndex>
-		<szItemName>mod. Folding Stock</szItemName>
-		<szLongItemName>mod. Stock, Folding</szLongItemName>
-		<szItemDesc>This new stock will allow you to raise your weapon faster, but you may have a slightly harder time hitting things.</szItemDesc>
-		<szBRName>mod. Stock, Folding</szBRName>
+		<szItemName>mod. Klappbarer Schaft</szItemName>
+		<szLongItemName>mod. Klappbarer Schaft</szLongItemName>
+		<szItemDesc>Mit diesem neuen Schaft können Sie Ihre Waffe schneller anheben, haben es aber möglicherweise etwas schwerer, Dinge zu treffen.</szItemDesc>
+		<szBRName>mod. Klappbarer Schaft</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2964</uiIndex>
-		<szItemName>mod. Glock Stock</szItemName>
-		<szLongItemName>mod. Stock, Glock</szLongItemName>
-		<szItemDesc>Though Originally designed for Glock pistols, this shoulder stock will also fit onto several machine pistols. It stabilizes recoil during burst and auto fire.</szItemDesc>
-		<szBRName>mod. Stock, Glock</szBRName>
+		<szItemName>mod. Glock-Schaft</szItemName>
+		<szLongItemName>mod. Glock-Schaft</szLongItemName>
+		<szItemDesc>Obwohl ursprünglich für Glock-Pistolen entwickelt, passt dieser Schulterschaft auch auf verschiedene Maschinenpistolen. Es stabilisiert den Rückstoß während des Feuerstoßes und des automatischen Feuers.</szItemDesc>
+		<szBRName>mod. Glock-Schaft</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2965</uiIndex>
-		<szItemName>mod. Retractable Stock</szItemName>
-		<szLongItemName>mod. Stock, retractable</szLongItemName>
-		<szItemDesc>This new stock will allow you to raise your weapon faster, but you may have a slightly harder time hitting things.</szItemDesc>
-		<szBRName>mod. Stock, retractable</szBRName>
+		<szItemName>mod. Einziehbarer Schaft</szItemName>
+		<szLongItemName>mod. Einziehbarer Schaft</szLongItemName>
+		<szItemDesc>Mit diesem neuen Schaft können Sie Ihre Waffe schneller anheben, haben es aber möglicherweise etwas schwerer, Dinge zu treffen.</szItemDesc>
+		<szBRName>mod. Einziehbarer Schaft</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2966</uiIndex>
-		<szItemName>mod. SMG Stock</szItemName>
-		<szLongItemName>mod. Stock, SMG</szLongItemName>
-		<szItemDesc>This stock fits on some SMGs and will stabilize fire in burst and autofire mode.</szItemDesc>
-		<szBRName>mod. Stock, SMG</szBRName>
+		<szItemName>mod. SMG Schaft</szItemName>
+		<szLongItemName>mod. SMG Schaft</szLongItemName>
+		<szItemDesc>Dieser Schaft passt auf einige SMGs und stabilisiert das Feuer im Schnellfeuer- und Autofeuer-Modus.</szItemDesc>
+		<szBRName>mod. SMG Schaft</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2967</uiIndex>
 		<szItemName>mod. AR Supp.</szItemName>
-		<szLongItemName>mod. Suppressor, AR</szLongItemName>
-		<szItemDesc>A Große sound suppressor that can be fitted to most carbines and assault rifles. While it will reduce the muzzle noise and flash, it's still far from silent.</szItemDesc>
-		<szBRName>mod. Suppressor, AR</szBRName>
+		<szLongItemName>mod. Schalldämpfer, AR</szLongItemName>
+		<szItemDesc>Ein großer Schalldämpfer, der auf die meisten Karabiner und Sturmgewehre montiert werden kann. Obwohl er den Mündungslärm und das Mündungsfeuer reduziert, ist er keinesfalls leise.</szItemDesc>
+		<szBRName>mod. Schalldämpfer, AR</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2968</uiIndex>
-		<szItemName>copy. SMG Suppressor</szItemName>
-		<szLongItemName>copy. Suppressor, SMG</szLongItemName>
-		<szItemDesc>A long sound suppressor that can be attached to certain submachine guns. Due to the length it adds additional stability during burst fire.</szItemDesc>
-		<szBRName>Suppressor, SMG</szBRName>
+		<szItemName>copy. SMG Schalldämpfer</szItemName>
+		<szLongItemName>copy. SMG Schalldämpfer</szLongItemName>
+		<szItemDesc>Ein langer Schalldämpfer, der an bestimmten Maschinenpistolen angebracht werden kann. Durch seine Länge sorgt er für zusätzliche Stabilität beim Feuerstoss.</szItemDesc>
+		<szBRName>SMG Schalldämpfer</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2969</uiIndex>
-		<szItemName>Improvised CK</szItemName>
-		<szLongItemName>Improvised Umrüstsatz</szLongItemName>
-		<szItemDesc>This Umrüstsatz can be used to convert certain guns to full auto capability.</szItemDesc>
-		<szBRName>Improvised CK</szBRName>
+		<szItemName>Improvisierter Umrüstsatz</szItemName>
+		<szLongItemName>Improvisierter Umrüstsatz</szLongItemName>
+		<szItemDesc>Dieser Umrüstsatz kann verwendet werden, um bestimmte Waffen auf Vollautomatik umzurüsten.</szItemDesc>
+		<szBRName>Improvisierter Umrüstsatz</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2970</uiIndex>
-		<szItemName>Butterfly Syringe</szItemName>
-		<szLongItemName>Butterfly Syringe</szLongItemName>
-		<szItemDesc>A winged infusion set. It consists, from front to rear, of a hypodermic needle, two bilateral flexible "wings", flexible Kleine-bore transparent tubing, and lastly a connector. This connector attaches to a transfusion bag/bottle.</szItemDesc>
-		<szBRName>Butterfly Syringe</szBRName>
+		<szItemName>Schmetterlingsspritze</szItemName>
+		<szLongItemName>Schmetterlingsspritze</szLongItemName>
+		<szItemDesc>Ein geflügeltes Infusionsset. Es besteht aus einer Injektionsnadel, zwei beidseitigen flexiblen "Flügeln", einem flexiblen, durchsichtigen Schlauch mit kleiner Bohrung und schließlich einem Anschlussstück. Dieses Verbindungsstück wird an einen Transfusionsbeutel/eine Transfusionsflasche angeschlossen.</szItemDesc>
+		<szBRName>Schmetterlingsspritze</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2971</uiIndex>
-		<szItemName>Blood Bag</szItemName>
-		<szLongItemName>Blood Bag</szLongItemName>
-		<szItemDesc>This plastic bag may well save your life. It is used to restore a person's blood during a blood transfusion. Blood type 0- is universal in emergencies and still cheaper than HS printer ink.</szItemDesc>
-		<szBRName>Blood Bag</szBRName>
+		<szItemName>Blutbeutel</szItemName>
+		<szLongItemName>Blutbeutel</szLongItemName>
+		<szItemDesc>Dieser Plastikbeutel kann Ihnen das Leben retten. Er wird verwendet, um das Blut einer Person während einer Bluttransfusion wiederherzustellen. Die Blutgruppe 0- ist in Notfällen universell einsetzbar und immer noch billiger als HP-Druckertinte.</szItemDesc>
+		<szBRName>Blutbeutel</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2972</uiIndex>
-		<szItemName>Transfusion Bag</szItemName>
-		<szLongItemName>Transfusion Bag</szLongItemName>
-		<szItemDesc>You'll need this bag to conduct a blood transfusion by intravenously inserting blood products into your patient's circulation. Used for various medical conditions, they replace lost components of the blood. Universal blood: type 0-</szItemDesc>
-		<szBRName>Blood Transfusion Bag</szBRName>
+		<szItemName>Transfusionsbeutel</szItemName>
+		<szLongItemName>Transfusionsbeutel</szLongItemName>
+		<szItemDesc>Sie benötigen diesen Beutel, um eine Bluttransfusion durchzuführen, indem Sie Blut intravenös in den Kreislauf Ihres Patienten einführen. Sie werden bei verschiedenen Erkrankungen eingesetzt und ersetzen verlorene Blutmengen. Universalblut: Typ 0-</szItemDesc>
+		<szBRName>Blut Transfusionsbeutel</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2973</uiIndex>
-		<szItemName>Fertilizer</szItemName>
-		<szLongItemName>Fertilizer</szLongItemName>
-		<szItemDesc>A canister of ammonium nitrate, which is commonly used in agriculture as a high-nitrogen fertilizer. Perfect if you want your wheat to grow well.</szItemDesc>
-		<szBRName>Fertilizer</szBRName>
+		<szItemName>Dünger</szItemName>
+		<szLongItemName>Dünger</szLongItemName>
+		<szItemDesc>Ein Kanister mit Ammoniumnitrat, das in der Landwirtschaft häufig als stickstoffreiches Düngemittel verwendet wird. Perfekt, wenn Sie wollen, dass Ihr Weizen gut wächst.</szItemDesc>
+		<szBRName>Dünger</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2974</uiIndex>
-		<szItemName>Improvised Fuse</szItemName>
-		<szLongItemName>Improvised Fuse</szLongItemName>
-		<szItemDesc>Use to blow up TNT.</szItemDesc>
-		<szBRName>Detonator</szBRName>
-		<szBRDesc>Use to blow up TNT.</szBRDesc>
+		<szItemName>Improvisierte Zündschnur</szItemName>
+		<szLongItemName>Improvisierte Zündschnur</szLongItemName>
+		<szItemDesc>Zum Sprengen von TNT.</szItemDesc>
+		<szBRName>Improvisierte Zündschnur</szBRName>
+		<szBRDesc>Zum Sprengen von TNT.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2975</uiIndex>
-		<szItemName>AK Cutters</szItemName>
-		<szLongItemName>AK Bayonet Cutters</szLongItemName>
-		<szItemDesc>AK bayonet coupled with a detached sheath can be used as an effective wire cutting tool.</szItemDesc>
-		<szBRName>AK Bayonet Cutters</szBRName>
+		<szItemName>AK Schneider</szItemName>
+		<szLongItemName>AK Bajonettschneider</szLongItemName>
+		<szItemDesc>Das AK-Bajonett kann in Verbindung mit einer abgetrennten Scheide als effektives Drahtschneidewerkzeug verwendet werden.</szItemDesc>
+		<szBRName>AK Bajonettschneider</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2976</uiIndex>
-		<szItemName>Kleine Tool Kit</szItemName>
-		<szLongItemName>Tool Kit, Kleine</szLongItemName>
-		<szItemDesc>This Kleine, handy tool kit contains all necessary tools for emergency repairs in the field.</szItemDesc>
-		<szBRName>Tool Kit, Kleine</szBRName>
-		<szBRDesc>When space and weight is at a premium our Kleine tool kit contains all necessary tools for emergency repairs in the field in a pint-sized package.</szBRDesc>
+		<szItemName>Kleines Tool Kit</szItemName>
+		<szLongItemName>Kleines Tool Kit</szLongItemName>
+		<szItemDesc>Dieses kleine, handliche Werkzeugset enthält alle notwendigen Werkzeuge für Notreparaturen im Einsatz.</szItemDesc>
+		<szBRName>Kleines Tool Kit</szBRName>
+		<szBRDesc>Wenn Platz und Gewicht eine Rolle spielen, enthält unser kleiner Werkzeugkoffer alle notwendigen Werkzeuge für Notreparaturen im Einsatz in einem kompakten Paket.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2977</uiIndex>
-		<szItemName>Trauma pack</szItemName>
-		<szLongItemName>Trauma pack</szLongItemName>
-		<szItemDesc>An easy-to-use pre-packed sterile emergency bandage for when that wound turns into a gusher.</szItemDesc>
-		<szBRName>Trauma pack</szBRName>
-		<szBRDesc>This emergency bandage is elasticized with a non-adhesive pad sewn in. With its built-in pressure bar it can apply pressure to any site, can be easily wrapped and secured to almost all wounds.</szBRDesc>
+		<szItemName>Trauma-Pack</szItemName>
+		<szLongItemName>Trauma-Pack</szLongItemName>
+		<szItemDesc>Ein einfach zu handhabender, steriler Notfallverband für den Fall, dass sich die Wunde zu einem Eiterherd entwickelt.</szItemDesc>
+		<szBRName>Trauma-Pack</szBRName>
+		<szBRDesc>Dieser Notfallverband ist elastisch und hat ein eingenähtes nicht klebendes Polster. Mit seinem integrierten Druckstab kann er Druck auf jede Wunde ausüben, lässt sich leicht wickeln und an fast allen Verletzungen fixieren.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2978</uiIndex>
-		<szItemName>Big Med Kit</szItemName>
-		<szLongItemName>Big Medical Kit</szLongItemName>
-		<szItemDesc>If bigger is better then this big med kit ups the ante and includes all the usual things you expect in a standard med kit, only more!</szItemDesc>
-		<szBRName>Big Medical Kit</szBRName>
-		<szBRDesc>For those extended journeys or longer operations this Große kit includes all the items you expect in a standard med kit only more of them and in a Großer capacity pack.</szBRDesc>
+		<szItemName>Großer Verbandskasten</szItemName>
+		<szLongItemName>Großer Verbandskasten</szLongItemName>
+		<szItemDesc>Wenn größer besser ist, dann setzt dieses große Medizinkit noch einen drauf und enthält alles, was Sie in einem Standard-Medizinkit brauchen, nur mehr!</szItemDesc>
+		<szBRName>Großer Verbandskasten</szBRName>
+		<szBRDesc>Für längere Reisen oder längere Einsätze enthält dieses große Set alle Artikel, die Sie in einem Standard-Medikit benötigen, nur mehr davon und in einem größeren Format.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2979</uiIndex>
@@ -24006,34 +24006,34 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>3001</uiIndex>
-		<szItemName>Parachute</szItemName>
-		<szLongItemName>MC-4 Parachute</szLongItemName>
-		<szItemDesc>As one can see from the cut ropes, this parachute has already been used and its one-time performance is a thing of the past. At least the quality fabric can keep the wearer nice and warm.</szItemDesc>
-		<szBRName>MC-4 Parachute</szBRName>
+		<szItemName>Fallschirm</szItemName>
+		<szLongItemName>MC-4 Fallschirm</szLongItemName>
+		<szItemDesc>Wie man an den geschnittenen Seilen sehen kann, ist dieser Fallschirm schon gebraucht worden und seine Einmalleistung gehört der Vergangenheit an. Wenigstens kann der Qualitätsstoff den Träger schön warm halten.</szItemDesc>
+		<szBRName>MC-4 Fallschirm</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3002</uiIndex>
-		<szItemName>Voodoo Doll</szItemName>
-		<szLongItemName>Voodoo Doll</szLongItemName>
-		<szItemDesc>Dolls of voodoo all stuck with pins, one for each of us and our sins. This little voodoo doll seems to be worn and battered, maybe not a good thing.</szItemDesc>
-		<szBRName>Voodoo Doll</szBRName>
-		<szBRDesc>I can't guarantee the effects of voodoo dolls. But if you believe in it, it will surely bring some changes to your life. Nicht zu verkaufen.</szBRDesc>
+		<szItemName>Voodoo-Puppe</szItemName>
+		<szLongItemName>Voodoo-Puppe</szLongItemName>
+		<szItemDesc>Voodoo-Püppchen, mit Nadeln bestückt, eine für jede  unserer Sünden. Diese kleine Voodoo-Puppe scheint abgenutzt und ramponiert zu sein, vielleicht keine gute Sache.</szItemDesc>
+		<szBRName>Voodoo-Puppe</szBRName>
+		<szBRDesc>Ich kann keine Garantie für die Wirkung von Voodoo-Puppen geben. Aber wenn Sie daran glauben, wird es sicherlich einige Veränderungen in Ihr Leben bringen. Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3003</uiIndex>
-		<szItemName>Talisman</szItemName>
-		<szLongItemName>Ancient Talisman</szLongItemName>
-		<szItemDesc>This heavy metal object is cold to the touch, its oGurtins is unknown but it seems very old yet still solid. Wearing it close to the body seems to give its wearer a slight boost of perception. On its back side says: "What's good is often forgotten, what's bad is often hidden."</szItemDesc>
-		<szBRName>Talisman</szBRName>
+		<szItemName>Talismann</szItemName>
+		<szLongItemName>Antiker Talismann</szLongItemName>
+		<szItemDesc>Dieser schwere Metallkörper fühlt sich kalt an, seine Herkunft ist unbekannt, aber er scheint sehr alt und solide zu sein. Wenn man es eng am Körper trägt, scheint es seinem Träger einen leichten Wahrnehmungsschub zu geben. Auf seiner Rückseite steht: "Was gut ist, wird oft vergessen, was schlecht ist, wird oft versteckt."</szItemDesc>
+		<szBRName>Talismann</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3004</uiIndex>
-		<szItemName>Casio Watch</szItemName>
-		<szLongItemName>Casio Watch</szLongItemName>
-		<szItemDesc>This amazing clock not only tells the time with dead accuracy but also has the ability to crunch the most demanding numbers from your grocery list.</szItemDesc>
-		<szBRName>Casio Watch</szBRName>
+		<szItemName>Casio Armbanduhr</szItemName>
+		<szLongItemName>Casio Armbanduhr</szLongItemName>
+		<szItemDesc>Diese fantastische Uhr zeigt nicht nur die Zeit mit absoluter Genauigkeit an, sondern ist auch in der Lage, die kompliziertesten Zahlen von Ihrer Einkaufsliste zu verarbeiten.</szItemDesc>
+		<szBRName>Casio Armbanduhr</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -24047,33 +24047,33 @@
 	<ITEM>
 		<uiIndex>3006</uiIndex>
 		<szItemName>Finger</szItemName>
-		<szLongItemName>American Patriotic Finger</szLongItemName>
-		<szItemDesc>USA! USA! USA! Probably belongs to some American football fan that woke up a long way from home.</szItemDesc>
-		<szBRName>American Patriotic Finger</szBRName>
+		<szLongItemName>Amerikanisch-Patriotischer Finger</szLongItemName>
+		<szItemDesc>USA! USA! USA! Gehört wahrscheinlich einem amerikanischen Football-Fan, der weit weg von zu Hause aufgewacht ist.</szItemDesc>
+		<szBRName>Amerikanisch-Patriotischer Finger</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3007</uiIndex>
-		<szItemName>Peace Pipe</szItemName>
-		<szLongItemName>Peace Pipe</szLongItemName>
-		<szItemDesc>This "Peace pipe" or Calumet is a ceremonial smoking pipe used by some indigenous American nations. Traditionally it has been smoked to seal a covenant or treaty, or to offer prayers in a ceremony. It smells of spices and celestial herbs.</szItemDesc>
-		<szBRName>Peace Pipe</szBRName>
-		<szBRDesc>More Indian garbage? Well Jimmy this is Nicht zu verkaufen.</szBRDesc>
+		<szItemName>Friedenspfeife</szItemName>
+		<szLongItemName>Friedenspfeife</szLongItemName>
+		<szItemDesc>Diese "Friedenspfeife" ist eine zeremonielle Rauchpfeife, die von einigen Indianern Amerikas verwendet wird. Traditionell wird sie geraucht, um einen Bund oder einen Vertrag zu besiegeln oder um Gebete in einer Zeremonie zu sprechen. Sie riecht nach Gewürzen und himmlischen Kräutern.</szItemDesc>
+		<szBRName>Friedenspfeife</szBRName>
+		<szBRDesc>Noch mehr indischer Müll? Nun Jimmy, das ist nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3008</uiIndex>
-		<szItemName>Cellphone</szItemName>
-		<szLongItemName>DynaTAC 8000X Cellphone</szLongItemName>
-		<szItemDesc>Radiate confidence and importance with this handy transmobile cellular telephone, keep connected and be the center of attention especially when you're speaking obnoxiously loud as possible into this phone.</szItemDesc>
-		<szBRName>Cellphone</szBRName>
+		<szItemName>Mobiltelefon</szItemName>
+		<szLongItemName>DynaTAC 8000X Mobiltelefon</szLongItemName>
+		<szItemDesc>Strahlen Sie Selbstvertrauen und Wichtigkeit aus mit diesem handlichen Mobiltelefon. Bleiben Sie in Verbindung und stehen Sie im Mittelpunkt der Aufmerksamkeit, besonders wenn Sie so laut wie möglich in dieses Telefon sprechen.</szItemDesc>
+		<szBRName>Mobiltelefon</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3009</uiIndex>
-		<szItemName>Rune Stones</szItemName>
-		<szLongItemName>Rune Stones</szLongItemName>
-		<szItemDesc>A Kleine sack of stones etched with what appears to be runes, some give off a very weak glow. These are not ordinary stones, some are warm, others are cold. If real is what you can see, smell, taste and feel then 'real' is simply electrical signals interpreted by your brain.</szItemDesc>
-		<szBRName>Rune Stones</szBRName>
+		<szItemName>Runensteine</szItemName>
+		<szLongItemName>Runensteine</szLongItemName>
+		<szItemDesc>Ein Kleiner Sack mit Steinen, in die etwas eingraviert ist. Es scheint sich um Runen zu handeln, von denen einige ein sehr schwaches Leuchten abgeben. Dies sind keine gewöhnlichen Steine, einige sind warm, andere kalt. Wenn real ist, was man sehen, riechen, schmecken und fühlen kann, dann ist "real" einfach ein elektrisches Signal, das vom Gehirn interpretiert wird.</szItemDesc>
+		<szBRName>Runensteine</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -24086,42 +24086,42 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>3011</uiIndex>
-		<szItemName>Hard Hat</szItemName>
-		<szLongItemName>Gurtger's Hard Hat</szLongItemName>
-		<szItemDesc>This full brimmed aluminium hard hat is predominantly used in workplace environments, such as oil Gurts, protecting the head and eyes from falling objects, impact with other objects, debris and raining oil.</szItemDesc>
-		<szBRName>Oil Gurt Hard Hat</szBRName>
+		<szItemName>Schutzhelm</szItemName>
+		<szLongItemName>Gurtgers Schutzhelm</szLongItemName>
+		<szItemDesc>Dieser Aluminium-Helm wird vor allem in Arbeitsumgebungen verwendet, um Kopf und Augen vor herabfallenden Gegenständen, Schutt und Ölregen zu schützen.</szItemDesc>
+		<szBRName>Gurtgers öliger Schutzhelm</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3012</uiIndex>
-		<szItemName>Head</szItemName>
-		<szLongItemName>Morris' Head</szLongItemName>
-		<szItemDesc>He was one of those people who was enormously improved by death.</szItemDesc>
-		<szBRName>Morris' Head</szBRName>
+		<szItemName>Kopf</szItemName>
+		<szLongItemName>Morris Kopf</szLongItemName>
+		<szItemDesc>Er gehörte zu den Menschen, die durch den Tod eine enorme Aufwertung erfuhren.</szItemDesc>
+		<szBRName>Morris Kopf</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3013</uiIndex>
-		<szItemName>Beeper</szItemName>
-		<szLongItemName>Beeper</szLongItemName>
-		<szItemDesc>Feel like it's 1990 once again, and you have the edge at the office with this beeper, letting everyone know you're important. This revolutionary technology gives you that extra dimension of preparedness, ready to connect to the latest stocks, news, sports scores, weather, and traffic info.</szItemDesc>
-		<szBRName>Beeper</szBRName>
+		<szItemName>Piepser</szItemName>
+		<szLongItemName>Piepser</szLongItemName>
+		<szItemDesc>Fühlen Sie sich wie im Jahr 1990. Mit diesem Piepser haben Sie im Büro die Nase vorn und zeigen allen, dass Sie wichtig sind. Diese revolutionäre Technologie verleiht Ihnen eine zusätzliche Dimension der Bereitschaft, sich mit den neuesten Aktien, Nachrichten, Sportergebnissen, Wetter- und Verkehrsinformationen zu verbinden.</szItemDesc>
+		<szBRName>Piepser</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3014</uiIndex>
-		<szItemName>Belt</szItemName>
-		<szLongItemName>American Belt</szLongItemName>
-		<szItemDesc>If someone asks to see your ID and you show them your belt buckle, you might be a redneck.</szItemDesc>
-		<szBRName>Belt</szBRName>
+		<szItemName>Gürtel</szItemName>
+		<szLongItemName>Amerikanischer Gürtel</szLongItemName>
+		<szItemDesc>Wenn jemand deinen Ausweis sehen will und du zeigst ihm deine Gürtelschnalle, bist du möglicherweise ein Redneck.</szItemDesc>
+		<szBRName>Gürtel</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3015</uiIndex>
-		<szItemName>Cowboy Hat</szItemName>
-		<szLongItemName>Cowboy Hat</szLongItemName>
-		<szItemDesc>One of the greatest challenges in life is being yourself in a world that's trying to make you like everyone else, so start with this hat and build from there. It is not clear when the cowboy hat began to be named as such. Westerners Originally had no standard headwear.</szItemDesc>
-		<szBRName>Cowboy Hat</szBRName>
+		<szItemName>Cowboyhut</szItemName>
+		<szLongItemName>Cowboyhut</szLongItemName>
+		<szItemDesc>Eine der größten Herausforderungen im Leben ist es, man selbst zu sein in einer Welt, die versucht, einen wie alle anderen zu machen. Fangen Sie also mit diesem Hut an und bauen Sie darauf auf. Es ist nicht klar, wann der Cowboyhut anfing, als solcher bezeichnet zu werden. Ursprünglich gab es keine einheitliche Kopfbekleidung für Cowboys.</szItemDesc>
+		<szBRName>Cowboyhut</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -24134,40 +24134,40 @@
 		<uiIndex>3017</uiIndex>
 		<szItemName>Sombrero</szItemName>
 		<szLongItemName>Sombrero</szLongItemName>
-		<szItemDesc>Sombreros, like cowboy hats invented later, were designed in response to the demands of the physical environment. You'll hate me for the truth before you love me for a lie even if you're looking like a mexican farmer.</szItemDesc>
+		<szItemDesc>Sombreros, ebenso wie später erfundene Cowboyhüte, wurden als Antwort auf die Anforderungen der Umwelt entwickelt. Du wirst mich für die Wahrheit hassen, bevor du mich für eine Lüge liebst, selbst wenn du wie ein mexikanischer Bauer aussiehst.</szItemDesc>
 		<szBRName>Sombrero</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3018</uiIndex>
-		<szItemName>Necklace</szItemName>
-		<szLongItemName>Bloodcat Necklace</szLongItemName>
-		<szItemDesc>It is no measure of health to be well adjusted to a profoundly sick society. Get in touch with your wild side by wearing this extraordinary necklace featuring a chain of long bloodcat teeth and become one with nature's hidden confidence.</szItemDesc>
-		<szBRName>Bloodcat Necklace</szBRName>
+		<szItemName>-Halskette</szItemName>
+		<szLongItemName>Wildkatzen-Halskette</szLongItemName>
+		<szItemDesc>Es ist kein Zeichen von Gesundheit, sich an eine zutiefst kranke Gesellschaft anzupassen. Mit dieser außergewöhnlichen Halskette aus langen Wildkatzenzähnen kannst du mit deiner wilden Seite in Kontakt treten.</szItemDesc>
+		<szBRName>Wildkatzen-Halskette</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3019</uiIndex>
-		<szItemName>Fanny pack</szItemName>
-		<szLongItemName>Fanny pack</szLongItemName>
-		<szItemDesc>Neon forces unite in a powerful burst of fanny pack from RadFanny! Wearing this fanny pack may result in being 3 times more awesome, so don't say we didn't warn you! This pack is crucial for your next festival or day in the sun! It features three pockets with zipper closure, and adjustable belt.</szItemDesc>
-		<szBRName>Fanny pack</szBRName>
+		<szItemName>Umhängetasche</szItemName>
+		<szLongItemName>Umhängetasche</szLongItemName>
+		<szItemDesc>Kräftige Neonfarben vereinen sich in dieser Umhängetasche von RadFanny! Das Tragen dieser Umhängetasche kann dazu führen, dass du dich 3 Mal so geil fühlst, also sag nicht, wir hätten dich nicht gewarnt! Diese Tasche ist unverzichtbar für dein nächstes Festival oder einen Tag in der Sonne! Sie verfügt über drei Taschen mit Reißverschluss und einen verstellbaren Gürtel.</szItemDesc>
+		<szBRName>Umhängetasche</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3020</uiIndex>
-		<szItemName>Figurine</szItemName>
-		<szLongItemName>Mayan Figurine</szLongItemName>
-		<szItemDesc>The Mayans were a civilization filled with superstitious beliefs. The most notable of all, even today, is the link of the Mayans with extra-terrestrial beings. This figurine feels warm.</szItemDesc>
-		<szBRName>Figurine</szBRName>
+		<szItemName>Maya-Figur</szItemName>
+		<szLongItemName>Maya-Figur</szLongItemName>
+		<szItemDesc>Die Maya waren eine Zivilisation voller Aberglauben. Der bemerkenswerteste von allen, ist die Verbindung der Maya mit extraterrestrischen Wesen. Dieses Figürchen fühlt sich warm an.</szItemDesc>
+		<szBRName>Maya-Figur</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3021</uiIndex>
 		<szItemName>Hose</szItemName>
-		<szLongItemName>Muscle Hose</szLongItemName>
-		<szItemDesc>You're gonna be so fresh with these stylish parachute Hose! You will have people yelling at to you from a distance: "Cool beans! thats some rad Hose you got there" These were called various  names: Parachute, Muscle, Kamikaze and Commando Hose. Some had even had matching shirts.</szItemDesc>
-		<szBRName>Muscle Hose</szBRName>
+		<szLongItemName>Muskelhose</szLongItemName>
+		<szItemDesc>Mit dieser stylischen Hose werden Sie so richtig geil aussehen! Die Leute werden dich schon von weitem anschreien: "Coole Hose, die du da hast!"</szItemDesc>
+		<szBRName>Muskelhose</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -24186,10 +24186,10 @@
 		</ITEM>
 	<ITEM>
 		<uiIndex>3024</uiIndex>
-		<szItemName>Zippo Lighter</szItemName>
-		<szLongItemName>H&amp;B Zippo Lighter</szLongItemName>
-		<szItemDesc>Common sense is the most limited of all natural resources, good thing petroleum is in abundance. Need a light?</szItemDesc>
-		<szBRName>Zippo Lighter</szBRName>
+		<szItemName>Zippo-Feuerzeug</szItemName>
+		<szLongItemName>H&amp;B Zippo-Feuerzeug</szLongItemName>
+		<szItemDesc>Der gesunde Menschenverstand ist die begrenzteste aller natürlichen Ressourcen. Gut, dass Erdöl im Überfluss vorhanden ist. Brauchen Sie Licht?</szItemDesc>
+		<szBRName>Zippo-Feuerzeug</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 		<ITEM>
@@ -24202,130 +24202,130 @@
 		</ITEM>
 	<ITEM>
 		<uiIndex>3026</uiIndex>
-		<szItemName>Bloodcat Backpack</szItemName>
-		<szLongItemName>Tina's Bloodcat Pelt Backpack</szLongItemName>
-		<szItemDesc>A very unique backpack made out of bloodcat pelt with varied sized compartments for carrying items. This backpack seems to lighten the load compared to others.</szItemDesc>
-		<szBRName>Bloodcat Pelt Backpack</szBRName>
+		<szItemName>Wildkatzen-Rucksack</szItemName>
+		<szLongItemName>Tinas Wildkatzenpelz-Rucksack</szLongItemName>
+		<szItemDesc>Ein einzigartiger Rucksack aus Wildkatzenfell mit unterschiedlich großen Fächern für den Transport von Gegenständen. Dieser Rucksack scheint die Last im Vergleich zu anderen zu erleichtern.</szItemDesc>
+		<szBRName>Tinas Wildkatzenpelz-Rucksack</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3027</uiIndex>
-		<szItemName>Fawkes Mask</szItemName>
-		<szLongItemName>Guy Fawkes Mask</szLongItemName>
-		<szItemDesc>History is a lie. Religion is a control system. Money is a hoax. Debt is fiction. Media is manipulation. Government is a corporation. The system is a lie. And when exposing a crime is Behandelte as committing a crime, you are ruled by criminals.</szItemDesc>
-		<szBRName>Guy Fawkes Mask</szBRName>
+		<szItemName>Anonymous Maske</szItemName>
+		<szLongItemName>Anonymous Maske</szLongItemName>
+		<szItemDesc>Die Geschichte ist eine Lüge. Religion ist ein Kontrollsystem. Geld ist ein Schwindel. Verschuldung ist eine Fiktion. Medien sind Manipulation. Die Regierung ist ein Unternehmen. Das System ist eine Lüge. Und wenn die Aufdeckung eines Verbrechens als Straftat behandelt wird, wird man von Kriminellen regiert.</szItemDesc>
+		<szBRName>Anonymous Maske</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3028</uiIndex>
-		<szItemName>Dwight's Sample</szItemName>
-		<szLongItemName>Flask of Bull Semen</szLongItemName>
-		<szItemDesc>This Dewar flask made by the J.A.M. corp was one of the best cryogenic containers available in the 90's. This one has a built-in temperature display, a carry handle, and contains a Große sample of bull's semen. Just make sure you don't pour this into your morning coffee by accident.</szItemDesc>
-		<szBRName>Thermo Tech 9000 5 liter</szBRName>
+		<szItemName>Dwight's Probe</szItemName>
+		<szLongItemName>Fläschchen mit Stiersperma</szLongItemName>
+		<szItemDesc>Dieser Dewar-Behälter der Firma J.A.M. war in den 90er Jahren einer der besten kryogenen Behälter auf dem Markt. Dieses Exemplar hat eine eingebaute Temperaturanzeige, einen Tragegriff und enthält eine große Probe Stiersperma. Achten Sie nur darauf, dass Sie es nicht versehentlich in Ihren Morgenkaffee schütten.</szItemDesc>
+		<szBRName>Thermo Tech 9000, 5 Liter</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3029</uiIndex>
-		<szItemName>Head</szItemName>
-		<szLongItemName>Mendax' Head</szLongItemName>
-		<szItemDesc>Mendax will not be able to try and change the system anymore. Better hurry up and cash in this head before it causes more problems, but then again nothing says 'Welcome aboard!' quicker than bringing along Lagrange's head at a job interview for the FBI, CIA or NSA!</szItemDesc>
-		<szBRName>Mendax' Head</szBRName>
+		<szItemName>Kopf</szItemName>
+		<szLongItemName>Mendax Kopf</szLongItemName>
+		<szItemDesc>Mendax wird nicht mehr versuchen können, das System zu ändern. Wir sollten uns beeilen und diesen Kopf eintauschen, bevor er noch mehr Probleme verursacht, aber nichts sagt schneller "Willkommen an Bord!", als Lagranges Kopf zu einem Vorstellungsgespräch beim FBI, der CIA oder der NSA mitzubringen!</szItemDesc>
+		<szBRName>Mendax Kopf</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3030</uiIndex>
-		<szItemName>Briefing</szItemName>
-		<szLongItemName>Mission Briefing</szLongItemName>
-		<szItemDesc>This contains information about your mission. It indicates searching for witnesses or survivors of the attack at the training camp at B9 and to seek out a contact in the A10 hideout.</szItemDesc>
-		<szBRName>Mission Briefing</szBRName>
+		<szItemName>Einsatzbesprechung</szItemName>
+		<szLongItemName>Einsatzbesprechung</szLongItemName>
+		<szItemDesc>Dies enthält Informationen über Ihre Mission. Sie besagt, dass Sie nach Zeugen oder Überlebenden des Angriffs auf das Ausbildungslager in B9 suchen und einen Kontakt im Versteck in A10 ausfindig machen sollen.</szItemDesc>
+		<szBRName>Einsatzbesprechung</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3031</uiIndex>
-		<szItemName>Journal Page</szItemName>
-		<szLongItemName>Journal Page</szLongItemName>
-		<szItemDesc>The last entry reads: "These miserable bastards! There must have been a traitor among us as the attackers knew exactly where and when to strike. Now the training camp has been destroyed."</szItemDesc>
-		<szBRName>Journal Page</szBRName>
+		<szItemName>Tagebuch-Seite</szItemName>
+		<szLongItemName>Tagebuch-Seite</szLongItemName>
+		<szItemDesc>Der letzte Eintrag lautet: "Diese elenden Bastarde! Es muss einen Verräter unter uns gegeben haben, denn die Angreifer wussten genau, wo und wann sie zuschlagen mussten. Jetzt ist das Ausbildungslager zerstört."</szItemDesc>
+		<szBRName>Tagebuch-Seite</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3032</uiIndex>
-		<szItemName>Contract</szItemName>
-		<szLongItemName>Articles of Traineeship</szLongItemName>
-		<szItemDesc>A contract between the A.I.M. personnel office and Kevin Rubins. It states that he will complete his apprenticeship (with certificate) for a security specialist free of charge when gaining practical experience within a relief project.</szItemDesc>
-		<szBRName>Articles of Traineeship</szBRName>
+		<szItemName>Vertrag</szItemName>
+		<szLongItemName>Praktikumsvertrag</szLongItemName>
+		<szItemDesc>Ein Vertrag zwischen dem A.I.M. Personalbüro und Kevin Rubins. Darin heißt es, dass er seine Ausbildung (mit Zertifikat) zur Sicherheitsfachkraft kostenlos absolvieren wird, wenn er praktische Erfahrungen im Rahmen eines Hilfsprojekts sammelt.</szItemDesc>
+		<szBRName>Praktikumsvertrag</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3033</uiIndex>
-		<szItemName>Instructions</szItemName>
-		<szLongItemName>Instructions</szLongItemName>
-		<szItemDesc>Hand written instructions directed to James Tnagal and countersigned by his superior Igmus Palkov. "Greetings James, we received a new weapon system, which I will provide to you for testing purposes."</szItemDesc>
-		<szBRName>Instructions</szBRName>
+		<szItemName>Anweisungen</szItemName>
+		<szLongItemName>Anweisungen</szLongItemName>
+		<szItemDesc>Handschriftliche Anweisungen, die an James Tnagal gerichtet und von seinem Vorgesetzten Igmus Palkov gegengezeichnet wurden. "Seien Sie gegrüßt, James, wir haben ein neues Waffensystem erhalten, das ich Ihnen zu Testzwecken zur Verfügung stellen möchte."</szItemDesc>
+		<szBRName>Anweisungen</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3034</uiIndex>
 		<szItemName>Video</szItemName>
-		<szLongItemName>Video Recording</szLongItemName>
-		<szItemDesc>Hi, Natsuko here, your frantic female reporter. What you will hear soon, will make it clear what the Arulco conflict is all about, since I am going to inconspicuously eavesdrop on a very important meeting.</szItemDesc>
-		<szBRName>Video Recording</szBRName>
+		<szLongItemName>Videoaufzeichnung</szLongItemName>
+		<szItemDesc>Hallo, hier ist Natsuko, eure wilde Reporterin. Was du gleich hören wirst, wird dir klar machen, worum es bei dem Arulco-Konflikt geht, denn ich habe vor, unauffällig ein sehr wichtiges Treffen zu belauschen.</szItemDesc>
+		<szBRName>Videoaufzeichnung</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3035</uiIndex>
-		<szItemName>Letter</szItemName>
-		<szLongItemName>Letter</szLongItemName>
-		<szItemDesc>A confidential letter addressed to the supreme command of Tracona, Col. Morris. "PS: I have observed you performing secret missions within Arulco, to take care of jobs which our army cannot conduct. Signed - Lt. Gilitt."</szItemDesc>
-		<szBRName>Letter</szBRName>
+		<szItemName>Brief</szItemName>
+		<szLongItemName>Brief</szLongItemName>
+		<szItemDesc>Ein vertraulicher Brief an den Oberbefehlshaber von Tracona, Col. Morris. "PS: Ich habe beobachtet, dass Sie in Arulco geheime Missionen durchführen, um Aufgaben zu erledigen, die unsere Armee nicht ausführen kann. Gezeichnet - Lt. Gilitt."</szItemDesc>
+		<szBRName>Brief</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3036</uiIndex>
-		<szItemName>Notes</szItemName>
-		<szLongItemName>Notes</szLongItemName>
-		<szItemDesc>Notes on scrunched paper bearing the sign of the Arulkanische internment camp: "My life as a body guard, chapter 2, assignment in Arulco: This is how I failed for the first time; when my target was shot right in front of my eyes."</szItemDesc>
-		<szBRName>Notes</szBRName>
+		<szItemName>Notizen</szItemName>
+		<szLongItemName>Notizen</szLongItemName>
+		<szItemDesc>Notizen auf zerknittertem Papier mit dem Zeichen des arulkanischen Internierungslagers: "Mein Leben als Leibwächter", Kapitel 2, Einsatz in Arulco: "So habe ich zum ersten Mal versagt, als mein Ziel direkt vor meinen Augen erschossen wurde."</szItemDesc>
+		<szBRName>Notizen</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3037</uiIndex>
-		<szItemName>GPS Data</szItemName>
-		<szLongItemName>GPS Data</szLongItemName>
-		<szItemDesc>These GPS coordinates allow aiming of the SCUD weapon system in G16 at Alma, provided one has direct access to the targeting system.</szItemDesc>
-		<szBRName>GPS Data</szBRName>
+		<szItemName>GPS Daten</szItemName>
+		<szLongItemName>GPS Daten</szLongItemName>
+		<szItemDesc>Diese GPS-Koordinaten ermöglichen die Ausrichtung des SCUD-Waffensystems in G16 bei Alma, sofern man direkten Zugang zum Zielsystem hat.</szItemDesc>
+		<szBRName>GPS Daten</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3038</uiIndex>
-		<szItemName>Authorisation</szItemName>
-		<szLongItemName>MLRS Authorisation</szLongItemName>
-		<szItemDesc>These handwritten orders from Enrico Chivaldori give you full co-operation from Arulkanische MLRS units during your planned incursion into Tracona territory.</szItemDesc>
-		<szBRName>MLRS Authorisation</szBRName>
+		<szItemName>Genehmigung</szItemName>
+		<szLongItemName>MLRS-Genehmigung</szLongItemName>
+		<szItemDesc>Mit diesen handschriftlichen Befehlen von Enrico Chivaldori erhalten Sie die volle Unterstützung der arulkanischen MLRS-Einheiten bei Ihrem geplanten Vorstoß in das Gebiet von Tracona.</szItemDesc>
+		<szBRName>MLRS Genehmigung</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3039</uiIndex>
-		<szItemName>Authorisation</szItemName>
-		<szLongItemName>SCUD Authorisation</szLongItemName>
-		<szItemDesc>The explicit authorisation to deploy the SCUD weapon system against I14 and H14 sectors of Alma.</szItemDesc>
-		<szBRName>SCUD Authorisation</szBRName>
+		<szItemName>Genehmigung</szItemName>
+		<szLongItemName>SCUD Genehmigung</szLongItemName>
+		<szItemDesc>Die ausdrückliche Genehmigung zum Einsatz des SCUD-Waffensystems gegen die Sektoren I14 und H14 von Alma.</szItemDesc>
+		<szBRName>SCUD Genehmigung</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3040</uiIndex>
-		<szItemName>Voodoo Doll</szItemName>
-		<szLongItemName>Voodoo Barbie Doll</szLongItemName>
-		<szItemDesc>An old Barbie doll with what looks like used syringe needles pierced all through it. Her empty eye sockets look at you with contempt. Hope you didn't plan on sleeping tonight.</szItemDesc>
-		<szBRName>Voodoo Barbie Doll</szBRName>
+		<szItemName>Voodoo-Puppe</szItemName>
+		<szLongItemName>Voodoo Barbie Puppe</szLongItemName>
+		<szItemDesc>Eine alte Barbiepuppe, die von etwas durchbohrt ist, das wie gebrauchte Spritzennadeln aussieht. Ihre leeren Augenhöhlen schauen dich mit Verachtung an. Ich hoffe, du hast nicht vor, heute Nacht zu schlafen.</szItemDesc>
+		<szBRName>Voodoo Barbie Puppe</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3041</uiIndex>
-		<szItemName>GPS Decoder</szItemName>
-		<szLongItemName>GPS Decoder</szLongItemName>
-		<szItemDesc>A laptop with an external GPS decoder which is connected via LAN to the targeting system of the SCUD weapon system.</szItemDesc>
-		<szBRName>GPS Decoder</szBRName>
+		<szItemName>GPS-Dekodierer</szItemName>
+		<szLongItemName>GPS-Dekodierer</szLongItemName>
+		<szItemDesc>Ein Laptop mit einem externen GPS-Dekodierer, der über LAN mit dem Zielsystem des SCUD-Waffensystems verbunden ist.</szItemDesc>
+		<szBRName>GPS-Dekodierer</szBRName>
 		<szBRDesc>Nicht zu verkaufen.</szBRDesc>
 	</ITEM>
 	<ITEM>
