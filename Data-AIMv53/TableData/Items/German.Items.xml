@@ -2809,9 +2809,9 @@
     <uiIndex>350</uiIndex>
     <szItemName>SG540</szItemName>
     <szLongItemName>SIG SG540</szLongItemName>
-    <szItemDesc>Ein weitere Modell aus der SIG Sturmgewehr Baureihe.</szItemDesc>
+    <szItemDesc>Das SG540 ist nicht nur weltweit im Einsatz, sondern diente auch als Prototyp für die Entwicklung mehrerer anderer Feuerwaffen.</szItemDesc>
     <szBRName>SIG SG540</szBRName>
-    <szBRDesc>Ein weitere Modell aus der SIG Sturmgewehr Baureihe.</szBRDesc>
+    <szBRDesc>Qualität aus der Schweiz. Dieses Sturmgewehr, das im AK-Stil konstruiert wurde, hat seine eigenen Varianten hervorgebracht.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>351</uiIndex>
@@ -5218,19 +5218,19 @@
   </ITEM>
   <ITEM>
     <uiIndex>651</uiIndex>
-    <szItemName>FN SCAR-H</szItemName>
-    <szLongItemName>FN SCAR-H</szLongItemName>
-    <szItemDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, hier die CQC-Ausführung für den Nahkampf.</szItemDesc>
-    <szBRName>FN SCAR-H</szBRName>
-    <szBRDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, welche zu 90%% baugleich sind. Hier das Modell SCAR-Heavy als 'Close Qarter Combat' Ausführung für den Nahkampf.</szBRDesc>
+    <szItemName>FN SCAR-H CQC</szItemName>
+    <szLongItemName>FN SCAR-H CQC</szLongItemName>
+    <szItemDesc>Das SCAR ist das neueste Produkt von FN auf dem Gebiet der militärischen Bewaffnung. Das "H" steht für "Heavy" und bezieht sich auf diese Version, welche die 7.62mm NATO-Patrone verschießt. CQC bezeichnet die kürzeste Version für den Kampf in dichtem Terrain.</szItemDesc>
+    <szBRName>FN SCAR-H CQC</szBRName>
+    <szBRDesc>Das US SOCOM hat 2003 eine Ausschreibung für die Beschaffung von SOF Combat Assault Rifles (SCAR) veröffentlicht, und das ist das, was FN vorgelegt hat. Vielfältig anpassbar und extrem langlebig - wenn eine Waffe jemals vielversprechend war, dann die SCAR.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>652</uiIndex>
-    <szItemName>FN SCAR-L</szItemName>
-    <szLongItemName>FN SCAR-L</szLongItemName>
-    <szItemDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, hier die CQC-Ausführung für den Nahkampf.</szItemDesc>
-    <szBRName>FN SCAR-L</szBRName>
-    <szBRDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, welche zu 90%% baugleich sind. Hier das Modell SCAR-Light als 'Close Qarter Combat' Ausführung für den Nahkampf.</szBRDesc>
+    <szItemName>FN SCAR-L CQC</szItemName>
+    <szLongItemName>FN SCAR-L CQC</szLongItemName>
+    <szItemDesc>FNs neueste Ergänzung der SCAR-Familie ist die "L"- oder Light-Version mit dem Kaliber 5.56mm NATO. Die CQC-Version ist für den Einsatz im Freien oder in dichtem Gelände gedacht.</szItemDesc>
+    <szBRName>FN SCAR-L CQC</szBRName>
+    <szBRDesc>Das FN SCAR wurde entwickelt, um mehr Anpassungsmöglichkeiten zu bieten als jede andere Waffe, Punkt. Experten sind sich einig: Es ist nahezu perfekt. Diese Version ist für die leichtere 5.56mm NATO-Munition ausgelegt.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>653</uiIndex>
@@ -5709,9 +5709,9 @@
     <uiIndex>712</uiIndex>
     <szItemName>SG542</szItemName>
     <szLongItemName>SIG SG542</szLongItemName>
-    <szItemDesc>Ein weitere Modell aus der SIG Sturmgewehr Baureihe.</szItemDesc>
+    <szItemDesc>Das SG 542 ist das 7.62mm NATO-Brudermodell des SIG 540 und gehört in vielen Ländern zur Standardausrüstung der Armee.</szItemDesc>
     <szBRName>SIG SG542</szBRName>
-    <szBRDesc>Ein weitere Modell aus der SIG Sturmgewehr Baureihe.</szBRDesc>
+    <szBRDesc>Waffen aus Schweizer Produktion sind ein Garant für Zuverlässigkeit, und die SG 542 bildet da keine Ausnahme.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>713</uiIndex>
@@ -6311,17 +6311,17 @@
     <uiIndex>787</uiIndex>
     <szItemName>SCAR-H SV</szItemName>
     <szLongItemName>FN SCAR-H SV</szLongItemName>
-    <szItemDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, hier eine Präzisionsausführung für Scharfschützen.</szItemDesc>
+    <szItemDesc>Das SCAR ist das neueste Angebot von FN im Bereich der militärischen Bewaffnung. Das "H" steht für "Heavy" und bezieht sich auf diese Version, die mit der 7.62mm NATO Munition verschossen wird. Dies ist die Scharfschützenvariante.</szItemDesc>
     <szBRName>FN SCAR-H SV</szBRName>
-    <szBRDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, hier eine Präzisionsausführung für Scharfschützen.</szBRDesc>
+    <szBRDesc>Dieses 7.62 NATO SCAR ist perfekt für Präzisionsschüsse auf große Entfernungen kalibriert und ermöglicht es Ihnen, Ziele auf mehr als 700 Meter zu treffen. Das gasbetriebene Kolbendesign absorbiert den Rückstoß effizient, um die Zielerfassung aufrechtzuerhalten.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>788</uiIndex>
     <szItemName>SCAR-L SV</szItemName>
     <szLongItemName>FN SCAR-L SV</szLongItemName>
-    <szItemDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, hier eine Präzisionsausführung für Scharfschützen.</szItemDesc>
+    <szItemDesc>Die neueste Ergänzung der SCAR-Familie von FN ist die "L"- oder Light-Version mit dem Kaliber 5.56 mm NATO. Dies ist die Scharfschützenvariante.</szItemDesc>
     <szBRName>FN SCAR-L SV</szBRName>
-    <szBRDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, hier eine Präzisionsausführung für Scharfschützen.</szBRDesc>
+    <szBRDesc>Für diejenigen, welche die legendäre SCAR mit NATO Munition verschießen wollen, empfehlen wir diese Scharfschützenvariante in den bekannten flachen dunklen Erdtönen von Fabrique Nationale.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>789</uiIndex>
@@ -6335,33 +6335,33 @@
     <uiIndex>790</uiIndex>
     <szItemName>SCAR-WP CQC</szItemName>
     <szLongItemName>FN SCAR-WP CQC</szLongItemName>
-    <szItemDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, hier die CQC-Ausführung für den Nahkampf.</szItemDesc>
+    <szItemDesc>Das SCAR ist das neueste Angebot von FN im Bereich der militärischen Bewaffnung. Das "WP" bezieht sich auf diese Version, die 7.62mm WP-Patronen verschießt. CQC bezeichnet die kürzeste Version für den Kampf in dichtem Terrain.</szItemDesc>
     <szBRName>FN SCAR-WP CQC</szBRName>
-    <szBRDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, hier die CQC-Ausführung für den Nahkampf.</szBRDesc>
+    <szBRDesc>Für diejenigen, welche die unübertroffene FN-Qualität zum Abfeuern von WP-Munition auf engem Raum wünschen, empfehlen wir dieses Gewehr, das die nötige Zuverlässigkeit, Genauigkeit, Ergonomie und Modularität bietet, um jede Herausforderung zu meistern.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>791</uiIndex>
     <szItemName>SCAR-WP SV</szItemName>
     <szLongItemName>FN SCAR-WP SV</szLongItemName>
-    <szItemDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, hier eine Präzisionsausführung für Scharfschützen.</szItemDesc>
+    <szItemDesc>Das SCAR ist das neueste Angebot von FN im Bereich der militärischen Bewaffnung. Das "WP" bezieht sich auf diese Version, die 7.62mm WP-Patronen verschießt. Hier eine Präzisionsausführung für Scharfschützen.</szItemDesc>
     <szBRName>FN SCAR-WP SV</szBRName>
-    <szBRDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, hier eine Präzisionsausführung für Scharfschützen.</szBRDesc>
+    <szBRDesc>Es gibt keinen besseren Zeitpunkt, um das neue Flaggschiff unter den Kampfgewehren auszuprobieren. Diese Scharfschützenvariante zeichnet sich durch die gleiche Qualität und Flexibilität bei der Anpassung aus wie andere FN SCAR-Gewehre.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>792</uiIndex>
     <szItemName>SCAR-68 CQC</szItemName>
     <szLongItemName>FN SCAR-68 CQC</szLongItemName>
-    <szItemDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, hier die CQC-Ausführung für den Nahkampf.</szItemDesc>
+    <szItemDesc>Diese CQC-Version der SCAR-L wurde für den Einsatz der 6.8mm SPC-Patrone umgebaut.</szItemDesc>
     <szBRName>FN SCAR-68 CQC</szBRName>
-    <szBRDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, welche zu 90% baugleich sind. Hier das Modell SCAR-Light als 'Close Qarter Combat' Ausführung für den Nahkampf.</szBRDesc>
+    <szBRDesc>Für diejenigen, die die 6.8mm Spezialpatrone und ihre inhärenten Vorteile bei städtischen Einsätzen nutzen wollen, ist die leicht umbaubare SCAR-68 die Waffe der Wahl.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>793</uiIndex>
     <szItemName>SCAR-68 SV</szItemName>
     <szLongItemName>FN SCAR-68 SV</szLongItemName>
-    <szItemDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, hier eine Präzisionsausführung für Scharfschützen.</szItemDesc>
+    <szItemDesc>Diese Scharfschützenvariante des SCAR-L wurde für das neue 6,8x43mm SPC-Geschoss umgerüstet.</szItemDesc>
     <szBRName>FN SCAR-68 SV</szBRName>
-    <szBRDesc>Das SCAR ist das zukünftige Multikalibergewehr der US-Special Forces. Es ist in verschiedenen Versionen verfügbar, hier eine Präzisionsausführung für Scharfschützen.</szBRDesc>
+    <szBRDesc>Diese leicht umgerüstete SCAR-68 wird für diejenigen angeboten, welche die 6.8mm Spezialpatrone für Scharfschützeneinsätze nutzen wollen.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>794</uiIndex>
