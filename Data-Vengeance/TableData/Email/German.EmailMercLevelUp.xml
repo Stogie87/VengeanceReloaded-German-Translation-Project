@@ -1064,8 +1064,8 @@
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>206</uiIndex>
-		<Subject>Subject : None</Subject>
-		<Message>Message : None</Message>
+		<Subject>Benachrichtigung über Solderhöhung</Subject>
+		<Message>Hiermit geben wir zur Kenntnis, daß aufgrund von Wildcats guten Leistungen in der Vergangenheit ihr Sold erhöht wurde. Ich persönlich bin darüber nicht überrascht. ± ± Speck T. Kline ± </Message>
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>207</uiIndex>
@@ -1073,14 +1073,15 @@
 		<Message>Message : None</Message>
 	</EMAIL>
 	<EMAIL>
+		<!-- Arsenal -->
 		<uiIndex>208</uiIndex>
-		<Subject>Subject : None</Subject>
-		<Message>Message : None</Message>
+		<Subject>Benachrichtigung über Solderhöhung</Subject>
+		<Message>Hiermit geben wir zur Kenntnis, daß aufgrund von Arsenals guten Leistungen in der Vergangenheit sein Sold erhöht wurde. Ich persönlich bin darüber nicht überrascht. ± ± Speck T. Kline ± </Message>
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>209</uiIndex>
-		<Subject>Subject : None</Subject>
-		<Message>Message : None</Message>
+		<Subject>Benachrichtigung über Solderhöhung</Subject>
+		<Message>Hiermit geben wir zur Kenntnis, daß aufgrund von Ashs guten Leistungen in der Vergangenheit sein Sold erhöht wurde. Ich persönlich bin darüber nicht überrascht. ± ± Speck T. Kline ± </Message>
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>210</uiIndex>
@@ -1104,8 +1105,8 @@
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>214</uiIndex>
-		<Subject>Subject : None</Subject>
-		<Message>Message : None</Message>
+		<Subject>Benachrichtigung über Solderhöhung</Subject>
+		<Message>Hiermit geben wir zur Kenntnis, daß aufgrund von Siouxs guten Leistungen in der Vergangenheit sein Sold erhöht wurde. Ich persönlich bin darüber nicht überrascht. ± ± Speck T. Kline ± </Message>
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>215</uiIndex>
@@ -1119,18 +1120,18 @@
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>217</uiIndex>
-		<Subject>Subject : None</Subject>
-		<Message>Message : None</Message>
+		<Subject>Benachrichtigung über Solderhöhung</Subject>
+		<Message>Hiermit geben wir zur Kenntnis, daß aufgrund von Discos guten Leistungen in der Vergangenheit sein Sold erhöht wurde. Ich persönlich bin darüber nicht überrascht. ± ± Speck T. Kline ± </Message>
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>218</uiIndex>
-		<Subject>Subject : None</Subject>
-		<Message>Message : None</Message>
+		<Subject>Benachrichtigung über Solderhöhung</Subject>
+		<Message>Hiermit geben wir zur Kenntnis, daß aufgrund von Eskimos guten Leistungen in der Vergangenheit sein Sold erhöht wurde. Ich persönlich bin darüber nicht überrascht. ± ± Speck T. Kline ± </Message>
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>219</uiIndex>
-		<Subject>Subject : None</Subject>
-		<Message>Message : None</Message>
+		<Subject>Benachrichtigung über Solderhöhung</Subject>
+		<Message>Hiermit geben wir zur Kenntnis, daß aufgrund von Hustlers guten Leistungen in der Vergangenheit ihr Sold erhöht wurde. Ich persönlich bin darüber nicht überrascht. ± ± Speck T. Kline ± </Message>
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>220</uiIndex>
@@ -1168,6 +1169,7 @@
 		<Message>Hiermit geben wir zur Kenntnis, daß aufgrund von Sams guten Leistungen in der Vergangenheit sein Sold erhöht wurde. Ich persönlich bin darüber nicht überrascht. ± ± Speck T. Kline ± </Message>
 	</EMAIL>
 	<EMAIL>
+		<!-- Hurl -->
 		<uiIndex>227</uiIndex>
 		<Subject>Benachrichtigung über Solderhöhung</Subject>
 		<Message>Bitte nehmen Sie zur Kenntnis, daß Hurls Bezüge für seine geleisteten Dienste mit sofortiger Wirkung erhöht wurden in Anpassung an seine verbesserten Fähigkeiten. ± ± Speck T. Kline ± </Message>
