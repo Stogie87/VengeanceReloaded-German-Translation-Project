@@ -2443,7 +2443,7 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 		<ShortName>Eldor.</ShortName>
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\eldorado.sti</StiFaceIcon>
-		<SeatingCapacities>6</SeatingCapacities>
+		<SeatingCapacities>8</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
@@ -2459,7 +2459,7 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 		<ShortName>Jeep</ShortName>		
 		<MvtTypes>2</MvtTypes>
 		<StiFaceIcon>INTERFACE\ice Cream Truck.sti</StiFaceIcon>
-		<SeatingCapacities>4</SeatingCapacities>
+		<SeatingCapacities>8</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
@@ -2493,7 +2493,7 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 		<ShortName>Tank</ShortName>	
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon></StiFaceIcon>
-		<SeatingCapacities>6</SeatingCapacities>
+		<SeatingCapacities>8</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>167</VehicleArmourType>
