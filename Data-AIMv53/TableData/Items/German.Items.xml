@@ -2164,13 +2164,11 @@
   </ITEM>
   <ITEM>
     <uiIndex>270</uiIndex>
-    <szItemName>Nada</szItemName>
-
-    <szLongItemName>Nichts</szLongItemName>
+    <szItemName>Gas für Kleinkreaturen</szItemName>
+    <szLongItemName>Gas für Kleinkreaturen</szLongItemName>
     <szItemDesc>Index 270</szItemDesc>
-
-    <szBRName>Nichts</szBRName>
-    <szBRDesc>Nichts</szBRDesc>
+    <szBRName>Gas für Kleinkreaturen</szBRName>
+    <szBRDesc>Gas für Kleinkreaturen</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>271</uiIndex>
@@ -7747,7 +7745,7 @@
     <szLongItemName>40mm Senfgas-Granate</szLongItemName>
     <szItemDesc>Diese Granaten setzen ein farb-, geruch- und geschmackloses Gas frei, das schwere Verätzungen in der Lunge verursacht. Ohne sofortige medizinische Hilfe stirbt das Opfer.</szItemDesc>
     <szBRName>40mm SG-Granate</szBRName>
-    <szBRDesc> Diese Granaten setzen ein farb-, geruch- und geschmackloses Gas frei, das schwere Verätzungen in der Lunge verursacht. Ohne sofortige medizinische Hilfe stirbt das Opfer.</szBRDesc>
+    <szBRDesc>Diese Granaten setzen ein farb-, geruch- und geschmackloses Gas frei, das schwere Verätzungen in der Lunge verursacht. Ohne sofortige medizinische Hilfe stirbt das Opfer.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>967</uiIndex>
@@ -9580,9 +9578,9 @@
     <uiIndex>1196</uiIndex>
     <szItemName>L: Tac-1E Weste</szItemName>
     <szLongItemName>LBE: Tac-1E Pistolen Weste</szLongItemName>
-    <szItemDesc>Die Tac-1E Pistolen Weste ist ideal, wenn Sie Ihre Waffe griffbereit in der Nähe haben wollen. Die Weste ist mit einem Front-Holster für mittlere Pistolen sowie mit drei Magazintaschen versehen. Zudem verfügt sie über drei weitere Magazintaschen für jeweils zwei 30-Schuss-Magazine.</szItemDesc>
+    <szItemDesc>Die Tac-1E Pistolen Weste ist ideal, wenn Sie Ihre Waffe griffbereit in der Nähe haben wollen. Die Weste ist mit einem Front-Holster für mittlere Pistolen sowie mit drei Magazintaschen versehen. Zudem verfügt sie über drei weitere Magazintaschen.</szItemDesc>
     <szBRName>LBE: Tac-1E Pistolen Weste</szBRName>
-    <szBRDesc>Die Tac-1E Pistolen Weste ist ideal, wenn Sie Ihre Waffe griffbereit in der Nähe haben wollen. Die Weste ist mit einem Front-Holster für mittlere Pistolen sowie mit drei Magazintaschen versehen. Zudem verfügt sie über drei weitere Magazintaschen für jeweils zwei 30-Schuss-Magazine.</szBRDesc>
+    <szBRDesc>Die Tac-1E Pistolen Weste ist ideal, wenn Sie Ihre Waffe griffbereit in der Nähe haben wollen. Die Weste ist mit einem Front-Holster für mittlere Pistolen sowie mit drei Magazintaschen versehen. Zudem verfügt sie über drei weitere Magazintaschen.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1197</uiIndex>
@@ -10589,35 +10587,35 @@
   </ITEM>
   <ITEM>
     <uiIndex>1322</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nichts</szLongItemName>
-    <szItemDesc>Index 923</szItemDesc>
-    <szBRName>Nichts</szBRName>
-    <szBRDesc>Nichts</szBRDesc>
+    <szItemName>Zielfernrohr, 2x</szItemName>
+    <szLongItemName>Kleines Zielfernrohr, 2x (eingebaut)</szLongItemName>
+    <szItemDesc>Diese Visierart wird häufig in moderne Sturmgewehre eingebaut, passt aber auch auf einen Revolver, eine Schrotflinte oder ein Maschinengewehr.</szItemDesc>
+    <szBRName>Zielfernrohr, 2x</szBRName>
+    <szBRDesc>Diese Visierart wird häufig in moderne Sturmgewehre eingebaut, passt aber auch auf einen Revolver, eine Schrotflinte oder ein Maschinengewehr.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1323</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nichts</szLongItemName>
-    <szItemDesc>Index 923</szItemDesc>
-    <szBRName>Nichts</szBRName>
-    <szBRDesc>Nichts</szBRDesc>
+    <szItemName>Vordergriff</szItemName>
+    <szLongItemName>Vordergriff</szLongItemName>
+    <szItemDesc>Ein spezieller Handgriff, der an die meisten SMGs und Gewehre angebracht werden kann, um die Präzision von Feuerstößen und selektivem Feuer zu verbessern.</szItemDesc>
+    <szBRName>Vordergriff</szBRName>
+    <szBRDesc>Ein spezieller Handgriff, der an die meisten SMGs und Gewehre angebracht werden kann, um die Präzision von Feuerstößen und selektivem Feuer zu verbessern.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1324</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nichts</szLongItemName>
-    <szItemDesc>Index 923</szItemDesc>
-    <szBRName>Nichts</szBRName>
-    <szBRDesc>Nichts</szBRDesc>
+    <szItemName>Stativ</szItemName>
+    <szLongItemName>Stativ</szLongItemName>
+    <szItemDesc>Dieses Griffstativ passt auf die untere Picatinny-Schiene vieler moderner Gewehre. Sein Zweibein ist allerdings nicht so stabil wie ein dediziertes Zweibein.</szItemDesc>
+    <szBRName>Stativ</szBRName>
+    <szBRDesc>Dieses Griffstativ passt auf die untere Picatinny-Schiene vieler moderner Gewehre. Sein Zweibein ist allerdings nicht so stabil wie ein dediziertes Zweibein.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1325</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nichts</szLongItemName>
-    <szItemDesc>Index 923</szItemDesc>
-    <szBRName>Nichts</szBRName>
-    <szBRDesc>Nichts</szBRDesc>
+    <szItemName>Zweibein</szItemName>
+    <szLongItemName>Zweibein</szLongItemName>
+    <szItemDesc>Das universelle Zweibein passt auf die meisten Scharfschützen- und Sturmgewehre sowie auf leichte Maschinengewehre. Es ist aus Aluminiumdruckguss gefertigt und hat eine matte Beschichtung. Die Beine lassen sich bei Nichtgebrauch einklappen.</szItemDesc>
+    <szBRName>Zweibein</szBRName>
+    <szBRDesc>Das universelle Zweibein passt auf die meisten Scharfschützen- und Sturmgewehre sowie auf leichte Maschinengewehre. Es ist aus Aluminiumdruckguss gefertigt und hat eine matte Beschichtung. Die Beine lassen sich bei Nichtgebrauch einklappen.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1326</uiIndex>
@@ -13155,7 +13153,7 @@
     <szLongItemName>LBE: Pistolenholster 3</szLongItemName>
     <szItemDesc>Dieses Holster eignet sich für alle Pistolen oder Revolver. Ein montierter Schalldämpfer muss nicht abgenommen werden. Zusätzlich sind zwei Pistolenmagazintaschen und zwei unterschiedliche Mehrzwecktaschen am Holster montiert. Halterungen für MOLLE-Taschen sind NICHT vorhanden.</szItemDesc>
     <szBRName>LBE: Pistolenholster 3</szBRName>
-    <szBRDesc>Dieses LBE-System wird bereits gebrauchsfertig geliefert und muss nicht zusammengefügt werden. Das Holster ist zusammen mit zwei Pistolenmagazintaschen und zwei unterschiedliche Mehrzwecktaschen fest auf einer Beinplatte montiert. Das Anbringen weiterer Taschen ist nicht möglich.</szBRDesc>
+    <szBRDesc>Dieses LBE-System wird bereits gebrauchsfertig geliefert und muss nicht zusammengefügt werden. Das Holster ist zusammen mit zwei Pistolenmagazintaschen und zwei unterschiedliche Mehrzwecktaschen fest auf einer Beinplatte montiert.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1642</uiIndex>
@@ -13163,7 +13161,7 @@
     <szLongItemName>LBE: Flintenholster</szLongItemName>
     <szItemDesc>Dieses Holster ist dafür vorgesehen, kleine Flinten wie eine Seitenwaffe an der Hüfte zu tragen. Taschen für Munition und Zubehör befinden sich ebenfalls am Holster. Halterungen für MOLLE-Taschen sind NICHT vorhanden.</szItemDesc>
     <szBRName>LBE: Flintenholster</szBRName>
-    <szBRDesc>Dieses LBE-System wird bereits gebrauchsfertig geliefert und muss nicht zusammengefügt werden. Das Holster ist zusammen mit Munitions- und Mehrzwecktaschen fest auf einer Beinplatte montiert, so dass Sie eine kleine Flinte wie eine Seitenwaffe tragen können und jederzeit schnell nachladen können. Das Anbringen weiterer Taschen ist nicht möglich.</szBRDesc>
+    <szBRDesc>Dieses LBE-System wird bereits gebrauchsfertig geliefert und muss nicht zusammengefügt werden. Das Holster ist zusammen mit Munitions- und Mehrzwecktaschen fest auf einer Beinplatte montiert, sodass Sie eine kleine Flinte sowie eine Seitenwaffe tragen können.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1643</uiIndex>
@@ -13203,7 +13201,7 @@
     <szLongItemName>LBE: Sprengstofftasche</szLongItemName>
     <szItemDesc>Ein fertiges LBE-System zum sicheren Transport von Sprengladungen, das aus einer Beinplatte als Träger, zwei Taschen für Sprengladungen sowie zwei verschiedenen Mehrzwecktaschen (Größe 1 und 2) besteht. Weitere Taschen lassen sich nicht anbringen.</szItemDesc>
     <szBRName>LBE: Sprengstofftasche</szBRName>
-    <szBRDesc>Dieses fertige LBE-System zum sicheren Transport von Sprengladungen ist sofort gebrauchsfertig. Es besteht aus einer Beinplatte als Träger, zwei Taschen für Sprengladungen sowie zwei verschiedenen Mehrzwecktaschen (Größe 1 und 2). Das Anbringen weiterer Taschen ist nicht möglich.</szBRDesc>
+    <szBRDesc>Dieses fertige LBE-System zum sicheren Transport von Sprengladungen ist sofort gebrauchsfertig. Es besteht aus einer Beinplatte als Träger, zwei Taschen für Sprengladungen sowie zwei verschiedenen Mehrzwecktaschen (Größe 1 und 2).</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1648</uiIndex>
@@ -13225,9 +13223,9 @@
     <uiIndex>1650</uiIndex>
     <szItemName>M: MzwTa 5</szItemName>
     <szLongItemName>MOLLE: Mehrzwecktasche 5</szLongItemName>
-    <szItemDesc>Diese Tasche ist für mittelgroße Ausrüstungsteile gedacht. Sie wird mit einem Reißverschluss verschlossen, der durch eine Klappe abgedeckt wird. Um den Inhalt bei jedem Wetter trocken zu halten, sind im Boden der Tasche zwei Ablauflöcher eingelassen. Durch PALS-Halterungen kann die Tasche an bestimmten MOLLE-Trägersystemen befestigt werden.</szItemDesc>
+    <szItemDesc>Diese Tasche ist für mittelgroße Ausrüstungsteile gedacht. Sie wird mit einem Reißverschluss verschlossen, der durch eine Klappe abgedeckt wird. Um den Inhalt bei jedem Wetter trocken zu halten, sind im Boden der Tasche zwei Ablauflöcher eingelassen.</szItemDesc>
     <szBRName>MOLLE: Mehrzwecktasche 5</szBRName>
-    <szBRDesc>Diese Tasche ist für mittelgroße Ausrüstungsteile gedacht. Sie wird mit einem Reißverschluss verschlossen, der durch eine Klappe abgedeckt wird. Um den Inhalt bei jedem Wetter trocken zu halten, sind im Boden der Tasche zwei Ablauflöcher eingelassen. Durch PALS-Halterungen kann die Tasche an bestimmten MOLLE-Trägersystemen befestigt werden.</szBRDesc>
+    <szBRDesc>Diese Tasche ist für mittelgroße Ausrüstungsteile gedacht. Sie wird mit einem Reißverschluss verschlossen, der durch eine Klappe abgedeckt wird. Um den Inhalt bei jedem Wetter trocken zu halten, sind im Boden der Tasche zwei Ablauflöcher eingelassen.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1651</uiIndex>
@@ -13299,7 +13297,7 @@
     <szLongItemName>MOLLE: Magazintasche P-2</szLongItemName>
     <szItemDesc>Diese Magazintasche aus Nylon ermöglicht den schnellen Zugriff auf zwei Pistolenmagazine.</szItemDesc>
     <szBRName>MOLLE: Magazintasche P-2</szBRName>
-    <szBRDesc>Diese reißfeste Magazintasche aus Nylon ermöglicht den schnellen Zugriff auf zwei Pistolenmagazine, so dass Sie im Gefecht keine Zeit mit der Suche in irgendwelchen Taschen verschwenden müssen. Munition für die passenden Magazine finden sie ebenfalls in unserem Sortiment.</szBRDesc>
+    <szBRDesc>Diese reißfeste Magazintasche aus Nylon ermöglicht den schnellen Zugriff auf zwei Pistolenmagazine, so dass Sie im Gefecht keine Zeit mit der Suche in irgendwelchen Taschen verschwenden müssen. Munition finden sie ebenfalls in unserem Sortiment.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1660</uiIndex>
@@ -13496,7 +13494,8 @@
   <ITEM>
     <uiIndex>1684</uiIndex>
     <szItemName>M: MzwTa 4</szItemName>
-    <szLongItemName>MOLLE: Mehrzwecktasche 4</szLongItemName>
+    <szLongItemName>
+	tasche 4</szLongItemName>
     <szItemDesc>Diese Tasche der Größe 4 ist mit PALS-Halterungen ausgestattet. Sie kann eine Vielzahl an Ausrüstungsteilen aufnehmen. Sogar Trinkflaschen finden noch in ihr Platz.</szItemDesc>
     <szBRName>MOLLE: Mehrzwecktasche 4</szBRName>
     <szBRDesc>Diese Tasche mit PALS-Halterungen bietet so viel Stauraum, dass sogar große Wasserflaschen noch hineinpassen. Wenn sie nicht benötigt wird, kann sie zum besseren Transport zusammengefaltet werden.</szBRDesc>
@@ -13579,7 +13578,7 @@
     <szLongItemName>MOLLE: Mehrzweckweste III</szLongItemName>
     <szItemDesc>Diese taktische Weste von Archer stammt aus chinesischer Produktion. Sie bietet bereits etliche Taschen für Ausrüstung, kann durch das MOLLE-Taschen aber noch erweitert werden.</szItemDesc>
     <szBRName>MOLLE: Mehrzweckweste III</szBRName>
-    <szBRDesc>Diese taktische Mehrzweckweste stammt aus hochwertiger chinesischer Produktion. Das verwendete Material ist atmungsaktiv; alle Nähte wurden auf Reiß- und Zugfestigkeit geprüft. Bei der Auswahl der Taschen wurden (laut Hersteller) die Bedürfnisse von Spezialkräften berücksichtigt.</szBRDesc>
+    <szBRDesc>Diese taktische Mehrzweckweste stammt aus hochwertiger chinesischer Produktion. Bei der Auswahl der Taschen wurden (laut Hersteller) die Bedürfnisse von Spezialkräften berücksichtigt.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1695</uiIndex>
@@ -13667,7 +13666,7 @@
     <szLongItemName>MOLLE: USMC-Rucksack</szLongItemName>
     <szItemDesc>Dieser Rucksack wurde für das United States Marine Corps entworfen. Er ist mit PALS-Halterungen ausgestattet und kann zusammen mit der USMC-Kampftasche getragen werden.</szItemDesc>
     <szBRName>MOLLE: USMC-Rucksack</szBRName>
-    <szBRDesc>Bei der Entwicklung dieses RUcksacks wurden Erfahrungen aus Kampfeinsätzen und der Wunsch nach individueller Konfiguration berücksichtigt. Er ist daher mit PALS-Halterungen ausgestattet und kann zusammen mit der USMC-Kampftasche (oder einem anderen Modell) getragen werden.</szBRDesc>
+    <szBRDesc>Bei der Entwicklung dieses RUcksacks wurden Erfahrungen aus Kampfeinsätzen und der Wunsch nach individueller Konfiguration berücksichtigt. Er ist daher mit PALS-Halterungen ausgestattet und kann zusammen mit der USMC-Kampftasche getragen werden.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1706</uiIndex>
@@ -13675,7 +13674,7 @@
     <szLongItemName>MOLLE: USMC-Kampftasche</szLongItemName>
     <szItemDesc>Diese Kampftasche wurde für das United States Marine Corps entworfen. Sie ist mit dem MOLLE-System ausgestattet und kann zusammen mit dem USMC-Rucksack getragen werden.</szItemDesc>
     <szBRName>MOLLE: USMC-Kampftasche</szBRName>
-    <szBRDesc>Bei der Entwicklung dieser Kampftasche wurden Erfahrungen aus Kampfeinsätzen und der Wunsch nach individueller Konfiguration berücksichtigt. Sie ist daher mit PALS-Halterungen ausgestattet und kann zusammen mit dem USMC-Rucksack (oder einem anderen Modell) getragen werden.</szBRDesc>
+    <szBRDesc>Bei der Entwicklung dieser Kampftasche wurden Erfahrungen aus Kampfeinsätzen und der Wunsch nach individueller Konfiguration berücksichtigt. Sie ist daher mit PALS-Halterungen ausgestattet und kann zusammen mit dem USMC-Rucksack getragen werden.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1707</uiIndex>
@@ -13683,7 +13682,7 @@
     <szLongItemName>MOLLE: Extended Range Backpack</szLongItemName>
     <szItemDesc>Dieser wirklich sehr große Rucksack kann nicht mit Kampftaschen zusammen getragen werden. Zum Ausgleich ist er mit PALS-Halterungen ausgestattet, so dass er noch erweitert werden kann.</szItemDesc>
     <szBRName>MOLLE: Extended Range Backpack</szBRName>
-    <szBRDesc>Dieser Rucksack ist einer der größten, die Tactical Tailor anbietet. Er bietet eine beeindruckende Funktionsvielfalt und ist bestens für längere Einsätze geeignet. Natürlich ist er mit PALS-Halterungen ausgestattet und kann erweitert werden. Das notwendige Zubehör finden Sie in unserem Katalog.</szBRDesc>
+    <szBRDesc>Dieser Rucksack ist einer der größten, die Tactical Tailor anbietet. Er bietet eine beeindruckende Funktionsvielfalt und ist bestens für längere Einsätze geeignet. Natürlich ist er mit PALS-Halterungen ausgestattet und kann erweitert werden.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1708</uiIndex>
@@ -13957,163 +13956,163 @@
   </ITEM>
   <ITEM>
     <uiIndex>1742</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Holz-Schild</szItemName>
+    <szLongItemName>Holz-Schild</szLongItemName>
+    <szItemDesc>Diese Holzstücke wurden hastig zu einem primitiven Schild zusammengenagelt. Sie werden nicht viel aufhalten, aber es ist besser als nichts.</szItemDesc>
+    <szBRName>Holz-Schild</szBRName>
+    <szBRDesc>Diese Holzstücke wurden hastig zu einem primitiven Schild zusammengenagelt. Sie werden nicht viel aufhalten, aber es ist besser als nichts.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1743</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Krawallschild</szItemName>
+    <szLongItemName>Krawallschild</szLongItemName>
+    <szItemDesc>Dieser Schild schützt vor Beschuss mit Handfeuerwaffen, schränkt aber die Mobilität ein. Eine Einkerbung ermöglicht die gleichzeitige Verwendung einer Handfeuerwaffe.</szItemDesc>
+    <szBRName>Krawallschild</szBRName>
+    <szBRDesc>Dieser Schild schützt vor Beschuss mit Handfeuerwaffen, schränkt aber die Mobilität ein. Eine Einkerbung ermöglicht die gleichzeitige Verwendung einer Handfeuerwaffe.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1744</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Ballistischer Schild</szItemName>
+    <szLongItemName>Ballistischer Schild</szLongItemName>
+    <szItemDesc>Dieser Schild schützt vor Waffenfeuer. Sie können immer noch eine Handfeuerwaffe benutzen, während Sie diesen Schild tragen, aber er verlangsamt Sie.</szItemDesc>
+    <szBRName>Ballistischer Schild</szBRName>
+    <szBRDesc>Schilde wie diese werden von SWAT- und Militärteams zum Schutz vor Waffenfeuer eingesetzt. Sie bieten einen enormen Schutz gegen die schwersten Schusswaffen. Holen Sie sich Ihr Schild noch heute!</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1745</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Klappschaft</szItemName>
+    <szLongItemName>Klappschaft (gefaltet)</szLongItemName>
+    <szItemDesc>Mit diesem neuen Schaft können Sie Ihre Waffe schneller heben, aber es könnte Ihnen etwas schwerer fallen, Dinge zu treffen.</szItemDesc>
+    <szBRName>Klappschaft (gefaltet)</szBRName>
+    <szBRDesc>Bringen Sie mit diesem neuen Schaft Ihre Waffe vor dem Gegner in Anschlag. Geeignet für die meisten Schusswaffen mit festem Schaft.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1746</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Klappschaft</szItemName>
+    <szLongItemName>Klappschaft</szLongItemName>
+    <szItemDesc>Mit diesem neuen Schaft können Sie Ihre Waffe schneller heben, aber es könnte Ihnen etwas schwerer fallen, Dinge zu treffen.</szItemDesc>
+    <szBRName>Klappschaft</szBRName>
+    <szBRDesc>Bringen Sie mit diesem neuen Schaft Ihre Waffe vor dem Gegner in Anschlag. Geeignet für die meisten Schusswaffen mit festem Schaft.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1747</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Klappschaft</szItemName>
+    <szLongItemName>Klappschaft (gefaltet)</szLongItemName>
+    <szItemDesc>Mit diesem neuen Schaft können Sie Ihre Waffe schneller hochziehen, haben es aber möglicherweise etwas schwerer, Dinge zu treffen.</szItemDesc>
+    <szBRName>Klappschaft (gefaltet)</szBRName>
+    <szBRDesc>Bringen Sie mit diesem neuen Schaft Ihre Waffe vor dem Gegner in Anschlag. Geeignet für die meisten Schusswaffen mit festem Schaft.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1748</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Einziehbarer Schaft</szItemName>
+    <szLongItemName>Einziehbarer Schaft (eingezogen)</szLongItemName>
+    <szItemDesc>Mit diesem neuen Schaft können Sie Ihre Waffe schneller hochziehen, haben es aber möglicherweise etwas schwerer, Dinge zu treffen.</szItemDesc>
+    <szBRName>Einziehbarer Schaft (eingezogen)</szBRName>
+    <szBRDesc>Bringen Sie mit diesem neuen Schaft Ihre Waffe vor dem Gegner in Anschlag. Geeignet für die meisten Schusswaffen mit festem Schaft.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1749</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Einziehbarer Schaft</szItemName>
+    <szLongItemName>Einziehbarer Schaft</szLongItemName>
+    <szItemDesc>Mit diesem neuen Schaft können Sie Ihre Waffe schneller hochziehen, haben es aber möglicherweise etwas schwerer, Dinge zu treffen.</szItemDesc>
+    <szBRName>Einziehbarer Schaft</szBRName>
+    <szBRDesc>Bringen Sie mit diesem neuen Schaft Ihre Waffe vor dem Gegner in Anschlag. Geeignet für die meisten Schusswaffen mit festem Schaft.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1750</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Einziehbarer Schaft (eingezogen)</szItemName>
+    <szLongItemName>Einziehbarer Schaft (eingezogen)</szLongItemName>
+    <szItemDesc>Mit diesem neuen Schaft können Sie Ihre Waffe schneller hochziehen, haben es aber möglicherweise etwas schwerer, Dinge zu treffen.</szItemDesc>
+    <szBRName>Einziehbarer Schaft (eingezogen)</szBRName>
+    <szBRDesc>Bringen Sie mit diesem neuen Schaft Ihre Waffe vor dem Gegner in Anschlag. Geeignet für die meisten Schusswaffen mit festem Schaft.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1751</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Kamera</szItemName>
+    <szLongItemName>Kamera</szLongItemName>
+    <szItemDesc>Sie können diese Kamera verwenden, um die Höhepunkte Ihres Urlaubs festzuhalten. Oder was immer Sie sonst noch aufnehmen möchten.</szItemDesc>
+    <szBRName>Kamera</szBRName>
+    <szBRDesc>Verwenden Sie diese einfach zu bedienende Kamera, um lustigen Streiche/grausamen Gräueltaten zu fotografieren, denen Sie während Ihres Urlaubs/ihrer Dienstreise beiwohnen.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1752</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Schmerzmittel</szItemName>
+    <szLongItemName>Schmerzmittel</szLongItemName>
+    <szItemDesc>Diese kleinen Pillen können Schmerzen lindern, sind aber kein Ersatz für ärztliche Hilfe.</szItemDesc>
+    <szBRName>Schmerzmittel</szBRName>
+    <szBRDesc>Sehr starke Schmerzmittel. Warnung: Nicht ohne ärztlichen Rat konsumieren.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1753</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Bandagen</szItemName>
+    <szLongItemName>Schmutzige Bandagen</szLongItemName>
+    <szItemDesc>Diese einfachen Verbände wurden aus Lumpen hergestellt. Sie können Blutungen stillen, genügen aber nicht den hygienischen Anforderungen...</szItemDesc>
+    <szBRName>Schmutzige Bandagen</szBRName>
+    <szBRDesc>Diese einfachen Verbände wurden aus Lumpen hergestellt. Sie können Blutungen stillen, genügen aber nicht den hygienischen Anforderungen...</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1754</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Bandagen</szItemName>
+    <szLongItemName>Primitive Bandagen</szLongItemName>
+    <szItemDesc>Diese einfachen Verbände wurden aus Lumpen hergestellt. Sie sind sauber und können Blutungen sillen, aber das ist auch schon alles.</szItemDesc>
+    <szBRName>Primitive Bandagen</szBRName>
+    <szBRDesc>Diese einfachen Verbände wurden aus Lumpen hergestellt. Sie sind sauber und können Blutungen sillen, aber das ist auch schon alles.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1755</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Einfacher Molotow Intern</szItemName>
+    <szLongItemName>Einfacher Molotow Intern</szLongItemName>
+    <szItemDesc>INTERNER ARTIKEL, NICHT VERWENDEN!!!</szItemDesc>
+    <szBRName>Einfacher Molotow Intern</szBRName>
+    <szBRDesc>INTERNER ARTIKEL, NICHT VERWENDEN!!!</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1756</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Leerer Blutbeutel</szItemName>
+    <szLongItemName>Leerer Blutbeutel</szLongItemName>
+    <szItemDesc>Dieser Blutbeutel kann mit dem Blut eines (hoffentlich willigen) Spenders gefüllt werden.</szItemDesc>
+    <szBRName>Leerer Blutbeutel</szBRName>
+    <szBRDesc>Ein einfacher Blutbeutel, der zur Aufbewahrung von Blut für medizinische Zwecke verwendet werden kann.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1757</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Blutbeutel</szItemName>
+    <szLongItemName>Blutbeutel</szLongItemName>
+    <szItemDesc>Dieses Paket mit frischem Blut kann zur Unterstützung bei einer Operation verwendet werden.</szItemDesc>
+    <szBRName>Blutbeutel</szBRName>
+    <szBRDesc>Dieses Paket mit frischem Blut kann zur Unterstützung bei einer Operation verwendet werden.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1758</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Medizinische Schiene</szItemName>
+    <szLongItemName>Medizinische Schiene</szLongItemName>
+    <szItemDesc>Diese Schiene kann zur Stabilisierung belasteter Extremitäten verwendet werden, was den Heilungsprozess beschleunigen kann.</szItemDesc>
+    <szBRName>Medizinische Schiene</szBRName>
+    <szBRDesc>Diese Schiene kann zur Stabilisierung belasteter Extremitäten verwendet werden, was den Heilungsprozess beschleunigt.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1759</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Weiße Rauchexplosionen.</szItemName>
+    <szLongItemName>Weiße Rauchexplosionen.</szLongItemName>
+    <szItemDesc>INTERNER ARTIKEL, NICHT VERWENDEN!!!</szItemDesc>
+    <szBRName>Weiße Rauchexplosionen.</szBRName>
+    <szBRDesc>INTERNER ARTIKEL, NICHT VERWENDEN!!!</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1760</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Feuerlöscher-Flasche</szItemName>
+    <szLongItemName>Feuerlöscher-Flasche</szLongItemName>
+    <szItemDesc>Eine Druckgasflasche für einen Feuerlöscher.</szItemDesc>
+    <szBRName>Feuerlöscher-Flasche</szBRName>
+    <szBRDesc>Eine Druckgasflasche für einen Feuerlöscher.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1761</uiIndex>
-    <szItemName>Nada</szItemName>
-    <szLongItemName>Nada</szLongItemName>
-    <szItemDesc>Nada</szItemDesc>
-    <szBRName>Nada</szBRName>
-    <szBRDesc>Nada</szBRDesc>
+    <szItemName>Feuerlöscher</szItemName>
+    <szLongItemName>Feuerlöscher</szLongItemName>
+    <szItemDesc>In einem wirklichen Feuergefecht ist das nicht so nützlich, wie man denken würde. Aber wir verstehen, warum Sie das gedacht haben.</szItemDesc>
+    <szBRName>Feuerlöscher</szBRName>
+    <szBRDesc>Ein Standard-Feuerlöscher.</szBRDesc>
   </ITEM>
   <ITEM>
     <uiIndex>1762</uiIndex>
