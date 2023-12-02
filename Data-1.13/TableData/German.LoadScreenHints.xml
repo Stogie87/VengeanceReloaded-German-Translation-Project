@@ -54,23 +54,23 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>12</uiIndex>
-    <szName>Einige Sektoren bieten Einrichtungen wie Bars oder Minen, denen du Söldner im strategischen Bildschirm zuweisen können. Beim Zuweisen eines Söldners erscheinen Tooltipps, die auf die Funktion der Einrichtung hinweisen.</szName>
+    <szName>Einige Sektoren bieten Einrichtungen wie Bars oder Minen, denen Sie Söldner zuweisen können. Beim Zuweisen erscheinen Tooltipps, die auf die Funktion der Einrichtung hinweisen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>13</uiIndex>
-    <szName>Gilde der Diebe. Stiehl die Waffe des Gegners mit dem Hand-Cursor [STRG]+[LINKE-MAUSTASTE]. Wenn der Gegner in einem nicht sterbenden Zustand den Staub küsst, kannst du ihm alles abnehmen.</szName>
+    <szName>Stiehl die Waffe des Gegners mit dem Hand-Cursor [STRG]+[LINKE-MAUSTASTE]. Wenn der Gegner in einem nicht sterbenden Zustand den Staub küsst, kannst du ihm alles abnehmen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>14</uiIndex>
-    <szName>EOD-Flaggen-Signale. Die blaue Flagge, die du im Feld in den Boden steckst, um eine Mine oder Falle zu markieren, wird auch vom Feind gesehen und er reagiert entsprechend darauf.</szName>
+    <szName>Die blaue Flagge, die du im Feld in den Boden steckst, um eine Mine oder Falle zu markieren, wird auch vom Feind gesehen und er reagiert entsprechend darauf.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>15</uiIndex>
-    <szName>Wenn du [END] im taktischen Bildschirm gedrückt hältst, wird das detaillierte Sichtfeld des aktuell ausgewählten Söldners angezeigt, das von rot (kann niemanden sehen) bis grün (kann sogar jemanden sehen, der im Gras liegt) reicht.</szName>
+    <szName>Wenn Sie [END] im taktischen Bildschirm gedrückt halten, wird das detaillierte Sichtfeld des Söldners angezeigt, das von rot (sieht niemanden) bis grün (sieht jeden) reicht.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>16</uiIndex>
-    <szName>Alarmstufe Rot! Wenn du im taktischen Bildschirm die Taste [ENTF] gedrückt hältst, werden die Feinde, von denen du weißt, dass sie den aktuell ausgewählten Söldner sehen können, von rot (sie werden sogar in Bauchlage gesehen) bis grün (perfekte Tarnung) angezeigt.</szName>
+    <szName>Wenn Sie im taktischen Bildschirm die Taste [ENTF] gedrückt halten, werden Feinde von rot (sie werden sogar in Bauchlage gesehen) bis grün (perfekte Tarnung) angezeigt.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>17</uiIndex>
@@ -86,7 +86,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>20</uiIndex>
-    <szName>Im Sektorinventar können Sie mit [STRG]+[LINKE-MAUSTASTE] auf die leeren Inventarplätze des Söldners klicken, um eine kategorisierte Liste der Gegenstände in diesem Sektor anzuzeigen.</szName>
+    <szName>Im Sektorinventar können Sie mit [STRG]+[LINKE-MAUSTASTE] auf die leeren Inventarplätze des Söldners klicken, um die kategorisierte Gegenstandsliste des Sektors anzuzeigen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>21</uiIndex>
@@ -94,7 +94,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>22</uiIndex>
-    <szName>Drücken Sie [STRG]+[SHIFT]+[X], um das Schleichen in Echtzeit zu aktivieren. Wenn diese Funktion aktiviert ist, wechseln Sie nicht in den rundenbasierten Modus, sobald Sie feindliche Soldaten erspähen - vorausgesetzt, diese sind noch nicht auf Sie aufmerksam geworden.</szName>
+    <szName>Drücken Sie [STRG]+[SHIFT]+[X], um Schleichen in Echtzeit zu aktivieren. Wenn diese Funktion aktiviert ist, wechseln Sie nicht in den Runden-Modus, sobald Sie Feinde erspähen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>23</uiIndex>
@@ -226,7 +226,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>55</uiIndex>
-    <szName>Verwenden Sie zu Beginn des Kampfes die Tastenkombination [UMSCHALT]+[B], um alle Rucksäcke, die Ihre Söldner tragen, abzulegen. Am Ende des Kampfes benutzen Sie die Tastenkombination [STRG]+[SHIFT]+[F], um alle Rucksäcke wieder aufzusammeln.</szName>
+    <szName>Verwenden Sie [UMSCHALT]+[B] zu Kampfbeginn, um alle Rucksäcke ihrer Söldner abzulegen. Nach dem Kampf benutzen Sie [STRG]+[SHIFT]+[F], um alle Rucksäcke wieder aufzusammeln.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>56</uiIndex>
@@ -234,7 +234,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>57</uiIndex>
-    <szName>Drücken Sie [L], um in eine bestimmte Richtung zu schauen. Drücken Sie erneut [L], um die Waffe bereit zu machen und durch ein Zielfernrohr zu schauen, insofern Ihre Waffe über ein Zielfernrohr oder ein Visier verfügt.</szName>
+    <szName>Drücken Sie [L], um in eine bestimmte Richtung zu schauen. Drücken Sie erneut [L], um durch das Waffenvisier zu schauen, insofern Ihre Waffe über eines verfügt.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>58</uiIndex>
@@ -242,7 +242,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>59</uiIndex>
-    <szName>Sie können einen Bereich mit Autofeuer unter Beschuss nehmen. Wählen Sie dazu Autofeuer aus, wählen Sie, wie viele Kugeln Sie abfeuern möchten, halten Sie die [LINKE-MAUSTASTE] gedrückt und ziehen Sie den Cursor über den gewünschten Bereich.</szName>
+    <szName>Sie können einen Bereich unter Sperrfeuer nehmen. Halten Sie dazu im Autofeuermodus die [LINKE-MAUSTASTE] gedrückt und ziehen Sie den Cursor über den gewünschten Bereich.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>60</uiIndex>
@@ -266,7 +266,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>65</uiIndex>
-    <szName>Mobile Milizen können Söldnern folgen, während sie sich auf der Karte bewegen, solange sich die Söldnergruppe in 1 Sektor Entfernung zu ihnen befindet. Warten Sie, bis sie an Ihrer Position angekommen sind.</szName>
+    <szName>Mobile Milizen können Söldnern folgen, solange sich der Trupp in 1 Sektor Entfernung zu ihnen befindet. Warten Sie, bis die Milizen an Ihrer Position angekommen sind.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>66</uiIndex>
@@ -278,7 +278,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>68</uiIndex>
-    <szName>Oben auf dem Bildschirm des Sektorinventars befinden sich Schaltflächen, die beim Sortieren und Filtern von Gegenständen helfen. Wenn Sie mit der Maus über eine Schaltfläche fahren, wird eine Erklärung für diese Schaltfläche angezeigt.</szName>
+    <szName>Oben auf dem Bildschirm des Sektorinventars befinden sich Schaltflächen, die beim Sortieren und Filtern von Gegenständen helfen. </szName>
     <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
@@ -319,7 +319,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>78</uiIndex>
-    <szName>Bei den Gelbhemden handelt es sich um Verwaltungsgegner, die über die schlechteste Ausrüstung und die schlechtesten Waffen verfügen und kurz nach Ihrer Ankunft in Arulco durch reguläre Gegner ersetzt werden.</szName>
+    <szName>Bei den Gelbhemden handelt es sich um Verwaltungsgegner, die über sehr schlechte Ausrüstung verfügen und kurz nach Ihrer Ankunft in Arulco durch reguläre Gegner ersetzt werden.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>79</uiIndex>
@@ -327,7 +327,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>80</uiIndex>
-    <szName>Schwarzhemden sind Söldner, die von Deidranna angeheuert wurden. Sie haben die beste Ausrüstung und die besten Waffen und sind die härtesten Gegner. Mit steigendem Schwierigkeitsgrad nimmt ihre Zahl zu.</szName>
+    <szName>Schwarzhemden sind Söldner, die von Deidranna angeheuert wurden. Sie haben die beste Ausrüstung und sind die härtesten Gegner. Mit steigendem Fortschritt nimmt ihre Zahl zu.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>81</uiIndex>
@@ -355,7 +355,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>87</uiIndex>
-    <szName>Prüfen Sie immer, ob der Gegner eine Gasmaske trägt, bevor Sie Tränengas gegen ihn einsetzen. Halten Sie die [ALT]-Taste gedrückt, während Sie den Gegner anvisieren, um seine Details zu sehen. Die Anzahl der Details hängt von der Entfernung zum ausgewählten Söldner ab.</szName>
+    <szName>Prüfen Sie immer, ob Gegner Gasmasken tragen, bevor Sie Tränengas einsetzen. Halten Sie die [ALT]-Taste gedrückt, während Sie den Gegner anvisieren, um seine Details zu sehen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>88</uiIndex>
@@ -451,7 +451,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>111</uiIndex>
-    <szName>Jeder Söldner hat einen anderen Schlafrhythmus, der von 3 bis 12 Stunden reicht, um seine Energie vollständig wiederherzustellen. Die Eigenschaft " Nachteinsatz" ermöglicht es, diese Zeit noch weiter zu verkürzen.</szName>
+    <szName>Jeder Söldner hat einen anderen Schlafrhythmus, der von 3 bis 12 Stunden reicht, um sich zu erholen. Die Eigenschaft " Nachteinsatz" verkürzt diese Zeit noch weiter.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>112</uiIndex>
@@ -479,7 +479,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>118</uiIndex>
-    <szName>Drücken Sie [G], um die Bewegung der Söldnerformation zu aktivieren. Wenn diese Funktion eingeschaltet ist und Sie mehr als einen Söldner auswählen, behalten sie ihre aktuelle Formation bei.</szName>
+    <szName>Drücken Sie [G], um die Bewegung in Formation zu aktivieren. Wenn diese Funktion aktiv ist, behalten ihre Söldner bei Gruppenbewegungen die aktuelle Formation bei.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>119</uiIndex>
@@ -487,11 +487,11 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>120</uiIndex>
-    <szName>Drücken Sie [STRG]+[SHIFT]+[E], um das Fahrzeug mit so vielen Gegenständen wie möglich aus dem aktuellen Sektor zu beladen. Mit [SHIFT]+[E] werden alle Gegenstände aus dem Fahrzeug in den aktuellen Sektor entladen.</szName>
+    <szName>Drücken Sie [STRG]+[SHIFT]+[E], um ein Fahrzeug mit so vielen Gegenständen wie möglich aus dem Sektor zu beladen. Mit [SHIFT]+[E] werden alle Gegenstände wieder entladen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>121</uiIndex>
-    <szName>Wenn Söldner ein Ziel von der aktuellen Position aus nicht treffen können, versuchen Sie, es mit automatischem Feuer zu unterdrücken und wechseln Sie dann zu einer besseren Position.</szName>
+    <szName>Wenn Söldner ein Ziel von der aktuellen Position aus nicht treffen können, versuchen Sie, den Feind mit Sperrfeuer zu unterdrücken und wechseln Sie zu einer besseren Position.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>122</uiIndex>
@@ -499,7 +499,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>123</uiIndex>
-    <szName>Wenn Sie im taktischen Bildschirm die [RECHTE-MAUSETASTE] über dem Söldner drücken und gedrückt halten, öffnet sich ein Söldnermenü, welches dem auf der strategischen Bildschirmkarte ähnelt.</szName>
+    <szName>Wenn Sie im Taktik-Bildschirm die [RECHTE-MAUSETASTE] über einem Söldner gedrückt halten, öffnet sich ein Söldnermenü, welches dem auf der strategischen Bildschirmkarte ähnelt.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>124</uiIndex>
@@ -535,6 +535,6 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>132</uiIndex>
-    <szName>Das Platzieren von Minen, Ziehharmonikas oder Sandsäcken ist mit gedrückter [SHIFT]-Taste bequemer, da man nicht mehr manuell einen neuen Gegenstand aus dem Inventar des Söldners nehmen muss.</szName>
+    <szName>Das Platzieren von mehreren Minen oder Sandsäcken ist mit gedrückter [SHIFT]-Taste angenehmer, da man nicht mehr manuell einen neuen Gegenstand aus dem Inventar nehmen muss.</szName>
   </LOADSCREENHINT>
 </LOADSCREENHINTS>
