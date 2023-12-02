@@ -38,7 +38,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>8</uiIndex>
-    <szName>Drücke [CTRL]+[Z], um den Mauszeiger im Fenstermodus zu sperren/freizugeben. Nützlich beim Verlassen des Sektors im taktischen Bildschirm.</szName>
+    <szName>Drücke [STRG]+[Z], um den Mauszeiger im Fenstermodus zu sperren/freizugeben. Nützlich beim Verlassen des Sektors im taktischen Bildschirm.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>9</uiIndex>
@@ -50,7 +50,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>11</uiIndex>
-    <szName>Dreh das Rad zum Glück. Erhöhe die Trefferchance (CtH) in allen Feuermodi mit dem [MOUSE-RAD]. Mit [ALT]+[MAUSRAD] kannst du die Größe der automatischen Feuersalve einstellen.</szName>
+    <szName>Dreh das Rad zum Glück. Erhöhe die Trefferchance (CtH) in allen Feuermodi mit dem [MAUSRAD]. Mit [ALT]+[MAUSRAD] kannst du die Größe der automatischen Feuersalve einstellen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>12</uiIndex>
@@ -58,7 +58,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>13</uiIndex>
-    <szName>Gilde der Diebe. Stiehl die Waffe des Gegners mit dem Hand-Cursor [CTRL]+[LINKS-MOUSE-BUTTON]. Wenn der Gegner in einem nicht sterbenden Zustand den Staub küsst, kannst du ihm alles abnehmen.</szName>
+    <szName>Gilde der Diebe. Stiehl die Waffe des Gegners mit dem Hand-Cursor [STRG]+[LINKE-MAUSTASTE]. Wenn der Gegner in einem nicht sterbenden Zustand den Staub küsst, kannst du ihm alles abnehmen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>14</uiIndex>
@@ -82,187 +82,187 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>19</uiIndex>
-    <szName>While in sector inventory, click item's empty attachment slots for a list of compatible attachments.</szName>
+    <szName>Klicken Sie im Sektorinventar auf die leeren Aufsatzplätze des Gegenstands, um eine Liste der kompatiblen Aufsätze anzuzeigen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>20</uiIndex>
-    <szName>While in sector inventory, [CTRL]+[LEFT-MOUSE-BUTTON] on merc's empty inventory slots for a categorized list of items in that sector.</szName>
+    <szName>Im Sektorinventar können Sie mit [STRG]+[LINKE-MAUSTASTE] auf die leeren Inventarplätze des Söldners klicken, um eine kategorisierte Liste der Gegenstände in diesem Sektor anzuzeigen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>21</uiIndex>
-    <szName>When choosing items via popup menus (accessible through clicking empty inventory / attachment slots), the least damaged item will be chosen.</szName>
+    <szName>Beim Auswählen von Gegenständen über das Popup-Menü (erreichbar durch Anklicken leerer Inventar-/Attachment-Slots) wird der am wenigsten beschädigte Gegenstand ausgewählt.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>22</uiIndex>
-    <szName>Press [CTRL]+[SHIFT]+[X] to enable real-time sneaking. When active, you won't enter turn-based mode when you spot enemy soldiers - as long as they are not alerted of your presence.</szName>
+    <szName>Drücken Sie [STRG]+[SHIFT]+[X], um das Schleichen in Echtzeit zu aktivieren. Wenn diese Funktion aktiviert ist, wechseln Sie nicht in den rundenbasierten Modus, sobald Sie feindliche Soldaten erspähen - vorausgesetzt, diese sind noch nicht auf Sie aufmerksam geworden.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>23</uiIndex>
-    <szName>Press [CTRL]+[X] to enter turn-based mode while real-time sneaking is active. Only works when you see enemy soldiers.</szName>
+    <szName>Drücken Sie [STRG]+[X], um in den rundenbasierten Modus zu wechseln, während das Schleichen in Echtzeit aktiv ist. Funktioniert nur, wenn Sie feindliche Soldaten bereits sehen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>24</uiIndex>
-    <szName>Illuminate night time enemies with flares to increase your chance of shooting them.</szName>
+    <szName>Beleuchten Sie nachts Feinde mit Fackeln, um Ihre Chancen zu erhöhen, sie zu erledigen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>25</uiIndex>
-    <szName>Your merc is under fire and can't fall back? Cover them with smoke grenades.</szName>
+    <szName>Ihr Söldner steht unter Beschuss und kann sich nicht zurückziehen? Tarnen Sie sie mit Rauchgranaten.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>26</uiIndex>
-    <szName>Depending on your settings, fully repairing a gun cleans it as well.</szName>
+    <szName>Je nach Ihren Einstellungen wird eine Waffe durch eine vollständige Reparatur auch gereinigt.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>27</uiIndex>
-    <szName>Shops not only sell, but also buy some of your gear. They are quite picky though.</szName>
+    <szName>Geschäfte verkaufen nicht nur, sondern kaufen auch bestimmte Ausrüstungsgegenstände. Sie sind jedoch recht wählerisch.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>28</uiIndex>
-    <szName>Afraid enemy will interrupt you? Shoot their legs and hope they fall.</szName>
+    <szName>Sie haben Angst, dass der Feind Sie unterbricht? Schießen Sie auf ihre Beine und hoffen Sie, dass sie hinfallen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>29</uiIndex>
-    <szName>It is harder to hit a running enemy.</szName>
+    <szName>Es ist schwieriger, einen laufenden Gegner zu treffen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>30</uiIndex>
-    <szName>Open a useful sector menu with [CTRL]+[.].</szName>
+    <szName>Sie können mit [STRG]+[.] ein nützliches Sektormenü öffnen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>31</uiIndex>
-    <szName>Increase the number of bullets on automatic fire with [RIGHT-MOUSE-BUTTON].</szName>
+    <szName>Erhöhen Sie mit der [RECHTEN-MAUSTASTE] die Anzahl an Kugeln im Automatikfeuer.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>32</uiIndex>
-    <szName>Merge alcohol with rag to create a molotov cocktail.</szName>
+    <szName>Kombinieren Sie Alkohol mit einem Lappen, um einen Molotow-Cocktail herzustellen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>33</uiIndex>
-    <szName>Some NPCs can be bribed...</szName>
+    <szName>Einige NPCs können bestochen werden...</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>34</uiIndex>
-    <szName>Sneaking while running seems unintuitive, but it works.</szName>
+    <szName>Schleichen beim Rennen erscheint unintuitiv, doch es funktioniert.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>35</uiIndex>
-    <szName>You can quickly kill a prone enemy with a knife.</szName>
+    <szName>Du kannst liegende Gegner schnell mit einem Messer töten.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>36</uiIndex>
-    <szName>If the enemy is alerted, they might call in reinforcements...</szName>
+    <szName>Sobald der Feind alarmiert ist, wird er möglicherweise Verstärkung anfordern...</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>37</uiIndex>
-    <szName>Bobby Ray's website will be available if you progress.</szName>
+    <szName>Bobby Rays Website wird zugänglich, wenn Sie weiter vorankommen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>38</uiIndex>
-    <szName>Sneaking near unaware enemies trains your agility, but is risky.</szName>
+    <szName>Schleichen in der Nähe von unaufmerksamen Gegnern trainiert die Beweglichkeit, ist aber riskant.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>39</uiIndex>
-    <szName>Punching increases your dexterity and strength.</szName>
+    <szName>Durch Schläge werden Geschicklichkeit und Kraft verbessert.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>40</uiIndex>
-    <szName>Doctoring and arming bombs will increase your wisdom.</szName>
+    <szName>Das Verarzten und Scharfmachen von Bomben wird deine Weisheit erhöhen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>41</uiIndex>
-    <szName>Remote bombs can be detonated with a remote detonator - put it in your hands and press [RIGHT-MOUSE-BUTTON].</szName>
+    <szName>Fernzündbomben können mit einem Fernzünder gezündet werden - nehmen Sie ihn in die Hand und drücken Sie die [RECHTE-MAUSTASTE].</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>42</uiIndex>
-    <szName>If you want to manually move items, you can use the MOVEITEM-assignment within cities.</szName>
+    <szName>Wenn Sie Gegenstände manuell verschieben möchten, können Sie die MOVEITEM-Zuweisung in Städten verwenden.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>43</uiIndex>
-    <szName>You can toggle firemodes with [B].</szName>
+    <szName>Mit [B] kannst du den Feuermodus umschalten.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>44</uiIndex>
-    <szName>Pressing [SHIFT]+[R] in tactical screen orders your entire team to reload.</szName>
+    <szName>Wenn Sie im taktischen Bildschirm [SHIFT]+[R] drücken, wird Ihr gesamtes Team zum Nachladen aufgefordert.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>45</uiIndex>
-    <szName>Press [S] to stand, [C] to crouch, [P] to go prone and [R] to stand and run.</szName>
+    <szName>Drücken Sie [S], um aufzustehen, [C], um in die Hocke zu gehen, [P], um sich hinzulegen und [R], um aufzustehen und zu rennen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>46</uiIndex>
-    <szName>Press [Z] to toggle sneak mode.</szName>
+    <szName>Drücken Sie [Z], um in den Schleichmodus zu wechseln.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>47</uiIndex>
-    <szName>Throwing knives can instantly kill an enemy if he is not alerted.</szName>
+    <szName>Wurfmesser können einen nicht alarmierten Gegner auf der Stelle töten.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>48</uiIndex>
-    <szName>You can open a useful description box by clicking [RIGHT-MOUSE-BUTTON] on an item.</szName>
+    <szName>Sie können ein nützliches Beschreibungsfeld öffnen, indem Sie mit der [RECHTEN-MAUSTASTE] auf ein Element klicken.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>49</uiIndex>
-    <szName>Long-term mercenary contracts are cheaper... in the long term.</szName>
+    <szName>Langfristige Söldnerverträge sind auf Dauer billiger.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>50</uiIndex>
-    <szName>Not paying M.E.R.C. bills might have consequences...</szName>
+    <szName>Die Nichtbezahlung von M.E.R.C.-Rechnungen kann Konsequenzen haben...</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>51</uiIndex>
-    <szName>If the enemy conquers your sectors, they might take your stuff.</szName>
+    <szName>Wenn der Gegner Ihre Sektoren erobert, kann er Ihre Sachen an sich nehmen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>52</uiIndex>
-    <szName>Doctors can instantly restore some life lost via surgery - this will drain your medical supplies a lot.</szName>
+    <szName>Ärzte können durch eine Operation verlorene Lebensenergie sofort wiederherstellen - dies wird Ihre medizinischen Vorräte jedoch stark beanspruchen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>53</uiIndex>
-    <szName>Taking too many drugs has consequences.</szName>
+    <szName>Die Einnahme von zu vielen Drogen hat Konsequenzen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>54</uiIndex>
-    <szName>If you'll ever get airborne, those SAM sites might come in handy.</szName>
+    <szName>Sollten Sie jemals ein Flugzeug oder Helikopter besteigen, könnten sich die SAM-Anlagen als nützlich erweisen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>55</uiIndex>
-    <szName>At the start of the combat use [SHIFT]+[B] shortcut to drop all backpacks your mercs carry. At the end of combat use [CTRL]+[SHIFT]+[F] shortcut to pick them all back up.</szName>
+    <szName>Verwenden Sie zu Beginn des Kampfes die Tastenkombination [UMSCHALT]+[B], um alle Rucksäcke, die Ihre Söldner tragen, abzulegen. Am Ende des Kampfes benutzen Sie die Tastenkombination [STRG]+[SHIFT]+[F], um alle Rucksäcke wieder aufzusammeln.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>56</uiIndex>
-    <szName>You can destroy blue flags on mines by throwing grenades on them. Enemy may step on unflagged mine. Then again, you may as well.</szName>
+    <szName>Du kannst blaue Flaggen auf Minen zerstören, indem du Granaten auf sie wirfst. Der Feind kann auf Minen ohne Flaggen treten. Andererseits kann ihnen das aber auch passieren.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>57</uiIndex>
-    <szName>Press [L] to look at direction. Press [L] again to ready weapon and look through a scope if your gun has any scope or iron sights.</szName>
+    <szName>Drücken Sie [L], um in eine bestimmte Richtung zu schauen. Drücken Sie erneut [L], um die Waffe bereit zu machen und durch ein Zielfernrohr zu schauen, insofern Ihre Waffe über ein Zielfernrohr oder ein Visier verfügt.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>58</uiIndex>
-    <szName>Always try to end turn with your mercs at least crouched. It protects you from unintentional friendly fire.</szName>
+    <szName>Versuchen Sie stets, die Runde mit Ihren Söldnern geduckt zu beenden. Das schützt Sie vor unbeabsichtigtem Beschuss durch eigene Truppen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>59</uiIndex>
-    <szName>You can spray an area with auto fire. Just select auto fire, chose how many bullets you want to fire, press and hold [LEFT-MOUSE-BUTTON] on first target and drag it around the desired area.</szName>
+    <szName>Sie können einen Bereich mit Autofeuer unter Beschuss nehmen. Wählen Sie dazu Autofeuer aus, wählen Sie, wie viele Kugeln Sie abfeuern möchten, halten Sie die [LINKE-MAUSTASTE] gedrückt und ziehen Sie den Cursor über den gewünschten Bereich.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>60</uiIndex>
-    <szName>Cambria has hospital where you can heal your mercs.</szName>
+    <szName>Cambria hat ein Krankenhaus, in dem man seine Söldner heilen kann.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>61</uiIndex>
-    <szName>Bipods only give bonuses if you are lying prone or when gun is mounted.</szName>
+    <szName>Zweibeine geben nur dann einen Bonus, wenn Sie sich in Bauchlage befinden oder wenn die Waffe montiert ist.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>62</uiIndex>
-    <szName>Heavy weapons take a lot of energy if you fire or even hold them ready while standing. Go prone to save energy.</szName>
+    <szName>Schwere Waffen verbrauchen viel Ausdauer, wenn Sie sie im Stehen abfeuern oder bereithalten. Gehen Sie in Bauchlage, um Energie zu sparen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>63</uiIndex>
-    <szName>Whenever you can, always use cover.</szName>
+    <szName>Wann immer es möglich ist, sollten Sie in Deckung gehen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>64</uiIndex>
-    <szName>Rebel militia can take away some enemy fire from your mercs. Don't count on them to do all the work though.</szName>
+    <szName>Die Rebellenmiliz kann Ihren Söldnern einiges an Feindfeuer abnehmen. Verlassen Sie sich aber nicht darauf, dass sie die ganze Arbeit machen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>65</uiIndex>
@@ -270,7 +270,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>66</uiIndex>
-    <szName>In the militia redistribution menu, holding [CTRL] will move 5 militia. [SHIFT] will move all in a sector.</szName>
+    <szName>In the militia redistribution menu, holding [STRG] will move 5 militia. [SHIFT] will move all in a sector.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>67</uiIndex>
@@ -311,7 +311,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>76</uiIndex>
-    <szName>Press [CTRL]+[S] will open up save menu instantly.</szName>
+    <szName>Press [STRG]+[S] will open up save menu instantly.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>77</uiIndex>
@@ -411,7 +411,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>101</uiIndex>
-    <szName>Press [CTRL]+[ALT]+[G] to toggle on/off the artificial light around the mercs.</szName>
+    <szName>Press [STRG]+[ALT]+[G] to toggle on/off the artificial light around the mercs.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>102</uiIndex>
@@ -483,11 +483,11 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>119</uiIndex>
-    <szName>Press [CTRL]+[SHIFT]+[S] to sell all items in current sector inventory at once.</szName>
+    <szName>Press [STRG]+[SHIFT]+[S] to sell all items in current sector inventory at once.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>120</uiIndex>
-    <szName>Press [CTRL]+[SHIFT]+[E] will load vehicle with as much items as possible from current sector. [SHIFT]+[E] will unload all items from vehicle to current sector.</szName>
+    <szName>Press [STRG]+[SHIFT]+[E] will load vehicle with as much items as possible from current sector. [SHIFT]+[E] will unload all items from vehicle to current sector.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>121</uiIndex>
@@ -503,11 +503,11 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>124</uiIndex>
-    <szName>Press [CTRL]+[C] to open Cover Display Menu.</szName>
+    <szName>Press [STRG]+[C] to open Cover Display Menu.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>125</uiIndex>
-    <szName>Press [CTRL]+[V] to open useful Inventory Manipulations Menu.</szName>
+    <szName>Press [STRG]+[V] to open useful Inventory Manipulations Menu.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>126</uiIndex>
@@ -515,7 +515,7 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>127</uiIndex>
-    <szName>Press [CTRL]+[D] to end your interrupt, and there will be no interrupts until next turn.</szName>
+    <szName>Press [STRG]+[D] to end your interrupt, and there will be no interrupts until next turn.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>128</uiIndex>
