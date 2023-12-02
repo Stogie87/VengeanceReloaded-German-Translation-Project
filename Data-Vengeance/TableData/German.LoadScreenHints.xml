@@ -266,275 +266,275 @@ szName            text to appear, 190 chars max
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>65</uiIndex>
-    <szName>Mobile militia can follow mercs while travelling on map as long as merc group is 1 sector distance to them. Wait for them to arrive to your position.</szName>
+    <szName>Mobile Milizen können Söldnern folgen, während sie sich auf der Karte bewegen, solange sich die Söldnergruppe in 1 Sektor Entfernung zu ihnen befindet. Warten Sie, bis sie an Ihrer Position angekommen sind.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>66</uiIndex>
-    <szName>In the militia redistribution menu, holding [STRG] will move 5 militia. [SHIFT] will move all in a sector.</szName>
+    <szName>Im Menü für die Umverteilung der Miliz werden bei gedrückter [STRG]-Taste 5 Milizen bewegt. Mit [SHIFT] werden alle in einem Sektor bewegt.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>67</uiIndex>
-    <szName>Mobile militia can help you when you attack a town if you keep them with you and call them as reinforcements before battle.</szName>
+    <szName>Mobile Milizen können dir beim Angriff auf eine Stadt helfen, wenn du sie mitnimmst und sie vor der Schlacht als Verstärkung rufst.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>68</uiIndex>
-    <szName>On top of the sector inventory screen, there are buttons that help sort and filter items. Hanging mouse over each button will show explanation for that button.</szName>
+    <szName>Oben auf dem Bildschirm des Sektorinventars befinden sich Schaltflächen, die beim Sortieren und Filtern von Gegenständen helfen. Wenn Sie mit der Maus über eine Schaltfläche fahren, wird eine Erklärung für diese Schaltfläche angezeigt.</szName>
     <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>69</uiIndex>
-    <szName>HP ammo does great damage but is easily stopped by body armor. AP ammo can penetrate body armor but does less damage.</szName>
+    <szName>HS-Munition richtet großen Schaden an, wird aber leicht von Körperpanzerung aufgehalten. PB-Munition kann Körperpanzerungen durchdringen, richtet aber weniger Schaden an.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>70</uiIndex>
-    <szName>Use HP ammo to kill bloodcats.</szName>
+    <szName>Verwende HS-Munition, um Bloodcats zu töten.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>71</uiIndex>
-    <szName>Helping locals will boost their loyalty. Talking to them may sometimes reveal some useful information as well.</szName>
+    <szName>Wer den Einheimischen hilft, stärkt ihre Loyalität. Wenn Sie mit ihnen sprechen, können Sie manchmal auch nützliche Informationen erhalten.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>72</uiIndex>
-    <szName>You need to have enough loyalty in town before you can train militia there.</szName>
+    <szName>Man muss in der Stadt genügend Loyalität haben, bevor man Milizen ausbilden kann.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>73</uiIndex>
-    <szName>Mercs with teaching skill train militia faster.</szName>
+    <szName>Söldner mit Lehrfähigkeiten bilden Milizen schneller aus.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>74</uiIndex>
-    <szName>Press [O] opens up options menu in game.</szName>
+    <szName>Drücken Sie [O], um das Optionsmenü im Spiel zu öffnen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>75</uiIndex>
-    <szName>Press [ALT]+[S] will quicksave game in a quicksave slot. [ALT]+[L] will quickload game from quicksave slot.</szName>
+    <szName>Drücken Sie [ALT]+[S], um das Spiel in einem Schnellspeicherplatz zu speichern. Mit [ALT]+[L] wird das Spiel aus dem Schnellspeicherplatz schnell geladen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>76</uiIndex>
-    <szName>Press [STRG]+[S] will open up save menu instantly.</szName>
+    <szName>Drücken Sie [STRG]+[S], um das Speichermenü direkt zu öffnen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>77</uiIndex>
-    <szName>In the main menu holding [ALT] while clicking 'Continue saved game' option will instantly load last saved game.</szName>
+    <szName>Wenn Sie im Hauptmenü die Taste [ALT] gedrückt halten und auf die Option "Gespeichertes Spiel fortsetzen" klicken, wird das letzte gespeicherte Spiel sofort geladen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>78</uiIndex>
-    <szName>Yellow shirts are admin enemies that have worst equipment and weapons and get replaced by regulars not long after you arrive in Arulco.</szName>
+    <szName>Bei den Gelbhemden handelt es sich um Verwaltungsgegner, die über die schlechteste Ausrüstung und die schlechtesten Waffen verfügen und kurz nach Ihrer Ankunft in Arulco durch reguläre Gegner ersetzt werden.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>79</uiIndex>
-    <szName>Red shirts are Deidranna's regular army and will face you most of the game.</szName>
+    <szName>Die Rothemden sind die reguläre Armee von Deidranna und werden Ihnen die meiste Zeit des Spiels gegenüberstehen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>80</uiIndex>
-    <szName>Black shirts are mercenaries hired by Deidranna. They have the best equipment and weapons and are toughest of enemies. Higher difficulty levels increase their numbers.</szName>
+    <szName>Schwarzhemden sind Söldner, die von Deidranna angeheuert wurden. Sie haben die beste Ausrüstung und die besten Waffen und sind die härtesten Gegner. Mit steigendem Schwierigkeitsgrad nimmt ihre Zahl zu.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>81</uiIndex>
-    <szName>Green militia can be trained further to become regular militia. Regular militia is more useful but costs more to train and maintain.</szName>
+    <szName>Die grüne Miliz kann zu einer regulären Miliz weiter ausgebildet werden. Eine reguläre Miliz ist nützlicher, kostet aber mehr Geld für Ausbildung und Unterhalt.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>82</uiIndex>
-    <szName>Veteran militia can't be trained. Militia can become veteran after combat if they performed well.</szName>
+    <szName>Veteranenmilizen können nicht ausgebildet werden. Milizen können nach einem Kampf Veteranen werden, wenn sie sich gut geschlagen haben.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>83</uiIndex>
-    <szName>Try to bandage dying merc as soon as possible, or otherwise the merc may bleed to death.</szName>
+    <szName>Versuchen Sie, sterbende Söldner so schnell wie möglich zu verbinden, da sie sonst verbluten.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>84</uiIndex>
-    <szName>Always try to give a sidearm to your snipers. Snipers are of limited use in close combat situations.</szName>
+    <szName>Versuchen Sie immer, Ihren Scharfschützen eine Seitenwaffe zu geben. Scharfschützen sind in Nahkampfsituationen von begrenztem Nutzen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>85</uiIndex>
-    <szName>Stun grenades can help you render enemy helpless. You can steal equipment from helpless enemies.</szName>
+    <szName>Mit Betäubungsgranaten kannst du deine Gegner wehrlos machen. Du kannst Ausrüstung von wehrlosen Feinden stehlen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>86</uiIndex>
-    <szName>Try to stun or suppress enemies before throwing tear gas grenade at them. That will prevent them from getting out of tear gas range.</szName>
+    <szName>Versuchen Sie, Feinde zu betäuben oder zu unterdrücken, bevor Sie eine Tränengasgranate auf sie werfen. So können sie sich nicht aus der Reichweite des Tränengases entfernen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>87</uiIndex>
-    <szName>Always check if enemy has gas mask before using tear gas on him. Hold [ALT] key while targeting enemy to see his details. Amount of details depend on the distance from selected merc.</szName>
+    <szName>Prüfen Sie immer, ob der Gegner eine Gasmaske trägt, bevor Sie Tränengas gegen ihn einsetzen. Halten Sie die [ALT]-Taste gedrückt, während Sie den Gegner anvisieren, um seine Details zu sehen. Die Anzahl der Details hängt von der Entfernung zum ausgewählten Söldner ab.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>88</uiIndex>
-    <szName>Make sure you have your gun fully loaded at all times with [ALT]+[R].</szName>
+    <szName>Vergewissern Sie sich, dass Sie Ihre Waffe mit [ALT]+[R] immer vollständig geladen haben.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>89</uiIndex>
-    <szName>Don't forget to use cover.</szName>
+    <szName>Vergessen Sie nicht in Deckung zu gehen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>90</uiIndex>
-    <szName>If trees get in your LOS (line of sight), press [T] to clear things up. You can press the [DELETE] key to get a better feel for your surroundings.</szName>
+    <szName>Wenn sich Bäume in Ihre Sichtlinie drängen, drücken Sie [T], um die Baumkronen zu entfernen. Sie können die Taste [ENTF] drücken, um Ihr Umfeld besser wahrzunehmen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>91</uiIndex>
-    <szName>L.B.E. stands for Load Bearing Equipment.</szName>
+    <szName>L.B.E. steht für Load Bearing Equipment (Last tragende Ausrüstung).</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>92</uiIndex>
-    <szName>Switch between ground and rooftop targets with the [TAB] key.</szName>
+    <szName>Wechseln Sie zwischen Boden- und Dachzielen mit der [TAB]-Taste.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>93</uiIndex>
-    <szName>Shoot from behind cover and know how many AP's it takes to get your butt back down again.</szName>
+    <szName>Schießen Sie aus der Deckung heraus und achten Sie darauf, wie viele AP Sie verbrauchen, um Ihren Hintern anschließend wieder in Deckung bringen zu können.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>94</uiIndex>
-    <szName>Pay attention to what mercs hear, it can save you a whole lotta pain if you know where they're coming from!</szName>
+    <szName>Achten Sie darauf, was die Söldner hören, denn es kann Ihnen eine Menge Ärger ersparen, wenn Sie wissen, woher die Feinde kommen!</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>95</uiIndex>
-    <szName>You'll see a white "Ping" blink on the location of any overheard sounds.</szName>
+    <szName>Sie sehen ein weißes "Ping", das an der Stelle blinkt, von der aus die Geräusche zu hören waren.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>96</uiIndex>
-    <szName>Firing your weapon can draw some heat away from an injured merc or someone who's in it knee deep!</szName>
+    <szName>Das Abfeuern deiner Waffe kann den Druck von einem verletzten Söldner oder jemandem, der knietief in der Scheiße steckt, nehmen!</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>97</uiIndex>
-    <szName>Stay away from light sources at night and try to use them to your advantage.</szName>
+    <szName>Halten Sie sich in der Nacht von Lichtquellen fern und versuchen Sie diese zu Ihrem Vorteil zu nutzen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>98</uiIndex>
-    <szName>Press [ALT]+[Z] to order all your mercs to stealth mode, and [=] to select them all.</szName>
+    <szName>Drücken Sie [ALT]+[Z], um alle Ihre Söldner in den Stealth-Modus zu versetzen, und [=], um alle auszuwählen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>99</uiIndex>
-    <szName>Relying on sound is even more important at night. Without the proper equipment, you'll hear more than you can see.</szName>
+    <szName>Nachts ist es besonders wichtig, sich auf den Hörsinn zu verlassen. Denn mit der richtigen Ausrüstung hören Sie weiter, als Sie sehen können.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>100</uiIndex>
-    <szName>Night Ops is probably your best bet early on, if you are relying on pistols and S.M.G.'s.</szName>
+    <szName>Nachteinsätze sind am anfangs wahrscheinlich die beste Wahl, wenn man sich auf Pistolen und S.M.G.'s verlassen muss.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>101</uiIndex>
-    <szName>Press [STRG]+[ALT]+[G] to toggle on/off the artificial light around the mercs.</szName>
+    <szName>Drücken Sie [STRG]+[ALT]+[G], um das künstliche Licht um die Söldner herum ein- und auszuschalten.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>102</uiIndex>
-    <szName>If you get caught in a thunder storm, be on your toes, a flash of lightning can give away your position and the rain makes it harder to see.</szName>
+    <szName>Wenn Sie in ein Gewitter geraten, sollten Sie auf der Hut sein, denn ein Blitz kann Ihre Position verraten und der Regen erschwert die Sicht.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>103</uiIndex>
-    <szName>Don't stay bunched together either, a stray bullet or grenade can do serious damage to your whole squad.</szName>
+    <szName>Bleibt nicht zu dicht beieinander, denn ein Querschläger oder eine Granate kann eurem gesamten Trupp schweren Schaden zufügen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>104</uiIndex>
-    <szName>Every move you make, determines how the battle unfolds.</szName>
+    <szName>Jeder Zug, den du machst, bestimmt, wie der Kampf weitergeht.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>105</uiIndex>
-    <szName>Always deal with the present threat before carrying out another plan.</szName>
+    <szName>Kümmern Sie sich immer erst um die gegenwärtige Bedrohung, bevor Sie einen neuen Plan verfolgen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>106</uiIndex>
-    <szName>When moving on a roof top, try to move in straight lines, moving diagonally can slow you down.</szName>
+    <szName>Wenn Sie sich auf einem Dach bewegen, versuchen Sie, sich in geraden Linien zu bewegen, denn diagonale Bewegungen können Sie verlangsamen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>107</uiIndex>
-    <szName>Marbles can be surprisingly useful in a fist fight.</szName>
+    <szName>Murmeln können in einem Faustkampf erstaunlich nützlich sein.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>108</uiIndex>
-    <szName>If you need to get somewhere fast, make sure you don't exceed 100 percent weight on the mercs. It will slow the squad down.</szName>
+    <szName>Wenn Sie schnell vorankommen müssen, achten Sie darauf, dass Sie nicht mehr als 100 Prozent Gewicht auf die Söldner laden, denn das verlangsamt die gesamte Gruppe.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>109</uiIndex>
-    <szName>Counting bullets during a fight is tough. Don't be surprised when the mercs forget how many they have left.</szName>
+    <szName>Das Zählen von Kugeln während eines Kampfes ist schwierig. Wundern Sie sich nicht, wenn die Söldner vergessen, wie viele sie noch haben.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>110</uiIndex>
-    <szName>Each mercenary has different approach effectiveness when talking to an NPC. Different backgrounds may have an effect on them too. Don't expect Biff to be effective at threatening people.</szName>
+    <szName>Jeder Söldner hat eine andere Herangehensweise, wenn er mit einem NPC spricht. Erwarte nicht, dass Biff Menschen effektiv bedrohen kann.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>111</uiIndex>
-    <szName>Each mercenary has different sleeping pattern ranging from 3 to 12 hours to fully restore energy. "Night Ops" trait allows to reduce this time even further.</szName>
+    <szName>Jeder Söldner hat einen anderen Schlafrhythmus, der von 3 bis 12 Stunden reicht, um seine Energie vollständig wiederherzustellen. Die Eigenschaft " Nachteinsatz" ermöglicht es, diese Zeit noch weiter zu verkürzen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>112</uiIndex>
-    <szName>Each mercenary has different tolerance on the number of merc deaths and on your overall reputation in Arulco.</szName>
+    <szName>Jeder Söldner toleriert die Anzahl der getöteten Söldner und Ihren allgemeinen Ruf in Arulco unterschiedlich.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>113</uiIndex>
-    <szName>Avoid keeping two people in team who don't like each other in the same sector for more than an hour.</szName>
+    <szName>Vermeiden Sie es, zwei Personen, die sich nicht mögen, länger als eine Stunde im selben Bereich zu haben.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>114</uiIndex>
-    <szName>Certain mercenaries cannot gain stats at all. You can't teach an old dog new tricks.</szName>
+    <szName>Bestimmte Söldner können ihre Werte nicht verbessern. Man kann einem alten Hund keine neuen Tricks beibringen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>115</uiIndex>
-    <szName>Game manuals, hotkey list, map editor tutorial and more useful documents can be found in the "Docs" folder in your JA2 installation directory.</szName>
+    <szName>Spielhandbücher, Hotkey-Liste, Map-Editor-Tutorial und weitere nützliche Dokumente finden Sie im Ordner "Docs" in Ihrem JA2-Installationsverzeichnis.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>116</uiIndex>
-    <szName>Game resolution and playing of movie intro can be tweaked in "Ja2.ini".</szName>
+    <szName>Die Auflösung des Spiels und die Wiedergabe des Introfilms können in der Datei "Ja2.ini" eingestellt werden.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>117</uiIndex>
-    <szName>Do you want to fight against real players or do co-operate teamwork together with your friends? Try 1.13 multiplayer mode.</szName>
+    <szName>Willst du gegen echte Spieler kämpfen oder mit deinen Freunden zusammenarbeiten? Probieren Sie den 1.13-Mehrspielermodus aus.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>118</uiIndex>
-    <szName>Press [G] to toggle mercenary formation move. When ON and you select more then one merc, they will keep their current formation.</szName>
+    <szName>Drücken Sie [G], um die Bewegung der Söldnerformation zu aktivieren. Wenn diese Funktion eingeschaltet ist und Sie mehr als einen Söldner auswählen, behalten sie ihre aktuelle Formation bei.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>119</uiIndex>
-    <szName>Press [STRG]+[SHIFT]+[S] to sell all items in current sector inventory at once.</szName>
+    <szName>Drücken Sie [STRG]+[SHIFT]+[S], um alle Gegenstände im aktuellen Sektorinventar auf einmal zu verkaufen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>120</uiIndex>
-    <szName>Press [STRG]+[SHIFT]+[E] will load vehicle with as much items as possible from current sector. [SHIFT]+[E] will unload all items from vehicle to current sector.</szName>
+    <szName>Drücken Sie [STRG]+[SHIFT]+[E], um das Fahrzeug mit so vielen Gegenständen wie möglich aus dem aktuellen Sektor zu beladen. Mit [SHIFT]+[E] werden alle Gegenstände aus dem Fahrzeug in den aktuellen Sektor entladen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>121</uiIndex>
-    <szName>If merc can't hit a target from current location, try to suppress with auto fire and then change to a better position.</szName>
+    <szName>Wenn Söldner ein Ziel von der aktuellen Position aus nicht treffen können, versuchen Sie, es mit automatischem Feuer zu unterdrücken und wechseln Sie dann zu einer besseren Position.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>122</uiIndex>
-    <szName>Exploring the farms and city sectors can uncover lots of useful items, like gas for vehicle.</szName>
+    <szName>Bei der Erkundung der Farmen und Stadtsektoren können viele nützliche Gegenstände gefunden werden, wie zum Beispiel Benzin für Fahrzeuge.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>123</uiIndex>
-    <szName>In tactical screen, pressing and holding [RIGHT-MOUSE-BUTTON] over merc will open up merc's menu similar to the one on strategic screen map.</szName>
+    <szName>Wenn Sie im taktischen Bildschirm die [RECHTE-MAUSETASTE] über dem Söldner drücken und gedrückt halten, öffnet sich ein Söldnermenü, welches dem auf der strategischen Bildschirmkarte ähnelt.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>124</uiIndex>
-    <szName>Press [STRG]+[C] to open Cover Display Menu.</szName>
+    <szName>Drücken Sie [STRG]+[C], um das "Cover Display Menü" zu öffnen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>125</uiIndex>
-    <szName>Press [STRG]+[V] to open useful Inventory Manipulations Menu.</szName>
+    <szName>Drücken Sie [STRG]+[V], um das Inventar-Manipulationsmenü zu öffnen.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>126</uiIndex>
-    <szName>Press [D] to enter turn-based mode immediately, if there is enemy in sector.</szName>
+    <szName>Drücken Sie [D], um sofort in den rundenbasierten Modus zu wechseln, wenn sich Feinde im Sektor befinden.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>127</uiIndex>
-    <szName>Press [STRG]+[D] to end your interrupt, and there will be no interrupts until next turn.</szName>
+    <szName>Drücken Sie [STRG]+[D], um Ihre Unterbrechung zu beenden, und es wird bis zum nächsten Zug keine Unterbrechungen mehr geben.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>128</uiIndex>
-    <szName>[ALT]+[RIGHTCLICK] opens Skills Menu, where reinforcements or order artillery strike can be called by the radio operator.</szName>
+    <szName>[ALT]+[RECHTSKLICK] öffnet das Fertigkeiten-Menü, in dem der Funker Verstärkung anfordern oder einen Artillerieangriff befehlen kann.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>129</uiIndex>
-    <szName>Defensive minefields can be safely placed in captured towns and SAMs as mercs and militia will avoid them.</szName>
+    <szName>Minenfelder können zur Verteidigung sicher in eroberten Städten und SAMs platziert werden, da Söldner und Milizen sie meiden werden.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>130</uiIndex>
-    <szName>You can inspect traps before trying to disarm it. Recommended if you are happy with your current number of extremities.</szName>
+    <szName>Sie können Fallen untersuchen, bevor Sie versuchen, sie zu entschärfen. Empfehlenswert, wenn Sie mit Ihrer aktuellen Anzahl von Gliedmaßen zufrieden sind.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>131</uiIndex>
-    <szName>Click with hand cursor on a blue flag, and flag can be removed or trap inspected with the useful Disarm Menu.</szName>
+    <szName>Klicken Sie mit dem Handcursor auf eine blaue Flagge, und die Flagge kann entfernt oder die Falle mit dem nützlichen Entschärfungsmenü inspiziert werden.</szName>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>132</uiIndex>
-    <szName>Placing mines, concertina or sandbags is more convenient with holding [SHIFT] key, relieving the need to manually take new item from merc's inventory.</szName>
+    <szName>Das Platzieren von Minen, Ziehharmonikas oder Sandsäcken ist mit gedrückter [SHIFT]-Taste bequemer, da man nicht mehr manuell einen neuen Gegenstand aus dem Inventar des Söldners nehmen muss.</szName>
   </LOADSCREENHINT>
 </LOADSCREENHINTS>
