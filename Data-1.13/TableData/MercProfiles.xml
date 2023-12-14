@@ -6941,13 +6941,13 @@
 		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>0</bDeathRate>
-		<bLifeMax>95</bLifeMax>
-		<bLife>95</bLife>
-		<bStrength>30</bStrength>
-		<bAgility>50</bAgility>
-		<bDexterity>30</bDexterity>
+		<bLifeMax>100</bLifeMax>
+		<bLife>100</bLife>
+		<bStrength>80</bStrength>
+		<bAgility>80</bAgility>
+		<bDexterity>80</bDexterity>
 		<bWisdom>5</bWisdom>
-		<bMarksmanship>80</bMarksmanship>
+		<bMarksmanship>100</bMarksmanship>
 		<bExplosive>0</bExplosive>
 		<bLeadership>1</bLeadership>
 		<bMedical>0</bMedical>
@@ -7853,7 +7853,7 @@
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>1800</sSalary>
+		<sSalary>1500</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -16385,7 +16385,7 @@
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>10000</sSalary>
+		<sSalary>5000</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
