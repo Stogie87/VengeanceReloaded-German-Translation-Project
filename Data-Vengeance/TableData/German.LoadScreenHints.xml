@@ -355,7 +355,7 @@ The other tags determine in what category this hint falls, and will be displayed
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>66</uiIndex>
-    <szName>Im Menü zur Milizverteilung verschiebt [STRG] jeweils 5 Milizionäre; [UMSCHALT] verschiebt alle Milizionäre eines Sektors.</szName>
+    <szName>Im Menü zur Milizverteilung verschiebt [STRG] jeweils 5 Milizen; [UMSCHALT] verschiebt alle Milizen eines Sektors.</szName>
     <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
@@ -711,7 +711,7 @@ The other tags determine in what category this hint falls, and will be displayed
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>137</uiIndex>
-    <szName>Mit [UMSCHALT]+[L] wandelst du die Taschenlampe in der Hand schnell um.</szName>
+    <szName>Mit [UMSCHALT]+[L] schaltest du die Taschenlampe schnell um.</szName>
     <keybind>1</keybind>
   </LOADSCREENHINT>
 </LOADSCREENHINTS>
