@@ -1,4 +1,4 @@
-﻿<!--
+<!--
 
 uiIndex:			The profile index from BinaryData\prof.dat or from TableData\MercProfiles.xml
 Name:				The name of the vehicle, which is displayed for example in tactical, when hovering the mouse over the vehicle.
@@ -2422,9 +2422,9 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<!-- Hummer -->
 	<VEHICLE>
 		<uiIndex>160</uiIndex>
-		<Name>Truck</Name>
-		<LongName>Truck</LongName>
-		<ShortName>Truck</ShortName>
+		<Name>LKW</Name>
+		<LongName>LKW</LongName>
+		<ShortName>LKW</ShortName>
 		<MvtTypes>2</MvtTypes>
 		<StiFaceIcon>INTERFACE\Hummer.sti</StiFaceIcon>
 		<SeatingCapacities>8</SeatingCapacities>
@@ -2443,7 +2443,7 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 		<ShortName>Eldor.</ShortName>
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\eldorado.sti</StiFaceIcon>
-		<SeatingCapacities>8</SeatingCapacities>
+		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
@@ -2455,11 +2455,11 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>162</uiIndex>
 		<Name>Jeep</Name>	
-		<LongName>Military Jeep</LongName>
+		<LongName>Militärjeep</LongName>
 		<ShortName>Jeep</ShortName>		
 		<MvtTypes>2</MvtTypes>
 		<StiFaceIcon>INTERFACE\ice Cream Truck.sti</StiFaceIcon>
-		<SeatingCapacities>8</SeatingCapacities>
+		<SeatingCapacities>4</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
@@ -2472,11 +2472,11 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>163</uiIndex>
 		<Name>Heli</Name>	
-		<LongName>Helicopter</LongName>
+		<LongName>Hubschrauber</LongName>
 		<ShortName>Heli</ShortName>	
 		<MvtTypes>4</MvtTypes>
 		<StiFaceIcon></StiFaceIcon>
-		<SeatingCapacities>9</SeatingCapacities>
+		<SeatingCapacities>7</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
@@ -2488,12 +2488,12 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<!-- this record used all enemy tanks ?? -->
 	<VEHICLE>
 		<uiIndex>164</uiIndex>
-		<Name>Tank</Name>	
-		<LongName>Tank</LongName>
-		<ShortName>Tank</ShortName>	
+		<Name>Panzer</Name>	
+		<LongName>Panzer</LongName>
+		<ShortName>Panzer</ShortName>	
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon></StiFaceIcon>
-		<SeatingCapacities>8</SeatingCapacities>
+		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>167</VehicleArmourType>

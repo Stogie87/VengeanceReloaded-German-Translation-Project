@@ -1,323 +1,432 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+This file defines the text used for various history events.
+
+These are the "history log" strings. Their length is very limited, especially with '%s'
+One way to test is to use the replacement strings on <uiIndex> 1 & 5.
+
+NOTE:
+Will only work if there's an accompanying trigger in sourcecode;
+	does not work by simply adding more lines.
+Strings containing combinations of % characters are special format characters to insert
+	a parameter as specified in code. % characters can be rearranged/removed;
+	inserting new ones will just print garbled text.
+-->
 <STRINGS>
   <TEXT>
+	<!-- HISTORY_ENTERED_HISTORY_MODE - leave this line blank -->
 	<uiIndex>0</uiIndex>
     <sHistory></sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_HIRED_MERC_FROM_AIM -->
 	<uiIndex>1</uiIndex>
-    <sHistory>%s von A.I.M. angeheuert.</sHistory>
+    <sHistory>%s bei A.I.M. angeheuert.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_HIRED_MERC_FROM_MERC -->
 	<uiIndex>2</uiIndex>
-    <sHistory>%s von M.E.R.C. angeheuert.</sHistory>
+    <sHistory>%s bei M.E.R.C. angeheuert.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_MERC_KILLED -->
 	<uiIndex>3</uiIndex>
-    <sHistory>%s ist tot.</sHistory>
+    <sHistory>%s ist gestorben.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_SETTLED_ACCOUNTS_AT_MERC -->
 	<uiIndex>4</uiIndex>
-    <sHistory>Rechnung an M.E.R.C. bezahlt</sHistory>
+    <sHistory>Rechnung bei M.E.R.C. beglichen.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_ACCEPTED_ASSIGNMENT_FROM_ENRICO -->
 	<uiIndex>5</uiIndex>
-    <sHistory>Enrico Chivaldoris Auftrag akzeptiert</sHistory>
+    <sHistory>Auftrag der Agency angenommen</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_CHARACTER_GENERATED -->
 	<uiIndex>6</uiIndex>
     <sHistory>B.S.E.-Profil erstellt</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_PURCHASED_INSURANCE -->
 	<uiIndex>7</uiIndex>
-    <sHistory>Versicherung abgeschlossen für %s.</sHistory>
+    <sHistory>Versicherung für %s abgeschlossen.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_CANCELLED_INSURANCE -->
 	<uiIndex>8</uiIndex>
-    <sHistory>Versicherung gekündigt für %s.</sHistory>
+    <sHistory>Versicherung für %s gekündigt.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_INSURANCE_CLAIM_PAYOUT -->
 	<uiIndex>9</uiIndex>
-    <sHistory>Versicherung ausgezahlt für %s.</sHistory>
+    <sHistory>Versicherungsleistung für %s ausgezahlt.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_EXTENDED_CONTRACT_1_DAY -->
 	<uiIndex>10</uiIndex>
-    <sHistory>%ss Vertrag um 1 Tag verlängert.</sHistory>
+    <sHistory>Vertrag von %s um 1 Tag verlängert.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_EXTENDED_CONTRACT_1_WEEK -->
 	<uiIndex>11</uiIndex>
-    <sHistory>%ss Vertrag um 1 Woche verlängert.</sHistory>
+    <sHistory>Vertrag von %s um 1 Woche verlängert.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_EXTENDED_CONTRACT_2_WEEK -->
 	<uiIndex>12</uiIndex>
-    <sHistory>%ss Vertrag um 2 Wochen verlängert.</sHistory>
+    <sHistory>Vertrag von %s um 2 Wochen verlängert.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_MERC_FIRED -->
 	<uiIndex>13</uiIndex>
     <sHistory>%s entlassen.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_MERC_QUIT -->
 	<uiIndex>14</uiIndex>
-    <sHistory>%s geht.</sHistory>
+    <sHistory>%s hat gekündigt.</sHistory>
   </TEXT>
   <TEXT>
+  	<!-- HISTORY_QUEST_STARTED - strings from BINARYDATA\quests.edt -->
 	<uiIndex>15</uiIndex>
     <sHistory>Quest begonnen.</sHistory>
   </TEXT>
   <TEXT>
+  	<!-- HISTORY_QUEST_FINISHED - strings from BINARYDATA\quests.edt -->
 	<uiIndex>16</uiIndex>
-    <sHistory>Quest gelöst.</sHistory>
+    <sHistory>Quest abgeschlossen.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_TALKED_TO_MINER -->
 	<uiIndex>17</uiIndex>
-    <sHistory>Mit Vorarbeiter in %s geredet</sHistory>
+    <sHistory>Mit Vorarbeiter von %s gesprochen</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_LIBERATED_TOWN -->
 	<uiIndex>18</uiIndex>
     <sHistory>%s befreit</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_CHEAT_ENABLED -->
 	<uiIndex>19</uiIndex>
     <sHistory>Cheat benutzt</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_TALKED_TO_FATHER_WALKER -->
 	<uiIndex>20</uiIndex>
-    <sHistory>Essen ist morgen in Omerta</sHistory>
+    <sHistory>Lebensmittel sollen morgen in Omerta sein</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_MERC_MARRIED_OFF -->
 	<uiIndex>21</uiIndex>
-    <sHistory>%s heiratet Daryl Hick</sHistory>
+    <sHistory>%s half Babyface auf nicht ganz platonische Weise</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_MERC_CONTRACT_EXPIRED -->
 	<uiIndex>22</uiIndex>
-    <sHistory>%ss Vertrag abgelaufen.</sHistory>
+    <sHistory>Vertrag von %s ist abgelaufen.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_RPC_JOINED_TEAM -->
 	<uiIndex>23</uiIndex>
     <sHistory>%s rekrutiert.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_ENRICO_COMPLAINED -->
 	<uiIndex>24</uiIndex>
-    <sHistory>Enrico sieht kaum Fortschritte</sHistory>
+    <sHistory>Agency beklagte mangelnden Fortschritt</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_WONBATTLE -->
 	<uiIndex>25</uiIndex>
     <sHistory>Schlacht gewonnen</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_MINE_RUNNING_OUT -->
 	<uiIndex>26</uiIndex>
-    <sHistory>Mine in %s produziert weniger</sHistory>
+    <sHistory>Mine bei %s liefert weniger Erz</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_MINE_RAN_OUT -->
 	<uiIndex>27</uiIndex>
-    <sHistory>Mine in %s leer</sHistory>
+    <sHistory>Mine bei %s ist erschöpft</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_MINE_SHUTDOWN -->
 	<uiIndex>28</uiIndex>
-    <sHistory>Mine in %s geschlossen</sHistory>
+    <sHistory>Mine bei %s stillgelegt</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_MINE_REOPENED -->
 	<uiIndex>29</uiIndex>
-    <sHistory>Mine in %s wieder offen</sHistory>
+    <sHistory>Mine bei %s wiedereröffnet</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_DISCOVERED_TIXA -->
 	<uiIndex>30</uiIndex>
-    <sHistory>Etwas über Gefängnis in Tixa erfahren.</sHistory>
+    <sHistory>Von einem Gefängnis namens Tixa erfahren.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_DISCOVERED_ORTA -->
 	<uiIndex>31</uiIndex>
-    <sHistory>Von Waffenfabrik in Orta gehört.</sHistory>
+    <sHistory>Von geheimer Waffenfabrik namens Orta erfahren.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_GOT_ROCKET_RIFLES -->
 	<uiIndex>32</uiIndex>
-    <sHistory>Forscher in Orta gab uns viele Raketengewehre.</sHistory>
+    <sHistory>Wissenschaftler in Orta spendete zahlreiche Raketengewehre.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_DEIDRANNA_DEAD_BODIES -->
 	<uiIndex>33</uiIndex>
-    <sHistory>Deidranna verfüttert Leichen.</sHistory>
+    <sHistory>Königin Deidranna hat Verwendung für Leichen.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_BOXING_MATCHES -->
 	<uiIndex>34</uiIndex>
-    <sHistory>Frank erzählte von Kämpfen in San Mona.</sHistory>
+    <sHistory>Frank erzählte von Kampfturnieren in San Mona.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_SOMETHING_IN_MINES -->
 	<uiIndex>35</uiIndex>
-    <sHistory>Patient denkt, er hat in den Minen etwas gesehen.</sHistory>
+    <sHistory>Ein Patient glaubt, etwas in den Minen gesehen zu haben.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_DEVIN -->
 	<uiIndex>36</uiIndex>
-    <sHistory>Devin getroffen - verkauft Sprengstoff</sHistory>
+    <sHistory>TNT getroffen - verkauft Sprengstoff.</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_MIKE -->
 	<uiIndex>37</uiIndex>
-    <sHistory>Berühmten Ex-AIM-Mann Mike getroffen!</sHistory>
+    <sHistory>Berühmten Ex-A.I.M.-Söldner Mike getroffen!</sHistory>
   </TEXT>
   <TEXT>
+	<!-- HISTORY_TONY -->
 	<uiIndex>38</uiIndex>
-    <sHistory>Tony getroffen - verkauft Waffen.</sHistory>
+    <sHistory>Tony getroffen - handelt mit Waffen.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_KROTT -->
 	<uiIndex>39</uiIndex>
-    <sHistory>Sergeant Krott gab mir Raketengewehr.</sHistory>
+    <sHistory>Railgun von Sergeant Krott erhalten.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_KYLE -->
 	<uiIndex>40</uiIndex>
-    <sHistory>Kyle die Urkunde für Angels Laden gegeben.</sHistory>
+    <sHistory>Kyle die Besitzurkunde für Angels Lederladen gegeben.</sHistory>
   </TEXT>  
   <TEXT>
+	<!-- HISTORY_MADLAB -->
 	<uiIndex>41</uiIndex>
-    <sHistory>Madlab will Roboter bauen.</sHistory>
+    <sHistory>Madlab bot an, einen Roboter zu bauen.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_GABBY -->
 	<uiIndex>42</uiIndex>
-    <sHistory>Gabby kann Tinktur gegen Käfer machen.</sHistory>
+    <sHistory>Gabby kann Tarnmittel gegen Käfer herstellen.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_KEITH_OUT_OF_BUSINESS -->
 	<uiIndex>43</uiIndex>
-    <sHistory>Keith nicht mehr im Geschäft.</sHistory>
+    <sHistory>Hank ist aus dem Geschäft.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_HOWARD_CYANIDE -->
 	<uiIndex>44</uiIndex>
-    <sHistory>Howard lieferte Gift an Deidranna.</sHistory>
+    <sHistory>Howard lieferte Königin Deidranna Zyankali.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_KEITH -->
 	<uiIndex>45</uiIndex>
-    <sHistory>Keith getroffen - verkauft alles in Cambria.</sHistory>
+    <sHistory>Hank getroffen - Allzweckhändler in Salinas.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_HOWARD -->
 	<uiIndex>46</uiIndex>
-    <sHistory>Howard getroffen - Apotheker in Balime</sHistory>
+    <sHistory>Howard getroffen - handelt mit Medikamenten in Malino.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_PERKO -->
 	<uiIndex>47</uiIndex>
-    <sHistory>Perko getroffen - hat kleinen Reparaturladen.</sHistory>
+    <sHistory>Perko getroffen - betreibt kleinen Reparaturladen.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_SAM -->
 	<uiIndex>48</uiIndex>
-    <sHistory>Sam aus Balime getroffen - hat Computerladen.</sHistory>
+    <sHistory>Sam getroffen - betreibt Eisenwarenladen in Malino.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_FRANZ -->
 	<uiIndex>49</uiIndex>
-    <sHistory>Franz hat Elektronik und andere Sachen.</sHistory>
+    <sHistory>Franz handelt mit Elektronik und anderen Waren.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_ARNOLD -->
 	<uiIndex>50</uiIndex>
-    <sHistory>Arnold repariert Sachen in Grumm.</sHistory>
+    <sHistory>Arnold betreibt einen Reparaturladen in Doran.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_FREDO -->
 	<uiIndex>51</uiIndex>
-    <sHistory>Fredo repariert Elektronik in Grumm.</sHistory>
+    <sHistory>Fredo repariert Elektronik in Doran.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_RICHGUY_BALIME -->
 	<uiIndex>52</uiIndex>
-    <sHistory>Spende von Reichem aus Balime bekommen.</sHistory>
+    <sHistory>Spende von einem Reichen in Malino erhalten.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_JAKE -->
 	<uiIndex>53</uiIndex>
-    <sHistory>Schrotthändler Jake getroffen.</sHistory>
+    <sHistory>Schrottplatzhändler Jake getroffen.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_BUM_KEYCARD -->
 	<uiIndex>54</uiIndex>
-    <sHistory>Ein Depp hat uns eine Codekarte gegeben.</sHistory>
+    <sHistory>Ein Obdachloser gab uns eine elektronische Schlüsselkarte.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_WALTER -->
 	<uiIndex>55</uiIndex>
-    <sHistory>Walter bestochen, damit er Keller öffnet.</sHistory>
+    <sHistory>Wache bestochen, damit sie die Tür zu den Gefangenen öffnet.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_DAVE -->
 	<uiIndex>56</uiIndex>
-    <sHistory>Wenn Dave Sprit hat, bekommen wir's gratis.</sHistory>
+    <sHistory>Wenn Dave Sprit hat, tankt er uns kostenlos auf.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_PABLO -->
 	<uiIndex>57</uiIndex>
     <sHistory>Pablo bestochen.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_KINGPIN_MONEY -->
 	<uiIndex>58</uiIndex>
-    <sHistory>Kingpin hat Geld in San Mona-Mine.</sHistory>
+    <sHistory>Kingpin lagert Geld in der Mine von San Mona.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_WON_BOXING -->
 	<uiIndex>59</uiIndex>
-    <sHistory>%s gewinnt Extremkampf</sHistory>
+    <sHistory>%s gewann einen Extreme-Fighting-Kampf</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_LOST_BOXING -->
 	<uiIndex>60</uiIndex>
-    <sHistory>%s verliert Extremkampf</sHistory>
+    <sHistory>%s verlor einen Extreme-Fighting-Kampf</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_DISQUALIFIED_BOXING -->
 	<uiIndex>61</uiIndex>
-    <sHistory>%s beim Extremkampf disqualifiziert</sHistory>
+    <sHistory>%s beim Extreme Fighting disqualifiziert</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_FOUND_MONEY -->
 	<uiIndex>62</uiIndex>
-    <sHistory>Viel Geld in verlassener Mine gefunden.</sHistory>
+    <sHistory>Viel Geld in der verlassenen Mine gefunden.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_ASSASSIN -->
 	<uiIndex>63</uiIndex>
-    <sHistory>Von Kingpin geschickten Mörder getroffen</sHistory>
+    <sHistory>Von Kingpin geschickten Attentäter getroffen</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_LOSTTOWNSECTOR -->
 	<uiIndex>64</uiIndex>
     <sHistory>Kontrolle über Sektor verloren</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_DEFENDEDTOWNSECTOR -->
 	<uiIndex>65</uiIndex>
     <sHistory>Sektor verteidigt</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_LOSTBATTLE -->
 	<uiIndex>66</uiIndex>
     <sHistory>Schlacht verloren</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_FATALAMBUSH -->
 	<uiIndex>67</uiIndex>
     <sHistory>Tödlicher Hinterhalt</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_WIPEDOUTENEMYAMBUSH -->
 	<uiIndex>68</uiIndex>
-    <sHistory>Hinterhalt ausgehoben</sHistory>
+    <sHistory>Feindlichen Hinterhalt ausgelöscht</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_UNSUCCESSFULATTACK -->
 	<uiIndex>69</uiIndex>
     <sHistory>Angriff fehlgeschlagen</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_SUCCESSFULATTACK -->
 	<uiIndex>70</uiIndex>
-    <sHistory>Angriff erfolgreich</sHistory>
+    <sHistory>Angriff erfolgreich!</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_CREATURESATTACKED -->
 	<uiIndex>71</uiIndex>
-    <sHistory>Monster angegriffen</sHistory>
+    <sHistory>Kreaturen griffen an</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_KILLEDBYBLOODCATS -->
 	<uiIndex>72</uiIndex>
     <sHistory>Von Bloodcats getötet</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_SLAUGHTEREDBLOODCATS -->
 	<uiIndex>73</uiIndex>
-    <sHistory>Bloodcats getötet</sHistory>
+    <sHistory>Bloodcats niedergemacht</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_NPC_KILLED -->
 	<uiIndex>74</uiIndex>
     <sHistory>%s wurde getötet</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_GAVE_CARMEN_HEAD -->
 	<uiIndex>75</uiIndex>
     <sHistory>Carmen den Kopf eines Terroristen gegeben</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_SLAY_MYSTERIOUSLY_LEFT -->
 	<uiIndex>76</uiIndex>
     <sHistory>Slay ist gegangen</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_MERC_KILLED_CHARACTER -->
 	<uiIndex>77</uiIndex>
     <sHistory>%s getötet</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_WALDO -->
 	<uiIndex>78</uiIndex>
-    <sHistory>Met Waldo - aircraft mechanic.</sHistory>
+    <sHistory>Waldo getroffen - Flugzeugmechaniker.</sHistory>
   </TEXT> 
   <TEXT>
+	<!-- HISTORY_HELICOPTER_REPAIR_STARTED -->
 	<uiIndex>79</uiIndex>
-    <sHistory>Helicopter repairs started. Estimated time: %d hour(s).</sHistory>
+    <sHistory>Hubschrauberreparatur begonnen. Geschätzte Zeit: %d Std.</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_ENRICO -->
+	<uiIndex>80</uiIndex>
+    <sHistory>Enrico Chivaldori im Palast von Malino gerettet.</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_TRACONA_ACCESS -->
+	<uiIndex>81</uiIndex>
+    <sHistory>Artilleriehilfe für geplanten Angriff auf Tracona erhalten.</sHistory>
+  </TEXT> 
+    <TEXT>
+	<!-- HISTORY_SCUD_ACCESS -->
+	<uiIndex>82</uiIndex>
+    <sHistory>SCUD-Hilfe für geplanten Angriff auf Alma-Basis erhalten.</sHistory>
   </TEXT> 
 </STRINGS>

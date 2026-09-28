@@ -14307,8 +14307,8 @@
 		<bBuddy5>255</bBuddy5>
 		<bLearnToLike>255</bLearnToLike>
 		<bLearnToLikeTime>0</bLearnToLikeTime>
-		<bHated1>255</bHated1>
-		<bHatedTime1>0</bHatedTime1>
+		<bHated1>70</bHated1>
+		<bHatedTime1>8</bHatedTime1>
 		<bHated2>255</bHated2>
 		<bHatedTime2>0</bHatedTime2>
 		<bHated3>255</bHated3>
@@ -19290,7 +19290,7 @@
 		<uiIndex>201</uiIndex>
 		<Type>6</Type>
 		<zName></zName>
-		<zNickname>PGmale5</zNickname>
+		<zNickname>PGmale8Kasar</zNickname>
 		<ubFaceIndex>201</ubFaceIndex>
 		<usEyesX>0</usEyesX>
 		<usEyesY>0</usEyesY>
@@ -20301,7 +20301,7 @@
 		<bHatedTime3>0</bHatedTime3>
 		<bHated4>255</bHated4>
 		<bHatedTime4>0</bHatedTime4>
-		<bHated5>255</bHated5>
+		<bHated5>0</bHated5>
 		<bHatedTime5>0</bHatedTime5>
 		<bLearnToHate>255</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
@@ -21196,7 +21196,7 @@
 	<PROFILE>
 		<uiIndex>221</uiIndex>
 		<Type>2</Type>
-		<zName>Unusually Ruthless Reuban</zName>
+		<zName>'Unusually Ruthless' Reuban</zName>
 		<zNickname>Reuban</zNickname>
 		<ubFaceIndex>221</ubFaceIndex>
 		<usEyesX>7</usEyesX>
@@ -24058,7 +24058,7 @@
 	<PROFILE>
 		<uiIndex>251</uiIndex>
 		<Type>1</Type>
-		<zName>Lesley "Smoke" Petersen</zName>
+		<zName>Lesley "Smoke" Peterson</zName>
 		<zNickname>Smoke</zNickname>
 		<ubFaceIndex>251</ubFaceIndex>
 		<usEyesX>7</usEyesX>

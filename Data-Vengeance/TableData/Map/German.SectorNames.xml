@@ -67,8 +67,8 @@
     <SectorGrid>A8</SectorGrid>
     <szUnexploredName>Hügel</szUnexploredName>
     <szDetailedUnexploredName>Hügel</szDetailedUnexploredName>
-    <szExploredName>Armee-Außenposten</szExploredName>
-    <szDetailedExploredName>Armee-Außenposten</szDetailedExploredName>
+    <szExploredName>Armeeposten</szExploredName>
+    <szDetailedExploredName>Armeeposten</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>225</usNaturalDirt>
   </SECTOR>
@@ -94,28 +94,28 @@
   </SECTOR>
   <SECTOR>
     <SectorGrid>A11</SectorGrid>
-    <szUnexploredName>Farmland</szUnexploredName>
-    <szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
-    <szExploredName>Farmland</szExploredName>
-    <szDetailedExploredName>Farmland</szDetailedExploredName>
+    <szUnexploredName>Ackerland</szUnexploredName>
+    <szDetailedUnexploredName>Ackerland</szDetailedUnexploredName>
+    <szExploredName>Ackerland</szExploredName>
+    <szDetailedExploredName>Ackerland</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>160</usNaturalDirt>
   </SECTOR>
   <SECTOR>
     <SectorGrid>A12</SectorGrid>
-    <szUnexploredName>Dichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Dichter Wald</szDetailedUnexploredName>
-    <szExploredName>Dichter Wald</szExploredName>
-    <szDetailedExploredName>Dichter Wald</szDetailedExploredName>
+    <szUnexploredName>Wald</szUnexploredName>
+    <szDetailedUnexploredName>Wald</szDetailedUnexploredName>
+    <szExploredName>Wald</szExploredName>
+    <szDetailedExploredName>Wald</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>210</usNaturalDirt>
   </SECTOR>
   <SECTOR>
     <SectorGrid>A13</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
   </SECTOR>
@@ -130,10 +130,10 @@
   </SECTOR>
   <SECTOR>
     <SectorGrid>A15</SectorGrid>
-    <szUnexploredName>Dichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Dichter Wald</szDetailedUnexploredName>
-    <szExploredName>Dichter Wald</szExploredName>
-    <szDetailedExploredName>Dichter Wald</szDetailedExploredName>
+    <szUnexploredName>Wald</szUnexploredName>
+    <szDetailedUnexploredName>Wald</szDetailedUnexploredName>
+    <szExploredName>Wald</szExploredName>
+    <szDetailedExploredName>Wald</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>210</usNaturalDirt>
   </SECTOR>
@@ -148,10 +148,10 @@
   </SECTOR>
   <SECTOR>
     <SectorGrid>B1</SectorGrid>
-    <szUnexploredName>Oronegro Ölbohrinsel</szUnexploredName>
-    <szDetailedUnexploredName>Oronegro Ölbohrinsel</szDetailedUnexploredName>
-    <szExploredName>Oronegro Ölbohrinsel</szExploredName>
-    <szDetailedExploredName>Oronegro Ölbohrinsel</szDetailedExploredName>
+    <szUnexploredName>Oronegro Ölplattform</szUnexploredName>
+    <szDetailedUnexploredName>Oronegro Ölplattform</szDetailedUnexploredName>
+    <szExploredName>Oronegro Ölplattform</szExploredName>
+    <szDetailedExploredName>Oronegro Ölplattform</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>250</usNaturalDirt>
   </SECTOR>
@@ -166,37 +166,37 @@
   </SECTOR>
   <SECTOR>
     <SectorGrid>B3</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
   </SECTOR>
   <SECTOR>
     <SectorGrid>B4</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
   </SECTOR>
   <SECTOR>
     <SectorGrid>B5</SectorGrid>
-    <szUnexploredName>Farmland</szUnexploredName>
-    <szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
-    <szExploredName>Farmland</szExploredName>
-    <szDetailedExploredName>Farmland</szDetailedExploredName>
+    <szUnexploredName>Ackerland</szUnexploredName>
+    <szDetailedUnexploredName>Ackerland</szDetailedUnexploredName>
+    <szExploredName>Ackerland</szExploredName>
+    <szDetailedExploredName>Ackerland</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>160</usNaturalDirt>
   </SECTOR>
   <SECTOR>
     <SectorGrid>B6</SectorGrid>
-    <szUnexploredName>Farmland</szUnexploredName>
-    <szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
-    <szExploredName>Farmland</szExploredName>
-    <szDetailedExploredName>Farmland</szDetailedExploredName>
+    <szUnexploredName>Ackerland</szUnexploredName>
+    <szDetailedUnexploredName>Ackerland</szDetailedUnexploredName>
+    <szExploredName>Ackerland</szExploredName>
+    <szDetailedExploredName>Ackerland</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>160</usNaturalDirt>
   </SECTOR>
@@ -211,10 +211,10 @@
   </SECTOR>
   <SECTOR>
     <SectorGrid>B8</SectorGrid>
-    <szUnexploredName>Farmland</szUnexploredName>
-    <szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
-    <szExploredName>Farmland</szExploredName>
-    <szDetailedExploredName>Farmland</szDetailedExploredName>
+    <szUnexploredName>Ackerland</szUnexploredName>
+    <szDetailedUnexploredName>Ackerland</szDetailedUnexploredName>
+    <szExploredName>Ackerland</szExploredName>
+    <szDetailedExploredName>Ackerland</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>160</usNaturalDirt>
   </SECTOR>
@@ -237,19 +237,19 @@
   </SECTOR>
   <SECTOR>
     <SectorGrid>B11</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
   </SECTOR>
   <SECTOR>
     <SectorGrid>B12</SectorGrid>
-    <szUnexploredName>Farm, Straße</szUnexploredName>
-    <szDetailedUnexploredName>Farm, Straße</szDetailedUnexploredName>
-    <szExploredName>Farm, Straße</szExploredName>
-    <szDetailedExploredName>Farm, Straße</szDetailedExploredName>
+    <szUnexploredName>Ackerland, Straße</szUnexploredName>
+    <szDetailedUnexploredName>Ackerland, Straße</szDetailedUnexploredName>
+    <szExploredName>Ackerland, Straße</szExploredName>
+    <szDetailedExploredName>Ackerland, Straße</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>210</usNaturalDirt>
   </SECTOR>
@@ -283,10 +283,10 @@
   </SECTOR>
   <SECTOR>
     <SectorGrid>B16</SectorGrid>
-    <szUnexploredName>Dichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Dichter Wald</szDetailedUnexploredName>
-    <szExploredName>Dichter Wald</szExploredName>
-    <szDetailedExploredName>Dichter Wald</szDetailedExploredName>
+    <szUnexploredName>Wald</szUnexploredName>
+    <szDetailedUnexploredName>Wald</szDetailedUnexploredName>
+    <szExploredName>Wald</szExploredName>
+    <szDetailedExploredName>Wald</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>210</usNaturalDirt>
   </SECTOR>
@@ -321,10 +321,10 @@
   </SECTOR>
   <SECTOR>
     <SectorGrid>C4</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
   </SECTOR>
@@ -357,10 +357,10 @@
   </SECTOR>
   <SECTOR>
     <SectorGrid>C8</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
   </SECTOR>
@@ -375,28 +375,28 @@
   </SECTOR>
   <SECTOR>
     <SectorGrid>C10</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>C11</SectorGrid>
-    <szUnexploredName>Dichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Dichter Wald</szDetailedUnexploredName>
-    <szExploredName>Rebellen-Außenposten</szExploredName>
-    <szDetailedExploredName>Rebellen-Außenposten</szDetailedExploredName>
+    <szUnexploredName>Wald</szUnexploredName>
+    <szDetailedUnexploredName>Wald</szDetailedUnexploredName>
+    <szExploredName>Rebellenposten</szExploredName>
+    <szDetailedExploredName>Rebellenposten</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>210</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>C12</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
@@ -449,8 +449,8 @@
     <SectorGrid>D2</SectorGrid>
     <szUnexploredName>Tropen</szUnexploredName>
     <szDetailedUnexploredName>Tropen</szDetailedUnexploredName>
-    <szExploredName>Raketen</szExploredName>
-    <szDetailedExploredName>Tropen, Raketen</szDetailedExploredName>
+    <szExploredName>SAM-Stellung</szExploredName>
+    <szDetailedExploredName>Tropen, SAM-Stellung</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>300</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
@@ -485,10 +485,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>D6</SectorGrid>
-    <szUnexploredName>Farmland</szUnexploredName>
-    <szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
-    <szExploredName>Farmland</szExploredName>
-    <szDetailedExploredName>Farmland</szDetailedExploredName>
+    <szUnexploredName>Ackerland</szUnexploredName>
+    <szDetailedUnexploredName>Ackerland</szDetailedUnexploredName>
+    <szExploredName>Ackerland</szExploredName>
+    <szDetailedExploredName>Ackerland</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>160</usNaturalDirt>
    </SECTOR>
@@ -503,10 +503,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>D8</SectorGrid>
-    <szUnexploredName>Dichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Dichter Wald</szDetailedUnexploredName>
-    <szExploredName>Dichter Wald</szExploredName>
-    <szDetailedExploredName>Dichter Wald</szDetailedExploredName>
+    <szUnexploredName>Wald</szUnexploredName>
+    <szDetailedUnexploredName>Wald</szDetailedUnexploredName>
+    <szExploredName>Wald</szExploredName>
+    <szDetailedExploredName>Wald</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>210</usNaturalDirt>
    </SECTOR>
@@ -530,10 +530,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>D11</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
@@ -559,17 +559,17 @@
     <SectorGrid>D14</SectorGrid>
     <szUnexploredName>Drassen</szUnexploredName>
     <szDetailedUnexploredName>Drassen</szDetailedUnexploredName>
-    <szExploredName>Arulco Dam</szExploredName>
-    <szDetailedExploredName>Arulco Dam</szDetailedExploredName>
+    <szExploredName>Arulco-Staudamm</szExploredName>
+    <szDetailedExploredName>Arulco-Staudamm</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>D15</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Raketen</szExploredName>
-    <szDetailedExploredName>Lichter Wald, Raketen</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>SAM-Stellung</szExploredName>
+    <szDetailedExploredName>Waldgebiet, SAM-Stellung</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>160</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
@@ -577,10 +577,10 @@
    </SECTOR>  
    <SECTOR>
     <SectorGrid>D16</SectorGrid>
-    <szUnexploredName>Dichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Dichter Wald</szDetailedUnexploredName>
-    <szExploredName>Dichter Wald</szExploredName>
-    <szDetailedExploredName>Dichter Wald</szDetailedExploredName>
+    <szUnexploredName>Wald</szUnexploredName>
+    <szDetailedUnexploredName>Wald</szDetailedUnexploredName>
+    <szExploredName>Wald</szExploredName>
+    <szDetailedExploredName>Wald</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>210</usNaturalDirt>
    </SECTOR>
@@ -640,28 +640,28 @@
    </SECTOR> 	  	 	
    <SECTOR>
     <SectorGrid>E7</SectorGrid>
-    <szUnexploredName>Farm, Straße</szUnexploredName>
-    <szDetailedUnexploredName>Farm, Straße</szDetailedUnexploredName>
-    <szExploredName>Farm, Straße</szExploredName>
-    <szDetailedExploredName>Farm, Straße</szDetailedExploredName>
+    <szUnexploredName>Ackerland, Straße</szUnexploredName>
+    <szDetailedUnexploredName>Ackerland, Straße</szDetailedUnexploredName>
+    <szExploredName>Ackerland, Straße</szExploredName>
+    <szDetailedExploredName>Ackerland, Straße</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>210</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>E8</SectorGrid>
-    <szUnexploredName>Farmland</szUnexploredName>
-    <szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
-    <szExploredName>Farmland</szExploredName>
-    <szDetailedExploredName>Farmland</szDetailedExploredName>
+    <szUnexploredName>Ackerland</szUnexploredName>
+    <szDetailedUnexploredName>Ackerland</szDetailedUnexploredName>
+    <szExploredName>Ackerland</szExploredName>
+    <szDetailedExploredName>Ackerland</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>160</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>E9</SectorGrid>
-    <szUnexploredName>Farm, Straße</szUnexploredName>
-    <szDetailedUnexploredName>Farm, Straße</szDetailedUnexploredName>
-    <szExploredName>Farm, Straße</szExploredName>
-    <szDetailedExploredName>Farm, Straße</szDetailedExploredName>
+    <szUnexploredName>Ackerland, Straße</szUnexploredName>
+    <szDetailedUnexploredName>Ackerland, Straße</szDetailedUnexploredName>
+    <szExploredName>Ackerland, Straße</szExploredName>
+    <szDetailedExploredName>Ackerland, Straße</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>210</usNaturalDirt>
    </SECTOR>
@@ -676,19 +676,19 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>E11</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>E12</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
@@ -739,10 +739,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>F2</SectorGrid>
-    <szUnexploredName>Küstenlinie</szUnexploredName>
-    <szDetailedUnexploredName>Küstenlinie</szDetailedUnexploredName>
-    <szExploredName>Küstenlinie</szExploredName>
-    <szDetailedExploredName>Küstenlinie</szDetailedExploredName>
+    <szUnexploredName>Küste</szUnexploredName>
+    <szDetailedUnexploredName>Küste</szDetailedUnexploredName>
+    <szExploredName>Küste</szExploredName>
+    <szDetailedExploredName>Küste</szDetailedExploredName>
     <sWaterType>2</sWaterType>
     <usNaturalDirt>180</usNaturalDirt>
    </SECTOR>
@@ -813,8 +813,8 @@
     <SectorGrid>F10</SectorGrid>
     <szUnexploredName>???</szUnexploredName>
     <szDetailedUnexploredName>???</szDetailedUnexploredName>
-    <szExploredName>Vertriebszentrum</szExploredName>
-    <szDetailedExploredName>Vertriebszentrum</szDetailedExploredName>
+    <szExploredName>Verteilzentrum</szExploredName>
+    <szDetailedExploredName>Verteilzentrum</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>F11</SectorGrid>
@@ -827,19 +827,19 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>F12</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>F13</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
@@ -899,28 +899,28 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>G4</SectorGrid>
-    <szUnexploredName>Berge, Straße</szUnexploredName>
-    <szDetailedUnexploredName>Berge, Straße</szDetailedUnexploredName>
-    <szExploredName>Berge, Straße</szExploredName>
-    <szDetailedExploredName>Berge, Straße</szDetailedExploredName>
+    <szUnexploredName>Bergland, Straße</szUnexploredName>
+    <szDetailedUnexploredName>Bergland, Straße</szDetailedUnexploredName>
+    <szExploredName>Bergland, Straße</szExploredName>
+    <szDetailedExploredName>Bergland, Straße</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>140</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>G5</SectorGrid>
-    <szUnexploredName>Berge, Straße</szUnexploredName>
-    <szDetailedUnexploredName>Berge, Straße</szDetailedUnexploredName>
-    <szExploredName>Berge, Straße</szExploredName>
-    <szDetailedExploredName>Berge, Straße</szDetailedExploredName>
+    <szUnexploredName>Bergland, Straße</szUnexploredName>
+    <szDetailedUnexploredName>Bergland, Straße</szDetailedUnexploredName>
+    <szExploredName>Bergland, Straße</szExploredName>
+    <szDetailedExploredName>Bergland, Straße</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>140</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>G6</SectorGrid>
-    <szUnexploredName>Berge, Straße</szUnexploredName>
-    <szDetailedUnexploredName>Berge, Straße</szDetailedUnexploredName>
-    <szExploredName>Berge, Straße</szExploredName>
-    <szDetailedExploredName>Berge, Straße</szDetailedExploredName>
+    <szUnexploredName>Bergland, Straße</szUnexploredName>
+    <szDetailedUnexploredName>Bergland, Straße</szDetailedUnexploredName>
+    <szExploredName>Bergland, Straße</szExploredName>
+    <szDetailedExploredName>Bergland, Straße</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>140</usNaturalDirt>
    </SECTOR>
@@ -991,16 +991,16 @@
     <SectorGrid>G14</SectorGrid>
     <szUnexploredName>Alma</szUnexploredName>
     <szDetailedUnexploredName>Alma</szDetailedUnexploredName>
-    <szExploredName>Alma Farm</szExploredName>
-    <szDetailedExploredName>Alma Farm</szDetailedExploredName>
+    <szExploredName>Alma-Farm</szExploredName>
+    <szDetailedExploredName>Alma-Farm</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
    </SECTOR>
    <SECTOR>
     <SectorGrid>G15</SectorGrid>
-    <szUnexploredName>Dichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Dichter Wald</szDetailedUnexploredName>
+    <szUnexploredName>Wald</szUnexploredName>
+    <szDetailedUnexploredName>Wald</szDetailedUnexploredName>
     <szExploredName>Kraftwerk</szExploredName>
     <szDetailedExploredName>Kraftwerk</szDetailedExploredName>
     <sWaterType>0</sWaterType>
@@ -1062,10 +1062,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>H6</SectorGrid>
-    <szUnexploredName>Berge, Straße</szUnexploredName>
-    <szDetailedUnexploredName>Berge, Straße</szDetailedUnexploredName>
-    <szExploredName>Berge, Straße</szExploredName>
-    <szDetailedExploredName>Berge, Straße</szDetailedExploredName>
+    <szUnexploredName>Bergland, Straße</szUnexploredName>
+    <szDetailedUnexploredName>Bergland, Straße</szDetailedUnexploredName>
+    <szExploredName>Bergland, Straße</szExploredName>
+    <szDetailedExploredName>Bergland, Straße</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>140</usNaturalDirt>
    </SECTOR>
@@ -1100,8 +1100,8 @@
     <SectorGrid>H10</SectorGrid>
     <szUnexploredName>Wüste</szUnexploredName>
     <szDetailedUnexploredName>Wüste</szDetailedUnexploredName>
-    <szExploredName>Hard Labor</szExploredName>
-    <szDetailedExploredName>Konzentrationslager</szDetailedExploredName>
+    <szExploredName>Zwangsarbeit</szExploredName>
+    <szDetailedExploredName>Zwangsarbeitslager</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
    </SECTOR>
@@ -1154,10 +1154,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>H16</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
@@ -1181,28 +1181,28 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>I3</SectorGrid>
-    <szUnexploredName>Doran Ölbohrinsel</szUnexploredName>
-    <szDetailedUnexploredName>Doran Ölbohrinsel</szDetailedUnexploredName>
-    <szExploredName>Doran Ölbohrinsel</szExploredName>
-    <szDetailedExploredName>Doran Ölbohrinsel</szDetailedExploredName>
+    <szUnexploredName>Doran Ölplattform</szUnexploredName>
+    <szDetailedUnexploredName>Doran Ölplattform</szDetailedUnexploredName>
+    <szExploredName>Doran Ölplattform</szExploredName>
+    <szDetailedExploredName>Doran Ölplattform</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>I4</SectorGrid>
-    <szUnexploredName>Dichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Dichter Wald</szDetailedUnexploredName>
-    <szExploredName>Dichter Wald</szExploredName>
-    <szDetailedExploredName>Dichter Wald</szDetailedExploredName>
+    <szUnexploredName>Wald</szUnexploredName>
+    <szDetailedUnexploredName>Wald</szDetailedUnexploredName>
+    <szExploredName>Wald</szExploredName>
+    <szDetailedExploredName>Wald</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>210</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>I5</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
@@ -1217,10 +1217,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>I7</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Kokain-Farm</szExploredName>
-    <szDetailedExploredName>Kokain-Farm</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Kokaplantage</szExploredName>
+    <szDetailedExploredName>Kokaplantage</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
@@ -1228,8 +1228,8 @@
     <SectorGrid>I8</SectorGrid>
     <szUnexploredName>Wüste</szUnexploredName>
     <szDetailedUnexploredName>Wüste</szDetailedUnexploredName>
-    <szExploredName>Raketen</szExploredName>
-    <szDetailedExploredName>Wüste, Raketen</szDetailedExploredName>
+    <szExploredName>SAM-Stellung</szExploredName>
+    <szDetailedExploredName>Wüste, SAM-Stellung</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>850</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
@@ -1239,8 +1239,8 @@
     <SectorGrid>I9</SectorGrid>
     <szUnexploredName>Wüste, Straße</szUnexploredName>
     <szDetailedUnexploredName>Wüste, Straße</szDetailedUnexploredName>
-    <szExploredName>Salinas Resort</szExploredName>
-    <szDetailedExploredName>Salinas Resort</szDetailedExploredName>
+    <szExploredName>Salinas Ferienanlage</szExploredName>
+    <szDetailedExploredName>Salinas Ferienanlage</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
    </SECTOR>
@@ -1248,8 +1248,8 @@
     <SectorGrid>I10</SectorGrid>
     <szUnexploredName>Wüste</szUnexploredName>
     <szDetailedUnexploredName>Wüste</szDetailedUnexploredName>
-    <szExploredName>Death Camp</szExploredName>
-    <szDetailedExploredName>Death Camp</szDetailedExploredName>
+    <szExploredName>Todeslager</szExploredName>
+    <szDetailedExploredName>Todeslager</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
    </SECTOR>
@@ -1303,10 +1303,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>I16</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
@@ -1358,17 +1358,17 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>J6</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>J7</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
     <szExploredName>Drogenlabor</szExploredName>
     <szDetailedExploredName>Drogenlabor</szDetailedExploredName>
     <sWaterType>0</sWaterType>
@@ -1412,26 +1412,26 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>J12</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>J13</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>J14</SectorGrid>
-    <szUnexploredName>Dorfstraße</szUnexploredName>
-    <szDetailedUnexploredName>Dorfstraße</szDetailedUnexploredName>
+    <szUnexploredName>Landgebiet, Straße</szUnexploredName>
+    <szDetailedUnexploredName>Landgebiet, Straße</szDetailedUnexploredName>
     <szExploredName>Testgelände</szExploredName>
     <szDetailedExploredName>Testgelände</szDetailedExploredName>
     <sWaterType>0</sWaterType>
@@ -1439,10 +1439,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>J15</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
@@ -1468,8 +1468,8 @@
     <SectorGrid>K2</SectorGrid>
     <szUnexploredName>Küste, Straße</szUnexploredName>
     <szDetailedUnexploredName>Küste, Straße</szDetailedUnexploredName>
-    <szExploredName>Halbinsel-Schranke</szExploredName>
-    <szDetailedExploredName>Halbinsel-Schranke</szDetailedExploredName>
+    <szExploredName>Halbinsel-Tor</szExploredName>
+    <szDetailedExploredName>Halbinsel-Tor</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>140</usNaturalDirt>
     <sRadioScanModifier>1</sRadioScanModifier>
@@ -1566,28 +1566,28 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>K13</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>K14</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>K15</SectorGrid>
-    <szUnexploredName>Dichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Dichter Wald</szDetailedUnexploredName>
-    <szExploredName>Dichter Wald</szExploredName>
-    <szDetailedExploredName>Dichter Wald</szDetailedExploredName>
+    <szUnexploredName>Wald</szUnexploredName>
+    <szDetailedUnexploredName>Wald</szDetailedUnexploredName>
+    <szExploredName>Wald</szExploredName>
+    <szDetailedExploredName>Wald</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>210</usNaturalDirt>
    </SECTOR>
@@ -1602,10 +1602,10 @@
    </SECTOR> 
    <SECTOR>
     <SectorGrid>L1</SectorGrid>
-    <szUnexploredName>Küstenlinie</szUnexploredName>
-    <szDetailedUnexploredName>Küstenlinie</szDetailedUnexploredName>
-    <szExploredName>Küstenlinie</szExploredName>
-    <szDetailedExploredName>Küstenlinie</szDetailedExploredName>
+    <szUnexploredName>Küste</szUnexploredName>
+    <szDetailedUnexploredName>Küste</szDetailedUnexploredName>
+    <szExploredName>Küste</szExploredName>
+    <szDetailedExploredName>Küste</szDetailedExploredName>
     <sWaterType>2</sWaterType>
     <usNaturalDirt>180</usNaturalDirt>
    </SECTOR>
@@ -1639,10 +1639,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>L5</SectorGrid>
-    <szUnexploredName>Dichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Dichter Wald</szDetailedUnexploredName>
-    <szExploredName>Dichter Wald</szExploredName>
-    <szDetailedExploredName>Dichter Wald</szDetailedExploredName>
+    <szUnexploredName>Wald</szUnexploredName>
+    <szDetailedUnexploredName>Wald</szDetailedUnexploredName>
+    <szExploredName>Wald</szExploredName>
+    <szDetailedExploredName>Wald</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>210</usNaturalDirt>
    </SECTOR>
@@ -1711,10 +1711,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>L13</SectorGrid>
-    <szUnexploredName>Küstenlinie</szUnexploredName>
-    <szDetailedUnexploredName>Küstenlinie</szDetailedUnexploredName>
-    <szExploredName>Küstenlinie</szExploredName>
-    <szDetailedExploredName>Küstenlinie</szDetailedExploredName>
+    <szUnexploredName>Küste</szUnexploredName>
+    <szDetailedUnexploredName>Küste</szDetailedUnexploredName>
+    <szExploredName>Küste</szExploredName>
+    <szDetailedExploredName>Küste</szDetailedExploredName>
     <sWaterType>2</sWaterType>
     <usNaturalDirt>180</usNaturalDirt>
    </SECTOR>
@@ -1729,10 +1729,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>L15</SectorGrid>
-    <szUnexploredName>Dichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Dichter Wald</szDetailedUnexploredName>
-    <szExploredName>Dichter Wald</szExploredName>
-    <szDetailedExploredName>Dichter Wald</szDetailedExploredName>
+    <szUnexploredName>Wald</szUnexploredName>
+    <szDetailedUnexploredName>Wald</szDetailedUnexploredName>
+    <szExploredName>Wald</szExploredName>
+    <szDetailedExploredName>Wald</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>210</usNaturalDirt>
    </SECTOR>
@@ -1829,10 +1829,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>M10</SectorGrid>
-    <szUnexploredName>Malino Ölbohrinsel</szUnexploredName>
-    <szDetailedUnexploredName>Malino Ölbohrinsel</szDetailedUnexploredName>
-    <szExploredName>Malino Ölbohrinsel</szExploredName>
-    <szDetailedExploredName>Malino Ölbohrinsel</szDetailedExploredName>
+    <szUnexploredName>Malino Ölplattform</szUnexploredName>
+    <szDetailedUnexploredName>Malino Ölplattform</szDetailedUnexploredName>
+    <szExploredName>Malino Ölplattform</szExploredName>
+    <szDetailedExploredName>Malino Ölplattform</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
    </SECTOR>
@@ -1856,10 +1856,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>M13</SectorGrid>
-    <szUnexploredName>Lichter Wald</szUnexploredName>
-    <szDetailedUnexploredName>Lichter Wald</szDetailedUnexploredName>
-    <szExploredName>Elite-Kaserne</szExploredName>
-    <szDetailedExploredName>Elite-Kaserne</szDetailedExploredName>
+    <szUnexploredName>Waldgebiet</szUnexploredName>
+    <szDetailedUnexploredName>Waldgebiet</szDetailedUnexploredName>
+    <szExploredName>Elitekaserne</szExploredName>
+    <szDetailedExploredName>Elitekaserne</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
@@ -1922,8 +1922,8 @@
     <SectorGrid>N4</SectorGrid>
     <szUnexploredName>Burton</szUnexploredName>
     <szDetailedUnexploredName>Burton</szDetailedUnexploredName>
-    <szExploredName>Raketen</szExploredName>
-    <szDetailedExploredName>Burton, Raketen</szDetailedExploredName>
+    <szExploredName>SAM-Stellung</szExploredName>
+    <szDetailedExploredName>Burton, SAM-Stellung</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
@@ -2027,8 +2027,8 @@
     <SectorGrid>N15</SectorGrid>
     <szUnexploredName>Unbekannt</szUnexploredName>
     <szDetailedUnexploredName>Unbekannt</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
@@ -2036,8 +2036,8 @@
     <SectorGrid>N16</SectorGrid>
     <szUnexploredName>Unbekannt</szUnexploredName>
     <szDetailedUnexploredName>Unbekannt</szDetailedUnexploredName>
-    <szExploredName>Flugplatz</szExploredName>
-    <szDetailedExploredName>Flugplatz</szDetailedExploredName>
+    <szExploredName>Airfield</szExploredName>
+    <szDetailedExploredName>Airfield</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
@@ -2054,8 +2054,8 @@
     <SectorGrid>O2</SectorGrid>
     <szUnexploredName>Burton</szUnexploredName>
     <szDetailedUnexploredName>Burton</szDetailedUnexploredName>
-    <szExploredName>Burton-Helikopterlandeplatz</szExploredName>
-    <szDetailedExploredName>Burton-Helikopterlandeplatz</szDetailedExploredName>
+    <szExploredName>Burton Heliport</szExploredName>
+    <szDetailedExploredName>Burton Heliport</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
    </SECTOR>
@@ -2117,8 +2117,8 @@
     <SectorGrid>O9</SectorGrid>
     <szUnexploredName>Tropen</szUnexploredName>
     <szDetailedUnexploredName>Tropen</szDetailedUnexploredName>
-    <szExploredName>Fort</szExploredName>
-    <szDetailedExploredName>Kingpin's Fort</szDetailedExploredName>
+    <szExploredName>Festung</szExploredName>
+    <szDetailedExploredName>Kingpins Festung</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>300</usNaturalDirt>
    </SECTOR>
@@ -2135,8 +2135,8 @@
     <SectorGrid>O11</SectorGrid>
     <szUnexploredName>Unbekannt</szUnexploredName>
     <szDetailedUnexploredName>Unbekannt</szDetailedUnexploredName>
-    <szExploredName>Küstenlinie</szExploredName>
-    <szDetailedExploredName>Küstenlinie</szDetailedExploredName>
+    <szExploredName>Küste</szExploredName>
+    <szDetailedExploredName>Küste</szDetailedExploredName>
     <sWaterType>2</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
@@ -2162,8 +2162,8 @@
     <SectorGrid>O14</SectorGrid>
     <szUnexploredName>Unbekannt</szUnexploredName>
     <szDetailedUnexploredName>Unbekannt</szDetailedUnexploredName>
-    <szExploredName>Offshore Dropoff</szExploredName>
-    <szDetailedExploredName>Offshore Dropoff</szDetailedExploredName>
+    <szExploredName>Offshore-Absetzpunkt</szExploredName>
+    <szDetailedExploredName>Offshore-Absetzpunkt</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
@@ -2171,8 +2171,8 @@
     <SectorGrid>O15</SectorGrid>
     <szUnexploredName>Unbekannt</szUnexploredName>
     <szDetailedUnexploredName>Unbekannt</szDetailedUnexploredName>
-    <szExploredName>Lichter Wald</szExploredName>
-    <szDetailedExploredName>Lichter Wald</szDetailedExploredName>
+    <szExploredName>Waldgebiet</szExploredName>
+    <szDetailedExploredName>Waldgebiet</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
    </SECTOR>
@@ -2288,8 +2288,8 @@
     <SectorGrid>P12</SectorGrid>
     <szUnexploredName>Unbekannt</szUnexploredName>
     <szDetailedUnexploredName>Unbekannt</szDetailedUnexploredName>
-    <szExploredName>Mall</szExploredName>
-    <szDetailedExploredName>Mall District</szDetailedExploredName>
+    <szExploredName>Einkaufszentrum</szExploredName>
+    <szDetailedExploredName>Einkaufsviertel</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
    </SECTOR>

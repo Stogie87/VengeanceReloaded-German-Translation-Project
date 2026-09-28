@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <CIV_GROUP_NAMES>
   <NAME>
 	<uiIndex>0</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>None</szGroup>
+    <szGroup>Keine</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>0</Loyalty>
   </NAME>
@@ -24,14 +24,14 @@
   <NAME>
 	<uiIndex>3</uiIndex>
 	<Enabled>1</Enabled>
-    <szGroup>Sanmona Gang</szGroup>
+    <szGroup>Sanmona Arms</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>4</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Angels Gang</szGroup>
+    <szGroup>Angels</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>1</Loyalty>
   </NAME>
@@ -52,56 +52,56 @@
   <NAME>
 	<uiIndex>7</uiIndex>
 	<Enabled>1</Enabled>
-    <szGroup>Alma Milizen</szGroup>
+    <szGroup>Alma-Miliz</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>8</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Doktoren</szGroup>
+    <szGroup>Ärzte</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>9</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Ehepaar</szGroup>
+    <szGroup>Paar1</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>10</uiIndex>
 	<Enabled>1</Enabled>
-    <szGroup>Hale und Burton</szGroup>
+    <szGroup>Hale and Burton</szGroup>
 	<AddToBattle>1</AddToBattle>
 	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>11</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Wachen</szGroup>
+    <szGroup>Gefängniswärter</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>12</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Schrottplatz Trupp</szGroup>
+    <szGroup>Schrottplatz</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>13</uiIndex>
 	<Enabled>1</Enabled>
-    <szGroup>Fabrikskinder</szGroup>
+    <szGroup>Fabrikkinder</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>14</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Königin</szGroup>
+    <szGroup>Königinnen</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>1</Loyalty>
   </NAME>
@@ -115,7 +115,7 @@
   <NAME>
 	<uiIndex>16</uiIndex>
 	<Enabled>1</Enabled>
-    <szGroup>Trakonische Armee</szGroup>
+    <szGroup>Traconische Armee</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>1</Loyalty>
   </NAME>
@@ -152,7 +152,7 @@
     <!-- Prisoners of war the player keeps in his prison -->
 		<uiIndex>21</uiIndex>
 		<Enabled>1</Enabled>
-		<szGroup>Gefangener</szGroup>
+		<szGroup>Gefangene</szGroup>
 		<AddToBattle>0</AddToBattle>
 		<Loyalty>0</Loyalty>
 	</NAME>
@@ -222,7 +222,7 @@
   <NAME>
 	<uiIndex>31</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>CIA Operatives</szGroup>
+    <szGroup>CIA-Agenten</szGroup>
 	<AddToBattle>1</AddToBattle>
 	<Loyalty>0</Loyalty>
 	<Side>10</Side>
@@ -230,7 +230,7 @@
   <NAME>
 	<uiIndex>32</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Tracona Operatives</szGroup>
+    <szGroup>Tracona-Agenten</szGroup>
 	<AddToBattle>1</AddToBattle>
 	<Loyalty>0</Loyalty>
 	<Side>11</Side>
@@ -238,7 +238,7 @@
   <NAME>
 	<uiIndex>33</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Cockeye Thugs</szGroup>
+    <szGroup>Cockeye-Schläger</szGroup>
 	<AddToBattle>1</AddToBattle>
 	<Loyalty>0</Loyalty>
   </NAME>

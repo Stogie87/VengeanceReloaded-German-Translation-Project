@@ -2,8 +2,8 @@
 <BACKGROUNDS>
 	<BACKGROUND>
 		<uiIndex>0</uiIndex>
-		<szName>Background name (128 letters)</szName>
-		<szShortName>short name (20)</szShortName>
+		<szName>Hintergrundname (128 Zeichen)</szName>
+		<szShortName>Kurzname (20)</szShortName>
 		<szDescription>Gib hier eine Beschreibung ein. Diese wird auf dem Laptop angezeigt und kann bis zu 256 Buchstaben lang sein.</szDescription>
 
 		<!-- sector dependent AP modifiers, values from -8 to 8-->
@@ -28,20 +28,20 @@
 		<marksmanship>0</marksmanship>
 
 		<!-- +- AP for other tasks-->
-		<ap_height>0</ap_height>		<!-- +- AP, wenn auf einem Dach, -8 to 8 -->
-		<ap_swimming>0</ap_swimming>		<!-- +- % APs für die Aufgabe erforderlich, -40 to 40 -->
-		<ap_fortify>0</ap_fortify>		<!-- +- % APs für die Aufgabe erforderlich, -40 to 40 -->
-		<ap_artillery>0</ap_artillery>		<!-- +- % APs für die Aufgabe erforderlich, -40 to 40 -->
-		<ap_inventory>0</ap_inventory>		<!-- +- % APs für die Aufgabe erforderlich, -40 to 40 -->
-		<ap_airdrop>0</ap_airdrop>		<!-- nach Luftabwurf +-AP  in der ersten Runde, -10 to 10 -->
-		<!-- Luftabwurf kaputt, -AP gibt Ansehen nach Luftabwurf, +AP macht gar nichts -->
-		<ap_assault>0</ap_assault>		<!-- +- AP in der ersten Runde, wenn sie angreifen, -10 to 10 -->
+		<ap_height>0</ap_height>		<!-- +- AP if on a roof, -8 to 8 -->
+		<ap_swimming>0</ap_swimming>		<!-- +- % APs needed for task, -40 to 40 -->
+		<ap_fortify>0</ap_fortify>		<!-- +- % APs needed for task, -40 to 40 -->
+		<ap_artillery>0</ap_artillery>		<!-- +- % APs needed for task, -40 to 40 -->
+		<ap_inventory>0</ap_inventory>		<!-- +- % APs needed for task, -40 to 40 -->
+		<ap_airdrop>0</ap_airdrop>		<!-- look after airdrop +-AP first turn, -10 to 10 -->
+		<!-- airdrop broken, -AP gives look after airdrop, +AP does nothing -->
+		<ap_assault>0</ap_assault>		<!-- +- AP in first turn if attacking, -10 to 10 -->
 
 		<!-- +-% travel speed modifiers, -20 to 20-->
 		<travel_foot>0</travel_foot>
 		<travel_car>0</travel_car>
 		<travel_air>0</travel_air>
-		<travel_boat>0</travel_boat>                      <!-- Es sind keine Boote vorhanden -->
+		<travel_boat>0</travel_boat>                      <!-- no boats exist in the trunk -->
 
 		<!-- +-% resistances, -20 to 20-->
 		<resistance_poison>0</resistance_poison>
@@ -51,26 +51,26 @@
 		<resistance_alcohol>0</resistance_alcohol>
 
 		<!--various boni-->
-		<interrogation>0</interrogation>                  <!-- +- Verhörfähigkeit von Gefangenen, -50 to 300 -->
-		<prisonguard>0</prisonguard>                      <!-- +- Gefängniswärterfähigkeit, -50 to 300 -->
-		<betterprices_guns>0</betterprices_guns>          <!-- +- % Kosten beim Handel mit Waffen und Munition, -10 to 10 -->
-		<betterprices>0</betterprices>                    <!-- +- % Kosten beim Handel mit Rüstungen, Ibe, Klingen, Bausätzen usw., -20 to 20 -->
-		<capitulation>0</capitulation>                    <!-- +- % Gesamtstärke des Teams, wenn der Gegner zur Kapitulation aufgefordert wird, -50 to 100 -->
-		<speed_run>0</speed_run>                          <!-- +- Lauftempo, -50 to 50 -->
-		<speed_bandaging>0</speed_bandaging>              <!-- +- Geschwindigkeit beim Verbinden, -50 to 50 -->
-		<drink_energyregen>0</drink_energyregen>          <!-- +- % Wiederherstellung des Atems durch Trinken, -80 to 300 -->
-		<carrystrength>0</carrystrength>                  <!-- +- % Stärke für die Gewichtsberechnungen, -20 to 20 -->
-		<food>0</food>                                    <!-- +- % Nahrungsmittelbedarf, -50 to 100 -->
-		<water>0</water>                                  <!-- +- % Wasserbedarf, -50 to 100 -->
-		<sleep>0</sleep>                                  <!-- +- Schlafbedarf, -1 to 1 -->
-		<meleedamage>0</meleedamage>                      <!-- +- Trefferchance bei Nahkampfangriffe, -10 to 10 -->
-		<cth_blades>0</cth_blades>                        <!-- +- Trefferchance mit Klingenwaffen, -10 to 10 -->
-		<camo>0</camo>                                    <!-- +- Effektivität, -20 to 20 -->
-		<stealth>0</stealth>                              <!-- +- Effektivität, -20 to 20 -->
-		<increased_maxcth>0</increased_maxcth>            <!-- +- maximal mögliche Trefferchance, -5 to 5 -->
+		<interrogation>0</interrogation>                  <!-- +- prisoner interrogation strength, -50 to 300 -->
+		<prisonguard>0</prisonguard>                      <!-- +- prison guard strength, -50 to 300 -->
+		<betterprices_guns>0</betterprices_guns>          <!-- +- % prices when trading guns and ammo, -10 to 10 -->
+		<betterprices>0</betterprices>                    <!-- +- % prices when trading armour, lbe, blades, kits etc., -20 to 20 -->
+		<capitulation>0</capitulation>                    <!-- +- % total team strength when asking enemy for surrender, -50 to 100 -->
+		<speed_run>0</speed_run>                          <!-- +- running speed, -50 to 50 -->
+		<speed_bandaging>0</speed_bandaging>              <!-- +- bandaging speed, -50 to 50 -->
+		<drink_energyregen>0</drink_energyregen>          <!-- +- % breath restored by drinking, -80 to 300 -->
+		<carrystrength>0</carrystrength>                  <!-- +- % strength for weight calculations, -20 to 20 -->
+		<food>0</food>                                    <!-- +- % need for food, -50 to 100 -->
+		<water>0</water>                                  <!-- +- % need for water, -50 to 100 -->
+		<sleep>0</sleep>                                  <!-- +- need for sleep, -1 to 1 -->
+		<meleedamage>0</meleedamage>                      <!-- +- damage with melee attacks, -10 to 10 -->
+		<cth_blades>0</cth_blades>                        <!-- +- cth with blade weapons, -10 to 10 -->
+		<camo>0</camo>                                    <!-- +- effectiveness, -20 to 20 -->
+		<stealth>0</stealth>                              <!-- +- effectiveness, -20 to 20 -->
+		<increased_maxcth>0</increased_maxcth>            <!-- +- max possible cth, -5 to 5 -->
 		<hearing_night>0</hearing_night>                  <!-- +- hearing range, -5 to 2 -->
-    <hearing_day>0</hearing_day>                      <!-- +- Geräuschwahrnehmung, -5 to 2 -->
-    <disarm_trap>0</disarm_trap>                      <!-- +- Fähigkeit, Fallen zu entschärfen (10 equals 1 LVL/5 DEX/10 MEC/1.6 EXP), -50 to 50 -->
+    <hearing_day>0</hearing_day>                      <!-- +- hearing range, -5 to 2 -->
+    <disarm_trap>0</disarm_trap>                      <!-- +- trap disarm ability (10 equals 1 LVL/5 DEX/10 MEC/1.6 EXP), -50 to 50 -->
 
 		<!-- +- % approach effectiveness, -50 to 20 -->
 		<approach_friendly>0</approach_friendly>
@@ -78,30 +78,30 @@
 		<approach_threaten>0</approach_threaten>
 		<approach_recruit>0</approach_recruit>
 
-		<breachingcharge>0</breachingcharge>              <!-- +- Erfolgschance beim entschärfen von Türsprengladungen, -100 to 100 -->
-    <cth_vs_creatures>0</cth_vs_creatures>            <!-- +- Trefferchance mit Schusswaffen beim Zielen auf eine Kreatur, -10 to 10 -->
-    <insurance>0</insurance>                          <!-- +- % Versicherungskosten, -50 to 200 -->
-    <spotter>0</spotter>                              <!-- +- % Effektivität bei der Wahrnehmung von Feinden, -30 to 30 -->
+		<breachingcharge>0</breachingcharge>              <!-- +- success chance with door braching charges, -100 to 100 -->
+    <cth_vs_creatures>0</cth_vs_creatures>            <!-- +- cth with firearms when aiming at creatures, -10 to 10 -->
+    <insurance>0</insurance>                          <!-- +- % insurance cost, -50 to 200 -->
+    <spotter>0</spotter>                              <!-- +- % spotter skill effectiveness, -30 to 30 -->
     
-    <dislikebackground>0</dislikebackground>          <!-- Abneigung gegenüber allen Söldnern deren Hintergrund hier einen Negativwert aufweist -->
+    <dislikebackground>0</dislikebackground>          <!-- dislike everybody with a background that has the negative of this value -->
 
 		<!-- on/off properties: 1 for on, 0 for off -->      
-		<druguse>0</druguse>                              <!-- könnte Drogen aus dem Vorrat verbrauchen (das 'Larry'-Verhalten) -->
-		<xenophobic>0</xenophobic>                        <!-- geringere Wertschätzung von allen ohne diesen Hintergrund -->
-		<level_underground>0</level_underground>          <!-- +1 Effektivität unter der Erde -->
-		<scrounging>0</scrounging>                        <!-- könnte Materialien von anderen stehlen (und diese in sein eigenes Inventar legen) -->
-		<traplevel>0</traplevel>                          <!-- +1 Effektivität bei Bombenplatzierungen -->
-		<corruptionspread>0</corruptionspread>            <!-- ungenutzt im trunk -->
-		<no_male>0</no_male>                              <!-- IMP-Erstellung: kann nicht von Männern gewählt werden -->
-		<no_female>0</no_female>                          <!-- IMP-Erstellung: kann nicht von Frauen gewählt werden-->
-		<loyalitylossondeath>0</loyalitylossondeath>      <!-- großer Loyalitätsverlust im ganzen Land beim Tod -->
+		<druguse>0</druguse>                              <!-- might use drugs from inventory (the 'Larry'-behaviour) -->
+		<xenophobic>0</xenophobic>                        <!-- lower opinion of everybody without this background -->
+		<level_underground>0</level_underground>          <!-- +1 effective level if underground -->
+		<scrounging>0</scrounging>                        <!-- might steal items (and put them in personal inventory) -->
+		<traplevel>0</traplevel>                          <!-- +1 level on bombs planted -->
+		<corruptionspread>0</corruptionspread>            <!-- unused in the trunk -->
+		<no_male>0</no_male>                              <!-- IMP creation: cannot be selected by males -->
+		<no_female>0</no_female>                          <!-- IMP creation: cannot be selected by females -->
+		<loyalitylossondeath>0</loyalitylossondeath>      <!-- huge loyality loss in entire country on death -->
 	</BACKGROUND>
 	<!-- Note that Barry's background had to be moved to slot 255 due to index number 0 already being taken -->
 	<!-- Blood -->
 	<BACKGROUND>
 		<uiIndex>1</uiIndex>
-		<szName>ANC Veteran</szName>
-		<szShortName>ANC Veteran</szShortName>
+		<szName>ANC-Veteran</szName>
+		<szShortName>ANC-Veteran</szShortName>
 		<szDescription>Die militanten Veteranen des ANC-Kampfes waren nicht nur in der Dschungelkriegsführung, &#10;sondern auch in der politischen Theorie bewandert.</szDescription>
 		<leadership>5</leadership>
 		<ap_swamp>2</ap_swamp>
@@ -160,7 +160,7 @@
 	<BACKGROUND>
 		<uiIndex>3</uiIndex>
 		<szName>Teufelskerl</szName>
-		<szShortName>DTeufelskerl</szShortName>
+		<szShortName>Teufelskerl</szShortName>
 		<szDescription>Grizzly ist ein imposanter Anblick auf dem Schlachtfeld &#10;und schreckt nie davor zurück, den Feind frontal anzugreifen.</szDescription>
 		<agility>6</agility>
 		<strength>3</strength>
@@ -195,7 +195,7 @@
 	<BACKGROUND>
 		<uiIndex>4</uiIndex>
 		<szName>Söldner/Automechaniker</szName>
-		<szShortName>Söldner/Automechaniker</szShortName>
+		<szShortName>Söldner/Mechaniker</szShortName>
 		<szDescription>Wenn sie nicht gerade durch die Welt reist, arbeitet Vicky Tag und Nacht in ihrer Autowerkstatt &#10;und ist eine sehr versierte Mechanikerin. Aber sie hat ihre Höhenangst nie überwunden.</szDescription>
 		<dexterity>3</dexterity>
 		<mechanical>6</mechanical>
@@ -221,7 +221,7 @@
 	<BACKGROUND>
 		<uiIndex>5</uiIndex>
 		<szName>Techniker/Bombenleger</szName>
-		<szShortName>Techniker/Bombenleger</szShortName>
+		<szShortName>Tech./Bombenleger</szShortName>
 		<szDescription>Der Unterschied zu MacGyver ist, dass Trevor Waffen... &#10;und Bomben benutzt.</szDescription>
 		<dexterity>8</dexterity>
 		<mechanical>10</mechanical>
@@ -242,8 +242,8 @@
 	<!-- Grunty -->
 	<BACKGROUND>
 		<uiIndex>6</uiIndex>
-		<szName>Bodyguard</szName>
-		<szShortName>Bodyguard</szShortName>
+		<szName>Leibwächter</szName>
+		<szShortName>Leibwächter</szShortName>
 		<szDescription>Hervorragend ausgebildet, absolut loyal und bereit, den höchsten Preis zu zahlen. &#10;Was könnte sich ein potenzieller Arbeitgeber mehr wünschen?</szDescription>
 		<strength>1</strength>
 		<resistance_physical>20</resistance_physical>
@@ -261,7 +261,7 @@
 	<BACKGROUND>
 		<uiIndex>7</uiIndex>
 		<szName>Major der Roten Armee</szName>
-		<szShortName>Major der Roten Armee</szShortName>
+		<szShortName>Rote-Armee-Major</szShortName>
 		<szDescription>Ivans Trainingsprogramm ist der Stoff, aus dem Albträume sind, &#10;aber es zahlt sich offensichtlich aus.</szDescription>
 		<leadership>5</leadership>
 		<ap_polar>5</ap_polar>
@@ -305,8 +305,8 @@
 	<!-- Igor -->
 	<BACKGROUND>
 		<uiIndex>9</uiIndex>
-		<szName>Veteranen-Bergwachtruppe</szName>
-		<szShortName>Veteranen-Bergwachtruppe</szShortName>
+		<szName>Veteran der Gebirgstruppe</szName>
+		<szShortName>Bergjäger-Veteran</szShortName>
 		<szDescription>Igor hat am russischen Feldzug in Tschetschenien teilgenommen und ist an raue Umgebungen gewöhnt.</szDescription>
 		<leadership>5</leadership>
 		<ap_polar>5</ap_polar>
@@ -360,7 +360,7 @@
 		<uiIndex>11</uiIndex>
 		<szName>Pionier-Veteran</szName>
 		<szShortName>Pionier-Veteran</szShortName>
-		<szDescription>Ein Pionier kann in seinem Leben nur zwei Fehler machen. Der erste ist eine Berufswahl Wahl.</szDescription>
+		<szDescription>Ein Pionier kann in seinem Leben nur zwei Fehler machen. Der erste ist die Berufswahl.</szDescription>
 		<dexterity>5</dexterity>
 		<mechanical>5</mechanical>
 		<explosives>10</explosives>
@@ -409,9 +409,9 @@
 	<!-- Fidel -->
 	<BACKGROUND>
 		<uiIndex>13</uiIndex>
-		<szName>Bomber</szName>
-		<szShortName>Bomber</szShortName>
-		<szDescription>Wether you call them terrorists or freedom fighters often depends on &#10;your relation to those killed.</szDescription>
+		<szName>Bombenleger</szName>
+		<szShortName>Bombenleger</szShortName>
+		<szDescription>Ob man sie Terroristen oder Freiheitskämpfer nennt, hängt oft davon ab,&#10;wie man zu ihren Opfern steht.</szDescription>
 		<explosives>10</explosives>
 		<breachingcharge>50</breachingcharge>
 		<disarm_trap>40</disarm_trap>
@@ -426,9 +426,9 @@
 	<!-- Fox -->
 	<BACKGROUND>
 		<uiIndex>14</uiIndex>
-		<szName>Nurse/Mercenary</szName>
-		<szShortName>Nurse/Mercenary</szShortName>
-		<szDescription>This is a grim business, and combat medics are valuable personnel -- &#10;Fox is priceless.</szDescription>
+		<szName>Krankenschwester/Söldnerin</szName>
+		<szShortName>Sanitäterin/Söldn.</szShortName>
+		<szDescription>Das ist ein schmutziges Geschäft, und Feldsanitäter sind wertvoll --&#10;Fox ist unbezahlbar.</szDescription>
 		<dexterity>3</dexterity>
 		<marksmanship>2</marksmanship>
 		<medical>7</medical>
@@ -454,9 +454,9 @@
 	<!-- Sidney -->
 	<BACKGROUND>
 		<uiIndex>15</uiIndex>
-		<szName>Nobility/Mercenary</szName>
-		<szShortName>Nobility/Mercenary</szShortName>
-		<szDescription>Some people join this business not out of necessity. While easy to label &#10;them as sissy aristocrats, some are actually quite capable, as they have received the best training money can buy.</szDescription>
+		<szName>Adeliger/Söldner</szName>
+		<szShortName>Adeliger/Söldner</szShortName>
+		<szDescription>Nicht jeder steigt aus Not in dieses Geschäft ein. Verweichlichte Aristokraten?&#10;Manche sind erstaunlich fähig - Geld kauft schließlich erstklassige Ausbildung.</szDescription>
 		<marksmanship>3</marksmanship>
 		<leadership>5</leadership>
 		<ap_assault>3</ap_assault>
@@ -481,9 +481,9 @@
 	<!-- Gus -->
 	<BACKGROUND>
 		<uiIndex>16</uiIndex>
-		<szName>DFK Annihilator</szName>
-		<szShortName>DFK Annihilator</szShortName>
-		<szDescription>Your exploits earned you respect and recognition you deserve. &#10;Who needs legs?</szDescription>
+		<szName>DFK-Vernichter</szName>
+		<szShortName>DFK-Vernichter</szShortName>
+		<szDescription>Deine Taten haben dir den Respekt und die Anerkennung eingebracht, die du verdienst.&#10;Wer braucht schon Beine?</szDescription>
 		<leadership>8</leadership>
 		<resistance_physical>15</resistance_physical>
 		<resistance_fear>15</resistance_fear>
@@ -508,9 +508,9 @@
 	<!-- Buns -->
 	<BACKGROUND>
 		<uiIndex>17</uiIndex>
-		<szName>Nurse/Soldier/Shooter</szName>
-		<szShortName>Nurse/Soldier/Shooter</szShortName>
-		<szDescription>That combination creates an impressive resume.</szDescription>
+		<szName>Krankenschwester/Soldatin/Schützin</szName>
+		<szShortName>Sanitäterin/Soldat.</szShortName>
+		<szDescription>Diese Kombination macht sich beeindruckend im Lebenslauf.</szDescription>
 		<wisdom>1</wisdom>
 		<agility>2</agility>
 		<dexterity>4</dexterity>
@@ -533,9 +533,9 @@
 	<!-- Ice -->
 	<BACKGROUND>
 		<uiIndex>18</uiIndex>
-		<szName>Paramilitary Instructor</szName>
-		<szShortName>Instructor</szShortName>
-		<szDescription>Just like boyscouts. But with violence. So not like boyscouts at all.</szDescription>
+		<szName>Paramilitär-Ausbilder</szName>
+		<szShortName>Ausbilder</szShortName>
+		<szDescription>Wie Pfadfinder. Nur mit Gewalt. Also eigentlich gar nicht wie Pfadfinder.</szDescription>
 		<leadership>5</leadership>
 		<ap_assault>3</ap_assault>
 		<ap_fortify>-10</ap_fortify>
@@ -554,9 +554,9 @@
 	<!-- Spider -->
 	<BACKGROUND>
 		<uiIndex>19</uiIndex>
-		<szName>Surgeon</szName>
-		<szShortName>Surgeon</szShortName>
-		<szDescription>Like a surgeon... cutting for the very first time... Just kidding. Spider is &#10;THE person to seek if your guts are spilling out.</szDescription>
+		<szName>Chirurg</szName>
+		<szShortName>Chirurg</szShortName>
+		<szDescription>Wie ein Chirurg... schneiden wie beim allerersten Mal... Nur Spaß. Spider ist&#10;DIE Adresse, wenn dir die Eingeweide heraushängen.</szDescription>
 		<wisdom>1</wisdom>
 		<medical>10</medical>
 		<dexterity>8</dexterity>
@@ -572,9 +572,9 @@
 	<!-- Cliff -->
 	<BACKGROUND>
 		<uiIndex>20</uiIndex>
-		<szName>General Practitioner</szName>
-		<szShortName>GP Doctor</szShortName>
-		<szDescription>Cliff is a highly qualified doctor, though there once was a... darker... &#10;time in his life.</szDescription>
+		<szName>Allgemeinmediziner</szName>
+		<szShortName>Allgemeinarzt</szShortName>
+		<szDescription>Cliff ist ein hochqualifizierter Arzt, auch wenn es in seinem Leben einmal&#10;eine... dunklere... Zeit gab.</szDescription>
 		<wisdom>1</wisdom>
 		<dexterity>5</dexterity>
 		<medical>10</medical>
@@ -595,9 +595,9 @@
 	<!-- Bull -->
 	<BACKGROUND>
 		<uiIndex>21</uiIndex>
-		<szName>Military Police</szName>
-		<szShortName>MP</szShortName>
-		<szDescription>When your constabulary is an army camp or AO, and your criminals are professional &#10;soldiers, you better have the muscle to enforce your laws.</szDescription>
+		<szName>Militärpolizei</szName>
+		<szShortName>Militärpolizei</szShortName>
+		<szDescription>Wenn dein Revier ein Armeelager oder Einsatzgebiet ist und die Verdächtigen&#10;Berufssoldaten sind, brauchst du Muskeln, um das Gesetz durchzusetzen.</szDescription>
 		<strength>2</strength>
 		<ap_assault>2</ap_assault>
 		<meleedamage>5</meleedamage>
@@ -616,9 +616,9 @@
 	<!-- Hitman -->
 	<BACKGROUND>
 		<uiIndex>22</uiIndex>
-		<szName>Veteran Mercenary/Instructor/Hitman</szName>
-		<szShortName>Vet Merc/Instructor</szShortName>
-		<szDescription>This might be Frank's last tour - there are several private organisations that &#10;are interested in recruiting him to train their staff.</szDescription>
+		<szName>Söldnerveteran/Ausbilder/Profikiller</szName>
+		<szShortName>Vet.-Söldn./Ausb.</szShortName>
+		<szDescription>Das könnte Franks letzter Einsatz sein - mehrere private Organisationen&#10;wollen ihn bereits als Ausbilder für ihr Personal anwerben.</szDescription>
 		<leadership>6</leadership>
 		<agility>-5</agility>
 		<marksmanship>3</marksmanship>
@@ -643,9 +643,9 @@
 	<!-- Buzz -->
 	<BACKGROUND>
 		<uiIndex>23</uiIndex>
-		<szName>Rejected Love/Snitch/Veteran Merc</szName>
-		<szShortName>Rejected/Snitch/Vet</szShortName>
-		<szDescription>Turned down by her big love, Buzz is currently filled with a lot of hatred &#10;She chose the right job it seems.</szDescription>
+		<szName>Verschmähte/Spitzel/Söldnerveteranin</szName>
+		<szShortName>Verschm./Spitzel</szShortName>
+		<szDescription>Von ihrer großen Liebe abgewiesen, steckt Buzz derzeit voller Hass.&#10;Sie scheint sich den richtigen Beruf ausgesucht zu haben.</szDescription>
 		<leadership>2</leadership>
 		<stealth>10</stealth>
 		<hearing_night>2</hearing_night>
@@ -672,9 +672,9 @@
 	<!-- Raider -->
 	<BACKGROUND>
 		<uiIndex>24</uiIndex>
-		<szName>SWAT Member</szName>
+		<szName>SWAT-Mitglied</szName>
 		<szShortName>SWAT</szShortName>
-		<szDescription>Blurring the line between police and military, SWAT teams are used in &#10;urban operations too dangerous for normal law enforcement.</szDescription>
+		<szDescription>SWAT-Teams verwischen die Grenze zwischen Polizei und Militär und kommen bei&#10;urbanen Einsätzen zum Zug, die für normale Polizisten zu gefährlich sind.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>3</leadership>
 		<ap_urban>5</ap_urban>
@@ -694,9 +694,9 @@
 	<!-- Raven -->
 	<BACKGROUND>
 		<uiIndex>25</uiIndex>
-		<szName>SWAT Sniper</szName>
-		<szShortName>SWAT Sniper</szShortName>
-		<szDescription>Blurring the line between police and military, SWAT teams are used in &#10;urban operations too dangerous for normal law enforcement.</szDescription>
+		<szName>SWAT-Scharfschütze</szName>
+		<szShortName>SWAT-Scharfschütze</szShortName>
+		<szDescription>SWAT-Teams verwischen die Grenze zwischen Polizei und Militär und kommen bei&#10;urbanen Einsätzen zum Zug, die für normale Polizisten zu gefährlich sind.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>3</leadership>
 		<ap_urban>5</ap_urban>
@@ -717,9 +717,9 @@
 	<!-- Static -->
 	<BACKGROUND>
 		<uiIndex>26</uiIndex>
-		<szName>Backstage Crew/Veteran Mercenary</szName>
-		<szShortName>Tech Crew/Vet Merc</szShortName>
-		<szDescription>Blasting sounds, fireworks, screaming people - isn't it odd how &#10;similar the stage is to the battlefield?</szDescription>
+		<szName>Bühnencrew/Söldnerveteran</szName>
+		<szShortName>Crew/Söldnervet.</szShortName>
+		<szDescription>Knallende Effekte, Feuerwerk, schreiende Menschen - seltsam, wie sehr&#10;eine Bühne einem Schlachtfeld ähneln kann.</szDescription>
 		<mechanical>3</mechanical>
 		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
@@ -746,7 +746,7 @@
 		<uiIndex>27</uiIndex>
 		<szName>Green Beret</szName>
 		<szShortName>Green Beret</szShortName>
-		<szDescription>The Green Berets are a special operations force tasked with &#10;unconventional warfare.</szDescription>
+		<szDescription>Die Green Berets sind eine Spezialeinheit für unkonventionelle Kriegsführung.</szDescription>
 		<marksmanship>3</marksmanship>
 		<leadership>5</leadership>
 		<ap_airdrop>-1</ap_airdrop>
@@ -771,9 +771,9 @@
 	<!-- Danny -->
 	<BACKGROUND>
 		<uiIndex>28</uiIndex>
-		<szName>Extreme Athlete</szName>
-		<szShortName>Extreme Athlete</szShortName>
-		<szDescription>If you want to put your life at risk, might as well earn cash with it.</szDescription>
+		<szName>Extremsportler</szName>
+		<szShortName>Extremsportler</szShortName>
+		<szDescription>Wenn du schon dein Leben riskierst, kannst du damit auch Geld verdienen.</szDescription>
 		<agility>6</agility>
 		<strength>3</strength>
 		<dexterity>3</dexterity>
@@ -810,9 +810,9 @@
 	<!-- Magic -->
 	<BACKGROUND>
 		<uiIndex>29</uiIndex>
-		<szName>Professional Cat Burglar</szName>
-		<szShortName>Thief</szShortName>
-		<szDescription>When offered to take it or leave it, you always chose 'take'.</szDescription>
+		<szName>Profi-Einbrecher</szName>
+		<szShortName>Dieb</szShortName>
+		<szDescription>Wenn es hieß 'nehmen oder liegen lassen', hast du dich immer fürs Nehmen entschieden.</szDescription>
 		<agility>6</agility>
 		<dexterity>6</dexterity>
 		<ap_urban>8</ap_urban>
@@ -834,9 +834,9 @@
 	<!-- Stephen -->
 	<BACKGROUND>
 		<uiIndex>30</uiIndex>
-		<szName>Military Advisor</szName>
-		<szShortName>Military Advisor</szShortName>
-		<szDescription>Pointing the gun in the right direction is a start, but someone needs &#10;to teach these people how to teach other people where to point.</szDescription>
+		<szName>Militärberater</szName>
+		<szShortName>Militärberater</szShortName>
+		<szDescription>Die Waffe in die richtige Richtung zu halten ist ein Anfang. Aber jemand muss&#10;diesen Leuten beibringen, wie sie anderen das Zielen beibringen.</szDescription>
 		<leadership>10</leadership>
 		<ap_assault>3</ap_assault>
 		<resistance_fear>10</resistance_fear>
@@ -854,9 +854,9 @@
 	<!-- Scully -->
 	<BACKGROUND>
 		<uiIndex>31</uiIndex>
-		<szName>Veteran Mercenary</szName>
-		<szShortName>Veteran Merc</szShortName>
-		<szDescription>While others may keep to their pasts and its labels, you've chosen &#10;the life of a gun for hire - and embraced it. This is who you really are.</szDescription>
+		<szName>Söldnerveteran</szName>
+		<szShortName>Söldnerveteran</szShortName>
+		<szDescription>Andere klammern sich an ihre Vergangenheit. Du hast das Leben als Söldner&#10;gewählt und angenommen. Das ist, wer du wirklich bist.</szDescription>
 		<marksmanship>2</marksmanship>
 		<ap_coastal>5</ap_coastal>
 		<leadership>5</leadership>
@@ -878,9 +878,9 @@
 	<!-- Malice -->
 	<BACKGROUND>
 		<uiIndex>32</uiIndex>
-		<szName>Bouncer</szName>
-		<szShortName>Bouncer</szShortName>
-		<szDescription>Doormen make good soldiers in close combat, though the &#10;killing part is a change, hopefully.</szDescription>
+		<szName>Türsteher</szName>
+		<szShortName>Türsteher</szShortName>
+		<szDescription>Türsteher geben gute Nahkämpfer ab; nur das Töten ist hoffentlich neu für sie.</szDescription>
 		<meleedamage>4</meleedamage>
 		<agility>3</agility>
 		<strength>3</strength>
@@ -896,9 +896,9 @@
 	<!-- Dr. Q -->
 	<BACKGROUND>
 		<uiIndex>33</uiIndex>
-		<szName>Chinese Doctor/Martial Arts Expert</szName>
-		<szShortName>TCM/Martial Arts</szShortName>
-		<szDescription>Dr. Q is trained in Traditional Chinese Medicine (TCM) and martial artist. Not the &#10;fastest way to cure a patient, but it works.</szDescription>
+		<szName>Chinesischer Arzt/Kampfkunstexperte</szName>
+		<szShortName>TCM/Kampfkunst</szShortName>
+		<szDescription>Dr. Q beherrscht Traditionelle Chinesische Medizin (TCM) und Kampfkunst.&#10;Nicht die schnellste Art, einen Patienten zu heilen - aber sie funktioniert.</szDescription>
 		<agility>5</agility>
 		<strength>5</strength>
 		<dexterity>5</dexterity>
@@ -921,9 +921,9 @@
 	<!-- Nails -->
 	<BACKGROUND>
 		<uiIndex>34</uiIndex>
-		<szName>Bike Gang Member/Bomber</szName>
-		<szShortName>Bike Gang Member/Bomber</szShortName>
-		<szDescription>Becoming a mercenary is a natural step for many gang members &#10; the job's the same, tools and pay much better.</szDescription>
+		<szName>Biker/Bombenleger</szName>
+		<szShortName>Biker/Bombenleger</szShortName>
+		<szDescription>Für viele Gangmitglieder ist der Schritt zum Söldner nur logisch:&#10;Der Job ist derselbe, nur Waffen und Bezahlung sind deutlich besser.</szDescription>
 		<strength>4</strength>
 		<leadership>1</leadership>
 		<ap_polar>-5</ap_polar>
@@ -953,9 +953,9 @@
 	<!-- Thor -->
 	<BACKGROUND>
 		<uiIndex>35</uiIndex>
-		<szName>New Age Spiritualist</szName>
+		<szName>New-Age-Spiritualist</szName>
 		<szShortName>Spiritualist</szShortName>
-		<szDescription>Who needs an exam to be a practicing healer?</szDescription>
+		<szDescription>Wer braucht schon ein Examen, um als Heiler zu praktizieren?</szDescription>
 		<medical>5</medical>
 		<wisdom>5</wisdom>
 		<leadership>5</leadership>
@@ -974,7 +974,7 @@
 		<uiIndex>36</uiIndex>
 		<szName>SAS</szName>
 		<szShortName>SAS</szShortName>
-		<szDescription>The british Special Air Service is one of the world's most famous special &#10;forces units, and is not only trained in survival techniques in all environments, it is also exceptionally well versed in airborne missions.</szDescription>
+		<szDescription>Der britische Special Air Service gehört zu den berühmtesten Spezialeinheiten der Welt.&#10;SAS-Soldaten sind Überlebens- und Luftlandeprofis in nahezu jedem Gelände.</szDescription>
 		<marksmanship>2</marksmanship>
 		<ap_polar>3</ap_polar>
 		<ap_desert>3</ap_desert>
@@ -1001,9 +1001,9 @@
 	<!-- Wolf -->
 	<BACKGROUND>
 		<uiIndex>37</uiIndex>
-		<szName>Paramilitary Instructor</szName>
-		<szShortName>Instructor</szShortName>
-		<szDescription>Just like boyscouts. But with violence. So not like boyscouts at all.</szDescription>
+		<szName>Paramilitär-Ausbilder</szName>
+		<szShortName>Ausbilder</szShortName>
+		<szDescription>Wie Pfadfinder. Nur mit Gewalt. Also eigentlich gar nicht wie Pfadfinder.</szDescription>
 		<leadership>5</leadership>
 		<ap_assault>3</ap_assault>
 		<ap_fortify>-10</ap_fortify>
@@ -1022,9 +1022,9 @@
 	<!-- MD -->
 	<BACKGROUND>
 		<uiIndex>38</uiIndex>
-		<szName>Graduate</szName>
-		<szShortName>Graduate</szShortName>
-		<szDescription>Fresh out of school, with diploma still warm in a hand, it's time for MD &#10;to finally make a living.</szDescription>
+		<szName>Absolvent</szName>
+		<szShortName>Absolvent</szShortName>
+		<szDescription>Frisch von der Schule, das Diplom noch warm in der Hand, wird es für MD Zeit,&#10;endlich seinen Lebensunterhalt zu verdienen.</szDescription>
 		<leadership>-3</leadership>
 		<ap_polar>5</ap_polar>
 		<ap_desert>-5</ap_desert>
@@ -1044,9 +1044,9 @@
 	<!-- Meltdown -->
 	<BACKGROUND>
 		<uiIndex>39</uiIndex>
-		<szName>Mercenary</szName>
-		<szShortName>Merc</szShortName>
-		<szDescription>While others may keep to their pasts and its labels, you've chosen the life &#10;of a gun for hire - and embraced it. This is who you really are.</szDescription>
+		<szName>Söldner</szName>
+		<szShortName>Söldner</szShortName>
+		<szDescription>Andere klammern sich an ihre Vergangenheit. Du hast das Leben als Söldner&#10;gewählt und angenommen. Das ist, wer du wirklich bist.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>2</leadership>
 		<ap_assault>3</ap_assault>
@@ -1062,9 +1062,9 @@
 	<!-- Biff -->
 	<BACKGROUND>
 		<uiIndex>40</uiIndex>
-		<szName>Momma's Boy</szName>
-		<szShortName>Momma's Boy</szShortName>
-		<szDescription>Childhood has left Biff with significant personal issues that have &#10;yet to be resolved.</szDescription>
+		<szName>Muttersöhnchen</szName>
+		<szShortName>Muttersöhnchen</szShortName>
+		<szDescription>Biffs Kindheit hat deutliche persönliche Spuren hinterlassen,&#10;die bis heute nicht verarbeitet sind.</szDescription>
 		<leadership>-10</leadership>
 		<ap_polar>-3</ap_polar>
 		<ap_desert>-3</ap_desert>
@@ -1089,9 +1089,9 @@
 	<!-- Haywire -->
 	<BACKGROUND>
 		<uiIndex>41</uiIndex>
-		<szName>Wanna-be Mercenary</szName>
-		<szShortName>Wanna-be Merc</szShortName>
-		<szDescription>Choose the awesome life of a mercenary, visit new places, meet new people, &#10;kill them, and even GET PAID for it.</szDescription>
+		<szName>Möchtegern-Söldner</szName>
+		<szShortName>Möchtegern-Söldn.</szShortName>
+		<szDescription>Wähle das tolle Söldnerleben: neue Orte sehen, neue Leute treffen,&#10;sie umlegen - und dafür sogar BEZAHLT werden.</szDescription>
 		<marksmanship>2</marksmanship>
 		<ap_assault>1</ap_assault>
 		<meleedamage>3</meleedamage>
@@ -1112,9 +1112,9 @@
 	<!-- Gasket -->
 	<BACKGROUND>
 		<uiIndex>42</uiIndex>
-		<szName>Hillbilly</szName>
-		<szShortName>Hillbilly</szShortName>
-		<szDescription>Overalls, straw sticking out of boots and inseparable blade of grass in the &#10;mouth - but with a knack for tools and all things mechanical.</szDescription>
+		<szName>Hinterwäldler</szName>
+		<szShortName>Hinterwäldler</szShortName>
+		<szDescription>Latzhose, Stroh aus den Stiefeln und ein Grashalm im Mund - dafür aber&#10;ein echtes Händchen für Werkzeuge und alles Mechanische.</szDescription>
 		<strength>3</strength>
 		<dexterity>5</dexterity>
 		<agility>3</agility>
@@ -1143,9 +1143,9 @@
 	<!-- Razor -->
 	<BACKGROUND>
 		<uiIndex>43</uiIndex>
-		<szName>Deranged Bladesman</szName>
-		<szShortName>Deranged Bladesman</szShortName>
-		<szDescription>There is something extremely not right here, but he has obviously useful &#10;talents for this business.</szDescription>
+		<szName>Irrer Klingenkämpfer</szName>
+		<szShortName>Irrer Klingenk.</szShortName>
+		<szDescription>Mit dem Kerl stimmt ganz offensichtlich etwas nicht. Für dieses Geschäft&#10;hat er allerdings unbestreitbar nützliche Talente.</szDescription>
 		<strength>3</strength>
 		<dexterity>6</dexterity>
 		<agility>6</agility>
@@ -1171,9 +1171,9 @@
 	<!-- Flo -->
 	<BACKGROUND>
 		<uiIndex>44</uiIndex>
-		<szName>Accountant</szName>
-		<szShortName>Accountant</szShortName>
-		<szDescription>Knowledge learned in years of keeping the books for an arms dealer &#10;leads to better deals when buying and selling guns and gear.</szDescription>
+		<szName>Buchhalter</szName>
+		<szShortName>Buchhalter</szShortName>
+		<szDescription>Jahrelange Buchhaltung für einen Waffenhändler zahlt sich aus:&#10;Beim Kauf und Verkauf von Waffen und Ausrüstung kennt man jeden Trick.</szDescription>
 		<leadership>-3</leadership>
 		<ap_fortify>20</ap_fortify>
 		<ap_artillery>10</ap_artillery>
@@ -1191,9 +1191,9 @@
 	<!-- Gumpy -->
 	<BACKGROUND>
 		<uiIndex>45</uiIndex>
-		<szName>Academic/Bomber</szName>
-		<szShortName>Academic/Bomber</szShortName>
-		<szDescription>Most of his knowledge comes from books and secondhand reports &#10;- but it didn't prepare him for the grim reality of a war zone as well as he thought.</szDescription>
+		<szName>Akademiker/Bombenleger</szName>
+		<szShortName>Akadem./Bombenleg.</szShortName>
+		<szDescription>Das meiste Wissen stammt aus Büchern und Berichten aus zweiter Hand.&#10;Auf die brutale Wirklichkeit eines Kriegsgebiets war er dennoch nicht vorbereitet.</szDescription>
 		<leadership>-3</leadership>
 		<explosives>6</explosives>
 		<wisdom>5</wisdom>
@@ -1214,9 +1214,9 @@
 	<!-- Larry -->
 	<BACKGROUND>
 		<uiIndex>46</uiIndex>
-		<szName>Drug Addict/Bomber</szName>
-		<szShortName>Addict/Bomber</szShortName>
-		<szDescription>Given the nature of todays drugs, addicts can make fearsome, &#10;yet unreliable, opponents.</szDescription>
+		<szName>Drogenabhängiger/Bombenleger</szName>
+		<szShortName>Junkie/Bombenleger</szShortName>
+		<szDescription>Mit den heutigen Drogen können Süchtige furchterregende,&#10;aber auch äußerst unzuverlässige Gegner sein.</szDescription>
 		<explosives>6</explosives>
 		<breachingcharge>50</breachingcharge>
 		<disarm_trap>40</disarm_trap>
@@ -1234,9 +1234,9 @@
 	<!-- stoned Larry -->
 	<BACKGROUND>
 		<uiIndex>47</uiIndex>
-		<szName>Drugged Addict/Bomber</szName>
-		<szShortName>Drug Addict</szShortName>
-		<szDescription>This... this is it! I get it now. HEAR THAT? I GET IT NOW!</szDescription>
+		<szName>Zugedröhnter Bombenleger</szName>
+		<szShortName>Drogenabhängiger</szShortName>
+		<szDescription>Das... das ist es! Jetzt verstehe ich! HÖRT IHR? ICH HAB'S KAPIERT!</szDescription>
 		<leadership>-5</leadership>
 		<explosives>3</explosives>
 		<breachingcharge>15</breachingcharge>
@@ -1260,9 +1260,9 @@
 	<!-- Cougar -->
 	<BACKGROUND>
 		<uiIndex>48</uiIndex>
-		<szName>Rejected Army Cadet</szName>
-		<szShortName>Rejected Army Cadet</szShortName>
-		<szDescription>Flunked out of the military academy, but not yet finished.</szDescription>
+		<szName>Abgelehnter Armeekadett</szName>
+		<szShortName>Abgel. Armeekadett</szShortName>
+		<szDescription>Von der Militärakademie geflogen - aber noch lange nicht am Ende.</szDescription>
 		<ap_assault>1</ap_assault>
 		<ap_fortify>-11</ap_fortify>
 		<ap_artillery>-1</ap_artillery> 
@@ -1283,7 +1283,7 @@
 		<uiIndex>49</uiIndex>
 		<szName>Punk</szName>
 		<szShortName>Punk</szShortName>
-		<szDescription>Turning the urban environment into a jungle is a tough job, &#10;but somebody's gotta do it!</szDescription>
+		<szDescription>Aus einer Stadt einen Dschungel zu machen ist harte Arbeit,&#10;aber irgendwer muss es ja tun!</szDescription>
 		<leadership>-2</leadership>
 		<ap_urban>8</ap_urban>
 		<resistance_poison>15</resistance_poison>
@@ -1302,72 +1302,72 @@
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>50</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- PGmale 1 -->
 	<BACKGROUND>
 		<uiIndex>51</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- PGmale 2 -->
 	<BACKGROUND>
 		<uiIndex>52</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- PGmale 3 -->
 	<BACKGROUND>
 		<uiIndex>53</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- PGLady 1 -->
 	<BACKGROUND>
 		<uiIndex>54</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- PGLady 2 -->
 	<BACKGROUND>
 		<uiIndex>55</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- PGLady 3 -->
 	<BACKGROUND>
 		<uiIndex>56</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Miguel -->
 	<BACKGROUND>
 		<uiIndex>57</uiIndex>
-		<szName>Arulcan Rebel</szName>
-		<szShortName>Rebel</szShortName>
-		<szDescription>The only hope left for his oppressed people, Miguel IS the revolution.</szDescription>
+		<szName>Arulcanischer Rebell</szName>
+		<szShortName>Rebell</szShortName>
+		<szDescription>Die letzte Hoffnung seines unterdrückten Volkes: Miguel IST die Revolution.</szDescription>
 		<ap_desert>2</ap_desert>
 		<ap_swamp>2</ap_swamp>
 		<ap_urban>2</ap_urban>
@@ -1389,9 +1389,9 @@
 	<!-- Sandman -->
 	<BACKGROUND>
 		<uiIndex>58</uiIndex>
-		<szName>Aspiring Thief</szName>
-		<szShortName>Thief</szShortName>
-		<szDescription>When offered to take it or leave it, you always chose 'take'.</szDescription>
+		<szName>Angehender Dieb</szName>
+		<szShortName>Dieb</szShortName>
+		<szDescription>Wenn es hieß 'nehmen oder liegen lassen', hast du dich immer fürs Nehmen entschieden.</szDescription>
 		<agility>6</agility>
 		<dexterity>6</dexterity>
 		<ap_urban>5</ap_urban>
@@ -1410,9 +1410,9 @@
 	<!-- Sparky -->
 	<BACKGROUND>
 		<uiIndex>59</uiIndex>
-		<szName>Technician</szName>
-		<szShortName>Technician</szShortName>
-		<szDescription>Time and youth are fleeting, so after children she took up a worthwhile trade.</szDescription>
+		<szName>Techniker</szName>
+		<szShortName>Techniker</szShortName>
+		<szDescription>Zeit und Jugend vergehen. Nach den Kindern hat sie deshalb noch ein handfestes Handwerk gelernt.</szDescription>
 		<dexterity>5</dexterity>
 		<mechanical>5</mechanical>
 		<ap_fortify>-20</ap_fortify>
@@ -1430,9 +1430,9 @@
 	<!-- Frazzler -->   
 	<BACKGROUND>
 		<uiIndex>60</uiIndex>
-		<szName>Hunter</szName>
-		<szShortName>Hunter</szShortName>
-		<szDescription>Kills quarry for pelts or bounty, using whatever weapon is at hand, or &#10;what nature provides.</szDescription>
+		<szName>Jäger</szName>
+		<szShortName>Jäger</szShortName>
+		<szDescription>Jagt Beute für Fell oder Kopfgeld - mit jeder Waffe, die zur Hand ist,&#10;oder mit dem, was die Natur hergibt.</szDescription>
 		<ap_polar>2</ap_polar>
 		<ap_desert>2</ap_desert>
 		<ap_swamp>2</ap_swamp>
@@ -1461,9 +1461,9 @@
 	<!-- TNT -->
 	<BACKGROUND>
 		<uiIndex>61</uiIndex>
-		<szName>Sapper/Arms Dealer</szName>
-		<szShortName>Sapper</szShortName>
-		<szDescription>Michael can not only obliterate obstacles or targets but can also buy, sell or supply the same explosives required for such a job.</szDescription>
+		<szName>Pionier/Waffenhändler</szName>
+		<szShortName>Pionier</szShortName>
+		<szDescription>Michäl kann Hindernisse und Ziele nicht nur sprengen, sondern auch genau den Sprengstoff beschaffen, kaufen oder verkaufen, den man dafür braucht.</szDescription>
 		<dexterity>3</dexterity>
 		<mechanical>3</mechanical>
 		<explosives>8</explosives>
@@ -1489,18 +1489,18 @@
 	<!-- Robot -->
 	<BACKGROUND>
 		<uiIndex>62</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Cobra -->
 	<BACKGROUND>
 		<uiIndex>63</uiIndex>
-		<szName>Driver/Bomber</szName>
-		<szShortName>Driver/Bomber</szShortName>
-		<szDescription>Once the bomb goes off you're already on the other side of town.</szDescription>
+		<szName>Fahrer/Bombenleger</szName>
+		<szShortName>Fahrer/Bombenleger</szShortName>
+		<szDescription>Wenn die Bombe hochgeht, bist du längst am anderen Ende der Stadt.</szDescription>
 		<wisdom>1</wisdom>
 		<mechanical>3</mechanical>
 		<explosives>10</explosives>
@@ -1520,9 +1520,9 @@
 	<!-- Slay -->
 	<BACKGROUND>
 		<uiIndex>64</uiIndex>
-		<szName>Sniper Terrorist</szName>
-		<szShortName>Sniper Terrorist</szShortName>
-		<szDescription>Nobody admits it, but the same governments that hunt him employed him.</szDescription>
+		<szName>Scharfschützen-Terrorist</szName>
+		<szShortName>Scharfsch.-Terror.</szShortName>
+		<szDescription>Keiner gibt es zu, doch dieselben Regierungen, die ihn jagen, haben ihn einst bezahlt.</szDescription>
 		<marksmanship>3</marksmanship>
 		<ap_urban>2</ap_urban>
 		<ap_height>4</ap_height>
@@ -1540,9 +1540,9 @@
 	<!-- Eagle -->
 	<BACKGROUND>
 		<uiIndex>65</uiIndex>
-		<szName>Auto Worker/Security Tech</szName>
-		<szShortName>Auto/Security Tech</szShortName>
-		<szDescription>He escaped the ghetto and gangbangers by putting his engineering &#10;skills on the market, and ended up in Arulco.</szDescription>
+		<szName>Autoarbeiter/Sicherheitstechniker</szName>
+		<szShortName>Auto/Sicherheitst.</szShortName>
+		<szDescription>Er entkam Ghetto und Gangkriegen, indem er sein technisches Können zu Geld machte -&#10;und landete schließlich in Arulco.</szDescription>
 		<dexterity>4</dexterity>
 		<mechanical>8</mechanical>
 		<wisdom>3</wisdom>
@@ -1563,9 +1563,9 @@
 	<!-- Dynamo -->
 	<BACKGROUND>
 		<uiIndex>66</uiIndex>
-		<szName>Mine Repairman</szName>
-		<szShortName>Repairman</szShortName>
-		<szDescription>Being held and tortured in a regime prison left him scarred for the rest &#10;of his life. This burden has only tempered his resolve.</szDescription>
+		<szName>Bergwerksmechaniker</szName>
+		<szShortName>Mechaniker</szShortName>
+		<szDescription>Gefangenschaft und Folter in einem Regimegefängnis zeichneten ihn fürs Leben.&#10;Die Narben haben seinen Willen nur gehärtet.</szDescription>
 		<dexterity>8</dexterity>
 		<mechanical>8</mechanical>
 		<wisdom>3</wisdom>
@@ -1592,9 +1592,9 @@
 	<!-- Shank -->
 	<BACKGROUND>
 		<uiIndex>67</uiIndex>
-		<szName>Knife-Thrower</szName>
-		<szShortName>Knife-Thrower</szShortName>
-		<szDescription>Being held and tortured in a regime prison left him scarred for the rest &#10;of his life. You've come a long way from being a party trickster playing knife throwing games.</szDescription>
+		<szName>Messerwerfer</szName>
+		<szShortName>Messerwerfer</szShortName>
+		<szDescription>Gefangenschaft und Folter zeichneten ihn fürs Leben. Von harmlosen Messerwurf-Spielchen&#10;auf Partys ist er inzwischen sehr weit entfernt.</szDescription>
 		<dexterity>8</dexterity>
 		<marksmanship>3</marksmanship>
 		<cth_blades>5</cth_blades>
@@ -1613,9 +1613,9 @@
 	<!-- Ilya -->
 	<BACKGROUND>
 		<uiIndex>68</uiIndex>
-		<szName>Sniper/Teacher</szName>
-		<szShortName>Sniper/Teacher</szShortName>
-		<szDescription>Nobody fails his classes ...and lives!</szDescription>
+		<szName>Scharfschütze/Ausbilder</szName>
+		<szShortName>Scharfsch./Ausbild.</szShortName>
+		<szDescription>Niemand fällt durch seinen Unterricht ...und überlebt!</szDescription>
 		<marksmanship>3</marksmanship>
 		<ap_urban>5</ap_urban>
 		<ap_height>3</ap_height>
@@ -1633,9 +1633,9 @@
 	<!-- Fish -->
 	<BACKGROUND>
 		<uiIndex>69</uiIndex>
-		<szName>Paramedic/Bladesman</szName>
-		<szShortName>Paramedic/Bladesman</szShortName>
-		<szDescription>To heal or to hack? Only how he wields a scalpel decides the outcome.</szDescription>
+		<szName>Sanitäter/Klingenkämpfer</szName>
+		<szShortName>Sanität/Klinge</szShortName>
+		<szDescription>Heilen oder zerhacken? Allein wie er das Skalpell führt, entscheidet über das Ergebnis.</szDescription>
 		<medical>5</medical>
 		<dexterity>3</dexterity>
 		<agility>3</agility>
@@ -1660,9 +1660,9 @@
 	<!-- Conrad -->
 	<BACKGROUND>
 		<uiIndex>70</uiIndex>
-		<szName>Military Advisor</szName>
-		<szShortName>Military Advisor</szShortName>
-		<szDescription>Pointing the gun in the right direction is a start, but someone needs to teach &#10;these people how to teach other people where to point.</szDescription>
+		<szName>Militärberater</szName>
+		<szShortName>Militärberater</szShortName>
+		<szDescription>Die Waffe in die richtige Richtung zu halten ist ein Anfang. Aber jemand muss&#10;diesen Leuten beibringen, wie sie anderen das Zielen beibringen.</szDescription>
 		<leadership>10</leadership>
 		<ap_assault>3</ap_assault>
 		<resistance_physical>5</resistance_physical>
@@ -1681,9 +1681,9 @@
 	<!-- Joey -->
 	<BACKGROUND>
 		<uiIndex>71</uiIndex>
-		<szName>Rebel</szName>
-		<szShortName>Rebel</szShortName>
-		<szDescription>Once a juvenile delinquent, now a rebel with a cause.</szDescription>
+		<szName>Rebell</szName>
+		<szShortName>Rebell</szShortName>
+		<szDescription>Früher jugendlicher Straftäter, heute Rebell mit einer Sache, für die es sich zu kämpfen lohnt.</szDescription>
 		<leadership>-3</leadership>
 		<ap_urban>2</ap_urban>
 		<ap_artillery>10</ap_artillery>
@@ -1713,9 +1713,9 @@
 	<!-- Gordon -->
 	<BACKGROUND>
 		<uiIndex>72</uiIndex>
-		<szName>Prisoner</szName>
-		<szShortName>Prisoner</szShortName>
-		<szDescription>Being held and tortured in a regime prison left him scarred for life. He's no &#10;longer afraid of death anymore - but there are other things to be afraid of.</szDescription>
+		<szName>Gefangener</szName>
+		<szShortName>Gefangener</szShortName>
+		<szDescription>Gefangenschaft und Folter haben ihn fürs Leben gezeichnet. Den Tod fürchtet er&#10;nicht mehr - dafür gibt es andere Dinge, vor denen man Angst haben kann.</szDescription>
 		<leadership>-5</leadership>
 		<resistance_fear>-20</resistance_fear>
 		<resistance_suppression>10</resistance_suppression>
@@ -1731,9 +1731,9 @@
 	<!-- Babyface -->
 	<BACKGROUND>
 		<uiIndex>73</uiIndex>
-		<szName>Standover Man</szName>
-		<szShortName>Standover Man</szShortName>
-		<szDescription>His laid-back sense of humor sometimes belies the fact his threatening demeanor works &#10;wonders when getting things he or others want.</szDescription>
+		<szName>Eintreiber</szName>
+		<szShortName>Eintreiber</szShortName>
+		<szDescription>Sein lockerer Humor täuscht leicht darüber hinweg, dass sein bedrohliches Auftreten&#10;Wunder wirkt, wenn er für sich oder andere etwas durchsetzen will.</szDescription>
 		<leadership>8</leadership>
 		<dexterity>2</dexterity>
 		<strength>5</strength>
@@ -1758,9 +1758,9 @@
 	<!-- Perko -->
 	<BACKGROUND>
 		<uiIndex>74</uiIndex>
-		<szName>Expert Handyman</szName>
-		<szShortName>Expert Handyman</szShortName>
-		<szDescription>In a warzone without the usual comforts, it is very useful to have people &#10;who can maintain your gear.</szDescription>
+		<szName>Erfahrener Handwerker</szName>
+		<szShortName>Erf. Handwerker</szShortName>
+		<szDescription>In einem Kriegsgebiet ohne jeden Komfort sind Leute Gold wert,&#10;die deine Ausrüstung in Schuss halten können.</szDescription>
 		<dexterity>8</dexterity>
 		<mechanical>8</mechanical>
 		<ap_urban>3</ap_urban>
@@ -1777,9 +1777,9 @@
 	<!-- Deidranna Double -->
 	<BACKGROUND>
 		<uiIndex>75</uiIndex>
-		<szName>Evil Queen</szName>
-		<szShortName>Evil Queen</szShortName>
-		<szDescription>Living the life of an evil ruler of a small country certainly leads to &#10;astonishing survival talents.</szDescription>
+		<szName>Böse Königin</szName>
+		<szShortName>Böse Königin</szShortName>
+		<szDescription>Das Leben als böse Herrscherin eines kleinen Landes fördert offenbar&#10;erstaunliche Überlebensfähigkeiten.</szDescription>
 		<leadership>10</leadership>
 		<resistance_physical>10</resistance_physical>
 		<resistance_fear>20</resistance_fear>
@@ -1800,9 +1800,9 @@
 	<!-- Auntie -->
 	<BACKGROUND>
 		<uiIndex>76</uiIndex>
-		<szName>Grandmother</szName>
-		<szShortName>Granny</szShortName>
-		<szDescription>Old people. They never seem to sleep.</szDescription>
+		<szName>Großmutter</szName>
+		<szShortName>Großmutter</szShortName>
+		<szDescription>Alte Leute. Die scheinen einfach nie zu schlafen.</szDescription>
 		<ap_fortify>20</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_inventory>-10</ap_inventory>
@@ -1816,9 +1816,9 @@
 	<!-- Enrico -->
 	<BACKGROUND>
 		<uiIndex>77</uiIndex>
-		<szName>King in Exile</szName>
-		<szShortName>Exiled King</szShortName>
-		<szDescription>You excel at political influence, strategy and tactics, but as a mercenary &#10;you leave a lot to be desired.</szDescription>
+		<szName>König im Exil</szName>
+		<szShortName>König im Exil</szShortName>
+		<szDescription>Politischer Einfluss, Strategie und Taktik liegen dir. Als Söldner&#10;lässt du allerdings einiges zu wünschen übrig.</szDescription>
 		<ap_height>8</ap_height>
 		<ap_fortify>40</ap_fortify>
 		<ap_artillery>40</ap_artillery>
@@ -1852,9 +1852,9 @@
 	<!-- Carmen -->
 	<BACKGROUND>
 		<uiIndex>78</uiIndex>
-		<szName>Bounty Hunter</szName>
-		<szShortName>Bounty Hunter</szShortName>
-		<szDescription>Sort of like a Big Game Hunter, only people.</szDescription>
+		<szName>Kopfgeldjäger</szName>
+		<szShortName>Kopfgeldjäger</szShortName>
+		<szDescription>So ähnlich wie ein Großwildjäger - nur eben auf Menschen.</szDescription>
 		<ap_urban>5</ap_urban>
 		<resistance_physical>8</resistance_physical>
 		<resistance_fear>8</resistance_fear>
@@ -1878,9 +1878,9 @@
 	<!-- Joe -->
 	<BACKGROUND>
 		<uiIndex>79</uiIndex>
-		<szName>Bodyguard</szName>
-		<szShortName>Bodyguard</szShortName>
-		<szDescription>Superbly trained, utterly loyal, and willing to pay the ultimate price. What &#10;more could a potential employer want?.</szDescription>
+		<szName>Leibwächter</szName>
+		<szShortName>Leibwächter</szShortName>
+		<szDescription>Hervorragend ausgebildet, absolut loyal und bereit, den höchsten Preis zu zahlen.&#10;Was könnte ein Auftraggeber mehr verlangen?</szDescription>
 		<strength>5</strength>
 		<resistance_physical>20</resistance_physical>
 		<resistance_fear>20</resistance_fear>
@@ -1897,9 +1897,9 @@
 	<!-- Doc -->
 	<BACKGROUND>
 		<uiIndex>80</uiIndex>
-		<szName>Battlefield Medic</szName>
-		<szShortName>Battlefield Medic</szShortName>
-		<szDescription>Everyone can cut human flesh - but sewing it back while under fire is a quest for &#10;the best!</szDescription>
+		<szName>Feldsanitäter</szName>
+		<szShortName>Feldsanitäter</szShortName>
+		<szDescription>Jeder kann Menschenfleisch aufschneiden - es unter Beschuss wieder zusammenzunähen,&#10;ist eine Aufgabe für die Besten!</szDescription>
 		<medical>5</medical>
 		<dexterity>5</dexterity>
 		<stealth>3</stealth>
@@ -1917,9 +1917,9 @@
 	<!-- Rat -->
 	<BACKGROUND>
 		<uiIndex>81</uiIndex>
-		<szName>Turncoat</szName>
-		<szShortName>Turncoat</szShortName>
-		<szDescription>Do you wonder why Rat is a bit on the nervous side?</szDescription>
+		<szName>Überläufer</szName>
+		<szShortName>Überläufer</szShortName>
+		<szDescription>Noch Fragen, warum Rat ein wenig nervös wirkt?</szDescription>
 		<resistance_poison>15</resistance_poison>
 		<resistance_fear>15</resistance_fear>
 		<carrystrength>2</carrystrength>
@@ -1933,9 +1933,9 @@
 	<!-- MoM -->
 	<BACKGROUND>
 		<uiIndex>82</uiIndex>
-		<szName>Terrorist Bomber</szName>
-		<szShortName>Terrorist Bomber</szShortName>
-		<szDescription>Notorious mass-murderer? Insane criminal? They're just jealous.</szDescription>
+		<szName>Bombenterrorist</szName>
+		<szShortName>Bombenterrorist</szShortName>
+		<szDescription>Berüchtigter Massenmörder? Wahnsinniger Verbrecher? Die sind doch nur neidisch.</szDescription>
 		<agility>6</agility>
 		<marksmanship>3</marksmanship>
 		<explosives>10</explosives>
@@ -1957,9 +1957,9 @@
 	<!-- Imposter -->
 	<BACKGROUND>
 		<uiIndex>83</uiIndex>
-		<szName>Serial Killer</szName>
-		<szShortName>Serial Killer</szShortName>
-		<szDescription>Wanted by Interpol, a meat cleaver murderer, and master of disguise.</szDescription>
+		<szName>Serienmörder</szName>
+		<szShortName>Serienmörder</szShortName>
+		<szDescription>Von Interpol gesucht, Mörder mit dem Hackebeil und Meister der Verkleidung.</szDescription>
 		<strength>3</strength>
 		<dexterity>6</dexterity>
 		<agility>6</agility>
@@ -1983,7 +1983,7 @@
 		<uiIndex>84</uiIndex>
 		<szName>Redneck</szName>
 		<szShortName>Redneck</szShortName>
-		<szDescription>When the Confederacy lost the war your family moved further south... &#10;and is still fighting...everybody!</szDescription>
+		<szDescription>Als die Konföderation den Krieg verlor, zog deine Familie weiter nach Süden...&#10;und kämpft dort bis heute... gegen jeden!</szDescription>
 		<mechanical>3</mechanical>
 		<medical>3</medical>
 		<wisdom>-7</wisdom>
@@ -2009,7 +2009,7 @@
 		<uiIndex>85</uiIndex>
 		<szName>Punk</szName>
 		<szShortName>Punk</szShortName>
-		<szDescription>Turning the urban environment into a jungle is a tough job, but &#10; somebody's gotta do it!</szDescription>
+		<szDescription>Aus einer Stadt einen Dschungel zu machen ist harte Arbeit,&#10;aber irgendwer muss es ja tun!</szDescription>
 		<leadership>-2</leadership>
 		<ap_urban>8</ap_urban>
 		<resistance_poison>15</resistance_poison>
@@ -2029,9 +2029,9 @@
 	<!-- Kingpin -->
 	<BACKGROUND>
 		<uiIndex>86</uiIndex>
-		<szName>Mob Boss</szName>
-		<szShortName>Mobster</szShortName>
-		<szDescription>Organized crime is found anywhere. No exceptions.</szDescription>
+		<szName>Mafiaboss</szName>
+		<szShortName>Mafioso</szShortName>
+		<szDescription>Organisiertes Verbrechen gibt es überall. Ohne Ausnahme.</szDescription>
 		<leadership>10</leadership>
 		<ap_assault>2</ap_assault>
 		<cth_blades>3</cth_blades>
@@ -2050,9 +2050,9 @@
 	<!-- Darren -->
 	<BACKGROUND>
 		<uiIndex>87</uiIndex>
-		<szName>The Mob</szName>
-		<szShortName>Mobster</szShortName>
-		<szDescription>Organized crime is found anywhere. No exceptions.</szDescription>
+		<szName>Mafia</szName>
+		<szShortName>Mafioso</szShortName>
+		<szDescription>Organisiertes Verbrechen gibt es überall. Ohne Ausnahme.</szDescription>
 		<ap_assault>2</ap_assault>
 		<cth_blades>3</cth_blades>
 		<meleedamage>3</meleedamage>
@@ -2069,9 +2069,9 @@
 	<!-- Maria -->
 	<BACKGROUND>
 		<uiIndex>88</uiIndex>
-		<szName>Sex slave</szName>
-		<szShortName>Sex slave</szShortName>
-		<szDescription>You don't want to know.</szDescription>
+		<szName>Sexsklavin</szName>
+		<szShortName>Sexsklavin</szShortName>
+		<szDescription>Das willst du nicht wissen.</szDescription>
 		<leadership>-2</leadership>
 		<ap_artillery>10</ap_artillery>
 		<ap_inventory>-10</ap_inventory>
@@ -2084,9 +2084,9 @@
 	<!-- Angel -->
 	<BACKGROUND>
 		<uiIndex>89</uiIndex>
-		<szName>Shopkeeper/Craftsman</szName>
-		<szShortName>Shopkeeper/Craftsman</szShortName>
-		<szDescription>For many people, their trade IS trade.</szDescription>
+		<szName>Händler/Handwerker</szName>
+		<szShortName>Händler/Handwerk.</szShortName>
+		<szDescription>Für viele Menschen ist ihr Handwerk nun einmal der Handel.</szDescription>
 		<dexterity>5</dexterity>
 		<ap_polar>-2</ap_polar>
 		<ap_desert>-2</ap_desert>
@@ -2107,9 +2107,9 @@
 	<!-- Pacos -->
 	<BACKGROUND>
 		<uiIndex>90</uiIndex>
-		<szName>Child</szName>
-		<szShortName>Child</szShortName>
-		<szDescription>And there goes the Geneva convention...</szDescription>
+		<szName>Kind</szName>
+		<szShortName>Kind</szShortName>
+		<szDescription>Und da verabschiedet sich die Genfer Konvention...</szDescription>
 		<leadership>-10</leadership>
 		<ap_fortify>40</ap_fortify>
 		<ap_artillery>10</ap_artillery>
@@ -2129,9 +2129,9 @@
 	<!-- Tony -->
 	<BACKGROUND>
 		<uiIndex>91</uiIndex>
-		<szName>Arms Dealer</szName>
-		<szShortName>Arms Dealer</szShortName>
-		<szDescription>You know the risk selling weapons to both sides, but the profit margin &#10; is just that good.</szDescription>
+		<szName>Waffenhändler</szName>
+		<szShortName>Waffenhändler</szShortName>
+		<szDescription>Du kennst das Risiko, Waffen an beide Seiten zu verkaufen.&#10;Aber die Gewinnspanne ist einfach zu gut.</szDescription>
 		<wisdom>1</wisdom>
 		<dexterity>3</dexterity>
 		<mechanical>3</mechanical>
@@ -2149,7 +2149,7 @@
 		<uiIndex>92</uiIndex>
 		<szName>Barkeeper</szName>
 		<szShortName>Barkeeper</szShortName>
-		<szDescription>A friendly face can make violence unnecessary...</szDescription>
+		<szDescription>Ein freundliches Gesicht kann Gewalt manchmal überflüssig machen...</szDescription>
 		<resistance_alcohol>10</resistance_alcohol>
 		<betterprices>4</betterprices>
 		<approach_friendly>15</approach_friendly>
@@ -2162,9 +2162,9 @@
 	<!-- Spike -->
 	<BACKGROUND>
 		<uiIndex>93</uiIndex>
-		<szName>Bouncer</szName>
-		<szShortName>Bouncer</szShortName>
-		<szDescription>Doormen make good soldiers in close combat, though the killing part is a &#10;change, hopefully.</szDescription>
+		<szName>Türsteher</szName>
+		<szShortName>Türsteher</szShortName>
+		<szDescription>Türsteher geben gute Nahkämpfer ab; nur das Töten ist hoffentlich neu für sie.</szDescription>
 		<meleedamage>4</meleedamage>
 		<agility>2</agility>
 		<strength>5</strength>
@@ -2181,9 +2181,9 @@
 	<!-- Damon -->
 	<BACKGROUND>
 		<uiIndex>94</uiIndex>
-		<szName>Bodyguard</szName>
-		<szShortName>Bodyguard</szShortName>
-		<szDescription>Superbly trained, utterly loyal, and willing to pay the ultimate price. &#10;What more could a potential employer want?</szDescription>
+		<szName>Leibwächter</szName>
+		<szShortName>Leibwächter</szShortName>
+		<szDescription>Hervorragend ausgebildet, absolut loyal und bereit, den höchsten Preis zu zahlen.&#10;Was könnte sich ein Auftraggeber mehr wünschen?</szDescription>
 		<strength>1</strength>
 		<resistance_physical>20</resistance_physical>
 		<resistance_fear>20</resistance_fear>
@@ -2200,9 +2200,9 @@
 	<!-- Kyle -->
 	<BACKGROUND>
 		<uiIndex>95</uiIndex>
-		<szName>Shopkeeper/Craftsman</szName>
-		<szShortName>Shopkeeper/Craftsman</szShortName>
-		<szDescription>For many people, their trade IS trade.</szDescription>
+		<szName>Händler/Handwerker</szName>
+		<szShortName>Händler/Handwerk.</szShortName>
+		<szDescription>Für viele Menschen ist ihr Handwerk nun einmal der Handel.</szDescription>
 		<dexterity>5</dexterity>
 		<ap_polar>-2</ap_polar>
 		<ap_desert>-2</ap_desert>
@@ -2224,9 +2224,9 @@
 	<!-- Micky -->
 	<BACKGROUND>
 		<uiIndex>96</uiIndex>
-		<szName>Poacher/Smuggler</szName>
-		<szShortName>Poacher/Smuggler</szShortName>
-		<szDescription>Travel to virgin soil, seek rare species, kill them, and SELL THEIR BODYPARTS.</szDescription>
+		<szName>Wilderer/Schmuggler</szName>
+		<szShortName>Wilderer/Schmuggler</szShortName>
+		<szDescription>Reise in unberührte Gebiete, suche seltene Arten, erlege sie - und VERKAUFE IHRE KÖRPERTEILE.</szDescription>
 		<marksmanship>2</marksmanship>
 		<ap_polar>1</ap_polar>
 		<ap_desert>1</ap_desert>
@@ -2251,7 +2251,7 @@
 		<uiIndex>97</uiIndex>
 		<szName>Pilot</szName>
 		<szShortName>Pilot</szShortName>
-		<szDescription>Flying helicopters is second nature to him, as is getting the heck out of trouble!</szDescription>
+		<szDescription>Hubschrauber fliegen ist für ihn so selbstverständlich wie rechtzeitig aus Schwierigkeiten zu verschwinden!</szDescription>
 		<mechanical>3</mechanical>
 		<ap_airdrop>-1</ap_airdrop>
 		<travel_air>20</travel_air>
@@ -2268,9 +2268,9 @@
 	<!-- Pablo -->
 	<BACKGROUND>
 		<uiIndex>98</uiIndex>
-		<szName>Airport Cargo Manager/Thief</szName>
-		<szShortName>Cargo Manager/Thief</szShortName>
-		<szDescription>Pablo 'takes care of' the cargo coming in and going out of the Drassen airport.</szDescription>
+		<szName>Flughafen-Frachtleiter/Dieb</szName>
+		<szShortName>Frachtleiter/Dieb</szShortName>
+		<szDescription>Pablo 'kümmert sich' um die Fracht, die am Flughafen von Drassen ein- und ausgeht.</szDescription>
 		<agility>5</agility>
 		<dexterity>5</dexterity>
 		<ap_urban>5</ap_urban>
@@ -2290,9 +2290,9 @@
 	<!-- Sal -->
 	<BACKGROUND>
 		<uiIndex>99</uiIndex>
-		<szName>Airport Cargo Manager</szName>
-		<szShortName>Cargo Manager</szShortName>
-		<szDescription>Sal tries to handle the cargo manager job.</szDescription>
+		<szName>Flughafen-Frachtleiter</szName>
+		<szShortName>Frachtleiter</szShortName>
+		<szDescription>Sal versucht sich am Job des Frachtleiters.</szDescription>
 		<strength>3</strength>
 		<ap_artillery>10</ap_artillery>
 		<ap_assault>-5</ap_assault>
@@ -2305,9 +2305,9 @@
 	<!-- Natsuko -->
 	<BACKGROUND>
 		<uiIndex>100</uiIndex>
-		<szName>Investigative Journalist</szName>
+		<szName>Investigativjournalist</szName>
 		<szShortName>Journalist</szShortName>
-		<szDescription>Gets the story . . . or makes one up . . . whatever it takes.</szDescription>
+		<szDescription>Er bekommt die Story ...oder erfindet eine ...was immer nötig ist.</szDescription>
 		<agility>3</agility>
 		<dexterity>3</dexterity>
 		<wisdom>3</wisdom>
@@ -2332,10 +2332,10 @@
 	</BACKGROUND>
 	<!-- Bubba -->
 	<BACKGROUND>
-		<uiIndex>50</uiIndex>
-		<szName>Prison Guard</szName>
-		<szShortName>Prison Guard</szShortName>
-		<szDescription>Look at this guy. Now look at you. Still feel like escaping?</szDescription>
+		<uiIndex>101</uiIndex>
+		<szName>Gefängniswärter</szName>
+		<szShortName>Gefängniswärter</szShortName>
+		<szDescription>Sieh dir diesen Kerl an. Und jetzt dich. Immer noch Lust auf einen Fluchtversuch?</szDescription>
 		<strength>3</strength>
 		<ap_assault>5</ap_assault>
 		<meleedamage>5</meleedamage>
@@ -2358,9 +2358,9 @@
 	<!-- Warden -->
 	<BACKGROUND>
 		<uiIndex>102</uiIndex>
-		<szName>Warden</szName>
-		<szShortName>Warden</szShortName>
-		<szDescription>Former law enforcement personnel often seek work in the mercenary world, and &#10;are the logical choice for handling captives.</szDescription>
+		<szName>Gefängnisdirektor</szName>
+		<szShortName>Gefängnisdirektor</szShortName>
+		<szDescription>Ehemalige Gesetzeshüter finden oft Arbeit im Söldnergeschäft und sind&#10;die naheliegende Wahl, wenn Gefangene bewacht werden müssen.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<resistance_fear>10</resistance_fear>
@@ -2375,9 +2375,9 @@
 	<!-- Bullet -->
 	<BACKGROUND>
 		<uiIndex>103</uiIndex>
-		<szName>Hitman</szName>
-		<szShortName>Hitman</szShortName>
-		<szDescription>Professional assassins are obviously used to killing, though might come in &#10;conflict with more idealistic team members.</szDescription>
+		<szName>Profikiller</szName>
+		<szShortName>Profikiller</szShortName>
+		<szDescription>Profikiller sind das Töten gewohnt, können damit aber leicht&#10;mit idealistischeren Teammitgliedern aneinandergeraten.</szDescription>
 		<marksmanship>3</marksmanship>
 		<mechanical>5</mechanical>
 		<stealth>10</stealth>
@@ -2401,9 +2401,9 @@
 	<!-- Gabby -->
 	<BACKGROUND>
 		<uiIndex>104</uiIndex>
-		<szName>Bug Master</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Insektenexperte</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<resistance_poison>20</resistance_poison>
 		<resistance_fear>20</resistance_fear>
 		<carrystrength>2</carrystrength>
@@ -2418,18 +2418,18 @@
 	<!-- Ernest -->
 	<BACKGROUND>
 		<uiIndex>105</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Fred -->
 	<BACKGROUND>
 		<uiIndex>106</uiIndex>
-		<szName>Head Miner/Demolitions Expert</szName>
-		<szShortName>Miner/Demolitions</szShortName>
-		<szDescription>Working in a mine is hard, punishing work. No wonder some look to explosives &#10;for emotional release.</szDescription>
+		<szName>Grubenleiter/Sprengmeister</szName>
+		<szShortName>Grube/Sprengmeister</szShortName>
+		<szDescription>Die Arbeit im Bergwerk ist hart und zermürbend. Kein Wunder, dass manche&#10;in Sprengstoff ein Ventil für ihren Frust finden.</szDescription>
 		<ap_fortify>-30</ap_fortify>
 		<resistance_physical>5</resistance_physical>
 		<dexterity>3</dexterity>
@@ -2458,7 +2458,7 @@
 		<uiIndex>107</uiIndex>
 		<szName>Madame</szName>
 		<szShortName>Madame</szShortName>
-		<szDescription>Pleasing customers in a most unsavory way while keeping her charges &#10;captive.</szDescription>
+		<szDescription>Sie stellt Kunden auf äußerst anrüchige Weise zufrieden und hält dabei&#10;ihre Mädchen unter Kontrolle.</szDescription>
 		<leadership>5</leadership>
 		<ap_fortify>30</ap_fortify>
 		<ap_artillery>10</ap_artillery>
@@ -2476,9 +2476,9 @@
 	<!-- Yanni -->
 	<BACKGROUND>
 		<uiIndex>108</uiIndex>
-		<szName>Arulcan Elder</szName>
-		<szShortName>Arulcan Elder</szShortName>
-		<szDescription>Respected for his wisdom and knowledge of Arulcan history.</szDescription>
+		<szName>Arulcanischer Ältester</szName>
+		<szShortName>Arulc. Ältester</szShortName>
+		<szDescription>Wegen seiner Weisheit und seines Wissens über die Geschichte Arulcos geachtet.</szDescription>
 		<ap_polar>-5</ap_polar>
 		<ap_river>3</ap_river>
 		<ap_coastal>3</ap_coastal>
@@ -2494,9 +2494,9 @@
 	<!-- Manuel -->
 	<BACKGROUND>
 		<uiIndex>109</uiIndex>
-		<szName>Disabled Ex-Rebel</szName>
-		<szShortName>Disabled Ex-Rebel</szShortName>
-		<szDescription>Wheelchair-bound, this former rebel has seen better days.</szDescription>
+		<szName>Behinderter Ex-Rebell</szName>
+		<szShortName>Beh. Ex-Rebell</szShortName>
+		<szDescription>An den Rollstuhl gefesselt, hat dieser ehemalige Rebell schon bessere Tage erlebt.</szDescription>
 		<ap_polar>-8</ap_polar>
 		<ap_desert>-8</ap_desert>
 		<ap_swamp>-8</ap_swamp>
@@ -2520,9 +2520,9 @@
 	<!-- Tiffany -->
 	<BACKGROUND>
 		<uiIndex>110</uiIndex>
-		<szName>Mob Hitman</szName>
+		<szName>Mafia-Killer</szName>
 		<szShortName>Mafioso</szShortName>
-		<szDescription>Mess with him, you mess with the entire family...</szDescription>
+		<szDescription>Leg dich mit ihm an, und du legst dich mit der ganzen Familie an...</szDescription>
 		<agility>2</agility>
 		<dexterity>2</dexterity>
 		<marksmanship>3</marksmanship>
@@ -2545,9 +2545,9 @@
 	<!-- T_Rex -->
 	<BACKGROUND>
 		<uiIndex>111</uiIndex>
-		<szName>Insurgent American Terrorist</szName>
-		<szShortName>Insurgent Terrorist</szShortName>
-		<szDescription>Paranoid, ignorant, fascist - yep, that's you.</szDescription>
+		<szName>Amerikanischer Terrorist</szName>
+		<szShortName>US-Terrorist</szShortName>
+		<szDescription>Paranoid, ignorant, faschistisch - ja, genau du bist gemeint.</szDescription>
 		<leadership>6</leadership>
 		<ap_assault>3</ap_assault>
 		<betterprices_guns>3</betterprices_guns>
@@ -2565,9 +2565,9 @@
 	<!-- Mendax -->
 	<BACKGROUND>
 		<uiIndex>112</uiIndex>
-		<szName>Insurgent Arulcan Terrorist</szName>
-		<szShortName>Insurgent Arulcan Terrorist</szShortName>
-		<szDescription>Paranoid, ignorant, communist - yep, that's you.</szDescription>
+		<szName>Arulcanischer Terrorist</szName>
+		<szShortName>Arulc. Terrorist</szShortName>
+		<szDescription>Paranoid, ignorant, kommunistisch - ja, genau du bist gemeint.</szDescription>
 		<leadership>6</leadership>
 		<ap_assault>3</ap_assault>
 		<betterprices_guns>3</betterprices_guns>
@@ -2584,9 +2584,9 @@
 	<!-- Jake -->
 	<BACKGROUND>
 		<uiIndex>113</uiIndex>
-		<szName>Junk Dealer/Black Marketeer</szName>
-		<szShortName>Junk Dealer</szShortName>
-		<szDescription>Jake deals in junk . . . and other stuff.</szDescription>
+		<szName>Schrotthändler/Schwarzhändler</szName>
+		<szShortName>Schrotthändler</szShortName>
+		<szDescription>Jake handelt mit Schrott ...und anderem Zeug.</szDescription>
 		<mechanical>5</mechanical>
 		<dexterity>5</dexterity>
 		<explosives>5</explosives>
@@ -2602,9 +2602,9 @@
 	<!-- Agatha -->
 	<BACKGROUND>
 		<uiIndex>114</uiIndex>
-		<szName>Arulcan Rebel</szName>
-		<szShortName>Rebel</szShortName>
-		<szDescription>This is your country, your land, your people, and you have pledged your life to free them.</szDescription>
+		<szName>Arulcanischer Rebell</szName>
+		<szShortName>Rebell</szShortName>
+		<szDescription>Das ist dein Land, deine Heimat, dein Volk - und du hast dein Leben ihrer Befreiung verschrieben.</szDescription>
 		<ap_polar>-5</ap_polar>
 		<ap_desert>2</ap_desert>
 		<ap_swamp>2</ap_swamp>
@@ -2633,9 +2633,9 @@
 	<!-- Dave -->
 	<BACKGROUND>
 		<uiIndex>115</uiIndex>
-		<szName>Car Mechanic</szName>
-		<szShortName>Car Mechanic</szShortName>
-		<szDescription>Dave used to run a service station . . . when there was fuel for vehicles.</szDescription>
+		<szName>Automechaniker</szName>
+		<szShortName>Automechaniker</szShortName>
+		<szDescription>Dave betrieb einmal eine Tankstelle ...damals, als es noch Treibstoff für Fahrzeuge gab.</szDescription>
 		<dexterity>3</dexterity>
 		<mechanical>6</mechanical>
 		<ap_urban>3</ap_urban>
@@ -2650,9 +2650,9 @@
 	<!-- Skipper -->
 	<BACKGROUND>
 		<uiIndex>116</uiIndex>
-		<szName>Homeless Man</szName>
-		<szShortName>Homeless Man</szShortName>
-		<szDescription>The Queen had Skipper's family murdered, and his home burned to the ground.</szDescription>
+		<szName>Obdachloser</szName>
+		<szShortName>Obdachloser</szShortName>
+		<szDescription>Die Königin ließ Skippers Familie ermorden und sein Haus bis auf die Grundmauern niederbrennen.</szDescription>
 		<stealth>5</stealth>
 		<ap_artillery>10</ap_artillery>
 		<ap_assault>-5</ap_assault>
@@ -2664,9 +2664,9 @@
 	<!-- Hans -->
 	<BACKGROUND>
 		<uiIndex>117</uiIndex>
-		<szName>Frontman</szName>
-		<szShortName>Frontman</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Strohmann</szName>
+		<szShortName>Strohmann</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<meleedamage>4</meleedamage>
 		<dexterity>2</dexterity>
 		<resistance_physical>5</resistance_physical>
@@ -2681,9 +2681,9 @@
 	<!-- John -->
 	<BACKGROUND>
 		<uiIndex>118</uiIndex>
-		<szName>Tourist Merc/Weekend Warrior</szName>
-		<szShortName>Tourist/Nat.Guard</szShortName>
-		<szDescription>Subscribing to Soldier of Fortune magazine is as close to being a mercenary as you ever came . . . until now.</szDescription>
+		<szName>Tourist/Söldner/Wochenendkrieger</szName>
+		<szShortName>Tourist/Reservist</szShortName>
+		<szDescription>Ein Abo des Soldier of Fortune war bisher das Nächste, was du dem Söldnerleben kamst ...bis jetzt.</szDescription>
 		<ap_assault>1</ap_assault>
 		<travel_foot>3</travel_foot>
 		<resistance_fear>3</resistance_fear>
@@ -2706,9 +2706,9 @@
 	<!-- Mary -->
 	<BACKGROUND>
 		<uiIndex>119</uiIndex>
-		<szName>Tourist/Nurse</szName>
-		<szShortName>Tourist/Nurse</szShortName>
-		<szDescription>Could you take a picture, please?</szDescription>
+		<szName>Touristin/Krankenschwester</szName>
+		<szShortName>Tourist/Sanitäterin</szShortName>
+		<szDescription>Könnten Sie bitte ein Foto machen?</szDescription>
 		<dexterity>3</dexterity>
 		<medical>7</medical>
 		<ap_assault>-5</ap_assault>
@@ -2733,7 +2733,7 @@
 		<uiIndex>120</uiIndex>
 		<szName>General</szName>
 		<szShortName>General</szShortName>
-		<szDescription>This mercenary General is definitely not in your squad!</szDescription>
+		<szDescription>Dieser Söldner-General gehört ganz sicher nicht zu deinem Trupp!</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>10</leadership>
 		<ap_assault>5</ap_assault>
@@ -2759,7 +2759,7 @@
 		<uiIndex>121</uiIndex>
 		<szName>Sergeant Krott</szName>
 		<szShortName>Sergeant</szShortName>
-		<szDescription>Drafted into the Arulcan Army, this sergeant would rather be home with his family.</szDescription>
+		<szDescription>In die arulcanische Armee eingezogen, wäre dieser Sergeant viel lieber bei seiner Familie zu Hause.</szDescription>
 		<leadership>3</leadership>
 		<ap_assault>3</ap_assault>
 		<ap_fortify>-13</ap_fortify>
@@ -2780,9 +2780,9 @@
 	<!-- Armand -->
 	<BACKGROUND>
 		<uiIndex>122</uiIndex>
-		<szName>Corporatist</szName>
-		<szShortName>Corporatist</szShortName>
-		<szDescription>Rich classist bankrolling the Queen for social status.</szDescription>
+		<szName>Konzernmanager</szName>
+		<szShortName>Konzernmanager</szShortName>
+		<szDescription>Ein reicher Klassendünnkel, der die Königin finanziert, um gesellschaftlich aufzusteigen.</szDescription>
 		<ap_fortify>30</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_assault>-6</ap_assault>
@@ -2800,9 +2800,9 @@
 	<!-- Suarez -->
 	<BACKGROUND>
 		<uiIndex>123</uiIndex>
-		<szName>Hydro Technician</szName>
-		<szShortName>Technician</szShortName>
-		<szDescription>You have a good knowledge of hydraulic engineering and main hydraulic processes.</szDescription>
+		<szName>Hydrauliktechniker</szName>
+		<szShortName>Techniker</szShortName>
+		<szDescription>Du kennst dich gut mit Hydrauliktechnik und den wichtigsten hydraulischen Verfahren aus.</szDescription>
 		<dexterity>8</dexterity>
 		<mechanical>8</mechanical>
 		<ap_urban>3</ap_urban>
@@ -2815,9 +2815,9 @@
 	<!-- Franz -->
 	<BACKGROUND>
 		<uiIndex>124</uiIndex>
-		<szName>Shopkeeper</szName>
-		<szShortName>Shopkeeper</szShortName>
-		<szDescription>For many people, their trade IS trade.</szDescription>
+		<szName>Händler</szName>
+		<szShortName>Händler</szShortName>
+		<szDescription>Für viele Menschen ist ihr Handwerk nun einmal der Handel.</szDescription>
 		<ap_polar>-2</ap_polar>
 		<ap_desert>-2</ap_desert>
 		<ap_swamp>-2</ap_swamp>
@@ -2838,9 +2838,9 @@
 	<!-- Howard -->
 	<BACKGROUND>
 		<uiIndex>125</uiIndex>
-		<szName>Apothecary</szName>
-		<szShortName>Apothecary</szShortName>
-		<szDescription>For many people, their trade IS trade.</szDescription>
+		<szName>Apotheker</szName>
+		<szShortName>Apotheker</szShortName>
+		<szDescription>Für viele Menschen ist ihr Handwerk nun einmal der Handel.</szDescription>
 		<medical>10</medical>
 		<dexterity>2</dexterity>
 		<ap_polar>-2</ap_polar>
@@ -2861,9 +2861,9 @@
 	<!-- Sam -->
 	<BACKGROUND>
 		<uiIndex>126</uiIndex>
-		<szName>Shopkeeper/Craftsman</szName>
-		<szShortName>Shopkeeper/Craftsman</szShortName>
-		<szDescription>For many people, their trade IS trade.</szDescription>
+		<szName>Händler/Handwerker</szName>
+		<szShortName>Händler/Handwerk.</szShortName>
+		<szDescription>Für viele Menschen ist ihr Handwerk nun einmal der Handel.</szDescription>
 		<dexterity>5</dexterity>
 		<ap_polar>-2</ap_polar>
 		<ap_desert>-2</ap_desert>
@@ -2883,9 +2883,9 @@
 	<!-- Eldin -->
 	<BACKGROUND>
 		<uiIndex>127</uiIndex>
-		<szName>WWII Veteran</szName>
+		<szName>Veteran des 2. Weltkriegs</szName>
 		<szShortName>Veteran</szShortName>
-		<szDescription>In his prime, he'd have put all you youngsters to shame.</szDescription>
+		<szDescription>In seinen besten Jahren hätte er euch Jungspunde alle alt aussehen lassen.</szDescription>
 		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-15</ap_fortify>
@@ -2905,9 +2905,9 @@
 	<!-- Arnie -->
 	<BACKGROUND>
 		<uiIndex>128</uiIndex>
-		<szName>Expert Handyman</szName>
-		<szShortName>Expert Handyman</szShortName>
-		<szDescription>In a warzone without the usual comforts, it is very useful to have people who can maintain your gear.</szDescription>
+		<szName>Erfahrener Handwerker</szName>
+		<szShortName>Erf. Handwerker</szShortName>
+		<szDescription>In einem Kriegsgebiet ohne jeden Komfort sind Leute Gold wert, die deine Ausrüstung in Schuss halten können.</szDescription>
 		<ap_urban>3</ap_urban>
 		<ap_fortify>-13</ap_fortify>
 		<ap_artillery>10</ap_artillery>
@@ -2924,9 +2924,9 @@
 	<!-- Tina -->
 	<BACKGROUND>
 		<uiIndex>129</uiIndex>
-		<szName>Shopkeeper</szName>
-		<szShortName>Shopkeeper</szShortName>
-		<szDescription>For many people, their trade IS trade.</szDescription>
+		<szName>Händler</szName>
+		<szShortName>Händler</szShortName>
+		<szDescription>Für viele Menschen ist ihr Handwerk nun einmal der Handel.</szDescription>
 		<resistance_suppression>-20</resistance_suppression>
 		<ap_polar>-2</ap_polar>
 		<ap_desert>-2</ap_desert>
@@ -2951,9 +2951,9 @@
 	<!-- Fredo -->
 	<BACKGROUND>
 		<uiIndex>130</uiIndex>
-		<szName>Handyman</szName>
-		<szShortName>Handyman</szShortName>
-		<szDescription>Got something that needs fixing? Here's your man.</szDescription>
+		<szName>Handwerker</szName>
+		<szShortName>Handwerker</szShortName>
+		<szDescription>Etwas kaputt? Das ist dein Mann.</szDescription>
 		<mechanical>5</mechanical>
 		<dexterity>5</dexterity>
 		<ap_urban>3</ap_urban>
@@ -2968,9 +2968,9 @@
 	<!-- Calu -->
 	<BACKGROUND>
 		<uiIndex>131</uiIndex>
-		<szName>Assassin\Guard\Mercenary</szName>
-		<szShortName>Assassin\Guard\Merc</szShortName>
-		<szDescription>Professional assassins are obviously used to killing, though might come in conflict with more idealistic team members.</szDescription>
+		<szName>Attentäter\Wächter\Söldner</szName>
+		<szShortName>Killer\Wache\Söldn.</szShortName>
+		<szDescription>Profikiller sind das Töten gewohnt, können damit aber leicht mit idealistischeren Teammitgliedern aneinandergeraten.</szDescription>
 		<marksmanship>3</marksmanship>
 		<leadership>3</leadership>
 		<stealth>10</stealth>
@@ -2997,9 +2997,9 @@
 	<!-- Larissa -->
 	<BACKGROUND>
 		<uiIndex>132</uiIndex>
-		<szName>Nurse</szName>
-		<szShortName>Nurse</szShortName>
-		<szDescription>While not full-blown doctors, nurses are still in high demand in warzones, due to the grim business.</szDescription>
+		<szName>Krankenschwester</szName>
+		<szShortName>Krankenschwester</szShortName>
+		<szDescription>Auch wenn sie keine Ärzte sind, werden Krankenschwestern und Pfleger in Kriegsgebieten dringend gebraucht.</szDescription>
 		<dexterity>3</dexterity>
 		<medical>7</medical>
 		<ap_fortify>10</ap_fortify>
@@ -3016,9 +3016,9 @@
 	<!-- Billy -->
 	<BACKGROUND>
 		<uiIndex>133</uiIndex>
-		<szName>Bouncer</szName>
-		<szShortName>Bouncer</szShortName>
-		<szDescription>Doormen make good soldiers in close combat, though the killing part is a change (hopefully).</szDescription>
+		<szName>Türsteher</szName>
+		<szShortName>Türsteher</szShortName>
+		<szDescription>Türsteher geben gute Nahkämpfer ab; nur das Töten ist hoffentlich neu für sie.</szDescription>
 		<meleedamage>4</meleedamage>
 		<agility>1</agility>
 		<strength>7</strength>
@@ -3035,9 +3035,9 @@
 	<!-- Tyra -->
 	<BACKGROUND>
 		<uiIndex>134</uiIndex>
-		<szName>Governor</szName>
-		<szShortName>Governor</szShortName>
-		<szDescription>Political expertise is your specialty.</szDescription>
+		<szName>Gouverneur</szName>
+		<szShortName>Gouverneur</szShortName>
+		<szDescription>Politisches Geschick ist deine Spezialität.</szDescription>
 		<ap_height>8</ap_height>
 		<ap_fortify>40</ap_fortify>
 		<ap_artillery>40</ap_artillery>
@@ -3067,9 +3067,9 @@
 	<!-- Elliot -->
 	<BACKGROUND>
 		<uiIndex>135</uiIndex>
-		<szName>Butt Monkey</szName>
-		<szShortName>Butt Monkey</szShortName>
-		<szDescription>One would expect a constant abuse and ridicule you withstand to finally lead you to reconsidering your life choices. Nope.</szDescription>
+		<szName>Prügelknabe</szName>
+		<szShortName>Prügelknabe</szShortName>
+		<szDescription>Man sollte meinen, ständige Schikanen und Spott brächten dich irgendwann dazu, deine Lebensentscheidungen zu überdenken. Fehlanzeige.</szDescription>
 		<leadership>-5</leadership>
 		<ap_fortify>20</ap_fortify>
 		<ap_artillery>10</ap_artillery>
@@ -3085,27 +3085,27 @@
 	<!-- Endgame Crowd -->
 	<BACKGROUND>
 		<uiIndex>136</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Endgame Crowd -->
 	<BACKGROUND>
 		<uiIndex>137</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Waldo -->
 	<BACKGROUND>
 		<uiIndex>138</uiIndex>
-		<szName>Helicopter Mechanic</szName>
-		<szShortName>Heli Mechanic</szShortName>
-		<szDescription>The best (and likely only) heli mechanic in Arulco.</szDescription>
+		<szName>Hubschraubermechaniker</szName>
+		<szShortName>Heli-Mechaniker</szShortName>
+		<szDescription>Der beste - und vermutlich einzige - Hubschraubermechaniker in Arulco.</szDescription>
 		<dexterity>3</dexterity>
 		<mechanical>8</mechanical>
 		<ap_fortify>-12</ap_fortify>
@@ -3121,9 +3121,9 @@
 	<!-- Cockeye -->
 	<BACKGROUND>
 		<uiIndex>139</uiIndex>
-		<szName>Bully</szName>
-		<szShortName>Bully</szShortName>
-		<szDescription>Oppressor of the weak and infirm, all bravado and no bravery.</szDescription>
+		<szName>Schläger</szName>
+		<szShortName>Schläger</szShortName>
+		<szDescription>Er schikaniert Schwache und Wehrlose: große Klappe, aber kein bisschen Mut.</szDescription>
 		<strength>3</strength>
 		<ap_urban>3</ap_urban>
 		<ap_assault>5</ap_assault>
@@ -3139,9 +3139,9 @@
 	<!-- Iggy -->
 	<BACKGROUND>
 		<uiIndex>140</uiIndex>
-		<szName>Red Army/Veteran Mercenary</szName>
-		<szShortName>Red Army/Vet Merc</szShortName>
-		<szDescription>A veteran of international conflict, Iggy found himself on the wrong side of the conflict until he joined the rebellion.</szDescription>
+		<szName>Rote Armee/Söldnerveteran</szName>
+		<szShortName>Rote Armee/Vet.</szShortName>
+		<szDescription>Als Veteran internationaler Konflikte kämpfte Iggy zunächst auf der falschen Seite - bis er sich der Rebellion anschloss.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>7</leadership>
 		<ap_polar>2</ap_polar>
@@ -3163,9 +3163,9 @@
 	<!-- Deputy Commander -->
 	<BACKGROUND>
 		<uiIndex>141</uiIndex>
-		<szName>Deputy Commander</szName>
-		<szShortName>Deputy Commander</szShortName>
-		<szDescription>You are a warlord, a mastermind, an evil genius, a nemesis who always finds a way to escape death.</szDescription>
+		<szName>Stellv. Kommandeur</szName>
+		<szShortName>Stellv. Kommandeur</szShortName>
+		<szDescription>Du bist Kriegsherr, Strippenzieher und böses Genie - ein Erzfeind, der dem Tod immer wieder entkommt.</szDescription>
 		<resistance_poison>20</resistance_poison>
 		<resistance_fear>20</resistance_fear>
 		<resistance_suppression>20</resistance_suppression>
@@ -3187,9 +3187,9 @@
 	<!-- Olaf  -->
 	<BACKGROUND>
 		<uiIndex>142</uiIndex>
-		<szName>Hitman</szName>
-		<szShortName>Hitman</szShortName>
-		<szDescription>Professional assassins are obviously used to killing, though might come in conflict with more idealistic team members.</szDescription>
+		<szName>Profikiller</szName>
+		<szShortName>Profikiller</szShortName>
+		<szDescription>Profikiller sind das Töten gewohnt, können damit aber leicht mit idealistischeren Teammitgliedern aneinandergeraten.</szDescription>
 		<marksmanship>3</marksmanship>
 		<stealth>10</stealth>
 		<ap_urban>3</ap_urban>
@@ -3212,9 +3212,9 @@
 	<!-- Ayala -->
 	<BACKGROUND>
 		<uiIndex>143</uiIndex>
-		<szName>Paratrooper</szName>
-		<szShortName>Paratrooper</szShortName>
-		<szDescription>It takes guts to jump out of a plane to face numerically superior foes.</szDescription>
+		<szName>Fallschirmjäger</szName>
+		<szShortName>Fallschirmjäger</szShortName>
+		<szDescription>Es braucht Mut, aus einem Flugzeug zu springen und sich einem zahlenmäßig überlegenen Feind zu stellen.</szDescription>
 		<agility>4</agility>
 		<medical>2</medical>
 		<leadership>2</leadership>
@@ -3242,9 +3242,9 @@
 	<!-- Olga -->
 	<BACKGROUND>
 		<uiIndex>144</uiIndex>
-		<szName>Hitman</szName>
-		<szShortName>Hitman</szShortName>
-		<szDescription>Professional assassins are obviously used to killing, though might come in conflict with more idealistic team members.</szDescription>
+		<szName>Profikiller</szName>
+		<szShortName>Profikiller</szShortName>
+		<szDescription>Profikiller sind das Töten gewohnt, können damit aber leicht mit idealistischeren Teammitgliedern aneinandergeraten.</szDescription>
 		<marksmanship>3</marksmanship>
 		<stealth>10</stealth>
 		<ap_urban>3</ap_urban>
@@ -3267,9 +3267,9 @@
 	<!-- Tyrone -->
 	<BACKGROUND>
 		<uiIndex>145</uiIndex>
-		<szName>Hitman</szName>
-		<szShortName>Hitman</szShortName>
-		<szDescription>Professional assassins are obviously used to killing, though might come in conflict with more idealistic team members.</szDescription>
+		<szName>Profikiller</szName>
+		<szShortName>Profikiller</szShortName>
+		<szDescription>Profikiller sind das Töten gewohnt, können damit aber leicht mit idealistischeren Teammitgliedern aneinandergeraten.</szDescription>
 		<marksmanship>3</marksmanship>
 		<stealth>10</stealth>
 		<ap_urban>3</ap_urban>
@@ -3292,9 +3292,9 @@
 	<!-- Madlab -->
 	<BACKGROUND>
 		<uiIndex>146</uiIndex>
-		<szName>Scientist</szName>
-		<szShortName>Scientist</szShortName>
-		<szDescription>Pursuing your insatiable appetite for knowledge led you into commiting atrocities for The Queen, which you now seek to rectify.</szDescription>
+		<szName>Wissenschaftler</szName>
+		<szShortName>Wissenschaftler</szShortName>
+		<szDescription>Dein unstillbarer Wissensdurst brachte dich dazu, für die Königin Gräueltaten zu begehen. Nun willst du das wiedergutmachen.</szDescription>
 		<wisdom>10</wisdom>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
@@ -3331,9 +3331,9 @@
 	<!-- Matt -->
 	<BACKGROUND>
 		<uiIndex>148</uiIndex>
-		<szName>Head Miner/Martial Arts Student</szName>
-		<szShortName>Miner/Martial Arts</szShortName>
-		<szDescription>Working in a mine is hard, punishing work. You have learned to use martial arts to relieve the stress.</szDescription>
+		<szName>Grubenleiter/Kampfsportschüler</szName>
+		<szShortName>Grube/Kampfkunst</szShortName>
+		<szDescription>Die Arbeit im Bergwerk ist hart und zermürbend. Du hast gelernt, den Stress mit Kampfkunst abzubauen.</szDescription>
 		<ap_fortify>-30</ap_fortify>
 		<resistance_physical>10</resistance_physical>
 		<agility>5</agility>
@@ -3363,9 +3363,9 @@
 	<!-- Mike -->
 	<BACKGROUND>
 		<uiIndex>149</uiIndex>
-		<szName>Veteran Mercenary</szName>
-		<szShortName>Veteran Merc</szShortName>
-		<szDescription>While others may keep to their pasts and its labels, you've chosen the life of a gun for hire - and embraced it. This is who you really are.</szDescription>
+		<szName>Söldnerveteran</szName>
+		<szShortName>Söldnerveteran</szShortName>
+		<szDescription>Andere klammern sich an ihre Vergangenheit. Du hast das Leben als Söldner gewählt und angenommen. Das ist, wer du wirklich bist.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
@@ -3388,9 +3388,9 @@
 	<!-- Chainlie -->
 	<BACKGROUND>
 		<uiIndex>150</uiIndex>
-		<szName>Corporatist</szName>
-		<szShortName>Corporatist</szShortName>
-		<szDescription>Rich classist and greedily evil CEO who will stop at nothing in pursuit of profit.</szDescription>
+		<szName>Konzernmanager</szName>
+		<szShortName>Konzernmanager</szShortName>
+		<szDescription>Ein reicher, klassistischer und skrupellos gieriger Konzernchef, der für Profit vor nichts zurückschreckt.</szDescription>
 		<ap_fortify>30</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_assault>-6</ap_assault>
@@ -3410,7 +3410,7 @@
 		<uiIndex>151</uiIndex>
 		<szName>Barkeeper</szName>
 		<szShortName>Barkeeper</szShortName>
-		<szDescription>A friendly face can make violence unnecessary...</szDescription>
+		<szDescription>Ein freundliches Gesicht kann Gewalt manchmal überflüssig machen...</szDescription>
 		<betterprices>4</betterprices>
 		<approach_friendly>15</approach_friendly>
 		<approach_recruit>5</approach_recruit>
@@ -3422,7 +3422,7 @@
 		<uiIndex>152</uiIndex>
 		<szName>Barkeeper</szName>
 		<szShortName>Barkeeper</szShortName>
-		<szDescription>A friendly face can make violence unnecessary...</szDescription>
+		<szDescription>Ein freundliches Gesicht kann Gewalt manchmal überflüssig machen...</szDescription>
 		<betterprices>4</betterprices>
 		<approach_friendly>15</approach_friendly>
 		<approach_recruit>5</approach_recruit>
@@ -3434,7 +3434,7 @@
 		<uiIndex>153</uiIndex>
 		<szName>Barkeeper</szName>
 		<szShortName>Barkeeper</szShortName>
-		<szDescription>A friendly face can make violence unnecessary...</szDescription>
+		<szDescription>Ein freundliches Gesicht kann Gewalt manchmal überflüssig machen...</szDescription>
 		<betterprices>4</betterprices>
 		<approach_friendly>15</approach_friendly>
 		<approach_recruit>5</approach_recruit>
@@ -3446,7 +3446,7 @@
 		<uiIndex>154</uiIndex>
 		<szName>Barkeeper</szName>
 		<szShortName>Barkeeper</szShortName>
-		<szDescription>A friendly face can make violence unnecessary...</szDescription>
+		<szDescription>Ein freundliches Gesicht kann Gewalt manchmal überflüssig machen...</szDescription>
 		<betterprices>4</betterprices>
 		<approach_friendly>15</approach_friendly>
 		<approach_recruit>5</approach_recruit>
@@ -3456,9 +3456,9 @@
 	<!-- Manny -->
 	<BACKGROUND>
 		<uiIndex>155</uiIndex>
-		<szName>Mentally Challenged</szName>
-		<szShortName>Mentally Challenged</szShortName>
-		<szDescription>Poor Manny...</szDescription>
+		<szName>Geistig eingeschränkt</szName>
+		<szShortName>Geistig eingeschr.</szShortName>
+		<szDescription>Armer Manny...</szDescription>
 		<leadership>-9</leadership>
 		<ap_fortify>20</ap_fortify>
 		<ap_artillery>10</ap_artillery>
@@ -3473,9 +3473,9 @@
 	<!-- Oswald -->
 	<BACKGROUND>
 		<uiIndex>156</uiIndex>
-		<szName>Drilling Foreman</szName>
-		<szShortName>Foreman</szShortName>
-		<szDescription>Working on an oil rig is hard, punishing work. No wonder some start &#10;to look for easier cash.</szDescription>
+		<szName>Bohrmeister</szName>
+		<szShortName>Vorarbeiter</szShortName>
+		<szDescription>Die Arbeit auf einer Ölplattform ist hart und zermürbend. Kein Wunder,&#10;dass manche nach leichter verdientem Geld suchen.</szDescription>
 		<ap_fortify>-20</ap_fortify>
 		<strength>5</strength>
 		<wisdom>3</wisdom>
@@ -3492,9 +3492,9 @@
 	<!-- Calvin -->
 	<BACKGROUND>
 		<uiIndex>157</uiIndex>
-		<szName>Head Miner/Conscript/Blowhard</szName>
-		<szShortName>Miner/Conscript</szShortName>
-		<szDescription>Working in a mine is hard, punishing work. So you snitched and bluffed your way into the office.</szDescription>
+		<szName>Grubenleiter/Rekrut/Großmaul</szName>
+		<szShortName>Grube/Rekrut</szShortName>
+		<szDescription>Die Arbeit im Bergwerk ist hart. Also hast du dich mit Petzen und Bluffen bis ins Büro hochgearbeitet.</szDescription>
 		<resistance_fear>5</resistance_fear>
 		<resistance_suppression>5</resistance_suppression>
 		<resistance_physical>5</resistance_physical>
@@ -3519,9 +3519,9 @@
 	<!-- Carl -->
 	<BACKGROUND>
 		<uiIndex>158</uiIndex>
-		<szName>Drilling Foreman</szName>
-		<szShortName>Foreman</szShortName>
-		<szDescription>Working on an oil rig is hard, punishing work. No wonder some start &#10;to look for easier cash.</szDescription>
+		<szName>Bohrmeister</szName>
+		<szShortName>Vorarbeiter</szShortName>
+		<szDescription>Die Arbeit auf einer Ölplattform ist hart und zermürbend. Kein Wunder,&#10;dass manche nach leichter verdientem Geld suchen.</szDescription>
 		<resistance_physical>5</resistance_physical>
 		<strength>5</strength>
 		<wisdom>3</wisdom>
@@ -3542,9 +3542,9 @@
 	<!-- Speck... -->
 	<BACKGROUND>
 		<uiIndex>159</uiIndex>
-		<szName>Technical Wizard</szName>
-		<szShortName>Tech Whiz</szShortName>
-		<szDescription>Whether it's thirty years old junk or the latest electronic gadget, &#10;tech whiz can rewire, reassemble and reconfigure it with eyes closed.</szDescription>
+		<szName>Technikgenie</szName>
+		<szShortName>Technikgenie</szShortName>
+		<szDescription>Ob dreißig Jahre alter Schrott oder neuestes Elektronikspielzeug -&#10;ein Technikgenie verdrahtet, zerlegt und konfiguriert es mit geschlossenen Augen.</szDescription>
 		<dexterity>8</dexterity>
 		<mechanical>10</mechanical>
 		<wisdom>5</wisdom>
@@ -3562,54 +3562,54 @@
 	<!-- Pickup -->
 	<BACKGROUND>
 		<uiIndex>160</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- El Dorado -->
 	<BACKGROUND>
 		<uiIndex>161</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Military Jeep -->
 	<BACKGROUND>
 		<uiIndex>162</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>163</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>164</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Gaston -->
 	<BACKGROUND>
 		<uiIndex>165</uiIndex>
-		<szName>UN Peacekeeper\Sniper</szName>
-		<szShortName>UN</szShortName>
-		<szDescription>Nations provide these troops to solve conflicts without any violence. Sadly, &#10;this statment is false -- which is why Gaston is also a sniper.</szDescription>
+		<szName>UN-Blauhelm\Scharfschütze</szName>
+		<szShortName>UN-Blauhelm</szShortName>
+		<szDescription>Nationen stellen diese Truppen bereit, um Konflikte möglichst ohne Gewalt zu lösen. Leider klappt das nicht immer -- deshalb ist Gaston auch Scharfschütze.</szDescription>
 		<marksmanship>3</marksmanship>
 		<medical>2</medical>
 		<mechanical>2</mechanical>
@@ -3637,9 +3637,9 @@
 	<!-- Stogie -->
 	<BACKGROUND>
 		<uiIndex>166</uiIndex>
-		<szName>Veteran Mercenary</szName>
-		<szShortName>Veteran Merc</szShortName>
-		<szDescription>While others may keep to their pasts and its labels, you've chosen the life of a gun for &#10;hire - and embraced it. This is who you really are.</szDescription>
+		<szName>Söldnerveteran</szName>
+		<szShortName>Söldnerveteran</szShortName>
+		<szDescription>Andere klammern sich an ihre Vergangenheit. Du hast das Leben als Söldner&#10;gewählt und angenommen. Das ist, wer du wirklich bist.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
@@ -3663,9 +3663,9 @@
 	<!-- Tex -->
 	<BACKGROUND>
 		<uiIndex>167</uiIndex>
-		<szName>B-Movie Star/Veteran Mercenary</szName>
-		<szShortName>Movie Star/Vet Merc</szShortName>
-		<szDescription>Target of thrown popcorn in cinemas around the world, scoffed by critics &#10;yet adored by loyal fans.</szDescription>
+		<szName>B-Movie-Star/Söldnerveteran</szName>
+		<szShortName>Filmstar/Söldnerv.</szShortName>
+		<szDescription>Ziel fliegenden Popcorns in Kinos weltweit, von Kritikern verspottet,&#10;aber von treuen Fans heiß geliebt.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_fortify>-15</ap_fortify>
@@ -3692,9 +3692,9 @@
 	<!-- Biggins -->
 	<BACKGROUND>
 		<uiIndex>168</uiIndex>
-		<szName>Veteran Mercenary/Bomber</szName>
-		<szShortName>Veteran Merc/Bomber</szShortName>
-		<szDescription>You were already famous in this business before those youngsters were even born. After &#10;years of battles, there's hardly anything that can shake you up.</szDescription>
+		<szName>Söldnerveteran/Bombenleger</szName>
+		<szShortName>Vet./Bombenleger</szShortName>
+		<szDescription>Du warst in diesem Geschäft schon berühmt, bevor diese Jungspunde geboren wurden.&#10;Nach Jahren im Kampf kann dich kaum noch etwas erschüttern.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<explosives>10</explosives>
@@ -3723,18 +3723,18 @@
 	<!-- PGmale 4 -->
 	<BACKGROUND>
 		<uiIndex>169</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Monk  -->
 	<BACKGROUND>
 		<uiIndex>170</uiIndex>
-		<szName>Red Army</szName>
-		<szShortName>Red Army</szShortName>
-		<szDescription>With Russian stoicism, the Red Army prevailed against Hitler, Father Frost, and &#10;chronic shortages.</szDescription>
+		<szName>Rote Armee</szName>
+		<szShortName>Rote Armee</szShortName>
+		<szDescription>Mit russischem Stoizismus trotzte die Rote Armee Hitler, Väterchen Frost&#10;und chronischem Mangel.</szDescription>
 		<mechanical>4</mechanical>
 		<leadership>2</leadership>
 		<ap_polar>8</ap_polar>
@@ -3759,9 +3759,9 @@
 	<!-- Brain -->
 	<BACKGROUND>
 		<uiIndex>171</uiIndex>
-		<szName>Red Army</szName>
-		<szShortName>Red Army</szShortName>
-		<szDescription>The Red Army prevailed against Hitler, Father Frost, and &#10;chronic shortages.</szDescription>
+		<szName>Rote Armee</szName>
+		<szShortName>Rote Armee</szShortName>
+		<szDescription>Die Rote Armee trotzte Hitler, Väterchen Frost und chronischem Mangel.</szDescription>
 		<mechanical>4</mechanical>
 		<leadership>2</leadership>
 		<ap_polar>8</ap_polar>
@@ -3785,9 +3785,9 @@
 	<!-- Lennart -->
 	<BACKGROUND>
 		<uiIndex>172</uiIndex>
-		<szName>Red Army</szName>
-		<szShortName>Red Army</szShortName>
-		<szDescription>The Red Army prevailed against Hitler, Father Frost, and &#10;chronic shortages</szDescription>
+		<szName>Rote Armee</szName>
+		<szShortName>Rote Armee</szShortName>
+		<szDescription>Die Rote Armee trotzte Hitler, Väterchen Frost und chronischem Mangel.</szDescription>
 		<mechanical>4</mechanical>
 		<leadership>2</leadership>
 		<ap_polar>8</ap_polar>
@@ -3812,9 +3812,9 @@
 	<!-- Henning -->
 	<BACKGROUND>
 		<uiIndex>173</uiIndex>
-		<szName>Military Advisor</szName>
-		<szShortName>Military Advisor</szShortName>
-		<szDescription>Pointing the gun in the right direction is a start, but someone needs to teach these &#10;people how to teach other people where to point.</szDescription>
+		<szName>Militärberater</szName>
+		<szShortName>Militärberater</szShortName>
+		<szDescription>Die Waffe in die richtige Richtung zu halten ist ein Anfang. Aber jemand muss&#10;diesen Leuten beibringen, wie sie anderen das Zielen beibringen.</szDescription>
 		<leadership>10</leadership>
 		<ap_assault>3</ap_assault>
                 <resistance_physical>5</resistance_physical>
@@ -3833,9 +3833,9 @@
 	<!-- Luc -->
 	<BACKGROUND>
 		<uiIndex>174</uiIndex>
-		<szName>Bouncer</szName>
-		<szShortName>Bouncer</szShortName>
-		<szDescription>Doormen make good soldiers in close combat, though the &#10;killing part is a change (hopefully).</szDescription>
+		<szName>Türsteher</szName>
+		<szShortName>Türsteher</szShortName>
+		<szDescription>Türsteher geben gute Nahkämpfer ab; nur das Töten ist hoffentlich neu für sie.</szDescription>
 		<meleedamage>4</meleedamage>
 		<agility>3</agility>
 		<strength>3</strength>
@@ -3855,9 +3855,9 @@
 	<!-- Laura -->
 	<BACKGROUND>
 		<uiIndex>175</uiIndex>
-		<szName>Surgeon/Refugee</szName>
-		<szShortName>Surgeon/Refugee</szShortName>
-		<szDescription>Leaving your homeland has left you bitter. Learning to cut human flesh &#10;relieved your pain.</szDescription>
+		<szName>Chirurg/Flüchtling</szName>
+		<szShortName>Chirurg/Flüchtling</szShortName>
+		<szDescription>Die Flucht aus deiner Heimat hat dich verbittert. Zu lernen, Menschenfleisch zu schneiden,&#10;hat deinen Schmerz gelindert.</szDescription>
 		<wisdom>3</wisdom>
 		<medical>10</medical>
 		<dexterity>8</dexterity>
@@ -3884,9 +3884,9 @@
 	<!-- Grace -->
 	<BACKGROUND>
 		<uiIndex>176</uiIndex>
-		<szName>Circus Artist</szName>
-		<szShortName>Circus Artist</szShortName>
-		<szDescription>Let's hope you are as good evading bullets as you are evading knifes while &#10;tied to a board.</szDescription>
+		<szName>Zirkusartist</szName>
+		<szShortName>Zirkusartist</szShortName>
+		<szDescription>Hoffen wir, dass du Kugeln so gut ausweichst wie Messern,&#10;wenn du an ein Brett gefesselt bist.</szDescription>
 		<agility>10</agility>
 		<dexterity>10</dexterity>
 		<mechanical>1</mechanical>
@@ -3910,7 +3910,7 @@
 		<uiIndex>177</uiIndex>
 		<szName>GSG9</szName>
 		<szShortName>GSG9</szShortName>
-		<szDescription>Formed after the disastrous Munich massacre in 1972, GSG9 is a &#10;counter-terrorism unit.</szDescription>
+		<szDescription>Nach dem verheerenden Münchner Olympia-Attentat 1972 gegründet,&#10;ist die GSG9 eine Anti-Terror-Einheit.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>2</leadership>
 		<ap_urban>5</ap_urban>
@@ -3933,18 +3933,18 @@
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>178</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Placeholder</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Platzhalter</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Skitz -->
 	<BACKGROUND>
 		<uiIndex>179</uiIndex>
-		<szName>Mad Bomber</szName>
-		<szShortName>Mad Bomber</szShortName>
-		<szDescription>Explosives experts are hard to find . . . but everyone wishes they hadn't &#10;found this one!</szDescription>
+		<szName>Verrückter Bombenleger</szName>
+		<szShortName>Irrer Bombenleger</szShortName>
+		<szDescription>Sprengstoffexperten sind schwer zu finden ...doch bei diesem hier wünscht sich jeder,&#10;er hätte ihn nie gefunden!</szDescription>
 		<dexterity>3</dexterity>
 		<mechanical>3</mechanical>
 		<wisdom>-6</wisdom>
@@ -3970,9 +3970,9 @@
 	<!-- Weasel -->
 	<BACKGROUND>
 		<uiIndex>180</uiIndex>
-		<szName>Snitch</szName>
-		<szShortName>Snitch</szShortName>
-		<szDescription>You know all about your teammates, wether or not they care.</szDescription>
+		<szName>Spitzel</szName>
+		<szShortName>Spitzel</szShortName>
+		<szDescription>Du weißt alles über deine Teamkameraden - ob sie das wollen oder nicht.</szDescription>
 		<ap_inventory>-5</ap_inventory>
 		<stealth>15</stealth>
 		<hearing_night>2</hearing_night>
@@ -3988,9 +3988,9 @@
 	<!-- It  -->
 	<BACKGROUND>
 		<uiIndex>181</uiIndex>
-		<szName>Wrestler</szName>
-		<szShortName>Wrestler</szShortName>
-		<szDescription>It might be more of a spectacle than actual fight, but getting thrown around a ring &#10;without breaking a neck still takes a lot of skill.</szDescription>
+		<szName>Ringer</szName>
+		<szShortName>Ringer</szShortName>
+		<szDescription>Es mag mehr Show als echter Kampf sein, doch sich im Ring herumwerfen zu lassen,&#10;ohne sich das Genick zu brechen, verlangt einiges an Können.</szDescription>
 		<agility>3</agility>
 		<strength>5</strength>
 		<dexterity>2</dexterity>
@@ -4014,9 +4014,9 @@
 	<!-- Bernie -->
 	<BACKGROUND>
 		<uiIndex>182</uiIndex>
-		<szName>Veteran Physician</szName>
-		<szShortName>Veteran Physician</szShortName>
-		<szDescription>Several years of evaluating human lives ironically left your own &#10;health in disrepair - cheap cigarrettes flushed down with strong coffee took their toll. &#10;The object-like way you started to treat your patients also doesn't make you very popular.</szDescription>
+		<szName>Erfahrener Arzt</szName>
+		<szShortName>Erfahrener Arzt</szShortName>
+		<szDescription>Jahrelang Menschenleben zu beurteilen hat ausgerechnet deine eigene Gesundheit ruiniert.&#10;Billige Zigaretten und starker Kaffee forderten ihren Tribut - und dein kalter Umgang mit Patienten macht dich auch nicht beliebter.</szDescription>
 		<agility>-7</agility>
 		<medical>10</medical>
 		<ap_fortify>20</ap_fortify>
@@ -4034,9 +4034,9 @@
 	<!-- Pops -->
 	<BACKGROUND>
 		<uiIndex>183</uiIndex>
-		<szName>Veteran Mercenary/Undertaker</szName>
-		<szShortName>Vet Merc/Undertaker</szShortName>
-		<szDescription>When you've seen it all, nothing can frighten you anymore.</szDescription>
+		<szName>Söldnerveteran/Bestatter</szName>
+		<szShortName>Vet./Bestatter</szShortName>
+		<szDescription>Wenn du alles gesehen hast, kann dich nichts mehr erschrecken.</szDescription>
 		<marksmanship>3</marksmanship>
 		<leadership>6</leadership>
 		<ap_assault>6</ap_assault>
@@ -4060,9 +4060,9 @@
 	<!-- Wally -->
 	<BACKGROUND>
 		<uiIndex>184</uiIndex>
-		<szName>Smith/Poor Shot</szName>
-		<szShortName>Smith/Poor Shot</szShortName>
-		<szDescription>Due to extreme shortsightedness Wally is a poor shot with next to no chance &#10;of improvement.</szDescription>
+		<szName>Schmied/Schlechter Schütze</szName>
+		<szShortName>Schmied/Mieser Sch.</szShortName>
+		<szDescription>Wegen extremer Kurzsichtigkeit ist Wally ein miserabler Schütze&#10;mit praktisch keiner Aussicht auf Besserung.</szDescription>
 		<dexterity>8</dexterity>
 		<mechanical>10</mechanical>
 		<betterprices_guns>10</betterprices_guns>
@@ -4078,9 +4078,9 @@
 	<!-- Eli -->
 	<BACKGROUND>
 		<uiIndex>185</uiIndex>
-		<szName>Surgeon</szName>
-		<szShortName>Surgeon</szShortName>
-		<szDescription>Everyone can cut human flesh - but sewing it back is a quest for &#10;the best!</szDescription>
+		<szName>Chirurg</szName>
+		<szShortName>Chirurg</szShortName>
+		<szDescription>Jeder kann Menschenfleisch aufschneiden - es wieder zusammenzunähen&#10;ist eine Aufgabe für die Besten!</szDescription>
 		<wisdom>2</wisdom>
 		<medical>10</medical>
 		<dexterity>8</dexterity>
@@ -4098,9 +4098,9 @@
 	<!-- Mitch -->
 	<BACKGROUND>
 		<uiIndex>186</uiIndex>
-		<szName>General Practitioner</szName>
-		<szShortName>GP</szShortName>
-		<szDescription>Versatile and educated doctor can save a human life no matter what his &#10;patient caught - a virus or a bullet.</szDescription>
+		<szName>Allgemeinmediziner</szName>
+		<szShortName>Allgemeinarzt</szShortName>
+		<szDescription>Ein vielseitiger, gut ausgebildeter Arzt kann Leben retten - egal, ob sein Patient&#10;sich einen Virus oder eine Kugel eingefangen hat.</szDescription>
 		<wisdom>2</wisdom>
 		<dexterity>5</dexterity>
 		<medical>10</medical>
@@ -4118,9 +4118,9 @@
 	<!-- Carp -->
 	<BACKGROUND>
 		<uiIndex>187</uiIndex>
-		<szName>Office Worker</szName>
-		<szShortName>Office Worker</szShortName>
-		<szDescription>Air conditioning, watered down coffee and some papers to push - &#10;what else can you expect from life?</szDescription>
+		<szName>Büroangestellter</szName>
+		<szShortName>Büroangestellter</szShortName>
+		<szDescription>Klimaanlage, wässriger Kaffee und Papierkram -&#10;was kann man vom Leben noch erwarten?</szDescription>
 		<leadership>-3</leadership>
 		<stealth>10</stealth>
 		<hearing_night>1</hearing_night>
@@ -4150,9 +4150,9 @@
 	<!-- Lance  -->
 	<BACKGROUND>
 		<uiIndex>188</uiIndex>
-		<szName>Coward/Teacher/Snitch</szName>
-		<szShortName>Coward/Snitch</szShortName>
-		<szDescription>When they said "those who can, do; those who can't, teach" - they were &#10;talking about Lance.</szDescription>
+		<szName>Feigling/Lehrer/Spitzel</szName>
+		<szShortName>Feigling/Spitzel</szShortName>
+		<szDescription>Als es hieß 'Wer kann, der tut; wer nicht kann, der lehrt',&#10;war damit Lance gemeint.</szDescription>
 		<wisdom>3</wisdom>
 		<leadership>-6</leadership>
 		<ap_artillery>10</ap_artillery>
@@ -4174,9 +4174,9 @@
 	<!-- Raffi -->
 	<BACKGROUND>
 		<uiIndex>189</uiIndex>
-		<szName>Pretender</szName>
-		<szShortName>Pretender</szShortName>
-		<szDescription>Pretending to be anything and everything he is not, nobody knows who &#10;he actually is.</szDescription>
+		<szName>Hochstapler</szName>
+		<szShortName>Hochstapler</szShortName>
+		<szDescription>Er gibt sich für alles Mögliche aus, nur nie für das, was er ist.&#10;Niemand weiß, wer er wirklich ist.</szDescription>
 		<leadership>-5</leadership>
 		<ap_fortify>20</ap_fortify>
 		<ap_artillery>10</ap_artillery>
@@ -4197,9 +4197,9 @@
 	<!-- Wink -->
 	<BACKGROUND>
 		<uiIndex>190</uiIndex>
-		<szName>Baseball player</szName>
-		<szShortName>Athlete</szShortName>
-		<szDescription>If your team ever needs someone to throw grenades on an even field, you'll &#10;be the man.</szDescription>
+		<szName>Baseballspieler</szName>
+		<szShortName>Athlet</szShortName>
+		<szDescription>Wenn dein Team jemanden braucht, der Granaten präzise über ein freies Feld wirft,&#10;bist du der richtige Mann.</szDescription>
 		<agility>8</agility>
 		<strength>3</strength>
 		<dexterity>3</dexterity>
@@ -4224,9 +4224,9 @@
 	<!-- Speck -->
 	<BACKGROUND>
 		<uiIndex>191</uiIndex>
-		<szName>Technical Wizard</szName>
-		<szShortName>Tech Whiz</szShortName>
-		<szDescription>No matter if it's a thirty years old junk or latest electronic gadget, tech whiz can &#10;rewire, reassemble and reconfigure it with eyes closed.</szDescription>
+		<szName>Technikgenie</szName>
+		<szShortName>Technikgenie</szShortName>
+		<szDescription>Ob dreißig Jahre alter Schrott oder neuestes Elektronikspielzeug - ein Technikgenie&#10;verdrahtet, zerlegt und konfiguriert es mit geschlossenen Augen.</szDescription>
 		<dexterity>8</dexterity>
 		<mechanical>10</mechanical>
 		<wisdom>5</wisdom>
@@ -4243,36 +4243,36 @@
 	<!-- PGmale 5 -->
 	<BACKGROUND>
 		<uiIndex>192</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- PGmale 6 -->
 	<BACKGROUND>
 		<uiIndex>193</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- PGmale 7 -->
 	<BACKGROUND>
 		<uiIndex>194</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- John -->
 	<BACKGROUND>
 		<uiIndex>195</uiIndex>
-		<szName>Tourist Merc/Weekend Warrior</szName>
-		<szShortName>Tourist/Nat.Guard</szShortName>
-		<szDescription>Subscribing to Soldier of Fortune magazine is as close to being a mercenary as you ever &#10;came . . . until now.</szDescription>
+		<szName>Tourist/Söldner/Wochenendkrieger</szName>
+		<szShortName>Tourist/Reservist</szShortName>
+		<szDescription>Ein Abo des Soldier of Fortune war bisher das Nächste, was du dem Söldnerleben kamst ...bis jetzt.</szDescription>
 		<ap_assault>1</ap_assault>
 		<travel_foot>3</travel_foot>
 		<resistance_fear>3</resistance_fear>
@@ -4295,9 +4295,9 @@
 	<!-- Elio -->
 	<BACKGROUND>
 		<uiIndex>196</uiIndex>
-		<szName>Metaviran Native</szName>
+		<szName>Metaviranischer Ureinwohner</szName>
 		<szShortName>Metavira</szShortName>
-		<szDescription>The indigenous people of Metavira have adjusted to the hostile jungle there. After the &#10;liberation, some joined the foreigners, and sought their luck elsewhere.</szDescription>
+		<szDescription>Die Ureinwohner Metaviras haben sich an den feindseligen Dschungel angepasst.&#10;Nach der Befreiung schlossen sich einige den Fremden an und suchten anderswo ihr Glück.</szDescription>
 		<ap_polar>-5</ap_polar>
 		<ap_desert>-3</ap_desert>
 		<ap_urban>-3</ap_urban>
@@ -4322,9 +4322,9 @@
 	<!-- Juan -->
 	<BACKGROUND>
 		<uiIndex>197</uiIndex>
-		<szName>Metaviran Native</szName>
+		<szName>Metaviranischer Ureinwohner</szName>
 		<szShortName>Metavira</szShortName>
-		<szDescription>The indigenous people of Metavira have adjusted to the hostile jungle there. After the &#10;liberation, some joined the foreigners, and sought their luck elsewhere.</szDescription>
+		<szDescription>Die Ureinwohner Metaviras haben sich an den feindseligen Dschungel angepasst.&#10;Nach der Befreiung schlossen sich einige den Fremden an und suchten anderswo ihr Glück.</szDescription>
 		<ap_polar>-5</ap_polar>
 		<ap_desert>-3</ap_desert>
 		<ap_urban>-3</ap_urban>
@@ -4351,9 +4351,9 @@
 	<!-- Wahan -->
 	<BACKGROUND>
 		<uiIndex>198</uiIndex>
-		<szName>Metaviran Shaman</szName>
-		<szShortName>Shaman</szShortName>
-		<szDescription>Leaders of their communities since ages long forgotten, shamans posess medical &#10;knowledge unknown to western eyes.</szDescription>
+		<szName>Metaviranischer Schamane</szName>
+		<szShortName>Schamane</szShortName>
+		<szDescription>Seit undenklichen Zeiten führen Schamanen ihre Gemeinschaften und besitzen&#10;medizinisches Wissen, das westlichen Augen fremd ist.</szDescription>
 		<ap_swamp>3</ap_swamp>
 		<ap_river>3</ap_river>
 		<ap_coastal>3</ap_coastal>
@@ -4383,36 +4383,36 @@
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>199</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>200</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Jeep 1 -->
 	<BACKGROUND>
 		<uiIndex>201</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Dwight -->
 	<BACKGROUND>
 		<uiIndex>202</uiIndex>
-		<szName>Con Artist</szName>
-		<szShortName>Con Artist</szShortName>
-		<szDescription>You have no moral compass and will cheat everyone out of everything they &#10;have while blaming them for their misfortune.</szDescription>
+		<szName>Betrüger</szName>
+		<szShortName>Betrüger</szShortName>
+		<szDescription>Du kennst keinen moralischen Kompass, nimmst jedem alles ab und gibst deinen Opfern&#10;anschließend noch die Schuld an ihrem Unglück.</szDescription>
 		<ap_fortify>30</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_assault>-5</ap_assault>
@@ -4435,9 +4435,9 @@
 	<!-- Rajeev -->
 	<BACKGROUND>
 		<uiIndex>203</uiIndex>
-		<szName>Shopkeeper\Farmer</szName>
-		<szShortName>Shopkeeper\Farmer</szShortName>
-		<szDescription>Former convenience store owner who's diversified into farming</szDescription>
+		<szName>Händler\Bauer</szName>
+		<szShortName>Händler\Bauer</szShortName>
+		<szDescription>Ehemaliger Ladenbesitzer, der sein Geschäft auf Landwirtschaft ausgeweitet hat.</szDescription>
 		<ap_urban>3</ap_urban>
 		<ap_artillery>10</ap_artillery>
 		<ap_assault>-5</ap_assault>
@@ -4451,9 +4451,9 @@
 	<!-- Stanley -->
 	<BACKGROUND>
 		<uiIndex>204</uiIndex>
-		<szName>CIA Operative</szName>
-		<szShortName>CIA Operative</szShortName>
-		<szDescription>You use a mix of street smarts, cultural knowledge, language proficiency &#10;and subject matter expertise in order to spot, assess, develop, recruit and handle individuals you believe have access to vital information.</szDescription>
+		<szName>CIA-Agent</szName>
+		<szShortName>CIA-Agent</szShortName>
+		<szDescription>Mit Straßenschläue, Kultur- und Sprachkenntnissen erkennst und rekrutierst du Personen,&#10;die Zugang zu wichtigen Informationen haben, und führst sie als Quellen.</szDescription>
 		<agility>5</agility>
 		<dexterity>5</dexterity>
 		<ap_urban>4</ap_urban>
@@ -4477,9 +4477,9 @@
 	<!-- Dragon -->
 	<BACKGROUND>
 		<uiIndex>205</uiIndex>
-		<szName>Traconian Agent</szName>
-		<szShortName>Traconian Agent</szShortName>
-		<szDescription>You are a beast of a man with the subtlety of a large bulldozer &#10;and an equally gargantuan hatred of everything Arulcan and the west.</szDescription>
+		<szName>Traconischer Agent</szName>
+		<szShortName>Traconischer Agent</szShortName>
+		<szDescription>Du bist ein Brocken von einem Mann, so subtil wie ein Bulldozer,&#10;mit ebenso gewaltigem Hass auf alles Arulcanische und den Westen.</szDescription>
 		<agility>3</agility>
 		<dexterity>3</dexterity>
 		<strength>5</strength>
@@ -4502,9 +4502,9 @@
 	<!-- Wildcat -->
 	<BACKGROUND>
 		<uiIndex>206</uiIndex>
-		<szName>Athlete/Martial Arts Student/UN Peacekeeper.</szName>
-		<szShortName>Athlete/Martial Arts</szShortName>
-		<szDescription>Years of intense physical practice and match day performance &#10;will certainly help you make those last-ditch efforts to survive.</szDescription>
+		<szName>Athlet/Kampfsportschüler/UN-Blauhelm</szName>
+		<szShortName>Athlet/Kampfkunst</szShortName>
+		<szDescription>Jahre harten Trainings und Wettkampferfahrung helfen dir,&#10;wenn im Kampf die letzten Kraftreserven über Leben und Tod entscheiden.</szDescription>
 		<agility>6</agility>
 		<strength>5</strength>
 		<dexterity>5</dexterity>
@@ -4533,9 +4533,9 @@
 	<!-- Grandee -->
 	<BACKGROUND>
 		<uiIndex>207</uiIndex>
-		<szName>Sniper</szName>
-		<szShortName>Sniper</szShortName>
-		<szDescription>Rooftops and shadows are your best friend.</szDescription>
+		<szName>Scharfschütze</szName>
+		<szShortName>Scharfschütze</szShortName>
+		<szDescription>Dächer und Schatten sind deine besten Freunde.</szDescription>
 		<marksmanship>3</marksmanship>
 		<agility>3</agility>
 		<leadership>-3</leadership>
@@ -4554,72 +4554,72 @@
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>208</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>209</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>210</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>211</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>212</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>213</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>214</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Melo -->
 	<BACKGROUND>
 		<uiIndex>215</uiIndex>
-		<szName>Burglar/Pilot</szName>
-		<szShortName>Burglar/Pilot</szShortName>
-		<szDescription>It is simply amazing how many things, and people, disappear &#10;while in flight . . .</szDescription>
+		<szName>Einbrecher/Pilot</szName>
+		<szShortName>Einbrecher/Pilot</szShortName>
+		<szDescription>Erstaunlich, wie viele Dinge - und Menschen - während eines Fluges verschwinden können...</szDescription>
 		<agility>3</agility>
 		<dexterity>3</dexterity>
 		<mechanical>3</mechanical>
@@ -4648,27 +4648,27 @@
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>216</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>217</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>218</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -4677,7 +4677,7 @@
 		<uiIndex>219</uiIndex>
 		<szName>Femme fatale</szName>
 		<szShortName>Femme fatale</szShortName>
-		<szDescription>Using sexual allure for profit and seduction as a weapon means Susan is as busy as she is deadly.</szDescription>
+		<szDescription>Sexuelle Reize für Profit und Verführung als Waffe: Susan ist ebenso beschäftigt wie tödlich.</szDescription>
 		<agility>3</agility>
 		<dexterity>6</dexterity>
 		<medical>5</medical>
@@ -4707,9 +4707,9 @@
 	<!-- Postie -->
 	<BACKGROUND>
 		<uiIndex>220</uiIndex>
-		<szName>Postal Worker</szName>
-		<szShortName>Postal Worker</szShortName>
-		<szDescription>Through rain, snow, sleet and hail the mail must get through - and &#10;IT NEVER STOPS!</szDescription>
+		<szName>Postbote</szName>
+		<szShortName>Postbote</szShortName>
+		<szDescription>Durch Regen, Schnee, Graupel und Hagel muss die Post durch -&#10;UND ES HÖRT NIE AUF!</szDescription>
 		<dexterity>2</dexterity>
 		<agility>2</agility>
 		<stealth>2</stealth>
@@ -4739,9 +4739,9 @@
 	<!-- Reuban -->
 	<BACKGROUND>
 		<uiIndex>221</uiIndex>
-		<szName>Serial Killer</szName>
-		<szShortName>Serial Killer</szShortName>
-		<szDescription>There are different accounts of how you've managed to leave confinement, but &#10;everyone agrees - you should go back.</szDescription>
+		<szName>Serienmörder</szName>
+		<szShortName>Serienmörder</szShortName>
+		<szDescription>Es gibt verschiedene Geschichten darüber, wie du aus dem Gefängnis kamst.&#10;In einem sind sich alle einig: Du solltest zurück.</szDescription>
 		<agility>6</agility>
 		<dexterity>3</dexterity>
 		<wisdom>-6</wisdom>
@@ -4778,9 +4778,9 @@
 	<!-- Leon -->
 	<BACKGROUND>
 		<uiIndex>222</uiIndex>
-		<szName>Veteran Mercenary/Snitch</szName>
-		<szShortName>Vet Merc/Snitch</szShortName>
-		<szDescription>You were already famous in this business before those youngsters were even &#10;born. After years of battles, there's hardly anything that can shake you up.</szDescription>
+		<szName>Söldnerveteran/Spitzel</szName>
+		<szShortName>Vet./Spitzel</szShortName>
+		<szDescription>Du warst in diesem Geschäft schon berühmt, bevor diese Jungspunde geboren wurden.&#10;Nach Jahren im Kampf kann dich kaum noch etwas erschüttern.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
@@ -4807,9 +4807,9 @@
 	<!-- Gary -->
 	<BACKGROUND>
 		<uiIndex>223</uiIndex>
-		<szName>Hothead/Snitch/Bomber</szName>
-		<szShortName>Hothead/Snitch</szShortName>
-		<szDescription>Gary's spontaneous, rash behaviour sometimes gets the better of him.</szDescription>
+		<szName>Hitzkopf/Spitzel/Bombenleger</szName>
+		<szShortName>Hitzkopf/Spitzel</szShortName>
+		<szDescription>Garys spontanes, ungestümes Verhalten geht manchmal mit ihm durch.</szDescription>
 		<ap_assault>3</ap_assault>
 		<explosives>10</explosives>
 		<marksmanship>2</marksmanship>
@@ -4837,18 +4837,18 @@
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>224</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Placeholder</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Platzhalter</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Beth -->
 	<BACKGROUND>
 		<uiIndex>225</uiIndex>
-		<szName>Nurse/Snitch</szName>
-		<szShortName>Nurse/Snitch</szShortName>
-		<szDescription>While not full-blown doctors, nurses are still in high demand in warzones, &#10;due to the grim business.</szDescription>
+		<szName>Krankenschwester/Spitzel</szName>
+		<szShortName>Sanitäterin/Spitzel</szShortName>
+		<szDescription>Auch wenn sie keine Ärzte sind, werden Krankenschwestern und Pfleger&#10;in Kriegsgebieten dringend gebraucht.</szDescription>
 		<dexterity>5</dexterity>
 		<medical>7</medical>
 		<ap_fortify>10</ap_fortify>
@@ -4874,9 +4874,9 @@
 	<!-- Sam -->
 	<BACKGROUND>
 		<uiIndex>226</uiIndex>
-		<szName>Veteran Mercenary</szName>
-		<szShortName>Veteran Merc</szShortName>
-		<szDescription>You were already famous in this business before those youngsters were even born. &#10;After years of battles, there's hardly anything that can shake you up.</szDescription>
+		<szName>Söldnerveteran</szName>
+		<szShortName>Söldnerveteran</szShortName>
+		<szDescription>Du warst in diesem Geschäft schon berühmt, bevor diese Jungspunde geboren wurden.&#10;Nach Jahren im Kampf kann dich kaum noch etwas erschüttern.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>8</leadership>
 		<ap_assault>5</ap_assault>
@@ -4901,9 +4901,9 @@
 	<!-- Hurl -->
 	<BACKGROUND>
 		<uiIndex>227</uiIndex>
-		<szName>Hypochondriac</szName>
-		<szShortName>Hypochondriac</szShortName>
-		<szDescription>When you enter a ward, all medical personnel tries to look overly busy or hides &#10;around corners in a futile attempt to avoid you. The List of your possible afflictions just keeps getting bigger and bigger!</szDescription>
+		<szName>Hypochonder</szName>
+		<szShortName>Hypochonder</szShortName>
+		<szDescription>Betrittst du eine Station, wirkt das Personal plötzlich furchtbar beschäftigt oder versteckt sich.&#10;Die Liste deiner angeblichen Leiden wird derweil immer länger!</szDescription>
 		<wisdom>-3</wisdom>
 		<medical>3</medical>
 		<ap_fortify>20</ap_fortify>
@@ -4931,27 +4931,27 @@
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>228</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Placeholder</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Platzhalter</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>229</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Placeholder</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Platzhalter</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Boss -->
 	<BACKGROUND>
 		<uiIndex>230</uiIndex>
-		<szName>Veteran Mercenary/Car Mechanic</szName>
-		<szShortName>Vet Merc/Mechanic</szShortName>
-		<szDescription>Very useful, as long as you HAVE a car.</szDescription>
+		<szName>Söldnerveteran/Automechaniker</szName>
+		<szShortName>Vet./Mechaniker</szShortName>
+		<szDescription>Sehr nützlich - solange du auch ein Auto HAST.</szDescription>
 		<dexterity>3</dexterity>
 		<mechanical>6</mechanical>
 		<marksmanship>2</marksmanship>
@@ -4980,9 +4980,9 @@
 	<!-- Snake -->
 	<BACKGROUND>
 		<uiIndex>231</uiIndex>
-		<szName>Silent Assassin</szName>
-		<szShortName>Silent Assassin</szShortName>
-		<szDescription>Professional hitmen are obviously used to killing, but this might result &#10;in conflict with more idealistic team members.</szDescription>
+		<szName>Lautloser Killer</szName>
+		<szShortName>Lautloser Killer</szShortName>
+		<szDescription>Profikiller sind das Töten gewohnt, doch das kann leicht&#10;zu Konflikten mit idealistischeren Teammitgliedern führen.</szDescription>
 		<agility>5</agility>
 		<marksmanship>3</marksmanship>
 		<stealth>10</stealth>
@@ -5008,9 +5008,9 @@
 	<!-- Spam -->
 	<BACKGROUND>
 		<uiIndex>232</uiIndex>
-		<szName>UN Peacekeeper</szName>
-		<szShortName>UN</szShortName>
-		<szDescription>Spam was frustrated by the lack of a strong mandate that forced him to &#10;do nothing. On the plus side, he is used to being fired at.</szDescription>
+		<szName>UN-Blauhelm</szName>
+		<szShortName>UN-Blauhelm</szShortName>
+		<szDescription>Spam war frustriert, weil ein fehlendes klares Mandat ihn zum Nichtstun zwang.&#10;Immerhin ist er es gewohnt, beschossen zu werden.</szDescription>
 		<medical>2</medical>
 		<mechanical>2</mechanical>
 		<wisdom>2</wisdom>
@@ -5028,9 +5028,9 @@
 	<!-- Spike -->
 	<BACKGROUND>
 		<uiIndex>233</uiIndex>
-		<szName>Veteran Ranger/Mercenary</szName>
-		<szShortName>Veteran Ranger/Merc</szShortName>
-		<szDescription>The Rangers form the elite of US Army infantry.</szDescription>
+		<szName>Ranger-Veteran/Söldner</szName>
+		<szShortName>Ranger-Vet./Söldn.</szShortName>
+		<szDescription>Die Rangers bilden die Elite der Infanterie der US Army.</szDescription>
 		<leadership>8</leadership>
 		<marksmanship>2</marksmanship>
 		<ap_assault>6</ap_assault>
@@ -5054,9 +5054,9 @@
 	<!-- Jimmy -->
 	<BACKGROUND>
 		<uiIndex>234</uiIndex>
-		<szName>Professional Thief/Convict</szName>
-		<szShortName>Thief/Convict</szShortName>
-		<szDescription>Prison is college for criminals ...if they survive the course load. &#10;Jimmy passed with honors.</szDescription>
+		<szName>Profi-Dieb/Häftling</szName>
+		<szShortName>Dieb/Häftling</szShortName>
+		<szDescription>Das Gefängnis ist die Hochschule für Kriminelle ...wenn man den Lehrplan überlebt.&#10;Jimmy hat mit Auszeichnung bestanden.</szDescription>
 		<agility>6</agility>
 		<dexterity>6</dexterity>
 		<approach_threaten>10</approach_threaten>
@@ -5087,9 +5087,9 @@
 	<!-- Leech -->
 	<BACKGROUND>
 		<uiIndex>235</uiIndex>
-		<szName>Sporting Shooter</szName>
-		<szShortName>Sporting Shooter</szShortName>
-		<szDescription>Some people display a knack for shooting, and a disturbing aggression &#10;against innocent paper bull's eyes.</szDescription>
+		<szName>Sportschütze</szName>
+		<szShortName>Sportschütze</szShortName>
+		<szDescription>Manche haben ein echtes Talent fürs Schießen - und eine beunruhigende Aggression&#10;gegen unschuldige Zielscheiben aus Papier.</szDescription>
 		<wisdom>1</wisdom>
 		<agility>2</agility>
 		<dexterity>2</dexterity>
@@ -5104,9 +5104,9 @@
 	<!-- Bob -->
 	<BACKGROUND>
 		<uiIndex>236</uiIndex>
-		<szName>Airforce Pilot</szName>
-		<szShortName>Airforce Pilot</szShortName>
-		<szDescription>Bob is no stranger to tense situations, and lets others feel that as well.</szDescription>
+		<szName>Luftwaffenpilot</szName>
+		<szShortName>Luftwaffenpilot</szShortName>
+		<szDescription>Bob kennt angespannte Situationen nur zu gut - und lässt das auch andere spüren.</szDescription>
 		<mechanical>3</mechanical>
 		<leadership>5</leadership>
 		<ap_airdrop>-1</ap_airdrop>
@@ -5126,9 +5126,9 @@
 	<!-- Kelly -->
 	<BACKGROUND>
 		<uiIndex>237</uiIndex>
-		<szName>Veteran Mercenary</szName>
-		<szShortName>Veteran Mercenary</szShortName>
-		<szDescription>While others may keep to their pasts and its labels, you've chosen the life &#10;of a gun for hire - and embraced it. This is who you really are.</szDescription>
+		<szName>Söldnerveteran</szName>
+		<szShortName>Söldnerveteran</szShortName>
+		<szDescription>Andere klammern sich an ihre Vergangenheit. Du hast das Leben als Söldner&#10;gewählt und angenommen. Das ist, wer du wirklich bist.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_desert>3</ap_desert>
@@ -5156,9 +5156,9 @@
 	<!-- Vinny -->
 	<BACKGROUND>
 		<uiIndex>238</uiIndex>
-		<szName>Mob Fix-It Man</szName>
-		<szShortName>Mobster</szShortName>
-		<szDescription>Organized crime is found anywhere. No exceptions.</szDescription>
+		<szName>Mafia-Problemloser</szName>
+		<szShortName>Mafioso</szShortName>
+		<szDescription>Organisiertes Verbrechen gibt es überall. Ohne Ausnahme.</szDescription>
 		<ap_polar>-5</ap_polar>
 		<ap_desert>-5</ap_desert>
 		<ap_swamp>-5</ap_swamp>
@@ -5188,9 +5188,9 @@
 	<!-- Kaboom -->
 	<BACKGROUND>
 		<uiIndex>239</uiIndex>
-		<szName>Veteran Bombmaker</szName>
-		<szShortName>Bombmaker</szShortName>
-		<szDescription>You make things go BOOM!</szDescription>
+		<szName>Erfahrener Bombenbauer</szName>
+		<szShortName>Bombenbauer</szShortName>
+		<szDescription>Du sorgst dafür, dass Dinge BOOM machen!</szDescription>
 		<explosives>8</explosives>
 		<breachingcharge>30</breachingcharge>
 		<traplevel>1</traplevel>
@@ -5216,9 +5216,9 @@
 	<!-- Bud -->
 	<BACKGROUND>
 		<uiIndex>240</uiIndex>
-		<szName>Lawyer</szName>
-		<szShortName>Lawyer</szShortName>
-		<szDescription>A somewhat unorthodox background for a mercenary, former lawyers might be useful &#10;when there's a deal to be made on a knife's edge.</szDescription>
+		<szName>Anwalt</szName>
+		<szShortName>Anwalt</szShortName>
+		<szDescription>Ein ungewöhnlicher Hintergrund für einen Söldner, aber ehemalige Anwälte können nützlich sein,&#10;wenn ein Deal auf Messers Schneide ausgehandelt wird.</szDescription>
 		<ap_fortify>20</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_assault>-5</ap_assault>
@@ -5242,9 +5242,9 @@
 	<!-- Rusty -->
 	<BACKGROUND>
 		<uiIndex>241</uiIndex>
-		<szName>Pyrotechnician</szName>
-		<szShortName>Pyrotechnician</szShortName>
-		<szDescription>When you want to break enemy morale by blowing up his privy, it's time to get &#10;yourself a qualified pyrotechnician.</szDescription>
+		<szName>Pyrotechniker</szName>
+		<szShortName>Pyrotechniker</szShortName>
+		<szDescription>Wenn du die Moral des Feindes brechen willst, indem du sein Klo sprengst,&#10;brauchst du einen qualifizierten Pyrotechniker.</szDescription>
 		<dexterity>3</dexterity>
 		<mechanical>3</mechanical>
 		<explosives>5</explosives>
@@ -5259,9 +5259,9 @@
 	<!-- Needle -->
 	<BACKGROUND>
 		<uiIndex>242</uiIndex>
-		<szName>Surgeon</szName>
-		<szShortName>Surgeon</szShortName>
-		<szDescription>Everyone can cut human flesh - but sewing it back is a quest for the best!</szDescription>
+		<szName>Chirurg</szName>
+		<szShortName>Chirurg</szShortName>
+		<szDescription>Jeder kann Menschenfleisch aufschneiden - es wieder zusammenzunähen ist eine Aufgabe für die Besten!</szDescription>
 		<wisdom>1</wisdom>
 		<medical>10</medical>
 		<dexterity>8</dexterity>
@@ -5278,9 +5278,9 @@
 	<!-- Screw -->
 	<BACKGROUND>
 		<uiIndex>243</uiIndex>
-		<szName>Gunsmith</szName>
-		<szShortName>Gunsmith</szShortName>
-		<szDescription>An expert in the workings and history of firearms, the army's curious assortment &#10;of arms is this man's dream come true.</szDescription>
+		<szName>Büchsenmacher</szName>
+		<szShortName>Büchsenmacher</szShortName>
+		<szDescription>Als Experte für Technik und Geschichte von Feuerwaffen ist das seltsame Waffenarsenal&#10;der Armee für diesen Mann ein wahr gewordener Traum.</szDescription>
 		<dexterity>8</dexterity>
 		<mechanical>10</mechanical>
 		<ap_artillery>-3</ap_artillery>
@@ -5297,9 +5297,9 @@
 	<!-- Elroy -->
 	<BACKGROUND>
 		<uiIndex>244</uiIndex>
-		<szName>Convicted Watergate Burglar</szName>
-		<szShortName>Convict/Burglar</szShortName>
-		<szDescription>Well, that didn't go as planned.</szDescription>
+		<szName>Verurteilter Watergate-Einbrecher</szName>
+		<szShortName>Häftling/Einbrecher</szShortName>
+		<szDescription>Nun, das lief nicht ganz nach Plan.</szDescription>
 		<agility>5</agility>
 		<dexterity>5</dexterity>
 		<ap_urban>4</ap_urban>
@@ -5324,8 +5324,8 @@
 	<!-- Mouse -->
 	<BACKGROUND>
 		<uiIndex>245</uiIndex>
-		<szName>Mime</szName>
-		<szShortName>Mime</szShortName>
+		<szName>Pantomime</szName>
+		<szShortName>Pantomime</szShortName>
 		<szDescription>...</szDescription>
 		<agility>3</agility>
 		<dexterity>5</dexterity>
@@ -5345,9 +5345,9 @@
 	<!-- Hector -->
 	<BACKGROUND>
 		<uiIndex>246</uiIndex>
-		<szName>Venezuelan Rebel</szName>
-		<szShortName>Venezuelan Rebel</szShortName>
-		<szDescription>The rebellion against the imperialists in his country succeeded, so now Hector &#10;has become a mercenary rebel.</szDescription>
+		<szName>Venezolanischer Rebell</szName>
+		<szShortName>Venez. Rebell</szShortName>
+		<szDescription>Der Aufstand gegen die Imperialisten in seinem Land war erfolgreich. Nun ist Hector&#10;ein Rebell auf Söldnerbasis.</szDescription>
 		<ap_polar>-5</ap_polar>
 		<ap_desert>-3</ap_desert>
 		<ap_river>3</ap_river>
@@ -5372,9 +5372,9 @@
 	<!-- Rev -->
 	<BACKGROUND>
 		<uiIndex>247</uiIndex>
-		<szName>Priest</szName>
-		<szShortName>Priest</szShortName>
-		<szDescription>Many devout followers of any religion or cult area surprisingly violent and &#10;zealous if pushed in the right (or wrong) direction.</szDescription>
+		<szName>Priester</szName>
+		<szShortName>Priester</szShortName>
+		<szDescription>Viele gläubige Anhänger einer Religion oder Sekte können erstaunlich gewalttätig&#10;und fanatisch werden, wenn man sie in die richtige - oder falsche - Richtung drängt.</szDescription>
 		<medical>3</medical>
 		<leadership>10</leadership>
 		<wisdom>3</wisdom>
@@ -5398,9 +5398,9 @@
 	<!-- Stella -->
 	<BACKGROUND>
 		<uiIndex>248</uiIndex>
-		<szName>General Practitioner/Soldier</szName>
-		<szShortName>GP/Soldier</szShortName>
-		<szDescription>Versatile doctor and professional soldier, she can save a human life or &#10;take it -- whichever the situation calls for.</szDescription>
+		<szName>Allgemeinmediziner/Soldat</szName>
+		<szShortName>Arzt/Soldat</szShortName>
+		<szDescription>Als vielseitige Ärztin und Berufssoldatin kann sie ein Leben retten oder nehmen -&#10;je nachdem, was die Lage verlangt.</szDescription>
 		<travel_foot>4</travel_foot>
 		<leadership>5</leadership>
 		<dexterity>5</dexterity>
@@ -5430,9 +5430,9 @@
 	<!-- Ears -->
 	<BACKGROUND>
 		<uiIndex>249</uiIndex>
-		<szName>Surveillance Expert</szName>
-		<szShortName>Surveillance Expert</szShortName>
-		<szDescription>An expert in both legal and illegal observation methods. Curiously, his &#10;resume never said where he learned all this.</szDescription>
+		<szName>Überwachungsexperte</szName>
+		<szShortName>Überwachungsexp.</szShortName>
+		<szDescription>Experte für legale wie illegale Überwachungsmethoden. Seltsamerweise steht&#10;in seinem Lebenslauf nicht, wo er das alles gelernt hat.</szDescription>
 		<agility>2</agility>
 		<dexterity>2</dexterity>
 		<mechanical>3</mechanical>
@@ -5455,9 +5455,9 @@
 	<!-- Moses -->
 	<BACKGROUND>
 		<uiIndex>250</uiIndex>
-		<szName>Veteran Mercenary</szName>
-		<szShortName>Veteran Mercenary</szShortName>
-		<szDescription>You were already famous in this business before those youngsters were even &#10;born. After years of battles, there's hardly anything that can shake you up.</szDescription>
+		<szName>Söldnerveteran</szName>
+		<szShortName>Söldnerveteran</szShortName>
+		<szDescription>Du warst in diesem Geschäft schon berühmt, bevor diese Jungspunde geboren wurden.&#10;Nach Jahren im Kampf kann dich kaum noch etwas erschüttern.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
@@ -5482,9 +5482,9 @@
 	<!-- Smoke -->
 	<BACKGROUND>
 		<uiIndex>251</uiIndex>
-		<szName>Pyrotechnician</szName>
-		<szShortName>Pyrotechnician</szShortName>
-		<szDescription>When you want to break enemy morale by blowing up his privy, it's time &#10;to get yourself a qualified pyrotechnician.</szDescription>
+		<szName>Pyrotechniker</szName>
+		<szShortName>Pyrotechniker</szShortName>
+		<szDescription>Wenn du die Moral des Feindes brechen willst, indem du sein Klo sprengst,&#10;brauchst du einen qualifizierten Pyrotechniker.</szDescription>
 		<dexterity>3</dexterity>
 		<mechanical>3</mechanical>
 		<explosives>5</explosives>
@@ -5504,9 +5504,9 @@
 	<!-- Dyno -->
 	<BACKGROUND>
 		<uiIndex>252</uiIndex>
-		<szName>Mascot/Bomber</szName>
-		<szShortName>Mascot/Bomber</szShortName>
-		<szDescription>Nobody takes you seriously, because you used to walk around in a &#10;silly costume? Well, a child's smile is enough compensation!</szDescription>
+		<szName>Maskottchen/Bombenleger</szName>
+		<szShortName>Maskott./Bombenleg.</szShortName>
+		<szDescription>Niemand nimmt dich ernst, weil du früher in einem albernen Kostüm herumgelaufen bist?&#10;Das Lächeln eines Kindes ist Entschädigung genug!</szDescription>
 		<explosives>10</explosives>
 		<breachingcharge>50</breachingcharge>
 		<disarm_trap>40</disarm_trap>
@@ -5525,9 +5525,9 @@
 	<!-- Turtle -->
 	<BACKGROUND>
 		<uiIndex>253</uiIndex>
-		<szName>Detective/Veteran</szName>
-		<szShortName>Detective/Veteran</szShortName>
-		<szDescription>Hey detective, did you manage to solve the case of the disappearing donuts yet?</szDescription>
+		<szName>Detektiv/Veteran</szName>
+		<szShortName>Detektiv/Veteran</szShortName>
+		<szDescription>He, Detektiv - den Fall der verschwundenen Donuts schon gelöst?</szDescription>
 		<wisdom>3</wisdom>
 		<marksmanship>2</marksmanship>
 		<ap_urban>5</ap_urban>
@@ -5556,17 +5556,17 @@
 	<!-- Empty -->
 	<BACKGROUND>
 		<uiIndex>254</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Platzhalter</szName>
+		<szShortName>Platzhalter</szShortName>
+		<szDescription>Nicht benötigt!</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Barry -->
 	<BACKGROUND>
 		<uiIndex>255</uiIndex>
-		<szName>Hochschulabsolvent/Bomber</szName>
-		<szShortName>Hochschulabsolvent/Bomber</szShortName>
+		<szName>Hochschulabsolvent/Bombenleger</szName>
+		<szShortName>Absolv./Bombenleger</szShortName>
 		<szDescription>Frisch von der Schule, das Diplom noch warm in der Hand, ist es an der Zeit sich &#10;endlich eine Existenz aufzubauen.</szDescription>
 		<wisdom>3</wisdom>
 		<explosives>10</explosives>
@@ -5912,8 +5912,8 @@
   </BACKGROUND>
   <BACKGROUND>
 		<uiIndex>273</uiIndex>
-		<szName>Bodyguard</szName>
-		<szShortName>Bodyguard</szShortName>
+		<szName>Leibwächter</szName>
+		<szShortName>Leibwächter</szShortName>
 		<szDescription>Hervorragend ausgebildet, absolut loyal und bereit, den höchsten Preis zu zahlen - &#10;was will ein potenzieller Arbeitgeber mehr?</szDescription>
 		<strength>3</strength>
 		<resistance_physical>20</resistance_physical>
@@ -5929,7 +5929,7 @@
   </BACKGROUND>
   <BACKGROUND>
 		<uiIndex>274</uiIndex>
-		<szName>SWAT-Einheit</szName>
+		<szName>SWAT-Mitglied</szName>
 		<szShortName>SWAT</szShortName>
 		<szDescription>SWAT-Teams, die die Grenze zwischen Polizei und Militär verwischen, werden bei städtischen &#10;Operationen eingesetzt, die für die gewöhnliche Strafverfolgung zu gefährlich sind.</szDescription>
 		<marksmanship>2</marksmanship>
@@ -5962,8 +5962,8 @@
   </BACKGROUND>
   <BACKGROUND>
 		<uiIndex>276</uiIndex>
-		<szName>Minenarbeiter</szName>
-		<szShortName>Minenarbeiter</szShortName>
+		<szName>Bergarbeiter</szName>
+		<szShortName>Bergarbeiter</szShortName>
 		<szDescription>Die Arbeit in einer Mine ist hart und anstrengend. Kein Wunder, &#10;dass einige anfangen nach leichter verdientem Geld zu suchen.</szDescription>
 		<ap_mountain>2</ap_mountain>
 		<ap_fortify>-30</ap_fortify>
@@ -5979,8 +5979,8 @@
   </BACKGROUND>
   <BACKGROUND>
 		<uiIndex>277</uiIndex>
-		<szName>Mafioso</szName>
-		<szShortName>Mafioso</szShortName>
+		<szName>Mafia</szName>
+		<szShortName>Mafia</szShortName>
 		<szDescription>Organisiertes Verbrechen gibt es ausnahmslos überall.</szDescription>
 		<ap_assault>2</ap_assault>
 		<resistance_fear>5</resistance_fear>
@@ -5997,8 +5997,8 @@
   </BACKGROUND>
   <BACKGROUND>
 		<uiIndex>278</uiIndex>
-		<szName>UN-Friedensstifter</szName>
-		<szShortName>UN-Friedensstifter</szShortName>
+		<szName>UN-Blauhelm</szName>
+		<szShortName>UN-Blauhelm</szShortName>
 		<szDescription>Nationen der ganzen Welt stellen diese Truppen zur Verfügung, um alle Konflikte gewaltfrei zu lösen. &#10;Leider ist diese Behauptung falsch.</szDescription>
 		<medical>2</medical>
 		<mechanical>2</mechanical>
@@ -6041,8 +6041,8 @@
   </BACKGROUND>
   <BACKGROUND>
 		<uiIndex>280</uiIndex>
-		<szName>Guerilla</szName>
-		<szShortName>Guerilla</szShortName>
+		<szName>Guerillakämpfer</szName>
+		<szShortName>Guerillakämpfer</szShortName>
 		<szDescription>Du bist gut darin geschult, feindlichen Kräften auszuweichen und sie dort zu treffen, &#10;wo sie es am wenigsten erwarten.</szDescription>
 		<leadership>2</leadership>
 		<ap_desert>1</ap_desert>
@@ -6070,8 +6070,8 @@
   </BACKGROUND>
   <BACKGROUND>
 		<uiIndex>281</uiIndex>
-		<szName>Wehrdienstleister</szName>
-		<szShortName>Wehrdienstleister</szShortName>
+		<szName>Wehrpflichtiger</szName>
+		<szShortName>Wehrpflichtiger</szShortName>
 		<szDescription>Du bist noch lange kein Profi, aber du kennst zumindest die Grundlagen.</szDescription>
 		<ap_assault>1</ap_assault>
 		<travel_foot>4</travel_foot>
@@ -6109,8 +6109,8 @@
   </BACKGROUND>
   <BACKGROUND>
 		<uiIndex>283</uiIndex>
-		<szName>Paramilitär</szName>
-		<szShortName>Paramilitär</szShortName>
+		<szName>Paramilitär-Ausbilder</szName>
+		<szShortName>Paramil.-Ausbilder</szShortName>
 		<szDescription>Genau wie bei den Pfadfindern. Nur eben mit Gewalt. Also eigentlich doch nicht wie bei den Pfadfindern...</szDescription>
 		<leadership>5</leadership>
 		<ap_assault>3</ap_assault>
@@ -6329,8 +6329,8 @@
  </BACKGROUND>
  <BACKGROUND>
 		<uiIndex>295</uiIndex>
-		<szName>Backstage Crew</szName>
-		<szShortName>Backstage Crew</szShortName>
+		<szName>Bühnencrew</szName>
+		<szShortName>Bühnencrew</szShortName>
 		<szDescription>Knallende Geräusche, Feuerwerk, schreiende Menschen - ist es nicht seltsam, &#10;wie ähnlich die Bühne dem Schlachtfeld ist?</szDescription>
 		<mechanical>3</mechanical>
 		<ap_fortify>-18</ap_fortify>
@@ -6380,8 +6380,8 @@
   </BACKGROUND>
   <BACKGROUND>
 		<uiIndex>298</uiIndex>
-		<szName>Profi Dieb</szName>
-		<szShortName>Profi Dieb</szShortName>
+		<szName>Profi-Dieb</szName>
+		<szShortName>Profi-Dieb</szShortName>
 		<szDescription>Wenn man dir angeboten hat, es zu nehmen oder es zu lassen, &#10;dann hast du dich immer für das "nehmen" entschieden.</szDescription>
 		<agility>6</agility>
 		<dexterity>6</dexterity>
@@ -6417,8 +6417,8 @@
   </BACKGROUND>
   <BACKGROUND>
 		<uiIndex>300</uiIndex>
-		<szName>B-Movie Star</szName>
-		<szShortName>B-Movie Star</szShortName>
+		<szName>B-Movie-Star</szName>
+		<szShortName>B-Movie-Star</szShortName>
 		<szDescription>Ziel von Popcornwürfen in Kinos auf der ganzen Welt, von Kritikern verhöhnt &#10;doch von treuen Fans verehrt.</szDescription>
 		<ap_urban>3</ap_urban>
 		<ap_fortify>20</ap_fortify>
@@ -6595,8 +6595,8 @@
   </BACKGROUND>
   <BACKGROUND>
 		<uiIndex>308</uiIndex>
-		<szName>Wrestler</szName>
-		<szShortName>Wrestler</szShortName>
+		<szName>Ringer</szName>
+		<szShortName>Ringer</szShortName>
 		<szDescription>Es mag mehr ein Spektakel als ein echter Kampf sein, aber sich durch einen Ring werfen zu lassen, &#10;ohne sich das Genick zu brechen, erfordert immer noch eine Menge Geschick.</szDescription>
 		<agility>3</agility>
 		<strength>5</strength>
@@ -6820,8 +6820,8 @@
 	</BACKGROUND>
 	<BACKGROUND>
 		<uiIndex>319</uiIndex>
-		<szName>Rebell</szName>
-		<szShortName>Rebell</szShortName>
+		<szName>Arulcanischer Rebell</szName>
+		<szShortName>Arulc. Rebell</szShortName>
 		<szDescription>Dies ist dein Land, dein Volk, und du hast dein Leben dafür gegeben, es zu befreien!</szDescription>
 		<ap_polar>-5</ap_polar>
 		<ap_desert>2</ap_desert>
@@ -6933,8 +6933,8 @@
 	</BACKGROUND>
 	<BACKGROUND>
 		<uiIndex>323</uiIndex>
-		<szName>Slasher</szName>
-		<szShortName>Slasher</szShortName>
+		<szName>Irrer Schlitzer</szName>
+		<szShortName>Irrer Schlitzer</szShortName>
 		<szDescription>Da stimmt etwas ganz und gar nicht mit dir, aber du hast offenbar &#10;nützliche Talente für dieses Geschäft.</szDescription>
 		<leadership>-5</leadership>
 		<strength>3</strength>
@@ -7153,8 +7153,8 @@
 	</BACKGROUND>
 	<BACKGROUND>
 		<uiIndex>332</uiIndex>
-		<szName>Reiseführer</szName>
-		<szShortName>Reiseführer</szShortName>
+		<szName>Wildnisführer</szName>
+		<szShortName>Wildnisführer</szShortName>
 		<szDescription>Bringt die Stadtbewohner in die Wildnis und in der Regel auch lebendig aus ihr zurück.</szDescription>
 		<leadership>3</leadership>
 		<ap_polar>3</ap_polar>
@@ -7210,8 +7210,8 @@
 	</BACKGROUND>
 	<BACKGROUND>
 		<uiIndex>334</uiIndex>
-        <szName>Diebische Katze</szName>
-		<szShortName>Diebische Katze</szShortName>
+        <szName>Profi-Einbrecher</szName>
+		<szShortName>Einbrecher</szShortName>
 		<szDescription>Zweiter Stock? Dachterrasse? Kein Problem!</szDescription>
 		<agility>6</agility>
 		<dexterity>6</dexterity>
@@ -7300,12 +7300,14 @@
 		<cth_blades>5</cth_blades>
 		<approach_direct>5</approach_direct>
 		<approach_threaten>9</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Disco -->
 	<BACKGROUND>
 		<uiIndex>338</uiIndex>
-		<szName>Stuntman</szName>
-		<szShortName>Disco King</szShortName>
+		<szName>Disco-King/Stuntfahrer/Ausbilder</szName>
+		<szShortName>Stuntfahrer/Ausb.</szShortName>
 		<szDescription>Disco ist nicht tot! Jedenfalls noch nicht.</szDescription>
 		<ap_urban>8</ap_urban>
 		<travel_car>20</travel_car>
@@ -7325,12 +7327,14 @@
 		<capitulation>15</capitulation>
 		<stealth>10</stealth>
 		<increased_maxcth>3</increased_maxcth>
-		<interrogation>150</interrogation>  		
+		<interrogation>150</interrogation>
+		<no_male>1</no_male>
+		<no_female>1</no_female>  		
 	</BACKGROUND>
 	<!-- Exec Sober -->
 	<BACKGROUND>
 		<uiIndex>339</uiIndex>
-		<szShortName>Firmenschwadron</szShortName>
+		<szShortName>Konzernhai/Drogenb.</szShortName>
 		<szDescription>Die Phrase "Zeig mir das Geld" mag zwar von Hollywood geprägt worden sein, aber sie verwendet sie schon viel länger.</szDescription>
 		<approach_direct>20</approach_direct>
 		<approach_threaten>5</approach_threaten>
@@ -7343,11 +7347,13 @@
 		<capitulation>25</capitulation>
 		<druguse>1</druguse>
 		<drugitem>2801</drugitem>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Exec -->
 	<BACKGROUND>
 		<uiIndex>340</uiIndex>
-		<szShortName>Junky</szShortName>
+		<szShortName>Drogen-Rächer</szShortName>
 		<szDescription>Eine Dosis des richtigen Stoffes kann jeden sanftmütigen Menschen in einen bösartigen Mörder verwandeln. Hier ist der lebende Beweis dafür.</szDescription>
 		<hearing_day>2</hearing_day>
 		<hearing_night>2</hearing_night>
@@ -7369,12 +7375,14 @@
 		<increased_maxcth>3</increased_maxcth>
 		<druguse>1</druguse>
 		<drugitem>2801</drugitem>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- VV -->
 	<BACKGROUND>
 		<uiIndex>341</uiIndex>
-		<szShortName>Künstler</szShortName>
-		<szDescription>Hat das ganze Leben auf der Jagd verbracht und dann gemerkt, dass das Leben ein einziges großes Wettrennen ist.</szDescription>
+		<szShortName>Exotentanz/Betrüger</szShortName>
+		<szDescription>Du hast dein ganzes Leben Leute übers Ohr gehauen. Dann hast du erkannt, dass das ganze Leben ein einziger großer Schwindel ist.</szDescription>
 		<ap_assault>-5</ap_assault>
 		<interrogation>250</interrogation>
 		<betterprices_guns>10</betterprices_guns>
@@ -7400,6 +7408,8 @@
 		<water>-5</water>
 		<drink_energyregen>200</drink_energyregen>
 		<carrystrength>3</carrystrength>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
 		</BACKGROUND>
 	<!-- Sioux -->
 	<BACKGROUND>
@@ -7433,18 +7443,22 @@
 		<marksmanship>-10</marksmanship>
 		<increased_maxcth>-5</increased_maxcth>
 		<spotter>-10</spotter>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Cowboy -->
 	<BACKGROUND>
 		<uiIndex>343</uiIndex>
-		<szName>Querdenker</szName>
-		<szShortName>Querdenker</szShortName>
-		<szDescription>Cowboys Grenzgänger-Ansatz in der Medizin brachte ihm schneller einen nicht gespornten Stiefel von der Medizinschule ein, als er ziehen kann.</szDescription>
+		<szName>Medizin-Rebell</szName>
+		<szShortName>Medizin-Rebell</szShortName>
+		<szDescription>Cowboys unkonventioneller Ansatz in der Medizin brachte ihm schneller den Rauswurf aus der Medizinschule ein, als er ziehen kann.</szDescription>
 		<medical>-5</medical>
 		<cth_blades>5</cth_blades>
 		<speed_bandaging>20</speed_bandaging>
 		<resistance_fear>5</resistance_fear>
 		<resistance_alcohol>20</resistance_alcohol>
 		<ap_urban>-7</ap_urban>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
 	</BACKGROUND>
 </BACKGROUNDS>

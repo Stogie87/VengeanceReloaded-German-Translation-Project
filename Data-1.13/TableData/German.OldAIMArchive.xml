@@ -1,0 +1,196 @@
+﻿<!--
+	In this file you can specify which old AIM veterans should be available on the AIM alumni laptop site.
+	Just remove the <MERC></MERC> block for the merc which should not show up on the AIM veterans site.
+	
+	uiIndex:	This is an index starting from 0 up to 254
+	NickName: 	The Nickname of the merc (this is externalized from the file: Data\BinaryData\ALUMNAME.EDT)
+	Name:     	The Name of the merc (this is externalized from the file: Data\BinaryData\ALUMNI.EDT)
+	Bio:      	The Bio of the merc (this is externalized from the file: Data\BinaryData\ALUMNI.EDT)
+	FaceID:		The face index from the "Data\Laptop\OLD_AIM.STI" file
+-->
+<OLD_MERC>
+	<MERC>
+		<!-- Wink -->
+		<uiIndex>0</uiIndex>
+		<NickName>Wink</NickName>
+		<Name>Wink Dickerson</Name>
+		<Bio>Vor allem für seinen kräftigen Wurfarm bei miserabler Präzision bekannt, erhielt Wink endlich den Anruf, auf den er sein ganzes Leben gewartet hatte. Harte Budgetkürzungen ließen die Montreal Expos praktisch überall nach Pitchern suchen. Für 140 kanadische Dollar pro Woche nahm Wink an und sicherte sich den fünften Platz in der Startrotation ihres Farmteams.</Bio>
+		<FaceID>7</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Larry -->
+		<uiIndex>1</uiIndex>
+		<NickName>Larry</NickName>
+		<Name>Larry Roachburn</Name>
+		<Bio>Nach acht erfolglosen Entziehungskuren blieb A.I.M. kaum eine Wahl, als Larry Roachburn aus der Organisation auszuschließen. Wie wir hören, überredete ihn sein Vater zu einem weiteren Versuch, seine Dämonen loszuwerden und Jahrzehnte voller Giftstoffe aus dem Körper zu spülen. Die Organisation wünscht ihm für seine Zukunft alles Gute.</Bio>
+		<FaceID>10</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Ears -->
+		<uiIndex>2</uiIndex>
+		<NickName>Ears</NickName>
+		<Name>Edward "Ears" Stockwell</Name>
+		<Bio>Ears Stockwell reichte vor fast achtzehn Monaten seine Kündigung ein. Seitdem haben wir nichts von ihm gehört und daher nichts Neues zu berichten. Offen gesagt haben wir uns allerdings auch nicht gerade bemüht, Kontakt aufzunehmen.</Bio>
+		<FaceID>11</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Bernie -->
+		<uiIndex>3</uiIndex>
+		<NickName>Bernie</NickName>
+		<Name>Doctor Bernie Gloveless</Name>
+		<Bio>Bernies Laufbahn bei A.I.M. lässt sich bestenfalls als wechselhaft bezeichnen. Nachdem er sich weigerte, seinen Posten als Arzt aufzugeben, und sich die Beschwerden anderer Mitglieder häuften, sah sich A.I.M. gezwungen, Doctor Bernie Gloveless unehrenhaft zu entlassen. Heute arbeitet er für einen internationalen Versicherer. Merke dir seinen Namen für die nächste Betriebsuntersuchung.</Bio>
+		<FaceID>15</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Reuban -->
+		<uiIndex>4</uiIndex>
+		<NickName>Reuban</NickName>
+		<Name>"Unusually Ruthless" Reuban</Name>
+		<Bio>Nach Jahren auf der Flucht wurde Reuban endlich gefasst und nach Rumänien abgeschoben. Dort verbüßt er wegen des Massakers an seiner Frau und Familie sechs lebenslange Haftstrafen gleichzeitig. An sein neues Umfeld scheint er sich gut zu gewöhnen. Zu seinen Gefängnisaufgaben gehört die Grünpflege; einige seiner Strauchskulpturen brachten der Haftanstalt mehrere Auszeichnungen für gute Gefängnispflege ein.</Bio>
+		<FaceID>16</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Pops -->
+		<uiIndex>5</uiIndex>
+		<NickName>Pops</NickName>
+		<Name>Pops McGillicutty</Name>
+		<Bio>Nach Jahren vergeblicher Überredungsversuche führte A.I.M. schließlich eine Zwangspensionierung ab 85 ein. Um Flussbestattungen zu vermeiden, eröffnete Pops einen Online-Bestattungsdienst, der sich auf die würdevolle Beisetzung von Söldnern spezialisiert.</Bio>
+		<FaceID>17</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Tex -->
+		<uiIndex>6</uiIndex>
+		<NickName>Tex</NickName>
+		<Name>Tex R. Colburn</Name>
+		<Bio>Einer unserer schillerndsten Krieger, Tex Colburn, hängte seine Six-Shooter an den Nagel, um seinen Traum vom Kino zu verwirklichen. Als aufstrebender Star japanischer Western spielte er die Hauptrolle in "Much Dust, Many Bullets" und erhielt glänzende Kritiken für "Attack of the Clydesdales" und "Have Honda, will Travel."</Bio>
+		<FaceID>19</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Hurl -->
+		<uiIndex>7</uiIndex>
+		<NickName>Hurl</NickName>
+		<Name>Hurl E. Cutter</Name>
+		<Bio>Hurl, ein lohnender Dauerpatient für Ärzte überall, wird seit neun Monaten vermisst. Weder Krankenhausakten noch unbekannte Leichen im Raum Havana, seinem letzten bekannten Aufenthaltsort, lieferten Hinweise. Fidel Dahan wurde mehrfach zu seinem Verschwinden befragt, doch die Polizei ist keinen Schritt weiter.</Bio>
+		<FaceID>20</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Biff -->
+		<uiIndex>8</uiIndex>
+		<NickName>Biff</NickName>
+		<Name>Biff Apscott</Name>
+		<Bio>Biff Apscott war selbst unter Söldnern ein echtes Unikat. Sein jugendlicher Enthusiasmus und die Art, wie er alle anderen an ihren eigenen Mut erinnerte, werden uns fehlen. Kaum zu glauben, aber offenbar hat er eine eigene Söldneragentur gegründet, um in einem eher erbärmlichen Versuch mit A.I.M. zu konkurrieren. Wie sehr uns das beunruhigt, müssen wir wohl nicht erklären.</Bio>
+		<FaceID>21</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Raffi -->
+		<uiIndex>9</uiIndex>
+		<NickName>Raffi</NickName>
+		<Name>Dr. Raffitto "Raffi" Leevon</Name>
+		<Bio>Doctor Leevon, dessen medizinischer Abschluss stets Anlass zu Diskussionen gab, verließ die Organisation Anfang des Jahres ohne Vorwarnung. Offenbar hat er seinen Namen geändert und eine neue Karriere begonnen. Doctor Raffiman und seine Cajun-Funk-Band Rotis &amp; Haggis begeistern die Musikwelt mit synthetisierten Löffeln und ihrem aktuellen Hit "Bajun Bayous".</Bio>
+		<FaceID>23</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Mike -->
+		<uiIndex>10</uiIndex>
+		<NickName>Mike</NickName>
+		<Name>Mike</Name>
+		<Bio>Während Verhandlungen über eine weitere Gehaltserhöhung brach Mike die Gespräche abrupt ab, nachdem er erfahren hatte, dass sich viele Arbeitgeber bereits über seine überhöhten Preise beschwerten. Sein Aufenthaltsort ist unbekannt - wie fast alles andere über ihn. Die letzte Nachricht an dieses Büro, abgestempelt in einem kleinen Land, dessen Name uns entfallen ist, enthielt Drohungen, an die wir uns lieber nicht erinnern.</Bio>
+		<FaceID>24</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Speck -->
+		<uiIndex>11</uiIndex>
+		<NickName>Speck</NickName>
+		<Name>Speck T. Kline</Name>
+		<Bio>Speck passte nie so recht ins Söldnerleben, doch sein Talent, vermeintlich Unreparierbares wieder in Gang zu bringen, machte ihn zu einem unserer gefragtesten Mitglieder. Umso überraschender war seine Entscheidung, eine konkurrierende Söldneragentur zu gründen. A.I.M. wünscht ihm viel Glück - wir alle wissen, dass er es brauchen wird.</Bio>
+		<FaceID>27</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Weasel -->
+		<uiIndex>12</uiIndex>
+		<NickName>Weasel</NickName>
+		<Name>Willy "Weasel" Augustin</Name>
+		<Bio>Wee Willy, auch als Weasel und Mouthpiece bekannt, wurde von Arbeitgebern vor allem als billiges Paar Ohren eingesetzt, um seine Kameraden auszuspionieren. In einer makabren Form von Gerechtigkeit bekam Augustin schließlich, was viele für längst überfällig hielten: Nachdem er seine Frau wegen Sozialbetrugs verpfiffen hatte, kam sie gegen Kaution frei, kehrte nach Hause zurück und erschoss ihn.</Bio>
+		<FaceID>28</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Lance -->
+		<uiIndex>13</uiIndex>
+		<NickName>Lance</NickName>
+		<Name>Lance Fisher</Name>
+		<Bio>Wegen dauernder Persönlichkeitskonflikte mit Victoria Waters wurde Lance nahegelegt, A.I.M. zu verlassen; im Gegenzug erhielt er einen Posten an der Westpoint Military Academy. Er nahm an und unterrichtet heute Ethik und taktischen Rückzug. Dazu veröffentlichte er kürzlich "Beating a Path to Safety without Screaming", erhältlich in den meisten Buchläden militärischer Hochschulen.</Bio>
+		<FaceID>30</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Eli -->
+		<uiIndex>14</uiIndex>
+		<NickName>Eli</NickName>
+		<Name>Doctor Eli Summers</Name>
+		<Bio>Doctor Summers galt als Teamspieler, der sich bei Arbeitgebern beliebt machte, indem er Aufträge mit Neulingen annahm und unaufdringlich seine Arbeit erledigte. A.I.M. bedauert seinen Abschied, freut sich aber, dass der gute Doktor sein Hobby zum Beruf gemacht hat. Auf der Seniors Pro Golf Tour belegte Eli bei den Depends Open in Pebble Beach einen respektablen vierten Platz.</Bio>
+		<FaceID>32</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Elroy -->
+		<uiIndex>15</uiIndex>
+		<NickName>Elroy</NickName>
+		<Name>Elroy B. Tolken</Name>
+		<Bio>Weg. Wir haben nicht gefragt. Uns egal. Interessiert es wen?</Bio>
+		<FaceID>33</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Skitz -->
+		<uiIndex>16</uiIndex>
+		<NickName>Skitz</NickName>
+		<Name>Bruce "Skitz" Bonner</Name>
+		<Bio>Bruce Bonner ist weg - und zwar völlig weg! Mit der Aufnahme qualifizierter Sprengstoffexperten wurde eine längst überfällige Entscheidung leicht. Nach rekordverdächtigen acht Bewährungsphasen wurde Skitz endlich aus der Organisation ausgeschlossen. Trotz intensiver Therapie und 21 Elektroschockbehandlungen bleibt er im Saint Michael's Hospital for the Criminally Insane untergebracht.</Bio>
+		<FaceID>34</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Wally -->
+		<uiIndex>17</uiIndex>
+		<NickName>Wally</NickName>
+		<Name>Walter "Wally" Yuntz</Name>
+		<Bio>Jemand sagte einmal, Wally hätte überhaupt kein Glück, wenn er nicht wenigstens Pech hätte. Nachdem seine Sehprobleme bestätigt wurden, sollte eine Korrekturoperation seine miserable Treffsicherheit endgültig beheben. Doch der Laser hatte einen Programmierfehler. Nun völlig blind, arbeitet er zusammen mit Chippy als Caddie für Dr. Eli Summers auf der Seniors Pro Golf Tour.</Bio>
+		<FaceID>35</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Turtle -->
+		<uiIndex>18</uiIndex>
+		<NickName>Turtle</NickName>
+		<Name>Herman "Turtle" Regents</Name>
+		<Bio>Turtles Abgang lässt sich vielleicht am besten mit einem Auszug aus seinem Kündigungsschreiben erklären: "Das Tempo im Kampf ist mir zu hoch geworden. Ich muss rennen, wo ich früher gehen konnte. Alle Wege sind ausgeschöpft, mir bleibt keine Alternative, als mit sofortiger Wirkung zu kündigen." Zuletzt arbeitete Herman in Chicago als Bewährungshelfer.</Bio>
+		<FaceID>36</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Rev -->
+		<uiIndex>19</uiIndex>
+		<NickName>Rev</NickName>
+		<Name>Reverend Clyde Potter</Name>
+		<Bio>Nach zahlreichen Beschwerden atheistischer Mitglieder wurde die Stelle des Kampfgeistlichen bei A.I.M. gestrichen - und damit auch der predigende Potter, eines unserer am seltensten eingesetzten Mitglieder. Reverend Clyde Potter wechselte zur Innercity Church of Christ in Baltimore. Heute bestreitet er jede Verbindung zu A.I.M., schickt seine Pensionsschecks zurück und nimmt unsere Anrufe nicht an.</Bio>
+		<FaceID>38</FaceID>
+	</MERC>
+	<MERC>
+		<!-- It -->
+		<uiIndex>20</uiIndex>
+		<NickName>It</NickName>
+		<Name>Carl "It" Goodman</Name>
+		<Bio>Carl wurde vor allem wegen seiner rohen Kraft angeheuert. Mit dem Brecheisen war er hervorragend und seine einfache, harmlose Art gefiel Arbeitgebern jahrelang. Nach A.I.M. kehrte Goodman zum professionellen Wrestling zurück, wo angeblich jeder Griff echt und jedes Risiko real ist. Freunde und Fans sehen ihn als Masked Mercenary an den meisten Samstagen bei Pay-Per-Views Wrestling Extravaganza.</Bio>
+		<FaceID>42</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Hamous -->
+		<uiIndex>21</uiIndex>
+		<NickName>Hamous</NickName>
+		<Name>Hamous</Name>
+		<Bio>Hamous sammelte seine ersten Kampferfahrungen in Metavira. Nach einer glänzenden Empfehlung des wichtigen Kunden Jack Richards erhielt er ein Praktikum bei A.I.M., das inzwischen ausgelaufen ist. Leider konnte Hamous nie genug Geld für den ersehnten Minivan sparen. Also tat er das Nächstbeste und stahl bei Paris einen. Genau genommen war es ein Eiswagen; zuletzt wurde er damit auf dem Weg nach Istanbul gesehen.</Bio>
+		<FaceID>45</FaceID>
+	</MERC>
+	<MERC>
+		<!-- Dyno -->
+		<uiIndex>22</uiIndex>
+		<NickName>Dyno</NickName>
+		<Name>Roger "Dyno" Wittman</Name>
+		<Bio>Roger gab sich Mühe. Wirklich große Mühe. Aber ihm fehlte einfach der nötige Biss. Einige Jungs nahmen ihn gern wegen der Unterhaltung mit, andere putzten ihre Gewehre mit ihm. Schließlich erkannte er selbst, dass er für diesen Beruf nicht gemacht war. Zuletzt war Dyno Zweitbesetzung für das Green Hippo in Animals on Ice.</Bio>
+		<FaceID>49</FaceID>
+	</MERC>
+</OLD_MERC>

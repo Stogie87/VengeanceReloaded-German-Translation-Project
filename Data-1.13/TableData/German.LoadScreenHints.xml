@@ -2,539 +2,691 @@
 <!--                                                                                                
 uiIndex           number of hint, 0 is a template that will not be selected
 szName            text to appear, 190 chars max
---> 
+
+A hint can appear according to its flags. So a hint that only has the <food>-tag will only appear if playing with the food system. 
+
+The other tags determine in what category this hint falls, and will be displayed accordingly
+-->                                                                                                 
 <LOADSCREENHINTS>
   <LOADSCREENHINT>
     <uiIndex>0</uiIndex>
-    <szName>This template should never show up</szName>    
+    <szName>Diese Vorlage sollte niemals angezeigt werden.</szName>
+    <lore>0</lore>
+    <weapons>0</weapons>
+    <items>0</items>
+    <keybind>0</keybind>
+    <food>0</food>
+    <zombie>0</zombie>
+    <overheat>0</overheat>
+    <ncth>0</ncth>
+    <covertops>0</covertops>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>1</uiIndex>
-    <szName>Die meisten Maschinengewehre haben austauschbare Läufe. Damit können Sie Ihre Waffe im Kampf schnell abkühlen.</szName>
+    <szName>Die meisten Maschinengewehre haben austauschbare Läufe. Wechsle den Lauf, um die Waffe im Gefecht schnell abzukühlen.</szName>
+    <overheat>1</overheat>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>2</uiIndex>
-    <szName>Benutze dein Messer an einer Leiche, um ihre Uniform zu bergen, oder hebe die Leiche auf.</szName>
+    <szName>Benutze dein Messer an einer Leiche, um die Uniform zu bergen oder den Körper aufzunehmen.</szName>
+    <covertops>1</covertops>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>3</uiIndex>
-    <szName>Spione können feindliche Uniformen benutzen, um sich als Soldaten zu tarnen.</szName>
+    <szName>Spione können feindliche Uniformen nutzen, um sich als Soldaten zu tarnen.</szName>
+    <covertops>1</covertops>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>4</uiIndex>
-    <szName>Durch Drücken von [.] kannst du zwischen verschiedenen Zielfernrohren und Visieren umschalten.</szName>
+    <szName>Mit [.] wechselst du zwischen verschiedenen Zielfernrohren und Visieren.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>5</uiIndex>
-    <szName>Wenn du Lebensmittel einige Tage lang aufbewahst, verderben sie und werden ungesund.</szName>
+    <szName>Lässt du frische Lebensmittel einige Tage liegen, verderben sie und werden ungesund.</szName>
+    <food>1</food>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>6</uiIndex>
-    <szName>Du kannst eine Vergiftung durch die Einnahme eines Gegenmittels oder durch den Auftrag des DOCTOR beseitigen.</szName>
+    <szName>Vergiftungen lassen sich mit einem Gegengift oder über die ARZT-Zuweisung behandeln.</szName>
+    <food>1</food>
+    <zombie>1</zombie>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>7</uiIndex>
-    <szName>Wenn ein "M" auf Ihrer Waffe erscheint, bedeutet das, dass sie gerade auf etwas montiert ist, was zu einer besseren Stabilität führt.</szName>
+    <szName>Erscheint ein 'M' an deiner Waffe, ist sie abgestützt. Das erhöht die Stabilität.</szName>
+    <weapons>1</weapons>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>8</uiIndex>
-    <szName>Drücke [STRG]+[Z], um den Mauszeiger im Fenstermodus zu sperren/freizugeben. Nützlich beim Verlassen des Sektors im taktischen Bildschirm.</szName>
+    <szName>Mit [STRG]+[Z] sperrst oder löst du den Mauszeiger im Fenstermodus. Praktisch beim Verlassen eines Sektors im Taktikbildschirm.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>9</uiIndex>
-    <szName>Türöffnung blockiert? Drücken Sie [X], wenn Sie neben jemandem stehen, um den Platz zu tauschen.</szName>
+    <szName>Türöffnung blockiert? Drücke neben einer Person [X], um die Plätze zu tauschen.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>10</uiIndex>
-    <szName>Du brauchst Hilfe? Hilf dir selbst, indem du auf dem strategischen Bildschirm [H] drückst. Und besuche die helfenden Bären auf www.bears-pit.com.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>11</uiIndex>
-    <szName>Dreh das Rad zum Glück. Erhöhe die Trefferchance (CtH) in allen Feuermodi mit dem [MAUSRAD]. Mit [ALT]+[MAUSRAD] kannst du die Größe der automatischen Feuersalve einstellen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>12</uiIndex>
-    <szName>Einige Sektoren bieten Einrichtungen wie Bars oder Minen, denen Sie Söldner zuweisen können. Beim Zuweisen erscheinen Tooltipps, die auf die Funktion der Einrichtung hinweisen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>13</uiIndex>
-    <szName>Stiehl die Waffe des Gegners mit dem Hand-Cursor [STRG]+[LINKE-MAUSTASTE]. Wenn der Gegner in einem nicht sterbenden Zustand den Staub küsst, kannst du ihm alles abnehmen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>14</uiIndex>
-    <szName>Die blaue Flagge, die du im Feld in den Boden steckst, um eine Mine oder Falle zu markieren, wird auch vom Feind gesehen und er reagiert entsprechend darauf.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>15</uiIndex>
-    <szName>Wenn Sie [END] im taktischen Bildschirm gedrückt halten, wird das detaillierte Sichtfeld des Söldners angezeigt, das von rot (sieht niemanden) bis grün (sieht jeden) reicht.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>16</uiIndex>
-    <szName>Wenn Sie im taktischen Bildschirm die Taste [ENTF] gedrückt halten, werden Feinde von rot (sie werden sogar in Bauchlage gesehen) bis grün (perfekte Tarnung) angezeigt.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>17</uiIndex>
-    <szName>Zerstörte Fenster. Zerschieße Fenster und klettere mit [SHIFT]+[J] hindurch.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>18</uiIndex>
-    <szName>Klicken Sie im Sektorinventar auf die leeren Inventarplätze der Söldner, um eine Liste der Gegenstände anzuzeigen, die dort abgelegt werden können.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>19</uiIndex>
-    <szName>Klicken Sie im Sektorinventar auf die leeren Aufsatzplätze des Gegenstands, um eine Liste der kompatiblen Aufsätze anzuzeigen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>20</uiIndex>
-    <szName>Im Sektorinventar können Sie mit [STRG]+[LINKE-MAUSTASTE] auf die leeren Inventarplätze des Söldners klicken, um die kategorisierte Gegenstandsliste des Sektors anzuzeigen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>21</uiIndex>
-    <szName>Beim Auswählen von Gegenständen über das Popup-Menü (erreichbar durch Anklicken leerer Inventar-/Attachment-Slots) wird der am wenigsten beschädigte Gegenstand ausgewählt.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>22</uiIndex>
-    <szName>Drücken Sie [STRG]+[SHIFT]+[X], um Schleichen in Echtzeit zu aktivieren. Wenn diese Funktion aktiviert ist, wechseln Sie nicht in den Runden-Modus, sobald Sie Feinde erspähen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>23</uiIndex>
-    <szName>Drücken Sie [STRG]+[X], um in den rundenbasierten Modus zu wechseln, während das Schleichen in Echtzeit aktiv ist. Funktioniert nur, wenn Sie feindliche Soldaten bereits sehen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>24</uiIndex>
-    <szName>Beleuchten Sie nachts Feinde mit Fackeln, um Ihre Chancen zu erhöhen, sie zu erledigen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>25</uiIndex>
-    <szName>Ihr Söldner steht unter Beschuss und kann sich nicht zurückziehen? Tarnen Sie sie mit Rauchgranaten.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>26</uiIndex>
-    <szName>Je nach Ihren Einstellungen wird eine Waffe durch eine vollständige Reparatur auch gereinigt.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>27</uiIndex>
-    <szName>Geschäfte verkaufen nicht nur, sondern kaufen auch bestimmte Ausrüstungsgegenstände. Sie sind jedoch recht wählerisch.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>28</uiIndex>
-    <szName>Sie haben Angst, dass der Feind Sie unterbricht? Schießen Sie auf ihre Beine und hoffen Sie, dass sie hinfallen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>29</uiIndex>
-    <szName>Es ist schwieriger, einen laufenden Gegner zu treffen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>30</uiIndex>
-    <szName>Sie können mit [STRG]+[.] ein nützliches Sektormenü öffnen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>31</uiIndex>
-    <szName>Erhöhen Sie mit der [RECHTEN-MAUSTASTE] die Anzahl an Kugeln im Automatikfeuer.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>32</uiIndex>
-    <szName>Kombinieren Sie Alkohol mit einem Lappen, um einen Molotow-Cocktail herzustellen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>33</uiIndex>
-    <szName>Einige NPCs können bestochen werden...</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>34</uiIndex>
-    <szName>Schleichen beim Rennen erscheint unintuitiv, doch es funktioniert.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>35</uiIndex>
-    <szName>Du kannst liegende Gegner schnell mit einem Messer töten.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>36</uiIndex>
-    <szName>Sobald der Feind alarmiert ist, wird er möglicherweise Verstärkung anfordern...</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>37</uiIndex>
-    <szName>Bobby Rays Website wird zugänglich, wenn Sie weiter vorankommen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>38</uiIndex>
-    <szName>Schleichen in der Nähe von unaufmerksamen Gegnern trainiert die Beweglichkeit, ist aber riskant.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>39</uiIndex>
-    <szName>Durch Schläge werden Geschicklichkeit und Kraft verbessert.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>40</uiIndex>
-    <szName>Das Verarzten und Scharfmachen von Bomben wird deine Weisheit erhöhen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>41</uiIndex>
-    <szName>Fernzündbomben können mit einem Fernzünder gezündet werden - nehmen Sie ihn in die Hand und drücken Sie die [RECHTE-MAUSTASTE].</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>42</uiIndex>
-    <szName>Wenn Sie Gegenstände manuell verschieben möchten, können Sie die MOVEITEM-Zuweisung in Städten verwenden.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>43</uiIndex>
-    <szName>Mit [B] kannst du den Feuermodus umschalten.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>44</uiIndex>
-    <szName>Wenn Sie im taktischen Bildschirm [SHIFT]+[R] drücken, wird Ihr gesamtes Team zum Nachladen aufgefordert.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>45</uiIndex>
-    <szName>Drücken Sie [S], um aufzustehen, [C], um in die Hocke zu gehen, [P], um sich hinzulegen und [R], um aufzustehen und zu rennen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>46</uiIndex>
-    <szName>Drücken Sie [Z], um in den Schleichmodus zu wechseln.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>47</uiIndex>
-    <szName>Wurfmesser können einen nicht alarmierten Gegner auf der Stelle töten.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>48</uiIndex>
-    <szName>Sie können ein nützliches Beschreibungsfeld öffnen, indem Sie mit der [RECHTEN-MAUSTASTE] auf ein Element klicken.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>49</uiIndex>
-    <szName>Langfristige Söldnerverträge sind auf Dauer billiger.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>50</uiIndex>
-    <szName>Die Nichtbezahlung von M.E.R.C.-Rechnungen kann Konsequenzen haben...</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>51</uiIndex>
-    <szName>Wenn der Gegner Ihre Sektoren erobert, kann er Ihre Sachen an sich nehmen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>52</uiIndex>
-    <szName>Ärzte können durch eine Operation verlorene Lebensenergie sofort wiederherstellen - dies wird Ihre medizinischen Vorräte jedoch stark beanspruchen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>53</uiIndex>
-    <szName>Die Einnahme von zu vielen Drogen hat Konsequenzen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>54</uiIndex>
-    <szName>Sollten Sie jemals ein Flugzeug oder Helikopter besteigen, könnten sich die SAM-Anlagen als nützlich erweisen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>55</uiIndex>
-    <szName>Verwenden Sie [UMSCHALT]+[B] zu Kampfbeginn, um alle Rucksäcke ihrer Söldner abzulegen. Nach dem Kampf benutzen Sie [STRG]+[SHIFT]+[F], um alle Rucksäcke wieder aufzusammeln.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>56</uiIndex>
-    <szName>Du kannst blaue Flaggen auf Minen zerstören, indem du Granaten auf sie wirfst. Der Feind kann auf Minen ohne Flaggen treten. Andererseits kann ihnen das aber auch passieren.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>57</uiIndex>
-    <szName>Drücken Sie [L], um in eine bestimmte Richtung zu schauen. Drücken Sie erneut [L], um durch das Waffenvisier zu schauen, insofern Ihre Waffe über eines verfügt.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>58</uiIndex>
-    <szName>Versuchen Sie stets, die Runde mit Ihren Söldnern geduckt zu beenden. Das schützt Sie vor unbeabsichtigtem Beschuss durch eigene Truppen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>59</uiIndex>
-    <szName>Sie können einen Bereich unter Sperrfeuer nehmen. Halten Sie dazu im Autofeuermodus die [LINKE-MAUSTASTE] gedrückt und ziehen Sie den Cursor über den gewünschten Bereich.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>60</uiIndex>
-    <szName>Cambria hat ein Krankenhaus, in dem man seine Söldner heilen kann.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>61</uiIndex>
-    <szName>Zweibeine geben nur dann einen Bonus, wenn Sie sich in Bauchlage befinden oder wenn die Waffe montiert ist.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>62</uiIndex>
-    <szName>Schwere Waffen verbrauchen viel Ausdauer, wenn Sie sie im Stehen abfeuern oder bereithalten. Gehen Sie in Bauchlage, um Energie zu sparen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>63</uiIndex>
-    <szName>Wann immer es möglich ist, sollten Sie in Deckung gehen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>64</uiIndex>
-    <szName>Die Rebellenmiliz kann Ihren Söldnern einiges an Feindfeuer abnehmen. Verlassen Sie sich aber nicht darauf, dass sie die ganze Arbeit machen.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>65</uiIndex>
-    <szName>Mobile Milizen können Söldnern folgen, solange sich der Trupp in 1 Sektor Entfernung zu ihnen befindet. Warten Sie, bis die Milizen an Ihrer Position angekommen sind.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>66</uiIndex>
-    <szName>Im Menü für die Umverteilung der Miliz werden bei gedrückter [STRG]-Taste 5 Milizen bewegt. Mit [SHIFT] werden alle in einem Sektor bewegt.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>67</uiIndex>
-    <szName>Mobile Milizen können dir beim Angriff auf eine Stadt helfen, wenn du sie mitnimmst und sie vor der Schlacht als Verstärkung rufst.</szName>
-  </LOADSCREENHINT>
-  <LOADSCREENHINT>
-    <uiIndex>68</uiIndex>
-    <szName>Oben auf dem Bildschirm des Sektorinventars befinden sich Schaltflächen, die beim Sortieren und Filtern von Gegenständen helfen. </szName>
+    <szName>Brauchst du Hilfe? Drücke im Strategiebildschirm [H]. Weitere Hilfe findest du bei den Bären auf www.bears-pit.com.</szName>
+    <keybind>1</keybind>
     <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
+    <uiIndex>11</uiIndex>
+    <szName>Mit dem [MAUSRAD] erhöhst du in allen Feuermodi die Trefferchance (CtH). [ALT]+[MAUSRAD] legt die Größe einer Feuerstoßsalve fest.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>12</uiIndex>
+    <szName>In manchen Sektoren gibt es Einrichtungen wie Bars oder Minen. Weise dort Söldner zu; Tooltips erklären die jeweilige Funktion.</szName>
+    <keybind>1</keybind>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>13</uiIndex>
+    <szName>Langfinger aufgepasst: Mit Hand-Cursor + [STRG]+[LINKE-MAUSTASTE] stiehlst du die Waffe eines Gegners. Liegt er kampfunfähig am Boden, kannst du ihn komplett ausplündern.</szName>
+    <keybind>1</keybind>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>14</uiIndex>
+    <szName>Blaue EOD-Markierungen kennzeichnen entdeckte Minen und Fallen. Denk daran: Auch der Feind sieht sie und reagiert darauf.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>15</uiIndex>
+    <szName>Halte im Taktikbildschirm [ENDE], um das genaue Sichtfeld des gewählten Söldners zu sehen: Rot = keine Sicht, Grün = selbst liegende Ziele sichtbar.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>16</uiIndex>
+    <szName>Alarmstufe Rot: Halte [ENTF], um zu sehen, wie gut bekannte Gegner deinen Söldner erkennen. Rot = selbst liegend sichtbar, Grün = perfekt verborgen.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>17</uiIndex>
+    <szName>Fensterdurchstieg: Zerschieße bei Bedarf die Scheibe, blicke zum offenen Fenster und drücke [UMSCHALT]+[J].</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>18</uiIndex>
+    <szName>Klicke im Sektorinventar auf einen leeren Inventarplatz eines Söldners, um passende Gegenstände aufzulisten.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>19</uiIndex>
+    <szName>Klicke im Sektorinventar auf einen leeren Aufsatzplatz eines Gegenstands, um kompatible Aufsätze aufzulisten.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>20</uiIndex>
+    <szName>Mit [STRG]+[LINKE-MAUSTASTE] auf einen leeren Inventarplatz erhältst du im Sektorinventar eine nach Kategorien sortierte Gegenstandsliste.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>21</uiIndex>
+    <szName>Wählst du Gegenstände über die Popup-Menüs leerer Inventar- oder Aufsatzplätze, wird automatisch das am wenigsten beschädigte Exemplar genommen.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>22</uiIndex>
+    <szName>Mit [STRG]+[UMSCHALT]+[X] aktivierst du Echtzeit-Schleichen. Solange der Feind dich nicht bemerkt hat, löst Sichtkontakt mit Feindsoldaten keinen Rundenmodus aus.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>23</uiIndex>
+    <szName>Mit [STRG]+[X] wechselst du beim Echtzeit-Schleichen in den Rundenmodus. Das funktioniert nur, wenn du feindliche Soldaten siehst.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>24</uiIndex>
+    <szName>Leuchte Gegner nachts mit Leuchtfackeln aus, um deine Trefferchance zu erhöhen.</szName>
+    <items>1</items>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>25</uiIndex>
+    <szName>Steht dein Söldner unter Beschuss und kann nicht zurück? Deck ihn mit Rauchgranaten.</szName>
+    <items>1</items>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>26</uiIndex>
+    <szName>Je nach Einstellung wird eine Waffe bei vollständiger Reparatur zugleich gereinigt.</szName>
+    <items>1</items>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>27</uiIndex>
+    <szName>Manche Händler verkaufen nicht nur, sondern kaufen auch Ausrüstung. Allerdings sind sie oft ziemlich wählerisch.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>28</uiIndex>
+    <szName>Fürchtest du einen gegnerischen Interrupt? Schieß auf die Beine und hoffe, dass der Gegner zu Boden geht.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>29</uiIndex>
+    <szName>Ein laufender Gegner ist schwerer zu treffen.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>30</uiIndex>
+    <szName>Mit [STRG]+[.] öffnest du ein nützliches Sektormenü.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>31</uiIndex>
+    <szName>Mit der [RECHTEN-MAUSTASTE] erhöhst du beim Automatikfeuer die Anzahl der abgefeuerten Patronen.</szName>
+    <weapons>1</weapons>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>32</uiIndex>
+    <szName>Kombiniere Alkohol und einen Lappen zu einem Molotowcocktail.</szName>
+    <items>1</items>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>33</uiIndex>
+    <szName>Manche NPCs lassen sich bestechen...</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>34</uiIndex>
+    <szName>Beim Rennen zu schleichen klingt widersinnig, funktioniert aber.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>35</uiIndex>
+    <szName>Einen liegenden Gegner kannst du mit dem Messer schnell ausschalten.</szName>
+    <weapons>1</weapons>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>36</uiIndex>
+    <szName>Wird der Feind alarmiert, kann er Verstärkung rufen...</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>37</uiIndex>
+    <szName>Bobby Rays Website wird verfügbar, sobald du einen Ort gefunden hast, an dem Lieferungen angenommen werden können.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>38</uiIndex>
+    <szName>Schleichen in der Nähe ahnungsloser Gegner trainiert deine Beweglichkeit - ist aber riskant.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>39</uiIndex>
+    <szName>Faustkampf steigert Geschicklichkeit und Kraft.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>40</uiIndex>
+    <szName>Ärztliche Behandlung und das Schärfen von Bomben steigern deine Weisheit.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>41</uiIndex>
+    <szName>Ferngezündete Bomben löst du mit einem Fernzünder aus: Nimm ihn in die Hand und drücke die [RECHTE-MAUSTASTE].</szName>
+    <items>1</items>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>42</uiIndex>
+    <szName>Zum automatischen Verschieben von Gegenständen kannst du in Städten die MOVEITEM-Zuweisung nutzen.</szName>
+    <items>1</items>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>43</uiIndex>
+    <szName>Mit [B] wechselst du den Feuermodus.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>44</uiIndex>
+    <szName>Mit [UMSCHALT]+[R] befiehlst du im Taktikbildschirm deinem gesamten Team nachzuladen.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>45</uiIndex>
+    <szName>[S] = stehen/gehen, [C] = hocken, [P] = hinlegen und [R] = aufstehen/rennen.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>46</uiIndex>
+    <szName>Mit [Z] schaltest du den Schleichmodus ein oder aus.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>47</uiIndex>
+    <szName>Wurfmesser können einen nicht alarmierten Gegner mit einem Treffer sofort töten.</szName>
+    <weapons>1</weapons>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>48</uiIndex>
+    <szName>Mit der [RECHTEN-MAUSTASTE] auf einen Gegenstand öffnest du dessen Beschreibungsfenster.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>49</uiIndex>
+    <szName>Langfristige Söldnerverträge sind auf Dauer günstiger.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>50</uiIndex>
+    <szName>Unbezahlte M.E.R.C.-Rechnungen können Folgen haben...</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>51</uiIndex>
+    <szName>Erobert der Feind deine Sektoren, kann er sich an deiner dort gelagerten Ausrüstung bedienen.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>52</uiIndex>
+    <szName>Ärzte können durch Operationen verlorene Lebenspunkte sofort teilweise wiederherstellen. Das verbraucht jedoch deutlich mehr medizinische Vorräte.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>53</uiIndex>
+    <szName>Zu viele Drogen bleiben nicht ohne Folgen.</szName>
+    <items>1</items>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>54</uiIndex>
+    <szName>Wenn du in die Luft gehst - im guten Sinne - vergiss die SAM-Stellungen nicht.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>55</uiIndex>
+    <szName>Mit [UMSCHALT]+[B] legst du zu Kampfbeginn alle Rucksäcke ab. Nach dem Kampf sammelt [STRG]+[UMSCHALT]+[F] sie wieder ein.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>56</uiIndex>
+    <szName>Blaue Minenmarkierungen lassen sich mit Granaten zerstören. Der Feind kann dann auf die unmarkierte Mine treten - du allerdings auch.</szName>
+    <items>1</items>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>57</uiIndex>
+    <szName>Drücke [L], um die Blickrichtung zu ändern. Nochmals [L] macht die Waffe schussbereit und nutzt Zielfernrohr oder Visierung, falls vorhanden.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>58</uiIndex>
+    <szName>Beende deinen Zug möglichst mit mindestens hockenden Söldnern. Das schützt vor versehentlichem Eigenbeschuss.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>59</uiIndex>
+    <szName>Mit Automatikfeuer kannst du eine Fläche bestreichen: Salve wählen, [LINKE-MAUSTASTE] am ersten Ziel halten und über den gewünschten Bereich ziehen.</szName>
+    <weapons>1</weapons>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>60</uiIndex>
+    <szName>In Salinas gibt es ein Krankenhaus, in dem du deine Söldner behandeln lassen kannst.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>61</uiIndex>
+    <szName>Zweibeine geben nur in Bauchlage oder bei aufgelegter Waffe einen Bonus.</szName>
+    <weapons>1</weapons>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>62</uiIndex>
+    <szName>Schwere Waffen kosten im Stehen viel Ausdauer - selbst beim bloßen Anschlagen. Geh in Bauchlage, um Energie zu sparen.</szName>
+    <weapons>1</weapons>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>63</uiIndex>
+    <szName>Nutze Deckung, wann immer es möglich ist.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>64</uiIndex>
+    <szName>Rebellenmiliz kann Feuer von deinen Söldnern abziehen. Verlass dich aber nicht darauf, dass sie die ganze Arbeit erledigt.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>65</uiIndex>
+    <szName>Mobile Miliz kann Söldner auf der Karte begleiten, solange sie höchstens einen Sektor entfernt ist. Warte, bis sie deine Position erreicht.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>66</uiIndex>
+    <szName>Im Menü zur Milizverteilung verschiebt [STRG] jeweils 5 Milizionäre; [UMSCHALT] verschiebt alle Milizionäre eines Sektors.</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>67</uiIndex>
+    <szName>Mobile Miliz kann einen Stadtangriff unterstützen. Halte sie in deiner Nähe und rufe sie vor der Schlacht als Verstärkung.</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>68</uiIndex>
+    <szName>Oben im Sektorinventar helfen Schaltflächen beim Sortieren und Filtern. Fahre mit der Maus darüber, um ihre Funktion anzuzeigen.</szName>
+    <lore>1</lore>
+    <items>1</items>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
     <uiIndex>69</uiIndex>
-    <szName>HS-Munition richtet großen Schaden an, wird aber leicht von Körperpanzerung aufgehalten. PB-Munition kann Körperpanzerungen durchdringen, richtet aber weniger Schaden an.</szName>
+    <szName>HP-Munition verursacht hohen Schaden, wird aber leicht von Panzerung gestoppt. AP-Munition durchschlägt Panzerung besser, verursacht aber weniger Schaden.</szName>
+    <items>1</items>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>70</uiIndex>
-    <szName>Verwende HS-Munition, um Bloodcats zu töten.</szName>
+    <szName>Nutze HP-Munition gegen Bloodcats.</szName>
+    <items>1</items>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>71</uiIndex>
-    <szName>Wer den Einheimischen hilft, stärkt ihre Loyalität. Wenn Sie mit ihnen sprechen, können Sie manchmal auch nützliche Informationen erhalten.</szName>
+    <szName>Hilfst du den Einheimischen, gewinnst du Loyalität. Gespräche können außerdem nützliche Informationen liefern.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>72</uiIndex>
-    <szName>Man muss in der Stadt genügend Loyalität haben, bevor man Milizen ausbilden kann.</szName>
+    <szName>Eine Stadt braucht genügend Loyalität, bevor du dort Miliz ausbilden kannst.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>73</uiIndex>
-    <szName>Söldner mit Lehrfähigkeiten bilden Milizen schneller aus.</szName>
+    <szName>Söldner mit der Fähigkeit Lehren bilden Miliz schneller aus.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>74</uiIndex>
-    <szName>Drücken Sie [O], um das Optionsmenü im Spiel zu öffnen.</szName>
+    <szName>Mit [O] öffnest du im Spiel das Optionsmenü.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>75</uiIndex>
-    <szName>Drücken Sie [ALT]+[S], um das Spiel in einem Schnellspeicherplatz zu speichern. Mit [ALT]+[L] wird das Spiel aus dem Schnellspeicherplatz schnell geladen.</szName>
+    <szName>[ALT]+[S] speichert im Schnellspeicherstand. Mit [ALT]+[L] lädst du den Schnellspeicherstand.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>76</uiIndex>
-    <szName>Drücken Sie [STRG]+[S], um das Speichermenü direkt zu öffnen.</szName>
+    <szName>Mit [STRG]+[S] öffnest du sofort das Speichermenü.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>77</uiIndex>
-    <szName>Wenn Sie im Hauptmenü die Taste [ALT] gedrückt halten und auf die Option "Gespeichertes Spiel fortsetzen" klicken, wird das letzte gespeicherte Spiel sofort geladen.</szName>
+    <szName>Hältst du im Hauptmenü [ALT] gedrückt und klickst auf 'Spiel fortsetzen', wird sofort der zuletzt gespeicherte Spielstand geladen.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>78</uiIndex>
-    <szName>Bei den Gelbhemden handelt es sich um Verwaltungsgegner, die über sehr schlechte Ausrüstung verfügen und kurz nach Ihrer Ankunft in Arulco durch reguläre Gegner ersetzt werden.</szName>
+    <szName>Gelbhemden sind schlecht ausgerüstete Verwaltungs- und Polizeitruppen. Kurz nach deiner Ankunft in Arulco werden sie durch reguläre Soldaten ersetzt.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>79</uiIndex>
-    <szName>Die Rothemden sind die reguläre Armee von Deidranna und werden Ihnen die meiste Zeit des Spiels gegenüberstehen.</szName>
+    <szName>Rothemden bilden Deidrannas reguläre Armee und werden deine häufigsten Gegner sein.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>80</uiIndex>
-    <szName>Schwarzhemden sind Söldner, die von Deidranna angeheuert wurden. Sie haben die beste Ausrüstung und sind die härtesten Gegner. Mit steigendem Fortschritt nimmt ihre Zahl zu.</szName>
+    <szName>Schwarzhemden sind von Deidranna angeheuerte Elite-Söldner mit bester Ausrüstung, starken Waffen und hohen Werten. Höhere Schwierigkeitsgrade erhöhen ihre Zahl.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>81</uiIndex>
-    <szName>Die grüne Miliz kann zu einer regulären Miliz weiter ausgebildet werden. Eine reguläre Miliz ist nützlicher, kostet aber mehr Geld für Ausbildung und Unterhalt.</szName>
+    <szName>Grüne Miliz kann zur regulären Miliz weitergebildet werden. Reguläre Miliz ist stärker, kostet aber mehr Ausbildung und Unterhalt.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>82</uiIndex>
-    <szName>Veteranenmilizen können nicht ausgebildet werden. Milizen können nach einem Kampf Veteranen werden, wenn sie sich gut geschlagen haben.</szName>
+    <szName>Veteranenmiliz kann nicht direkt ausgebildet werden. Bewährt sich Miliz im Kampf, kann sie zum Veteranen aufsteigen.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>83</uiIndex>
-    <szName>Versuchen Sie, sterbende Söldner so schnell wie möglich zu verbinden, da sie sonst verbluten.</szName>
+    <szName>Verbinde einen sterbenden Söldner so schnell wie möglich, sonst kann er verbluten.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>84</uiIndex>
-    <szName>Versuchen Sie immer, Ihren Scharfschützen eine Seitenwaffe zu geben. Scharfschützen sind in Nahkampfsituationen von begrenztem Nutzen.</szName>
+    <szName>Gib Scharfschützen möglichst eine Seitenwaffe. Im Nahkampf sind Scharfschützen nur eingeschränkt brauchbar.</szName>
+    <weapons>1</weapons>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>85</uiIndex>
-    <szName>Mit Betäubungsgranaten kannst du deine Gegner wehrlos machen. Du kannst Ausrüstung von wehrlosen Feinden stehlen.</szName>
+    <szName>Blendgranaten können Gegner kampfunfähig machen. Wehrlosen Gegnern kannst du anschließend die Ausrüstung abnehmen.</szName>
+    <weapons>1</weapons>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>86</uiIndex>
-    <szName>Versuchen Sie, Feinde zu betäuben oder zu unterdrücken, bevor Sie eine Tränengasgranate auf sie werfen. So können sie sich nicht aus der Reichweite des Tränengases entfernen.</szName>
+    <szName>Betäube oder unterdrücke Gegner vor dem Einsatz von Tränengas. So können sie schlechter aus der Gaswolke fliehen oder eine Gasmaske aufsetzen.</szName>
+    <weapons>1</weapons>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>87</uiIndex>
-    <szName>Prüfen Sie immer, ob Gegner Gasmasken tragen, bevor Sie Tränengas einsetzen. Halten Sie die [ALT]-Taste gedrückt, während Sie den Gegner anvisieren, um seine Details zu sehen.</szName>
+    <szName>Prüfe vor Tränengas, ob der Gegner eine Gasmaske trägt. Halte beim Anvisieren [ALT], um Details zu sehen; die Entfernung bestimmt deren Genauigkeit.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>88</uiIndex>
-    <szName>Vergewissern Sie sich, dass Sie Ihre Waffe mit [ALT]+[R] immer vollständig geladen haben.</szName>
+    <szName>Mit [ALT]+[R] hältst du deine Waffe jederzeit vollständig geladen.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>89</uiIndex>
-    <szName>Vergessen Sie nicht in Deckung zu gehen.</szName>
+    <szName>Vermeide gegnerische Sicht. Wirst du entdeckt, nutze Deckung.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>90</uiIndex>
-    <szName>Wenn sich Bäume in Ihre Sichtlinie drängen, drücken Sie [T], um die Baumkronen zu entfernen. Sie können die Taste [ENTF] drücken, um Ihr Umfeld besser wahrzunehmen.</szName>
+    <szName>Versperren Bäume die Sichtlinie, drücke [T] für freie Sicht. Mit [ENTF] kannst du deine Umgebung besser einschätzen.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>91</uiIndex>
-    <szName>L.B.E. steht für Load Bearing Equipment (Last tragende Ausrüstung).</szName>
+    <szName>L.B.E. steht für 'Load Bearing Equipment' - also Trageausrüstung.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>92</uiIndex>
-    <szName>Wechseln Sie zwischen Boden- und Dachzielen mit der [TAB]-Taste.</szName>
+    <szName>Mit [TAB] wechselst du zwischen Zielen am Boden und auf Dächern.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>93</uiIndex>
-    <szName>Schießen Sie aus der Deckung heraus und achten Sie darauf, wie viele AP Sie verbrauchen, um Ihren Hintern anschließend wieder in Deckung bringen zu können.</szName>
+    <szName>Feuere aus der Deckung und behalte im Blick, wie viele AP du brauchst, um danach wieder den Kopf einzuziehen.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>94</uiIndex>
-    <szName>Achten Sie darauf, was die Söldner hören, denn es kann Ihnen eine Menge Ärger ersparen, wenn Sie wissen, woher die Feinde kommen!</szName>
+    <szName>Achte darauf, was deine Söldner hören. Zu wissen, aus welcher Richtung der Feind kommt, kann dir viel Ärger ersparen.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>95</uiIndex>
-    <szName>Sie sehen ein weißes "Ping", das an der Stelle blinkt, von der aus die Geräusche zu hören waren.</szName>
+    <szName>An der Position eines gehörten Geräuschs blinkt kurz ein weißer 'Ping' auf.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>96</uiIndex>
-    <szName>Das Abfeuern deiner Waffe kann den Druck von einem verletzten Söldner oder jemandem, der knietief in der Scheiße steckt, nehmen!</szName>
+    <szName>Eigenes Feuer kann gegnerische Aufmerksamkeit von einem Verwundeten oder einem Kameraden in großer Bedrängnis abziehen.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>97</uiIndex>
-    <szName>Halten Sie sich in der Nacht von Lichtquellen fern und versuchen Sie diese zu Ihrem Vorteil zu nutzen.</szName>
+    <szName>Meide nachts Lichtquellen und versuche, sie stattdessen gegen den Feind zu nutzen.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>98</uiIndex>
-    <szName>Drücken Sie [ALT]+[Z], um alle Ihre Söldner in den Stealth-Modus zu versetzen, und [=], um alle auszuwählen.</szName>
+    <szName>Mit [ALT]+[Z] schickst du alle Söldner in den Schleichmodus; mit [=] wählst du alle aus.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>99</uiIndex>
-    <szName>Nachts ist es besonders wichtig, sich auf den Hörsinn zu verlassen. Denn mit der richtigen Ausrüstung hören Sie weiter, als Sie sehen können.</szName>
+    <szName>Nachts ist das Gehör besonders wichtig. Ohne passende Ausrüstung wirst du mehr hören als sehen.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>100</uiIndex>
-    <szName>Nachteinsätze sind am anfangs wahrscheinlich die beste Wahl, wenn man sich auf Pistolen und S.M.G.'s verlassen muss.</szName>
+    <szName>Gerade zu Beginn sind Nachteinsätze oft die beste Wahl, wenn du auf Pistolen und MPs angewiesen bist.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>101</uiIndex>
-    <szName>Drücken Sie [STRG]+[ALT]+[G], um das künstliche Licht um die Söldner herum ein- und auszuschalten.</szName>
+    <szName>Mit [STRG]+[ALT]+[G] schaltest du die künstliche Beleuchtung um deine Söldner ein oder aus.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>102</uiIndex>
-    <szName>Wenn Sie in ein Gewitter geraten, sollten Sie auf der Hut sein, denn ein Blitz kann Ihre Position verraten und der Regen erschwert die Sicht.</szName>
+    <szName>Gerätst du in ein Gewitter, bleib wachsam: Blitze können deine Position verraten und Regen erschwert die Sicht.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>103</uiIndex>
-    <szName>Bleibt nicht zu dicht beieinander, denn ein Querschläger oder eine Granate kann eurem gesamten Trupp schweren Schaden zufügen.</szName>
+    <szName>Clusterf*%ck: Bleibt nicht dicht zusammen. Ein verirrter Feuerstoß oder eine Granate kann sonst den ganzen Trupp ausschalten.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>104</uiIndex>
-    <szName>Jeder Zug, den du machst, bestimmt, wie der Kampf weitergeht.</szName>
+    <szName>Jede Bewegung beeinflusst, wie sich die Schlacht entwickelt.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>105</uiIndex>
-    <szName>Kümmern Sie sich immer erst um die gegenwärtige Bedrohung, bevor Sie einen neuen Plan verfolgen.</szName>
+    <szName>Beseitige immer zuerst die akute Bedrohung, bevor du einen anderen Plan verfolgst.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>106</uiIndex>
-    <szName>Wenn Sie sich auf einem Dach bewegen, versuchen Sie, sich in geraden Linien zu bewegen, denn diagonale Bewegungen können Sie verlangsamen.</szName>
+    <szName>Bewege dich auf Dächern möglichst geradlinig. Diagonale Bewegungen können dich verlangsamen.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>107</uiIndex>
-    <szName>Murmeln können in einem Faustkampf erstaunlich nützlich sein.</szName>
+    <szName>Murmeln können in einem Faustkampf überraschend nützlich sein.</szName>
+    <items>1</items>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>108</uiIndex>
-    <szName>Wenn Sie schnell vorankommen müssen, achten Sie darauf, dass Sie nicht mehr als 100 Prozent Gewicht auf die Söldner laden, denn das verlangsamt die gesamte Gruppe.</szName>
+    <szName>Musst du schnell vorankommen, belaste deine Söldner nicht über 100 Prozent. Übergewicht verlangsamt den ganzen Trupp.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>109</uiIndex>
-    <szName>Das Zählen von Kugeln während eines Kampfes ist schwierig. Wundern Sie sich nicht, wenn die Söldner vergessen, wie viele sie noch haben.</szName>
+    <szName>Im Feuergefecht Patronen mitzuzählen ist schwer. Wundere dich nicht, wenn Söldner nicht mehr genau wissen, wie viele noch im Magazin sind.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>110</uiIndex>
-    <szName>Jeder Söldner hat eine andere Herangehensweise, wenn er mit einem NPC spricht. Erwarte nicht, dass Biff Menschen effektiv bedrohen kann.</szName>
+    <szName>Jeder Söldner wirkt im Gespräch mit NPCs unterschiedlich. Auch Hintergründe spielen mit hinein. Erwarte nicht, dass Biff beim Drohen besonders überzeugend ist.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>111</uiIndex>
-    <szName>Jeder Söldner hat einen anderen Schlafrhythmus, der von 3 bis 12 Stunden reicht, um sich zu erholen. Die Eigenschaft " Nachteinsatz" verkürzt diese Zeit noch weiter.</szName>
+    <szName>Söldner brauchen je nach Person 3 bis 12 Stunden Schlaf, um sich vollständig zu erholen. Die Fähigkeit 'Nachteinsatz' verkürzt diese Zeit.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>112</uiIndex>
-    <szName>Jeder Söldner toleriert die Anzahl der getöteten Söldner und Ihren allgemeinen Ruf in Arulco unterschiedlich.</szName>
+    <szName>Jeder Söldner toleriert Verluste im Team und deinen allgemeinen Ruf in Arulco unterschiedlich gut.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>113</uiIndex>
-    <szName>Vermeiden Sie es, zwei Personen, die sich nicht mögen, länger als eine Stunde im selben Bereich zu haben.</szName>
+    <szName>Lass zwei Söldner, die sich nicht ausstehen können, nicht länger als eine Stunde im selben Sektor.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>114</uiIndex>
-    <szName>Bestimmte Söldner können ihre Werte nicht verbessern. Man kann einem alten Hund keine neuen Tricks beibringen.</szName>
+    <szName>Bestimmte Söldner können überhaupt keine Werte steigern. Einem alten Hund bringt man keine neuen Tricks bei.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>115</uiIndex>
-    <szName>Spielhandbücher, Hotkey-Liste, Map-Editor-Tutorial und weitere nützliche Dokumente finden Sie im Ordner "Docs" in Ihrem JA2-Installationsverzeichnis.</szName>
+    <szName>Handbücher, Hotkey-Liste, Karteneditor-Tutorial und weitere nützliche Dokumente findest du im Ordner 'Docs' deiner JA2-Installation.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>116</uiIndex>
-    <szName>Die Auflösung des Spiels und die Wiedergabe des Introfilms können in der Datei "Ja2.ini" eingestellt werden.</szName>
+    <szName>Auflösung und Wiedergabe der Intro-Videos lassen sich in 'Ja2.ini' anpassen.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>117</uiIndex>
-    <szName>Willst du gegen echte Spieler kämpfen oder mit deinen Freunden zusammenarbeiten? Probieren Sie den 1.13-Mehrspielermodus aus.</szName>
+    <szName>Vertrautheit schafft Verachtung - beim zweiten Mal zeigt sich Arulco deutlich weniger freundlich.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>118</uiIndex>
-    <szName>Drücken Sie [G], um die Bewegung in Formation zu aktivieren. Wenn diese Funktion aktiv ist, behalten ihre Söldner bei Gruppenbewegungen die aktuelle Formation bei.</szName>
+    <szName>Mit [G] schaltest du Formationsbewegung ein oder aus. Sind mehrere Söldner ausgewählt, halten sie dabei ihre aktuelle Formation.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>119</uiIndex>
-    <szName>Drücken Sie [STRG]+[SHIFT]+[S], um alle Gegenstände im aktuellen Sektorinventar auf einmal zu verkaufen.</szName>
+    <szName>Mit [STRG]+[UMSCHALT]+[S] verkaufst du alle Gegenstände des aktuellen Sektorinventars auf einmal.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>120</uiIndex>
-    <szName>Drücken Sie [STRG]+[SHIFT]+[E], um ein Fahrzeug mit so vielen Gegenständen wie möglich aus dem Sektor zu beladen. Mit [SHIFT]+[E] werden alle Gegenstände wieder entladen.</szName>
+    <szName>[STRG]+[UMSCHALT]+[E] belädt Fahrzeuge mit möglichst vielen Sektorgegenständen. [UMSCHALT]+[E] entlädt alles aus dem Fahrzeug in den Sektor.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>121</uiIndex>
-    <szName>Wenn Söldner ein Ziel von der aktuellen Position aus nicht treffen können, versuchen Sie, den Feind mit Sperrfeuer zu unterdrücken und wechseln Sie zu einer besseren Position.</szName>
+    <szName>Kann ein Söldner ein Ziel von seiner Position nicht treffen, unterdrücke den Feind mit Automatikfeuer und wechsle anschließend in eine bessere Stellung.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>122</uiIndex>
-    <szName>Bei der Erkundung der Farmen und Stadtsektoren können viele nützliche Gegenstände gefunden werden, wie zum Beispiel Benzin für Fahrzeuge.</szName>
+    <szName>Durchsuche Farmen und Stadtsektoren. Dort findest du oft nützliche Dinge, etwa Treibstoff für Fahrzeuge.</szName>
+    <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>123</uiIndex>
-    <szName>Wenn Sie im Taktik-Bildschirm die [RECHTE-MAUSETASTE] über einem Söldner gedrückt halten, öffnet sich ein Söldnermenü, welches dem auf der strategischen Bildschirmkarte ähnelt.</szName>
+    <szName>Hältst du im Taktikbildschirm die [RECHTE-MAUSTASTE] über einem Söldner gedrückt, öffnet sich ein Menü ähnlich der Söldneranzeige im Strategiebildschirm.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>124</uiIndex>
-    <szName>Drücken Sie [STRG]+[C], um das "Cover Display Menü" zu öffnen.</szName>
+    <szName>Mit [STRG]+[C] öffnest du das Menü zur Deckungsanzeige.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>125</uiIndex>
-    <szName>Drücken Sie [STRG]+[V], um das Inventar-Manipulationsmenü zu öffnen.</szName>
+    <szName>Mit [STRG]+[V] öffnest du das nützliche Menü zur Inventarverwaltung.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>126</uiIndex>
-    <szName>Drücken Sie [D], um sofort in den rundenbasierten Modus zu wechseln, wenn sich Feinde im Sektor befinden.</szName>
+    <szName>Mit [D] wechselst du sofort in den Rundenmodus, sofern sich ein Gegner im Sektor befindet.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>127</uiIndex>
-    <szName>Drücken Sie [STRG]+[D], um Ihre Unterbrechung zu beenden, und es wird bis zum nächsten Zug keine Unterbrechungen mehr geben.</szName>
+    <szName>Mit [STRG]+[D] beendest du deinen Interrupt. Bis zum nächsten Zug treten dann keine weiteren Interrupts auf.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>128</uiIndex>
-    <szName>[ALT]+[RECHTSKLICK] öffnet das Fertigkeiten-Menü, in dem der Funker Verstärkung anfordern oder einen Artillerieangriff befehlen kann.</szName>
+    <szName>[ALT]+[RECHTSKLICK] öffnet das Fähigkeitenmenü. Ein Funker kann dort Verstärkung oder Artillerieschläge anfordern.</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>129</uiIndex>
-    <szName>Minenfelder können zur Verteidigung sicher in eroberten Städten und SAMs platziert werden, da Söldner und Milizen sie meiden werden.</szName>
+    <szName>Defensive Minenfelder können in eroberten Städten und SAM-Stellungen sicher gelegt werden; eigene Söldner und Miliz meiden sie.</szName>
+    <items>1</items>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>130</uiIndex>
-    <szName>Sie können Fallen untersuchen, bevor Sie versuchen, sie zu entschärfen. Empfehlenswert, wenn Sie mit Ihrer aktuellen Anzahl von Gliedmaßen zufrieden sind.</szName>
+    <szName>Du kannst eine Falle untersuchen, bevor du sie entschärfst. Empfehlenswert, wenn du mit der aktuellen Anzahl deiner Gliedmaßen zufrieden bist.</szName>
+    <items>1</items>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>131</uiIndex>
-    <szName>Klicken Sie mit dem Handcursor auf eine blaue Flagge, und die Flagge kann entfernt oder die Falle mit dem nützlichen Entschärfungsmenü inspiziert werden.</szName>
+    <szName>Klicke mit dem Hand-Cursor auf eine blaue Markierung. Über das Entschärfungsmenü kannst du die Fahne entfernen oder die Falle untersuchen.</szName>
+    <items>1</items>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>132</uiIndex>
-    <szName>Das Platzieren von mehreren Minen oder Sandsäcken ist mit gedrückter [SHIFT]-Taste angenehmer, da man nicht mehr manuell einen neuen Gegenstand aus dem Inventar nehmen muss.</szName>
+    <szName>Minen, Stacheldraht oder Sandsäcke lassen sich mit gehaltener [UMSCHALT]-Taste bequemer platzieren, ohne jedes Mal einen neuen Gegenstand aus dem Inventar zu nehmen.</szName>
+	  <keybind>1</keybind>
   </LOADSCREENHINT>
 </LOADSCREENHINTS>

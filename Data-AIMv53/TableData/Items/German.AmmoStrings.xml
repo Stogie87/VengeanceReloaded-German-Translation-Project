@@ -7,8 +7,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>1</uiIndex>
-		<AmmoCaliber>.38 Special</AmmoCaliber>
-		<BRCaliber>.38 Special</BRCaliber>
+		<AmmoCaliber>.38 Spc</AmmoCaliber>
+		<BRCaliber>.38 Spc</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>2</uiIndex>
@@ -27,13 +27,13 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>5</uiIndex>
-		<AmmoCaliber>Kal. 12/70</AmmoCaliber>
-		<BRCaliber>Kal. 12/70</BRCaliber>
+		<AmmoCaliber>Kal. 12</AmmoCaliber>
+		<BRCaliber>Kal. 12</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>6</uiIndex>
-		<AmmoCaliber>18.5x76mm</AmmoCaliber>
-		<BRCaliber>18.5x76mm</BRCaliber>
+		<AmmoCaliber>CAWS</AmmoCaliber>
+		<BRCaliber>CAWS</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>7</uiIndex>
@@ -57,8 +57,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>11</uiIndex>
-		<AmmoCaliber>4.73x33mm</AmmoCaliber>
-		<BRCaliber>4.73x33mm</BRCaliber>
+		<AmmoCaliber>4.7x33mm</AmmoCaliber>
+		<BRCaliber>4.7x33mm</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>12</uiIndex>
@@ -82,8 +82,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>16</uiIndex>
-		<AmmoCaliber>Flammenwerfer</AmmoCaliber>
-		<BRCaliber>Flammenw.</BRCaliber>
+		<AmmoCaliber>Flamme</AmmoCaliber>
+		<BRCaliber>Flamme</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>17</uiIndex>
@@ -107,8 +107,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>21</uiIndex>
-		<AmmoCaliber>12.7x108mm</AmmoCaliber>
-		<BRCaliber>12.7x108mm</BRCaliber>
+		<AmmoCaliber>12.7mm</AmmoCaliber>
+		<BRCaliber>12.7mm</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>22</uiIndex>
@@ -127,7 +127,7 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>25</uiIndex>
-		<AmmoCaliber>.338 Lapua Mag</AmmoCaliber>
+		<AmmoCaliber>.338 Lapua</AmmoCaliber>
 		<BRCaliber>.338 LM</BRCaliber>
 	</AMMO>
 	<AMMO>
@@ -137,8 +137,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>27</uiIndex>
-		<AmmoCaliber>10mm AUTO</AmmoCaliber>
-		<BRCaliber>10mm AUTO</BRCaliber>
+		<AmmoCaliber>10mm</AmmoCaliber>
+		<BRCaliber>10mm</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>28</uiIndex>
@@ -187,18 +187,18 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>37</uiIndex>
-		<AmmoCaliber>.45 Win Mag</AmmoCaliber>
-		<BRCaliber>.45 WM</BRCaliber>
+		<AmmoCaliber>.45 WinMag</AmmoCaliber>
+		<BRCaliber>.45 WinMag</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>38</uiIndex>
 		<AmmoCaliber>.50 Beowulf</AmmoCaliber>
-		<BRCaliber>.50 Beo</BRCaliber>
+		<BRCaliber>.50 Beowulf</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>39</uiIndex>
-		<AmmoCaliber>.300 Win Mag</AmmoCaliber>
-		<BRCaliber>.300 WM</BRCaliber>
+		<AmmoCaliber>.300 WinMag</AmmoCaliber>
+		<BRCaliber>.300 WinMag</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>40</uiIndex>
@@ -207,13 +207,13 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>41</uiIndex>
-		<AmmoCaliber>12.7x97mm</AmmoCaliber>
+		<AmmoCaliber>12.7x97mm Unterschall</AmmoCaliber>
 		<BRCaliber>12.7x97mm</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>42</uiIndex>
-		<AmmoCaliber>6.8x43mm Rem SPC</AmmoCaliber>
-		<BRCaliber>6.8mm Rem SPC</BRCaliber>
+		<AmmoCaliber>6.8x43mm SPC</AmmoCaliber>
+		<BRCaliber>6.8x43mm</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>43</uiIndex>
@@ -227,13 +227,13 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>45</uiIndex>
-		<AmmoCaliber>.30 Carbine</AmmoCaliber>
-		<BRCaliber>.30 Car</BRCaliber>
+		<AmmoCaliber>.30 car</AmmoCaliber>
+		<BRCaliber>.30 car</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>46</uiIndex>
-		<AmmoCaliber>.30-06 Sprg</AmmoCaliber>
-		<BRCaliber>.30-06 Sprg</BRCaliber>
+		<AmmoCaliber>.30-06</AmmoCaliber>
+		<BRCaliber>.30-06</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>47</uiIndex>
@@ -242,12 +242,287 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>48</uiIndex>
-		<AmmoCaliber>Cannon Ball</AmmoCaliber>
-		<BRCaliber>Cannon Ball</BRCaliber>
+		<AmmoCaliber>Kanonenkugel</AmmoCaliber>
+		<BRCaliber>Kanonenkugel</BRCaliber>
 	</AMMO>
-  <AMMO>
+	<AMMO>
 		<uiIndex>49</uiIndex>
-		<AmmoCaliber>Pepper Spray</AmmoCaliber>
-		<BRCaliber>Pepper Spray</BRCaliber>
+		<AmmoCaliber>Pfefferspray</AmmoCaliber>
+		<BRCaliber>Pfefferspray</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>50</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>51</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>52</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>53</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>54</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>55</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>56</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>57</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>58</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>59</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>60</uiIndex>
+		<AmmoCaliber>14.5x114mm</AmmoCaliber>
+		<BRCaliber>14.5x114mm</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>61</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>62</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>63</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>64</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>65</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>66</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>67</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>68</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>69</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>70</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>71</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>72</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>73</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>74</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>75</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>76</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>77</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>78</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>79</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>80</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>81</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>82</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>83</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>84</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>85</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>86</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>87</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>88</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>89</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>90</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>91</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>92</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>93</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>94</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>95</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>96</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>97</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>98</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>99</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>100</uiIndex>
+		<AmmoCaliber></AmmoCaliber>
+		<BRCaliber></BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>101</uiIndex>
+		<AmmoCaliber>Bolzen</AmmoCaliber>
+		<BRCaliber>Bolzen</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>102</uiIndex>
+		<AmmoCaliber>.22 LR</AmmoCaliber>
+		<BRCaliber>.22 LR</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>103</uiIndex>
+		<AmmoCaliber>.408</AmmoCaliber>
+		<BRCaliber>.408</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>104</uiIndex>
+		<AmmoCaliber>Railgun-Pfeil</AmmoCaliber>
+		<BRCaliber>Railgun-Pfeil</BRCaliber>
 	</AMMO>
 </AMMOLIST>
