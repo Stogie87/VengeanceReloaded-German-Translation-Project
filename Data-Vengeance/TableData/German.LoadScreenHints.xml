@@ -436,7 +436,7 @@ The other tags determine in what category this hint falls, and will be displayed
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>82</uiIndex>
-    <szName>Veteranenmiliz kann nicht direkt ausgebildet werden. Bewährt sich Miliz im Kampf, kann sie zum Veteranen aufsteigen.</szName>
+    <szName>Veteranenmilizen können nicht direkt ausgebildet werden. Bewährt sich eine Miliz im Kampf, kann sie zum Veteranen aufsteigen.</szName>
     <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
