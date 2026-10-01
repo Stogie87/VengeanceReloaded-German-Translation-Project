@@ -4563,7 +4563,7 @@
 	<ITEM>
 		<uiIndex>570</uiIndex>
 		<szItemName>.45 SL</szItemName>
-		<szLongItemName>.45 Casull Schnelllader</szLongItemName>
+		<szLongItemName>.454 Casull Schnelllader</szLongItemName>
 		<szItemDesc>Dick Casull, ein genialer Konstrukteur, entwickelte diese stärkste Patrone bei der normale Revolver auseinander fliegen. Sie basiert auf der .45 ACP, die Hülse wurde jedoch verstärkt und verlängert.</szItemDesc>
 		<szBRName>.45 SL #5</szBRName>
 		<szBRDesc>Dick Casull, ein genialer Konstrukteur, entwickelte diese stärkste Patrone bei der normale Revolver auseinander fliegen. Sie basiert auf der .45 ACP, die Hülse wurde jedoch verstärkt und verlängert.</szBRDesc>
@@ -4571,7 +4571,7 @@
 	<ITEM>
 		<uiIndex>571</uiIndex>
 		<szItemName>.45 SL HS</szItemName>
-		<szLongItemName>.45 Casull Schnelllader, HS</szLongItemName>
+		<szLongItemName>.454 Casull Schnelllader, HS</szLongItemName>
 		<szItemDesc>Dick Casull, ein genialer Konstrukteur, entwickelte diese stärkste Patrone bei der normale Revolver auseinander fliegen. Sie basiert auf der .45 ACP, die Hülse wurde jedoch verstärkt und verlängert.</szItemDesc>
 		<szBRName>.45 SL HS #5</szBRName>
 		<szBRDesc>Dick Casull, ein genialer Konstrukteur, entwickelte diese stärkste Patrone bei der normale Revolver auseinander fliegen. Sie basiert auf der .45 ACP, die Hülse wurde jedoch verstärkt und verlängert.</szBRDesc>
@@ -4579,7 +4579,7 @@
 	<ITEM>
 		<uiIndex>572</uiIndex>
 		<szItemName>.45 SL PB</szItemName>
-		<szLongItemName>.45 Casull Schnelllader, PB</szLongItemName>
+		<szLongItemName>.454 Casull Schnelllader, PB</szLongItemName>
 		<szItemDesc>Dick Casull, ein genialer Konstrukteur, entwickelte diese stärkste Patrone bei der normale Revolver auseinander fliegen. Sie basiert auf der .45 ACP, die Hülse wurde jedoch verstärkt und verlängert.</szItemDesc>
 		<szBRName>.45 SL PB #5</szBRName>
 		<szBRDesc>Dick Casull, ein genialer Konstrukteur, entwickelte diese stärkste Patrone bei der normale Revolver auseinander fliegen. Sie basiert auf der .45 ACP, die Hülse wurde jedoch verstärkt und verlängert.</szBRDesc>
@@ -4587,7 +4587,7 @@
 	<ITEM>
 		<uiIndex>573</uiIndex>
 		<szItemName>.45 Patrone</szItemName>
-		<szLongItemName>.45 Casull Patrone</szLongItemName>
+		<szLongItemName>.454 Casull Patrone</szLongItemName>
 		<szItemDesc>Dick Casull, ein genialer Konstrukteur, entwickelte diese stärkste Patrone bei der normale Revolver auseinander fliegen. Sie basiert auf der .45 ACP, die Hülse wurde jedoch verstärkt und verlängert.</szItemDesc>
 		<szBRName>.45 Patrone</szBRName>
 		<szBRDesc>Dick Casull, ein genialer Konstrukteur, entwickelte diese stärkste Patrone bei der normale Revolver auseinander fliegen. Sie basiert auf der .45 ACP, die Hülse wurde jedoch verstärkt und verlängert.</szBRDesc>
@@ -4595,7 +4595,7 @@
 	<ITEM>
 		<uiIndex>574</uiIndex>
 		<szItemName>.45 Patrone HS</szItemName>
-		<szLongItemName>.45 Casull Patrone, HS</szLongItemName>
+		<szLongItemName>.454 Casull Patrone, HS</szLongItemName>
 		<szItemDesc>Dick Casull, ein genialer Konstrukteur, entwickelte diese stärkste Patrone bei der normale Revolver auseinander fliegen. Sie basiert auf der .45 ACP, die Hülse wurde jedoch verstärkt und verlängert.</szItemDesc>
 		<szBRName>.45 Patrone HS</szBRName>
 		<szBRDesc>Dick Casull, ein genialer Konstrukteur, entwickelte diese stärkste Patrone bei der normale Revolver auseinander fliegen. Sie basiert auf der .45 ACP, die Hülse wurde jedoch verstärkt und verlängert.</szBRDesc>
@@ -4603,7 +4603,7 @@
 	<ITEM>
 		<uiIndex>575</uiIndex>
 		<szItemName>.45 Patrone PB</szItemName>
-		<szLongItemName>.45 Casull Patrone, PB</szLongItemName>
+		<szLongItemName>.454 Casull Patrone, PB</szLongItemName>
 		<szItemDesc>Dick Casull, ein genialer Konstrukteur, entwickelte diese stärkste Patrone bei der normale Revolver auseinander fliegen. Sie basiert auf der .45 ACP, die Hülse wurde jedoch verstärkt und verlängert.</szItemDesc>
 		<szBRName>.45 Patrone PB</szBRName>
 		<szBRDesc>Dick Casull, ein genialer Konstrukteur, entwickelte diese stärkste Patrone bei der normale Revolver auseinander fliegen. Sie basiert auf der .45 ACP, die Hülse wurde jedoch verstärkt und verlängert.</szBRDesc>
@@ -7274,35 +7274,35 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>909</uiIndex>
-		<szItemName>AICW</szItemName>
-		<szLongItemName>AICW</szLongItemName>
-		<szItemDesc>Das Waffensystem ist eine Kombination aus einem Steyr AUG und einem mehrschüssigen halbautmatischen 20mm-Granatwerfer mit Magazinzuführung.</szItemDesc>
-		<szBRName>AICW</szBRName>
-		<szBRDesc>Das Waffensystem ist eine Kombination aus einem Steyr AUG und einem mehrschüssigen halbautmatischen 20mm-Granatwerfer mit Magazinzuführung.</szBRDesc>
+		<szItemName>AICW Granatw.</szItemName>
+		<szLongItemName>AICW Granatwerfer</szLongItemName>
+		<szItemDesc>Dies ist die integrierte Granatwerfer-Komponente des AICW. Das Metal-Storm-System ist ein besonders leichtes und kompaktes mehrschüssiges Werfersystem.</szItemDesc>
+		<szBRName>AICW Granatwerfer</szBRName>
+		<szBRDesc>Nicht über BR erhältlich; internes Waffenteil.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>910</uiIndex>
-		<szItemName>FN F2000</szItemName>
-		<szLongItemName>FN F2000</szLongItemName>
-		<szItemDesc>Ein Waffensystem der belgischen Firma Fabrique Nationale Herstal, das aus einem Sturmgewehr mit dem Kaliber 5.56mm und einem Granatwerfer mit dem Kaliber 40mm besteht.</szItemDesc>
-		<szBRName>FN F2000</szBRName>
-		<szBRDesc>Dieses Waffensystem der belgischen Firma Fabrique Nationale Herstal besteht aus einem Sturmgewehr mit dem Kaliber 5.56mm und einem Granatwerfer mit dem Kaliber 40mm.</szBRDesc>
+		<szItemName>F2000 Granatw.</szItemName>
+		<szLongItemName>F2000 Granatwerfer</szLongItemName>
+		<szItemDesc>Dies ist der integrierte 40-mm-Granatwerfer des FN F2000.</szItemDesc>
+		<szBRName>F2000 Granatwerfer</szBRName>
+		<szBRDesc>Nicht über BR erhältlich; internes Waffenteil.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>911</uiIndex>
-		<szItemName>GranW GP-30</szItemName>
-		<szLongItemName>Granatwerfer GP-30 (integriert)</szLongItemName>
-		<szItemDesc>Dieser Unterlauf-Granatwerfer mit dem Kaliber 40mm wurde für die AK-Familie entwickelt.</szItemDesc>
-		<szBRName>Granatwerfer GP-30 (integriert)</szBRName>
-		<szBRDesc>Dieser Unterlauf-Granatwerfer mit dem Kaliber 40mm wurde für die AK-Familie entwickelt.</szBRDesc>
+		<szItemName>GP-25 int.</szItemName>
+		<szLongItemName>GP-25 Kostyor Granatwerfer (integriert)</szLongItemName>
+		<szItemDesc>Dies ist der integrierte GP-25-Granatwerfer der OTs-14 Groza. Der GP-25 Kostyor verschießt 40-mm-Granaten vom Typ VOG-25 und VOG-25P.</szItemDesc>
+		<szBRName>GP-25 Granatwerfer (integriert)</szBRName>
+		<szBRDesc>Nicht über BR erhältlich; internes Waffenteil.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>912</uiIndex>
-		<szItemName>HK XM29</szItemName>
-		<szLongItemName>HK XM29</szLongItemName>
-		<szItemDesc>Das XM29 ist einer der Entwürfe, die von Heckler &amp; Koch für das amerikanische OICW-Programm eingereicht wurden. Die Sturmgewehreinheit basiert auf dem G36K und hat daher das Kaliber 5.56mm.</szItemDesc>
+		<szItemName>OICW Granatw.</szItemName>
+		<szLongItemName>OICW Granatwerfer</szLongItemName>
+		<szItemDesc>Dies ist die integrierte Granatwerfer-Komponente des experimentellen OICW. Sie verschießt 20-mm-Geschosse.</szItemDesc>
 		<szBRName>OICW Granatwerfer</szBRName>
-		<szBRDesc>Das XM29 ist einer der Entwürfe, die von Heckler &amp; Koch für das amerikanische OICW-Programm eingereicht wurden. Die Sturmgewehreinheit basiert auf dem G36K und hat daher das Kaliber 5.56mm. Der halbautomatische Granatwerfer hat das Kaliber 20mm.</szBRDesc>
+		<szBRDesc>Nicht über BR erhältlich; internes Waffenteil.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>913</uiIndex>
@@ -7570,11 +7570,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>946</uiIndex>
-		<szItemName>ISM-IR</szItemName>
-		<szLongItemName>ISM-IR</szLongItemName>
-		<szItemDesc>Diese Zielhilfe kombiniert ein Rotpunktvisier mit einem Restlichtverstärker und einem Lasermodul. Ein Zielfernrohr lässt sich wegen der Größe des Moduls nicht mehr anbringen.</szItemDesc>
-		<szBRName>ISM-IR</szBRName>
-		<szBRDesc>Diese Zielhilfe kombiniert ein Rotpunktvisier mit einem Restlichtverstärker und einem Lasermodul. Bitte beachten Sie, dass sich wegen der Größe des Moduls kein Zielfernrohr montieren lässt.</szBRDesc>
+		<szItemName>ISM-V-IR</szItemName>
+		<szLongItemName>ISM-V-IR</szLongItemName>
+		<szItemDesc>Eine Kombination aus Rotpunktvisier und Ziellaser einschließlich Infrarotlaser.</szItemDesc>
+		<szBRName>ISM-V-IR</szBRName>
+		<szBRDesc>Wenn du deine Waffe nicht mit Zubehör überladen willst, kombiniert dieses Modul ein Rotpunktvisier mit einem IR-Laser. Die Montage eines Zielfernrohrs ist damit allerdings nicht möglich.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>947</uiIndex>
@@ -8042,11 +8042,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1005</uiIndex>
-		<szItemName>LM 300</szItemName>
-		<szLongItemName>Lasermodul 300</szLongItemName>
-		<szItemDesc>Das Lasermodul 300 kann an nahezu allen Waffen angebracht werden. Es ist stärker als das Lasermodul 100, kann aber nicht die Leistung der größeren Lasermodule für Langwaffen erreichen.</szItemDesc>
-		<szBRName>Lasermodul 300</szBRName>
-		<szBRDesc>Das Lasermodul 300 kann an nahezu allen Waffen angebracht werden. Es ist stärker als das Lasermodul 100, kann aber nicht die Leistung der größeren Lasermodule für Langwaffen erreichen.</szBRDesc>
+		<szItemName>Insight LAM</szItemName>
+		<szLongItemName>Insight LAM</szLongItemName>
+		<szItemDesc>Wenn ein normales Laservisier nicht ausreicht, ergänzt das LAM Infrarot für bessere Sicht bei Nacht. Das Zielmodul vereint einen koaxial ausgerichteten Infrarot- und sichtbaren Ziellaser mit einem fest fokussierten Infrarotbeleuchter sowie einer Weißlichtlampe.</szItemDesc>
+		<szBRName>Insight LAM</szBRName>
+		<szBRDesc>Wenn ein normales Laservisier nicht ausreicht, ergänzt dieses LAM Infrarot für bessere Sicht bei Nacht. Es vereint einen koaxial ausgerichteten IR- und sichtbaren Ziellaser, einen fest fokussierten IR-Beleuchter und eine Weißlichtlampe.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1006</uiIndex>
@@ -8531,8 +8531,8 @@
 	<ITEM>
 		<uiIndex>1066</uiIndex>
 		<szItemName>HK 416 10"</szItemName>
-		<szLongItemName>HK 416 10"</szLongItemName>
-		<szItemDesc>Das HK416 ist ein Gasdrucklader mit kaltgehämmerten 10"-Lauf und stellt eine Weiterentwicklung des AR-15-Systems dar.</szItemDesc>
+		<szLongItemName>HK 416 10,4&quot;</szLongItemName>
+		<szItemDesc>Eine kürzere Version des HK 416 mit 10,4-Zoll-Lauf, ideal für den Nahkampf.</szItemDesc>
 		<szBRName>HK 416 10"</szBRName>
 		<szBRDesc>Das HK416 ist ein Gasdrucklader mit kaltgehämmerten 10"-Lauf und stellt eine Weiterentwicklung des AR-15-Systems dar. Diese kompakte Version eignet sich besonders für Spezial-Kommandos.</szBRDesc>
 	</ITEM>
@@ -10538,26 +10538,26 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1317</uiIndex>
-		<szItemName>.45 Casull Kiste</szItemName>
-		<szLongItemName>.45 Casull Munitionskiste</szLongItemName>
+		<szItemName>.454 Casull Kiste</szItemName>
+		<szLongItemName>.454 Casull Munitionskiste</szLongItemName>
 		<szItemDesc>Munitionskiste mit einem Fassungsvermögen von 3000 Patronen im Kaliber .45WinMag.</szItemDesc>
-		<szBRName>.45 Casull Munitionskiste</szBRName>
+		<szBRName>.454 Casull Munitionskiste</szBRName>
 		<szBRDesc>Nicht bei BR zu kaufen</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1318</uiIndex>
-		<szItemName>.45 Casull PB Kiste</szItemName>
-		<szLongItemName>.45 Casull PB Munitionskiste</szLongItemName>
+		<szItemName>.454 Casull PB Kiste</szItemName>
+		<szLongItemName>.454 Casull PB Munitionskiste</szLongItemName>
 		<szItemDesc>Munitionskiste mit einem Fassungsvermögen von 3000 Patronen im Kaliber .45WinMag PB.</szItemDesc>
-		<szBRName>.45 Casull PB Munitionskiste</szBRName>
+		<szBRName>.454 Casull PB Munitionskiste</szBRName>
 		<szBRDesc>Nicht bei BR zu kaufen</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1319</uiIndex>
-		<szItemName>.45 Casull HS Kiste</szItemName>
-		<szLongItemName>.45 Casull HS Munitionskiste</szLongItemName>
+		<szItemName>.454 Casull HS Kiste</szItemName>
+		<szLongItemName>.454 Casull HS Munitionskiste</szLongItemName>
 		<szItemDesc>Munitionskiste mit einem Fassungsvermögen von 3000 Patronen im Kaliber .45WinMag HS.</szItemDesc>
-		<szBRName>.45 Casull HS Munitionskiste</szBRName>
+		<szBRName>.454 Casull HS Munitionskiste</szBRName>
 		<szBRDesc>Nicht bei BR zu kaufen</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -12003,26 +12003,26 @@
 	<ITEM>
 		<uiIndex>1500</uiIndex>
 		<szItemName>.45 C Box</szItemName>
-		<szLongItemName>.45 Casull Box</szLongItemName>
-		<szItemDesc>Die .45 Casull ist eine Patrone, die für wirklich große Revolver entwickelt wurde.</szItemDesc>
-		<szBRName>.45 Casull Box</szBRName>
-		<szBRDesc>Die .45 Casull ist eine Patrone, die für wirklich große Revolver entwickelt wurde.</szBRDesc>
+		<szLongItemName>.454 Casull Box</szLongItemName>
+		<szItemDesc>Die .454 Casull ist eine Patrone, die für wirklich große Revolver entwickelt wurde.</szItemDesc>
+		<szBRName>.454 Casull Box</szBRName>
+		<szBRDesc>Die .454 Casull ist eine Patrone, die für wirklich große Revolver entwickelt wurde.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1501</uiIndex>
 		<szItemName>.45 C Box HS</szItemName>
-		<szLongItemName>.45 Casull Box, HS</szLongItemName>
-		<szItemDesc>.45 Casull Hohlspitzmunition, wenn Sie mit Ihrem Revolver auf die Jagd gehen.</szItemDesc>
-		<szBRName>.45 Casull Box HS</szBRName>
-		<szBRDesc>.45 Casull Hohlspitzmunition, wenn Sie mit Ihrem Revolver auf die Jagd gehen.</szBRDesc>
+		<szLongItemName>.454 Casull Box, HS</szLongItemName>
+		<szItemDesc>.454 Casull Hohlspitzmunition, wenn Sie mit Ihrem Revolver auf die Jagd gehen.</szItemDesc>
+		<szBRName>.454 Casull Box HS</szBRName>
+		<szBRDesc>.454 Casull Hohlspitzmunition, wenn Sie mit Ihrem Revolver auf die Jagd gehen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1502</uiIndex>
 		<szItemName>.45 C Box PB</szItemName>
-		<szLongItemName>.45 Casull Box, PB</szLongItemName>
-		<szItemDesc>Die .45 Casull Panzerbrechende Munition erfüllt alle Anforderungen in Sachen Selbstverteidigung.</szItemDesc>
-		<szBRName>.45 Casull Box PB</szBRName>
-		<szBRDesc>Die .45 Casull Panzerbrechende Munition erfüllt alle Anforderungen in Sachen Selbstverteidigung.</szBRDesc>
+		<szLongItemName>.454 Casull Box, PB</szLongItemName>
+		<szItemDesc>Die .454 Casull Panzerbrechende Munition erfüllt alle Anforderungen in Sachen Selbstverteidigung.</szItemDesc>
+		<szBRName>.454 Casull Box PB</szBRName>
+		<szBRDesc>Die .454 Casull Panzerbrechende Munition erfüllt alle Anforderungen in Sachen Selbstverteidigung.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1503</uiIndex>
@@ -12330,11 +12330,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1541</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Nichts</szLongItemName>
-		<szItemDesc>Index 1541</szItemDesc>
-		<szBRName>Nichts</szBRName>
-		<szBRDesc>Nichts</szBRDesc>
+		<szItemName>Sandsäcke</szItemName>
+		<szLongItemName>Sandsäcke, gefüllt</szLongItemName>
+		<szItemDesc>Ob zur Befestigung, zum Hochwasserschutz oder als billiges Trainingsgewicht: Gefüllte Sandsäcke sind vielseitig einsetzbar.</szItemDesc>
+		<szBRName>Sandsäcke</szBRName>
+		<szBRDesc>Nicht über BR erhältlich.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1542</uiIndex>
@@ -13073,11 +13073,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1634</uiIndex>
-		<szItemName>Pfeil, NT</szItemName>
-		<szLongItemName>Pfeil, Neurotoxin</szLongItemName>
-		<szItemDesc>Ein hochgiftiger Neurotoxin-Pfeil. Beachten Sie bitte die besonderen Handhabungsregeln und halten sie Gegengift vorrätig.</szItemDesc>
-		<szBRName>Pfeil, Neurotoxin</szBRName>
-		<szBRDesc>Das ist ein Neurotoxin-Pfeile. Beachten Sie bitte die besonderen Handhabungsregeln und halten sie Gegengift vorrätig. - Sicherheitshinweis für Kunden aus den USA: Diese Pfeile können TÖDLICH wirken. Sie dürfen diese Pfeile weder schlucken noch an Ihnen lutschen.</szBRDesc>
+		<szItemName>M99</szItemName>
+		<szLongItemName>M99</szLongItemName>
+		<szItemDesc>Ein sehr starkes Betäubungsmittel für Tiere. Eine Überdosis kann tödlich sein – und du bist kein Elefant.</szItemDesc>
+		<szBRName>M99</szBRName>
+		<szBRDesc>Nicht über BR erhältlich.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1635</uiIndex>
