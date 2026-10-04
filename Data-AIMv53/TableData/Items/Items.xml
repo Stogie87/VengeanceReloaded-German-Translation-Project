@@ -343,7 +343,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1100</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
@@ -451,7 +451,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -559,7 +559,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1100</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -602,7 +602,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -719,7 +719,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>735</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -812,7 +812,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -858,7 +858,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -898,7 +898,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<DefaultAttachment>999</DefaultAttachment>
@@ -1146,6 +1146,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>1100</BR_ROF>
 		<Bipod>10</Bipod>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -1187,7 +1188,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -1223,7 +1224,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -1300,7 +1301,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -1340,7 +1341,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -1378,6 +1379,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<SciFi>1</SciFi>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<DefaultAttachment>1029</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -1493,6 +1495,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<SciFi>1</SciFi>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>240</BR_ROF>
 		<DefaultAttachment>1029</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -1563,7 +1566,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -2145,6 +2148,7 @@
 		<TwoHanded>1</TwoHanded>
 		<SciFi>1</SciFi>
 		<Electronic>1</Electronic>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>30</BR_ROF>
 		<ToHitBonus>19</ToHitBonus>
 		<BestLaserRange>100</BestLaserRange>
@@ -2198,6 +2202,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>20</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -2454,6 +2459,7 @@
 		<TwoHanded>1</TwoHanded>
 		<SciFi>1</SciFi>
 		<Electronic>1</Electronic>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>30</BR_ROF>
 		<ToHitBonus>19</ToHitBonus>
 		<BestLaserRange>90</BestLaserRange>
@@ -2539,7 +2545,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>36</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -2577,7 +2583,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>28</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -2615,6 +2621,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
@@ -6165,6 +6172,7 @@
 		<Attachment>1</Attachment>
 		<PercentNoiseReduction>70</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
+		<BR_NewInventory>4</BR_NewInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<overheatCooldownModificator>-0.3</overheatCooldownModificator>
 		<STAND_MODIFIERS>
@@ -9048,7 +9056,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1250</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -9089,6 +9097,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>650</BR_ROF>
 		<DefaultAttachment>1030</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -9124,6 +9133,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>900</BR_ROF>
 		<DefaultAttachment>1006</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -9157,6 +9167,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>880</BR_ROF>
 		<PercentNoiseReduction>85</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
@@ -9201,6 +9212,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>24</BR_ROF>
 		<DefaultAttachment>1007</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -9572,6 +9584,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>800</BR_ROF>
 		<PercentNoiseReduction>90</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
@@ -9617,7 +9630,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -9715,7 +9728,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -9793,6 +9806,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -15650,6 +15664,7 @@
 		<BigGunList>1</BigGunList>
 		<PercentNoiseReduction>57</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<overheatCooldownModificator>-0.2</overheatCooldownModificator>
 		<STAND_MODIFIERS>
@@ -16095,7 +16110,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
@@ -16144,6 +16159,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>650</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
@@ -16371,6 +16387,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>850</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -16412,6 +16429,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -16452,7 +16470,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -16500,7 +16518,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -16542,7 +16560,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -16584,7 +16602,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>		
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
@@ -16632,6 +16650,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>8</DamageChance>
@@ -16667,6 +16686,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>800</BR_ROF>
 		<PercentNoiseReduction>85</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
@@ -16752,7 +16772,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -16944,6 +16964,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>670</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -17069,7 +17090,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>500</BR_ROF>
 		<DefaultAttachment>209</DefaultAttachment>
@@ -17107,7 +17128,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -17152,6 +17173,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -17406,7 +17428,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>44</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -17477,7 +17499,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -17513,7 +17535,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -17549,6 +17571,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>22</BR_ROF>
 		<DefaultAttachment>208</DefaultAttachment>
 		<DefaultAttachment>209</DefaultAttachment>
@@ -17592,6 +17615,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>22</BR_ROF>
 		<DefaultAttachment>208</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -17625,6 +17649,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>980</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
@@ -17671,6 +17696,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>1200</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -17709,6 +17735,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>980</BR_ROF>
 		<PercentNoiseReduction>90</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
@@ -17823,6 +17850,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>850</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>910</DefaultAttachment>
@@ -17899,6 +17927,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<DefaultAttachment>1006</DefaultAttachment>
@@ -17942,7 +17971,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>950</BR_ROF>
 		<DefaultAttachment>209</DefaultAttachment>
@@ -17979,6 +18008,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<DefaultAttachment>1011</DefaultAttachment>
@@ -18126,6 +18156,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
@@ -18166,6 +18197,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>22</BR_ROF>
 		<DefaultAttachment>208</DefaultAttachment>
 		<DefaultAttachment>209</DefaultAttachment>
@@ -18205,6 +18237,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -18246,6 +18279,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -18400,6 +18434,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
@@ -18536,6 +18571,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>44</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -18617,6 +18653,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -18659,6 +18696,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -18744,6 +18782,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -18905,6 +18944,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>620</BR_ROF>
 		<ToHitBonus>19</ToHitBonus>
 		<BestLaserRange>100</BestLaserRange>
@@ -19083,6 +19123,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>24</BR_ROF>
 		<PercentNoiseReduction>85</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
@@ -19239,6 +19280,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>240</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -19274,6 +19316,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>650</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
@@ -19318,6 +19361,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>18</BR_ROF>
 		<DefaultAttachment>1000</DefaultAttachment>
 		<DefaultAttachment>209</DefaultAttachment>
@@ -19360,7 +19404,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -19487,6 +19531,7 @@
 		<SciFi>1</SciFi>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>2500</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
@@ -19579,7 +19624,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1200</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -19618,7 +19663,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>44</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -19652,6 +19697,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_ROF>44</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -19688,6 +19734,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -19727,7 +19774,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>950</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -19771,7 +19818,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<DefaultAttachment>1182</DefaultAttachment>
@@ -19916,6 +19963,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>12</BR_ROF>
 		<DefaultAttachment>208</DefaultAttachment>
 		<DefaultAttachment>209</DefaultAttachment>
@@ -19951,6 +19999,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>26</BR_ROF>
 		<DefaultAttachment>208</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -20106,7 +20155,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -20140,6 +20189,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>44</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -20177,6 +20227,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>650</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -20211,7 +20262,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -20249,7 +20300,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -20290,7 +20341,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -20329,6 +20380,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -20368,6 +20420,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>22</BR_ROF>
 		<DefaultAttachment>208</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -20404,6 +20457,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>20</BR_ROF>
 		<DefaultAttachment>208</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -20439,6 +20493,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_ROF>24</BR_ROF>
 		<spreadPattern>SawedoffSpread</spreadPattern>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -20792,7 +20847,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>850</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -20937,6 +20992,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -20975,7 +21031,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>3</BR_UsedInventory>
 		<BR_ROF>550</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -21252,7 +21308,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -21507,7 +21563,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
@@ -21552,7 +21608,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>44</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -21587,7 +21643,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>30</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -21625,7 +21681,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>540</BR_ROF>
 		<Bipod>7</Bipod>
@@ -21672,6 +21728,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>360</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -21708,6 +21765,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -21750,6 +21808,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -21783,7 +21842,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>36</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -21820,6 +21879,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>900</BR_ROF>
 		<PercentNoiseReduction>80</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
@@ -21857,6 +21917,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>24</BR_ROF>
 		<DefaultAttachment>208</DefaultAttachment>
 		<DefaultAttachment>209</DefaultAttachment>
@@ -21938,6 +21999,7 @@
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
 		<Electronic>1</Electronic>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>120</BestLaserRange>
@@ -22204,7 +22266,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -22344,6 +22406,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -22416,7 +22479,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<BR_ROF>36</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -22492,6 +22555,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>480</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -22572,6 +22636,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -22647,6 +22712,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>35</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -22941,7 +23007,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -22981,6 +23047,7 @@
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>1007</DefaultAttachment>
 		<DefaultAttachment>209</DefaultAttachment>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>20</DamageChance>
 		<DirtIncreaseFactor>115.0</DirtIncreaseFactor>
@@ -23058,7 +23125,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>26</BR_ROF>
 		<DefaultAttachment>1180</DefaultAttachment>
@@ -23137,6 +23204,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>24</BR_ROF>
 		<DefaultAttachment>208</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -23210,7 +23278,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -23286,6 +23354,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<DefaultAttachment>1012</DefaultAttachment>
@@ -23411,6 +23480,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-5</ToHitBonus>
 		<BurstToHitBonus>-5</BurstToHitBonus>
@@ -23901,6 +23971,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>550</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -23995,7 +24066,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>36</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -27197,7 +27268,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -27292,6 +27363,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -27343,6 +27415,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>24</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -27378,7 +27451,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -27416,7 +27489,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -27451,7 +27524,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>36</BR_ROF>
 		<DefaultAttachment>1183</DefaultAttachment>
@@ -27598,7 +27671,7 @@
 		<BigGunList>1</BigGunList>
 		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<BR_ROF>12</BR_ROF>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -27747,6 +27820,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>18</BR_ROF>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -30916,6 +30990,7 @@
 		<BigGunList>1</BigGunList>
 		<PercentNoiseReduction>55</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
+		<BR_NewInventory>3</BR_NewInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<overheatCooldownModificator>-0.2</overheatCooldownModificator>
 		<STAND_MODIFIERS>
@@ -32366,6 +32441,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -32445,6 +32521,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>550</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
@@ -32519,7 +32596,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -32607,7 +32684,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
@@ -32826,6 +32903,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>1000</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<DefaultAttachment>1011</DefaultAttachment>
@@ -36120,6 +36198,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>850</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
@@ -36166,7 +36245,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -36215,7 +36294,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>850</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -36546,6 +36625,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>1200</BR_ROF>
 		<DefaultAttachment>209</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -36611,6 +36691,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -36650,6 +36731,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<DefaultAttachment>1011</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -36793,6 +36875,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -36995,6 +37078,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>28</BR_ROF>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -40246,6 +40330,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -40286,6 +40371,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -40326,6 +40412,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<PercentNoiseReduction>75</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
@@ -40820,6 +40907,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_ROF>10</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -46215,7 +46303,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -53139,6 +53227,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>500</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -53230,6 +53319,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>40</BR_ROF>
 		<PercentNoiseReduction>75</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
@@ -53268,6 +53358,7 @@
 		<SciFi>1</SciFi>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -53427,6 +53518,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
@@ -53475,6 +53567,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
@@ -53565,6 +53658,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>680</BR_ROF>
 		<Bipod>12</Bipod>
 		<ToHitBonus>-5</ToHitBonus>
@@ -53609,6 +53703,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>900</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
@@ -53703,6 +53798,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<SciFi>1</SciFi>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
@@ -53742,6 +53838,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<SciFi>1</SciFi>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>240</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -53873,7 +53970,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
@@ -54215,7 +54312,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>950</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
@@ -54299,6 +54396,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>12</BR_ROF>
 		<Bipod>20</Bipod>
 		<ToHitBonus>-15</ToHitBonus>
@@ -54344,7 +54442,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<AimBonus>8</AimBonus>
@@ -54391,7 +54489,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>30</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -55682,6 +55780,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<DefaultAttachment>1009</DefaultAttachment>
@@ -55729,6 +55828,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<DefaultAttachment>1009</DefaultAttachment>
@@ -55771,6 +55871,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<DefaultAttachment>1009</DefaultAttachment>
@@ -55814,6 +55915,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -55856,6 +55958,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<PercentNoiseReduction>80</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
@@ -55892,7 +55995,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>15</BR_ROF>
 		<PercentNoiseReduction>90</PercentNoiseReduction>
@@ -55973,7 +56076,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<Bipod>15</Bipod>
@@ -56386,6 +56489,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>550</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -56424,6 +56528,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>650</BR_ROF>
 		<Bipod>20</Bipod>
 		<ToHitBonus>-10</ToHitBonus>
@@ -56509,7 +56614,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
 		<DefaultAttachment>1029</DefaultAttachment>
@@ -56556,7 +56661,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<DefaultAttachment>2810</DefaultAttachment>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>30</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -57049,7 +57154,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>26</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -57130,7 +57235,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<BR_ROF>500</BR_ROF>
 		<BurstToHitBonus>3</BurstToHitBonus>
@@ -57246,6 +57351,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_ROF>35</BR_ROF>
 		<PercentNoiseReduction>80</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
@@ -57279,7 +57385,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1200</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -57491,7 +57597,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<Bipod>20</Bipod>
@@ -57669,7 +57775,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
@@ -57713,7 +57819,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>500</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -57907,7 +58013,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>35</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -57950,7 +58056,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<SciFi>1</SciFi>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>10</ToHitBonus>
@@ -58045,7 +58151,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<SciFi>1</SciFi>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
@@ -58131,6 +58237,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<SciFi>1</SciFi>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>1200</BR_ROF>
 		<ToHitBonus>15</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
@@ -58171,7 +58278,7 @@
 		<BigGunList>1</BigGunList>
 		<DefaultAttachment>2881</DefaultAttachment>
 		<DefaultAttachment>2850</DefaultAttachment>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -58334,7 +58441,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>500</BR_ROF>
 		<BurstToHitBonus>3</BurstToHitBonus>
@@ -58402,6 +58509,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>700</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>12</DamageChance>
@@ -58444,6 +58552,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>5</BR_NewInventory>
 		<BR_ROF>650</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>12</DamageChance>
@@ -58483,6 +58592,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>4</BR_UsedInventory>
 		<BR_ROF>450</BR_ROF>
 		<usOverheatingCooldownFactor>130</usOverheatingCooldownFactor>
@@ -58575,6 +58685,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>1200</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -58623,6 +58734,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -58696,7 +58808,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -58842,6 +58954,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>10</BR_ROF>
 		<Bipod>35</Bipod>
 		<ToHitBonus>-35</ToHitBonus>
@@ -59046,6 +59159,7 @@
 		<TwoHanded>1</TwoHanded>
 		<DefaultAttachment>1181</DefaultAttachment>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>25</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -59236,7 +59350,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<DefaultAttachment>2979</DefaultAttachment>
@@ -59304,7 +59418,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -59350,6 +59464,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -72349,6 +72464,7 @@
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
+		<BR_NewInventory>3</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<overheatCooldownModificator>-0.2</overheatCooldownModificator>
 		<STAND_MODIFIERS />
