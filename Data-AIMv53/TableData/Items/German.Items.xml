@@ -454,7 +454,7 @@
 		<szLongItemName>Automag III Custom</szLongItemName>
 		<szItemDesc>Diese aus Edelstahl gefertigte Automag III besitzt einen 6.5" Lauf. Sie wurde stark modifiziert und feuert Patronen im Kaliber .50 Beowulf (12.5x42RB).</szItemDesc>
 		<szBRName>Automag III Custom</szBRName>
-		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
+		<szBRDesc>Sonderumbau der Automag III mit 6,5-Zoll-Lauf. Diese wuchtige Pistole verschießt .50-Beowulf-Gewehrpatronen und trägt den Spitznamen &#x27;Big Bertha&#x27;.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>57</uiIndex>
@@ -895,6 +895,7 @@
 		<szItemDesc>Diese PB-Raketen verursachen solch spektakuläre Wunden, dass sie jeden Special-Effects-Mann in Hollywood neidisch machen würden.</szItemDesc>
 		<szBRName>Miniraketen PB</szBRName>
 		<szBRDesc>Diese PB-Raketen verursachen solch spektakuläre Wunden, dass sie jeden Special-Effects-Mann in Hollywood neidisch machen würden.</szBRDesc>
+		<BR_NewInventory>1</BR_NewInventory>
 	</ITEM>
 	<ITEM>
 		<uiIndex>112</uiIndex>
@@ -903,6 +904,7 @@
 		<szItemDesc>Die hochexplosiven Miniraketen lassen das Armageddon schneller über uns hereinbrechen als irgendein alter Meteor.</szItemDesc>
 		<szBRName>Miniraketen HE</szBRName>
 		<szBRDesc>Hätten die vier PBokalyptischen Reiter Waffen getragen, hätten sie sich für diese Raketen entschieden. Die hochexplosiven Miniraketen lassen das Armageddon schneller über uns hereinbrechen als irgendein alter Meteor.</szBRDesc>
+		<BR_NewInventory>1</BR_NewInventory>
 	</ITEM>
 	<ITEM>
 		<uiIndex>113</uiIndex>
@@ -911,6 +913,7 @@
 		<szItemDesc>Blasen Sie Ihren Gegnern mit diesen hochexplosiven, panzerbrechenden Raketen den Marsch und sehen Sie zu, wie sie bei den heißen Rhythmen gegrillt werden.</szItemDesc>
 		<szBRName>Miniraketen HE/PB</szBRName>
 		<szBRDesc>Blasen Sie Ihren Gegnern mit diesen hochexplosiven, panzerbrechenden Raketen den Marsch und sehen Sie zu, wie sie bei den heißen Rhythmen gegrillt werden.</szBRDesc>
+		<BR_NewInventory>1</BR_NewInventory>
 	</ITEM>
 	<ITEM>
 		<uiIndex>114</uiIndex>
@@ -3839,6 +3842,7 @@
 		<szItemDesc>Dieses 5-schüssige Magazin enthält gekürzte Patronen im Kaliber 12.7x97mm für großkalibrige Scharfschützengewehre, z.B. das russische VSSK.</szItemDesc>
 		<szBRName>12.7x97 XPB-US #5</szBRName>
 		<szBRDesc>Dieses 5-schüssige Magazin enthält gekürzte Patronen im Kaliber 12.7x97mm für großkalibrige Scharfschützengewehre, z.B. das russische VSSK.</szBRDesc>
+		<BR_NewInventory>1</BR_NewInventory>
 	</ITEM>
 	<ITEM>
 		<uiIndex>480</uiIndex>
@@ -4359,6 +4363,7 @@
 		<szItemDesc>METAL STORM's elektronisch gezündete Munition verspricht zuverlässige Feuerkraft bei geringem Gewicht. Dieses Magazin ist mit 72 Schuss in 6 Läufen konfiguriert.</szItemDesc>
 		<szBRName>9mm MS Mag #72</szBRName>
 		<szBRDesc>METAL STORM's elektronisch gezündete Munition verspricht zuverlässige Feuerkraft bei geringem Gewicht. Dieses Magazin ist mit 72 Schuss in 6 Läufen konfiguriert.</szBRDesc>
+		<BR_NewInventory>1</BR_NewInventory>
 	</ITEM>
 	<ITEM>
 		<uiIndex>545</uiIndex>
@@ -7174,7 +7179,7 @@
 		<szLongItemName>M14 EBR</szLongItemName>
 		<szItemDesc>Das Mark 14 Mod 0 'Enhanced Battle Rifle' ist eine von SAGE verbesserte Variante des M14 und wurde in Zusamenarbeit mit der US-Navy für maritime Einsätze entwickelt.</szItemDesc>
 		<szBRName>M14 EBR</szBRName>
-		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
+		<szBRDesc>Das M14 EBR vereint die bewährte M14-Technik mit einem modernen Schaft und Montageschienen. So lassen sich zeitgemäße Optiken und weiteres Zubehör verwenden.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>897</uiIndex>
@@ -7182,7 +7187,7 @@
 		<szLongItemName>M21 EBR</szLongItemName>
 		<szItemDesc>Das M21 Tactical ist die Scharfschützen- Variante des M14. Es ist ein präzises und zuverlässiges halbautomatisches Gewehr mit hoher Feuerkraft. Hier die neue EBR-Version mit Kunststoff-Schaft.</szItemDesc>
 		<szBRName>M21 EBR</szBRName>
-		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
+		<szBRDesc>Das M21 EBR ist eine halbautomatische Scharfschützenvariante des M14. Moderner Schaft und Zubehörschienen machen das präzise Gewehr vielseitig einsetzbar.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>898</uiIndex>
@@ -8126,7 +8131,7 @@
 		<szLongItemName>Schaufel</szLongItemName>
 		<szItemDesc>Diese Schaufel ist perfekt um sein eigenes Grab zu schaufeln.</szItemDesc>
 		<szBRName>Schaufel</szBRName>
-		<szBRDesc>Nicht bei BR zu kaufen.</szBRDesc>
+		<szBRDesc>Robuste, dreifach klappbare Feldschaufel aus Stahl. Zum Ausheben von Schützenlöchern und Füllen von Sandsäcken; zur Not auch im Nahkampf verwendbar.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1016</uiIndex>
@@ -10662,7 +10667,7 @@
 		<szLongItemName>AR57 16"</szLongItemName>
 		<szItemDesc>Dieses M16 wurde durch die Montage eines neuen oberen Verschlussgehäuses im Kaliber 5.7x28mm modifiziert. Diese Konfiguration verwendet Standard P90-Magazine. Der längere Lauf rmöglicht eine größere Reichweite.</szItemDesc>
 		<szBRName>AR57 16"</szBRName>
-		<szBRDesc>Nicht bei BR zu kaufen</szBRDesc>
+		<szBRDesc>Das AR57 mit 16-Zoll-Lauf nutzt 5,7x28-mm-Patronen aus P90-Magazinen. Sein spezielles Obergehäuse auf AR-15-Basis bietet mehr Reichweite als eine P90.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1333</uiIndex>
@@ -10670,7 +10675,7 @@
 		<szLongItemName>AR57 11"</szLongItemName>
 		<szItemDesc>Dieses M16 wurde durch die Montage eines neuen oberen Verschlussgehäuses im Kaliber 5.7x28mm modifiziert. Diese Konfiguration verwendet Standard P90-Magazine.</szItemDesc>
 		<szBRName>AR57 11"</szBRName>
-		<szBRDesc>Nicht bei BR zu kaufen</szBRDesc>
+		<szBRDesc>Die kompakte 11-Zoll-Version des AR57 nutzt 5,7x28-mm-Munition aus P90-Magazinen. Das spezielle Obergehäuse sitzt auf einem AR-15-Unterteil.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1334</uiIndex>
@@ -10678,7 +10683,7 @@
 		<szLongItemName>AR57 6"-Silenced</szLongItemName>
 		<szItemDesc>Dieses M16 wurde durch die Montage eines neuen oberen Verschlussgehäuses im Kaliber 5.7x28mm modifiziert. Der 6"-Lauf wurde mit einem Schalldämpfer kombiniert.</szItemDesc>
 		<szBRName>AR57 6"-Silenced</szBRName>
-		<szBRDesc>Nicht bei BR zu kaufen</szBRDesc>
+		<szBRDesc>Extrem kurzes AR57 mit 6-Zoll-Lauf und Schalldämpfer. Nutzt 5,7x28-mm-Patronen aus P90-Magazinen. Handlich und leise, aber mit begrenzter Reichweite.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1335</uiIndex>
@@ -10822,7 +10827,7 @@
 		<szLongItemName>Handmörser</szLongItemName>
 		<szItemDesc>Dieser Hand-Mörser ist wie der Standard Mörser aus dem 18. Jahrhundert gebaut, ist aber zusätzlich mit einem rauen Messinglauf ausgestattet.</szItemDesc>
 		<szBRName>Handmörser</szBRName>
-		<szBRDesc>Nicht bei BR zu kaufen</szBRDesc>
+		<szBRDesc>Historischer Handmörser mit kurzem Messinglauf und der Gravur &#x27;JOURSON&#x27;. Eine Antiquität aus dem 18. Jahrhundert und ein ungewöhnliches Sammlerstück.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1353</uiIndex>
@@ -10839,6 +10844,7 @@
 		<szItemDesc>Ein handgefertigtes Gusseisen-Projektil für einen Handmörser.</szItemDesc>
 		<szBRName>Kanonen-Kugel</szBRName>
 		<szBRDesc>Nicht bei BR zu kaufen</szBRDesc>
+		<BR_NewInventory>1</BR_NewInventory>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1355</uiIndex>
@@ -12103,6 +12109,7 @@
 		<szItemDesc>Diese Munitionspackung enthält 12,7mm Unterschallmunition für die russischen Scharfschützengewehre VSSK und VKS.</szItemDesc>
 		<szBRName>12.7x97mm Box Subsonic PB</szBRName>
 		<szBRDesc>Diese Munitionspackung enthält 12,7mm Unterschallmunition für die russischen Scharfschützengewehre VSSK und VKS.</szBRDesc>
+		<BR_NewInventory>1</BR_NewInventory>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1513</uiIndex>
@@ -12651,9 +12658,9 @@
 		<uiIndex>1581</uiIndex>
 		<szItemName>Granataufsatz</szItemName>
 		<szLongItemName>Granataufsatz</szLongItemName>
-		<szItemDesc>Durch ein Granataufsatz lassen sich 40mm Granaten mit Gewehren älterer Bauart (d.h. aus dem 2. Weltkrieg) verschießen. Es wird trotz allem eine geladene Waffe vorausgesetzt.</szItemDesc>
+		<szItemDesc>Mit diesem Aufsatz können geeignete Gewehre Gewehrgranaten verschießen. Das Gewehr muss geladen sein; solange eine Granate aufgesetzt ist, sind andere Feuermodi nicht möglich.</szItemDesc>
 		<szBRName>Granataufsatz</szBRName>
-		<szBRDesc>Mit diesem Granataufsatz lassen sich ältere Gewehre aus dem 2. Weltkrieg zu einem behelfsmäßigen Granatwerfer umrüsten. Erwarten sie aber keine Wunder.</szBRDesc>
+		<szBRDesc>Mit diesem Gewehrgranataufsatz wird aus einem passenden Gewehr ein behelfsmäßiger Granatwerfer. Gewehr laden, Granate aufsetzen und Feuer frei!</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1582</uiIndex>
@@ -13030,6 +13037,7 @@
 		<szItemDesc>Eine Kartusche mit Pfefferspray (Wirkstoff: Oleoresin Capsicum) für ein Reizstoffsprühgerät.</szItemDesc>
 		<szBRName>OC-Kartusche</szBRName>
 		<szBRDesc>Diese Kartusche mit Pfefferspray (Wirkstoff: Oleoresin Capsicum) ist ein Nachfüllpack für ein Reizstoffsprühgerät. - Käufer dieses Artikels bestellten auch: OC-Reizstoffsprühgerät</szBRDesc>
+		<BR_NewInventory>2</BR_NewInventory>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1629</uiIndex>
@@ -15444,7 +15452,7 @@
 		<szLongItemName>SEAL Recon Rifle</szLongItemName>
 		<szItemDesc>Das SEAL Recon Rifle ist ein verbessertes, etwas schwereres M4. Es ist präziser und zuverlässiger als ein normales M4 und - wie man es von einer Navy-SEAL-Waffe erwartet - wasserdicht.</szItemDesc>
 		<szBRName>SEAL Recon Rifle</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das SEAL Recon Rifle ist eine präzisere und zuverlässigere Weiterentwicklung des M4-Karabiners. Etwas schwerer, dafür besonders widerstandsfähig gegen Wasser.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2004</uiIndex>
@@ -15452,7 +15460,7 @@
 		<szLongItemName>Colt M16A4 SAM-R</szLongItemName>
 		<szItemDesc>Das Squad Advanced Marksman Rifle ist ein stark modifiziertes M16A4. Etwas schwerer als ein Standard-M16, dafür deutlich präziser, reichweitenstärker und vollautomatisch.</szItemDesc>
 		<szBRName>Colt M16A4 SAM-R</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das M16A4 SAM-R wurde für die Rolle des Präzisionsschützen überarbeitet. Etwas schwerer als ein Standard-M16, dafür präziser und mit größerer Reichweite.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2005</uiIndex>
@@ -15460,7 +15468,7 @@
 		<szLongItemName>SKS Tactical</szLongItemName>
 		<szItemDesc>Dieses modernisierte SKS nimmt größere AK-Magazine und vor allem mehr Zubehör auf. Es ist etwas schwerer als das Standard-SKS und schwieriger zu reparieren.</szItemDesc>
 		<szBRName>SKS Tactical</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das SKS Tactical bietet Platz für größere AK-Magazine und modernes Zubehör. Der Umbau wiegt etwas mehr als das Original und ist schwieriger zu reparieren.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2006</uiIndex>
@@ -15532,7 +15540,7 @@
 		<szLongItemName>Steyr AUG-A2 RAS CQB</szLongItemName>
 		<szItemDesc>Diese Version hat einen etwas kürzeren Lauf als das Standard-AUG-A2. Statt der Basisoptik besitzt sie eine Picatinny-Schiene.</szItemDesc>
 		<szBRName>Steyr AUG-A2 RAS CQB</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das AUG-A2 RAS CQB besitzt einen verkürzten Lauf und eine Picatinny-Schiene anstelle der festen Optik. Eine handliche Variante für Gefechte auf kurze Distanz.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2015</uiIndex>
@@ -15548,7 +15556,7 @@
 		<szLongItemName>Steyr AUG Para RAS</szLongItemName>
 		<szItemDesc>Ein verkürztes AUG im Bullpup-Layout für 9mm-Munition. Statt der Basisoptik besitzt diese Version eine Picatinny-Schiene.</szItemDesc>
 		<szBRName>Steyr AUG Para RAS</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Dieses kompakte AUG Para verschießt 9-mm-Munition. Die Picatinny-Schiene ersetzt die feste Zieloptik und ermöglicht eine flexible Ausstattung.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2017</uiIndex>
@@ -15556,7 +15564,7 @@
 		<szLongItemName>Steyr AUG HBAR RAS</szLongItemName>
 		<szItemDesc>Statt der einfachen integrierten Optik besitzt dieses robuste Unterstützungsgewehr eine Picatinny-Schiene für mehr Zubehör.</szItemDesc>
 		<szBRName>Steyr AUG HBAR RAS</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das AUG HBAR RAS verbindet den schweren Lauf eines Unterstützungsgewehrs mit Picatinny-Schienen. Gut für Dauerfeuer und vielseitige Zieloptiken.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2018</uiIndex>
@@ -15588,7 +15596,7 @@
 		<szLongItemName>HK CAWS RAS</szLongItemName>
 		<szItemDesc>Ein modifiziertes Close Assault Weapon System mit G36-Schienensatz für modernes Zubehör.</szItemDesc>
 		<szBRName>HK CAWS RAS</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das HK CAWS RAS kombiniert die Feuerkraft des experimentellen automatischen Schrotgewehrs mit Montageschienen für modernes Zubehör.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2022</uiIndex>
@@ -15604,7 +15612,7 @@
 		<szLongItemName>Dragunov SVU-A</szLongItemName>
 		<szItemDesc>Diese Spezialversion der SVU sieht nicht nur anders aus, sondern kann zur Nahverteidigung vollautomatisch feuern. Der Umbau macht sie allerdings unzuverlässig und schwer zu reparieren.</szItemDesc>
 		<szBRName>Dragunov SVU-A</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Diese Spezialversion der Dragunov SVU erlaubt auch vollautomatisches Feuer zur Nahverteidigung. Der Umbau ist allerdings störanfällig und schwer zu reparieren.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2024</uiIndex>
@@ -15620,7 +15628,7 @@
 		<szLongItemName>AKM Tactical</szLongItemName>
 		<szItemDesc>Modernisierte Version des klassischen 7.62x39-AK-Gewehrs. Dank Picatinny-Schienen lässt sich modernes Zubehör montieren.</szItemDesc>
 		<szBRName>AKM Tactical</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das AKM Tactical modernisiert die bewährte AKM im Kaliber 7,62x39 mm. Picatinny-Schienen ermöglichen die Montage moderner Optiken und weiterer Anbauteile.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2026</uiIndex>
@@ -15628,7 +15636,7 @@
 		<szLongItemName>AKS-74U Tactical</szLongItemName>
 		<szItemDesc>Dieses umgerüstete AKS-74U besitzt eine Picatinny-Schiene für modernes Waffenzubehör.</szItemDesc>
 		<szBRName>AKS-74U Tactical</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das kompakte AKS-74U Tactical im Kaliber 5,45x39 mm besitzt eine nachgerüstete Picatinny-Schiene für modernes Waffenzubehör.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2027</uiIndex>
@@ -15636,7 +15644,7 @@
 		<szLongItemName>AKS-74 Tactical</szLongItemName>
 		<szItemDesc>Modernisierte Version der klassischen AK-74 im Kaliber 5.45x39.</szItemDesc>
 		<szBRName>AKS-74 Tactical</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das AKS-74 Tactical ist eine modernisierte Ausführung der AK-74 im Kaliber 5,45x39 mm. Bewährte Technik mit zeitgemäßer Zubehörmontage.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2028</uiIndex>
@@ -15724,7 +15732,7 @@
 		<szLongItemName>HK MP5A4 C-Mag</szLongItemName>
 		<szItemDesc>Eine angepasste MP5 mit größerem Magazin.</szItemDesc>
 		<szBRName>HK MP5A4 C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Die MP5A4 mit C-Mag-Adapter nimmt Hochkapazitätsmagazine auf. Handliche 9-mm-Maschinenpistole mit deutlich größerem Munitionsvorrat.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2039</uiIndex>
@@ -15732,7 +15740,7 @@
 		<szLongItemName>HK MP5N C-Mag</szLongItemName>
 		<szItemDesc>Die MP5N wurde ursprünglich für US Navy SEALs entwickelt. Dank C-Mag-Adapter fasst diese Version deutlich mehr Munition.</szItemDesc>
 		<szBRName>HK MP5N C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Die für die US Navy entwickelte MP5N trägt einen C-Mag-Adapter. Damit hält die kompakte 9-mm-Maschinenpistole deutlich mehr Munition bereit.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2040</uiIndex>
@@ -15740,7 +15748,7 @@
 		<szLongItemName>HK MP5SD5 C-Mag</szLongItemName>
 		<szItemDesc>Eine schallgedämpfte H&amp;K MP5 mit integriertem Schalldämpfer, Festschaft und Adapter für Hochkapazitätsmagazine.</szItemDesc>
 		<szBRName>HK MP5SD5 C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Die schallgedämpfte MP5SD5 besitzt einen integrierten Schalldämpfer, Festschaft und einen Adapter für Hochkapazitätsmagazine. Leise und ausdauernd.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2041</uiIndex>
@@ -15748,7 +15756,7 @@
 		<szLongItemName>Colt 9mm SMG C-Mag</szLongItemName>
 		<szItemDesc>Diese leichte, handliche MP jagt bis zu 100 Schuss 9mm-Munition mit 900 Schuss/min heraus.</szItemDesc>
 		<szBRName>Colt 9mm SMG C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Colts leichte 9-mm-Maschinenpistole mit C-Mag-Adapter. Ein großer Munitionsvorrat und eine hohe Feuerrate machen sie besonders für kurze Distanzen interessant.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2042</uiIndex>
@@ -15756,7 +15764,7 @@
 		<szLongItemName>AKM Trommel</szLongItemName>
 		<szItemDesc>Die AKM ist die neueste Version der berüchtigten AK-47. Mit Trommeladapter wird sie zur brauchbaren Unterstützungswaffe.</szItemDesc>
 		<szBRName>AKM Trommel</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Die bewährte AKM mit Trommelmagazin-Adapter. Größerer Munitionsvorrat für längere Feuerstöße, ohne auf die robuste AK-Konstruktion zu verzichten.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2043</uiIndex>
@@ -15764,7 +15772,7 @@
 		<szLongItemName>AK-47 Trommel</szLongItemName>
 		<szItemDesc>Eine klassische AK-47 mit Trommeladapter für noch mehr Chaos.</szItemDesc>
 		<szBRName>AK-47 Trommel</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Eine klassische AK-47 mit Trommelmagazin-Adapter. Noch mehr 7,62-mm-Munition, wenn eine gewöhnliche Magazinladung nicht ausreicht.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2044</uiIndex>
@@ -15772,7 +15780,7 @@
 		<szLongItemName>AKMS Trommel</szLongItemName>
 		<szItemDesc>Eine verkürzte AKM-Variante mit Trommeladapter für 75-Schuss-Magazine.</szItemDesc>
 		<szBRName>AKMS Trommel</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Die AKMS mit Klappschaft und Adapter für große 75-Schuss-Trommelmagazine. Eine kompakte Kalaschnikow für lange Feuerstöße.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2045</uiIndex>
@@ -15780,7 +15788,7 @@
 		<szLongItemName>AKS-47 Trommel</szLongItemName>
 		<szItemDesc>Eine kompakte AK-47 mit Trommeladapter für zusätzliche Feuerkraft.</szItemDesc>
 		<szBRName>AKS-47 Trommel</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Die AKS-47 mit klappbarem Schaft und Trommelmagazin-Adapter. Kompakt zu tragen und mit einem stattlichen Munitionsvorrat ausgestattet.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2046</uiIndex>
@@ -15788,7 +15796,7 @@
 		<szLongItemName>AK-103 Trommel</szLongItemName>
 		<szItemDesc>Stärker als die Vorgängerin AK-74 und voll moderner Technik. Diese Version besitzt einen Trommeladapter.</szItemDesc>
 		<szBRName>AK-103 Trommel</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Die modernisierte AK-103 mit Trommelmagazin-Adapter. Russisches Sturmgewehr mit zusätzlicher Feuerreserve für längere Gefechte.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2047</uiIndex>
@@ -15796,7 +15804,7 @@
 		<szLongItemName>AK-104 Trommel</szLongItemName>
 		<szItemDesc>Diese Karabinerversion der AK-100-Serie wurde mit einem Trommeladapter ausgestattet.</szItemDesc>
 		<szBRName>AK-104 Trommel</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Die kurze AK-104 aus der AK-100-Familie mit Trommelmagazin-Adapter. Handlicher Karabiner mit großzügigem Munitionsvorrat.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2048</uiIndex>
@@ -15804,7 +15812,7 @@
 		<szLongItemName>AEK-973 Trommel</szLongItemName>
 		<szItemDesc>Eine relativ neue russische AK-Variante. Sie verschießt 7.62mm-WP-Munition aus einem gewaltigen 75-Schuss-Magazin.</szItemDesc>
 		<szBRName>AEK-973 Trommel</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Die russische AEK-973 im Kaliber 7,62x39 mm mit 75-Schuss-Trommelmagazin. Viel Feuerkraft für alle, die selten nachladen wollen.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2049</uiIndex>
@@ -15812,7 +15820,7 @@
 		<szLongItemName>AKM Tactical Trommel</szLongItemName>
 		<szItemDesc>Diese aufgemotzte AKM hat neue Schienen und einen Trommeladapter für riesige 75-Schuss-RPK-Magazine. Eine ideale Unterstützungswaffe.</szItemDesc>
 		<szBRName>AKM Tactical Trommel</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das AKM Tactical mit Zubehörschienen und Adapter für 75-Schuss-RPK-Trommelmagazine. Ideal, wenn ein Gewehr auch Unterstützungsfeuer liefern soll.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2050</uiIndex>
@@ -15820,7 +15828,7 @@
 		<szLongItemName>Colt M16A1 C-Mag</szLongItemName>
 		<szItemDesc>Dieses M16 wurde mit einem Adapter für 100-Schuss-Magazine nochmals aufgerüstet.</szItemDesc>
 		<szBRName>Colt M16A1 C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das Colt M16A1 mit C-Mag-Adapter kann große 100-Schuss-Magazine aufnehmen. Bewährtes Sturmgewehr mit reichlich Munition für Dauerfeuer.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2051</uiIndex>
@@ -15828,15 +15836,15 @@
 		<szLongItemName>Colt M16A4 C-Mag</szLongItemName>
 		<szItemDesc>Das neueste M16, das M16A4, besitzt Flat-Top-Gehäuse und Picatinny-Schienen für mehr Zubehör. Diese Version hat zusätzlich einen Adapter für Beta-C-Mags.</szItemDesc>
 		<szBRName>Colt M16A4 C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das M16A4 mit Picatinny-Schienen und Beta-C-Mag-Adapter verbindet flexible Zubehörmontage mit einem großen Munitionsvorrat.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2052</uiIndex>
 		<szItemName>Commando C-Mag</szItemName>
 		<szLongItemName>Colt M4 Commando C-Mag</szLongItemName>
 		<szItemDesc>Wie bekommt man noch mehr Feuerkraft in das kleine, wendige M4 Commando? Natürlich mit einem C-Mag!</szItemDesc>
-		<szBRName>Nicht erhältlich.</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRName>Colt Commando C-Mag</szBRName>
+		<szBRDesc>Das kompakte Colt Commando mit C-Mag-Adapter. Große Magazine geben dem handlichen Karabiner zusätzliche Feuerreserve für intensive Nahkämpfe.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2053</uiIndex>
@@ -15844,7 +15852,7 @@
 		<szLongItemName>Colt M4A1 C-Mag</szLongItemName>
 		<szItemDesc>Klein, leicht und tödlich - das M4A1 ist im Nahkampf äußerst effektiv.</szItemDesc>
 		<szBRName>Colt M4A1 C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das leichte Colt M4A1 mit C-Mag-Adapter kombiniert die Wendigkeit des Karabiners mit einem deutlich größeren Munitionsvorrat.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2054</uiIndex>
@@ -15852,7 +15860,7 @@
 		<szLongItemName>Colt XM177-E1 C-Mag</szLongItemName>
 		<szItemDesc>Mit einem solchen 100-Schuss-Magazin hätte diese Waffe Charlie damals noch schneller in die Berge gejagt.</szItemDesc>
 		<szBRName>Colt XM177-E1 C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das Colt XM177-E1 mit C-Mag-Adapter. Kompakter Vietnamklassiker mit reichlich Munition für längere Feuerstöße.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2055</uiIndex>
@@ -15860,7 +15868,7 @@
 		<szLongItemName>Diemaco C7A2 C-Mag</szLongItemName>
 		<szItemDesc>Diese kanadische M16A2-Version ist mit einem Adapter für Beta-C-Mags ausgestattet.</szItemDesc>
 		<szBRName>Diemaco C7A2 C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das kanadische Diemaco C7A2 mit Beta-C-Mag-Adapter. Ein modernes M16-Derivat mit großem Munitionsvorrat und vielseitiger Ausstattung.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2056</uiIndex>
@@ -15868,7 +15876,7 @@
 		<szLongItemName>SIG SG 540 C-Mag</szLongItemName>
 		<szItemDesc>Dieses hochwertige Gewehr wurde mit einem C-Mag-Adapter ausgerüstet.</szItemDesc>
 		<szBRName>SIG SG 540 C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das Schweizer SIG SG 540 mit C-Mag-Adapter. Solide Gewehrtechnik mit zusätzlicher Magazinreserve für längere Feuergefechte.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2057</uiIndex>
@@ -15876,7 +15884,7 @@
 		<szLongItemName>SIG SG 550 C-Mag</szLongItemName>
 		<szItemDesc>Ein modernes Schweizer Sturmgewehr mit integriertem Mündungsfeuerdämpfer.</szItemDesc>
 		<szBRName>SIG SG 550 C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das SIG SG 550 mit C-Mag-Adapter: ein präzise verarbeitetes Schweizer Sturmgewehr, ausgerüstet für besonders große Magazine.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2058</uiIndex>
@@ -15884,7 +15892,7 @@
 		<szLongItemName>SIG SG 551 SWAT C-Mag</szLongItemName>
 		<szItemDesc>Der kürzere Lauf dieser SIG-550-Variante ist im Nahkampf verdammt praktisch.</szItemDesc>
 		<szBRName>SIG SG 551 SWAT C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das kompaktere SIG SG 551 SWAT mit C-Mag-Adapter. Handlich im Nahkampf und dank größerer Magazine auch für längere Feuerstöße geeignet.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2059</uiIndex>
@@ -15892,7 +15900,7 @@
 		<szLongItemName>SIG SG 552 C-Mag</szLongItemName>
 		<szItemDesc>Die verkleinerte SIG 550 ist ein hervorragender 5.56mm-CQB-Karabiner mit integriertem Mündungsfeuerdämpfer.</szItemDesc>
 		<szBRName>SIG SG 552 C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das kurze SIG SG 552 mit C-Mag-Adapter. Ein wendiger 5,56-mm-Karabiner mit Mündungsfeuerdämpfer und großzügiger Munitionsreserve.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2060</uiIndex>
@@ -15900,7 +15908,7 @@
 		<szLongItemName>HK 53A3 C-Mag</szLongItemName>
 		<szItemDesc>Nur zwei Zoll länger als die MP5, bietet die HK53 die volle Durchschlagskraft des 5.56mm-Kalibers in kompakter Form.</szItemDesc>
 		<szBRName>HK 53A3 C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Die kompakte HK 53A3 verschießt 5,56-mm-Gewehrmunition und besitzt hier einen C-Mag-Adapter. Fast so handlich wie eine MP5, aber durchschlagskräftiger.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2061</uiIndex>
@@ -15908,7 +15916,7 @@
 		<szLongItemName>HK G41A2 C-Mag</szLongItemName>
 		<szItemDesc>Nach NATO-Standards gebaut und typisch deutsche Ingenieursarbeit. Staubschutz am Auswurffenster und Verschlussfang halten den Verschluss nach leerem Magazin offen.</szItemDesc>
 		<szBRName>HK G41A2 C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das HK G41A2 mit C-Mag-Adapter. Deutsche Gewehrtechnik nach NATO-Maßstäben, ergänzt um die Möglichkeit, große Magazine zu verwenden.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2062</uiIndex>
@@ -16028,7 +16036,7 @@
 		<szLongItemName>HK G11 ACOG</szLongItemName>
 		<szItemDesc>Falls der Porsche unter den Sturmgewehren noch mehr Leistung braucht: Dieses Exemplar erhielt eine G36-Basisoptik für zusätzliche Präzision.</szItemDesc>
 		<szBRName>HK G11 ACOG</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das futuristische HK G11 wurde mit einer zusätzlichen G36-Optik ausgestattet. Eine ungewöhnliche Waffe mit verbesserter Zielerfassung.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2077</uiIndex>
@@ -16036,7 +16044,7 @@
 		<szLongItemName>HK CAWS ACOG</szLongItemName>
 		<szItemDesc>Das experimentelle Close Assault Weapon System von HK verschießt spezielle gegurtete Kal.-12-Messingmunition von Olin/Winchester mit größerer Reichweite als normale Flinten. Es feuert halb- und vollautomatisch und trägt eine G36-Optik.</szItemDesc>
 		<szBRName>HK CAWS ACOG</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das experimentelle automatische Schrotgewehr HK CAWS mit G36-Optik. Verwendet spezielle Flintenmunition und bietet halb- sowie vollautomatisches Feuer.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2078</uiIndex>
@@ -16092,7 +16100,7 @@
 		<szLongItemName>OTs 33 Pernach</szLongItemName>
 		<szItemDesc>Die OTs 33 soll die veraltete Stechkin APS ersetzen. Weniger Rückstoß und höhere Präzision lassen die APS alt aussehen. Wegen des beweglichen Laufs passen weder Schalldämpfer noch Mündungsfeuerdämpfer.</szItemDesc>
 		<szBRName>OTs 33 Pernach</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Die russische OTs-33 Pernach soll die alte Stechkin APS ablösen. Geringerer Rückstoß und bessere Präzision; durch den beweglichen Lauf kaum für Mündungsaufsätze geeignet.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2085</uiIndex>
@@ -16108,7 +16116,7 @@
 		<szLongItemName>FN SCAR-WP Sniper</szLongItemName>
 		<szItemDesc>Diese Schwarzmarkt-SCAR-Variante kann 7.62x54R-Munition verschießen.</szItemDesc>
 		<szBRName>FN SCAR-WP Sniper</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Die FN SCAR-WP Sniper ist eine ungewöhnliche Schwarzmarkt-Variante des SCAR für 7,62x54R-Patronen. Westliche Konstruktion trifft auf osteuropäische Munition.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2087</uiIndex>
@@ -16164,7 +16172,7 @@
 		<szLongItemName>HK 33KE C-MAG</szLongItemName>
 		<szItemDesc>Dieses Sturmgewehr ist eine 5.56mm-G3-Variante mit C-Mag-Adapter.</szItemDesc>
 		<szBRName>HK 33KE C-MAG</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das kompakte HK 33KE im Kaliber 5,56 mm mit C-Mag-Adapter. HK-Technik mit deutlich größerem Munitionsvorrat für längere Feuerstöße.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2094</uiIndex>
@@ -16180,7 +16188,7 @@
 		<szLongItemName>.50 Beowulf-Gewehr C-Mag</szLongItemName>
 		<szItemDesc>Bill Alexanders starkes .50-Gewehr wird mit diesem Beta-Mag-Umbau noch beeindruckender.</szItemDesc>
 		<szBRName>Beowulf-Gewehr C-Mag</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Das großkalibrige Beowulf-Gewehr mit C-Mag-Adapter. Ein beeindruckender Umbau für schwere .50-Beowulf-Patronen und hohe Feuerkraft.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2096</uiIndex>
@@ -16388,7 +16396,7 @@
 		<szLongItemName>M1 Garand EBR</szLongItemName>
 		<szItemDesc>Ein altes, bewährtes M1 Garand in neuem Schaft für eine größere Auswahl an Zubehör.</szItemDesc>
 		<szBRName>M1 Garand EBR</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Der legendäre M1 Garand im modernen EBR-Schaft. Bewährte halbautomatische Technik mit mehr Möglichkeiten zur Montage von Optiken und Zubehör.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2122</uiIndex>
@@ -16500,7 +16508,7 @@
 		<szLongItemName>FMK-3</szLongItemName>
 		<szItemDesc>Von Fabricaciones Militares in Argentinien entwickelt. Die FMK-3 ist eine rückstoßbetriebene MP mit Feuerwahl und Wurzeln in der US-M3A1.</szItemDesc>
 		<szBRName>FMK-3</szBRName>
-		<szBRDesc>Nicht bei BR erhältlich.</szBRDesc>
+		<szBRDesc>Die argentinische FMK-3 ist eine kompakte Maschinenpistole mit Masseverschluss und wählbarer Feuerart. Ihre Konstruktion lehnt sich an die US-M3A1 an.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2136</uiIndex>
@@ -16564,7 +16572,7 @@
 		<szLongItemName>PTRD</szLongItemName>
 		<szItemDesc>Ein schweres sowjetisches Panzerabwehrgewehr aus dem Zweiten Weltkrieg. Nach mäßigem Erfolg gegen Panzer wurde die PTRD 1943 zur Anti-Materiel-Waffe, blieb gegen leicht gepanzerte Fahrzeuge aber wirksam.</szItemDesc>
 		<szBRName>PTRD</szBRName>
-		<szBRDesc>Nicht bei BR erhältlich.</szBRDesc>
+		<szBRDesc>Das sowjetische PTRD ist ein schweres Panzerabwehrgewehr aus dem Zweiten Weltkrieg. Besonders gegen leichte Panzerung und Materialziele wirksam.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2144</uiIndex>
@@ -17593,6 +17601,7 @@
 		<szItemDesc>Die .408-CheyTac-Patrone bietet bei Überschallgeschwindigkeit hervorragende Ballistik für Anti-Personen-, Counter-Sniper- und Anti-Materiel-Gewehre.</szItemDesc>
 		<szBRName>.408 CheyTac Mag</szBRName>
 		<szBRDesc>Die .408-CheyTac-Patrone liefert auf große Entfernung enorme Präzision und verheerende Zielwirkung für Anti-Personen-, Counter-Sniper- und Anti-Materiel-Aufgaben.</szBRDesc>
+		<BR_NewInventory>1</BR_NewInventory>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2284</uiIndex>
@@ -17737,6 +17746,7 @@
 		<szItemDesc>Eine schwere 14.5x114mm-Patrone für einige schwere Panzerbüchsen des Zweiten Weltkriegs.</szItemDesc>
 		<szBRName>14.5x114mm Munition, 1</szBRName>
 		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<BR_NewInventory>1</BR_NewInventory>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2302</uiIndex>
@@ -17745,6 +17755,7 @@
 		<szItemDesc>Diese Konservendose enthält 14.5x114mm-Patronen für schwere sowjetische Panzerbüchsen.</szItemDesc>
 		<szBRName>Box 14.5x114mm</szBRName>
 		<szBRDesc>Diese Konservendose enthält 14.5x114mm-Patronen für schwere sowjetische Panzerbüchsen.</szBRDesc>
+		<BR_NewInventory>1</BR_NewInventory>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2303</uiIndex>
@@ -18801,6 +18812,7 @@
 		<szItemDesc>Diese Granate besitzt einen stärkeren Raketenbooster und passt dank kleinerem Gefechtskopfdurchmesser vollständig in das Abschussrohr.</szItemDesc>
 		<szBRName>PG-16 HEAT Granate</szBRName>
 		<szBRDesc>Diese Granate besitzt einen stärkeren Raketenbooster und passt dank kleinerem Gefechtskopfdurchmesser vollständig in das Abschussrohr.</szBRDesc>
+		<BR_NewInventory>1</BR_NewInventory>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2459</uiIndex>
@@ -22115,7 +22127,7 @@
 		<szLongItemName>mod. Barrett Optical Ranging System</szLongItemName>
 		<szItemDesc>Dieser moderne ballistische Zielrechner wurde für die dauerhafte Montage am Gewehr umgebaut. Das BORS sitzt direkt am Zielfernrohr und ist mit der Höhenverstellung gekoppelt: Knopf drehen, bis das LCD die Zielentfernung anzeigt.</szItemDesc>
 		<szBRName>mod. Barrett Optical Ranging System</szBRName>
-		<szBRDesc>Nicht erhältlich.</szBRDesc>
+		<szBRDesc>Diese modifizierte BORS-Einheit wird fest am Gewehr montiert. Der ballistische Zielrechner sitzt am Zielfernrohr und erleichtert die Einstellung der Zielentfernung.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2922</uiIndex>
